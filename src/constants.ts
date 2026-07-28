@@ -1,0 +1,10 @@
+export const ARCHIVE_ROOT = "archive";
+export const SNAPSHOTS_ROOT = `${ARCHIVE_ROOT}/snapshots`;
+export const STAGING_ROOT = `${ARCHIVE_ROOT}/.staging`;
+export const MCP_ENDPOINT = "https://docs.superhuman.com/apis/mcp";
+export const DOCUMENT_URL = "https://docs.superhuman.com/d/Math4Wisdom_d0SvdI3KSto/";
+export const DOCUMENT_ID = "0SvdI3KSto";
+export const TOKEN_ENV = "SUPERHUMAN_DOCS_MCP_TOKEN";
+export const SCHEMA_VERSION = 1;
+export const MAX_PAGES = 10_000;
+export const MAX_TOOL_CALLS = 20_000;

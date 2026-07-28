@@ -1,0 +1,25 @@
+{
+  "name": "math4wisdom-superhuman-docs-archive",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A fail-closed, local archive tool for the Math4Wisdom Superhuman Docs document.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "test": "npm run build && node --test dist/test/*.test.js",
+    "discover": "npm run build && node dist/src/cli.js discover",
+    "dry-run": "npm run build && node dist/src/cli.js dry-run",
+    "archive": "npm run build && node dist/src/cli.js archive",
+    "validate": "npm run build && node dist/src/cli.js validate"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.30.0"
+  },
+  "devDependencies": {
+    "@types/node": "26.1.2",
+    "typescript": "5.9.3"
+  }
+}
