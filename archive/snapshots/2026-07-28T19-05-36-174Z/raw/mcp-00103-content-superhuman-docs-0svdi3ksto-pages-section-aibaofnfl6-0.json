@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-aiBaoFNFl6"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-aiBaoFNFl6\",\"pageUri\":\"pages/section-aiBaoFNFl6\",\"content\":\"[https://www.youtube.com/live/y-kcGgk-DFg](https://www.youtube.com/live/y-kcGgk-DFg)\\n\\n[https://github.com/docxology/qr_live_protocol](https://github.com/docxology/qr_live_protocol)\\n\\nA comprehensive system for generating live, verifiable QR codes with cryptographic authentication for livestreaming and official video releases.\\n\\n  \\n\\n\\n\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-bNe6IDMiaB"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-bNe6IDMiaB\",\"pageUri\":\"pages/section-bNe6IDMiaB\",\"content\":\"\\n\\n<columns>\\n[https://coda.io/d/_d0SvdI3KSto/_su6voMRD](https://coda.io/d/_d0SvdI3KSto/_su6voMRD) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suM-62GQ](https://coda.io/d/_d0SvdI3KSto/_suM-62GQ) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suZ04FNc](https://coda.io/d/_d0SvdI3KSto/_suZ04FNc) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n[https://pplx-res.cloudinary.com/image/upload/v1755280628/gpt4o_images/lw4enf1f8fdaidzeoosi.png](https://pplx-res.cloudinary.com/image/upload/v1755280628/gpt4o_images/lw4enf1f8fdaidzeoosi.png)\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

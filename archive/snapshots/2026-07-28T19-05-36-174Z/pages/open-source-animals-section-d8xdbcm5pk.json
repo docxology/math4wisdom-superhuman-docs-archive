@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-d8xdbCM5PK",
+      "content": "<columns>\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "pageUri": "pages/section-d8xdbCM5PK",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-d8xdbCM5PK",
+      "content": "",
+      "pageUri": "pages/section-d8xdbCM5PK",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-d8xdbCM5PK",
+    "canvasUri": "canvases/canvas-d8xdbCM5PK",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1736351171.435,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "open-source",
+    "isHidden": false,
+    "pageId": "section-d8xdbCM5PK",
+    "pageType": "canvas",
+    "pageUri": "pages/section-d8xdbCM5PK",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 131,
+    "subtitle": "",
+    "title": "Open Source Animals",
+    "updatedAt": 1736636764.289,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

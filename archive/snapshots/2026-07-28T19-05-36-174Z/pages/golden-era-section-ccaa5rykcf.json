@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-CCaa5RyKcF",
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_suZZ9aEA](https://coda.io/d/_d0SvdI3KSto/_suZZ9aEA) [https://coda.io/d/_d0SvdI3KSto/_suMk7E-Z](https://coda.io/d/_d0SvdI3KSto/_suMk7E-Z) [https://coda.io/d/_d0SvdI3KSto/_suRfidAo](https://coda.io/d/_d0SvdI3KSto/_suRfidAo) \n\n---\n\n<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n[https://coda.io/d/_d0SvdI3KSto/_subCM5PK](https://coda.io/d/_d0SvdI3KSto/_subCM5PK) \n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>",
+      "pageUri": "pages/section-CCaa5RyKcF",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-CCaa5RyKcF",
+      "content": "",
+      "pageUri": "pages/section-CCaa5RyKcF",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-CCaa5RyKcF",
+    "canvasUri": "canvases/canvas-CCaa5RyKcF",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1737555110.469,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "gold-bars",
+    "isHidden": false,
+    "pageId": "section-CCaa5RyKcF",
+    "pageType": "canvas",
+    "pageUri": "pages/section-CCaa5RyKcF",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 135,
+    "subtitle": "",
+    "title": "Golden Era",
+    "updatedAt": 1738008157.565,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

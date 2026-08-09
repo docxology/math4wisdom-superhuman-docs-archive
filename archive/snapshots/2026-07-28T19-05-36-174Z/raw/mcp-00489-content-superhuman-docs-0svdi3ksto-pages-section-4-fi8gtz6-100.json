@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-4-fi8GTZ6-"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-4-fi8GTZ6-\",\"pageUri\":\"pages/section-4-fi8GTZ6-\",\"content\":\"[Kirby correction: each concentric shell of 1, 12, 42, 92... balls is cuboctahedron-shaped; the polyhedron encasing each individual ball is rhombic dodecahedron shaped — which could be the single cell shape used ] \\n\\nFor what it might look like — here is an example minecraft screencap. We don’t need the inventory/health bar part at bottom, or this level of graphical texturing. And we get it would be a smaller world, still we would want to walk/drone around in the space. Again though, the key angle is that “QuadCraft” is like a counter-game, where Cube:XYZ:MineCraft :: Tet:IVM:QuadCraft. \\n\\n\\n\\n---\\n\\n\\n\\n# \",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-BSUTP5w1h2"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-BSUTP5w1h2\",\"pageUri\":\"pages/section-BSUTP5w1h2\",\"content\":\"  - Active InferAnt Stream #012.1  ~ 4/7/2025 ~ Daniel Friedman  \\nCEREBRUM: Case-Enabled Reasoning Engine with Bayesian Representations for Unified Modeling  \\n[https://www.youtube.com/live/8Ohlb8iTW0k](https://www.youtube.com/live/8Ohlb8iTW0k)  \\n[https://github.com/ActiveInferenceInstitute/CEREBRUM](https://github.com/ActiveInferenceInstitute/CEREBRUM)  \\n[https://zenodo.org/records/15173983](https://zenodo.org/records/15173983)\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

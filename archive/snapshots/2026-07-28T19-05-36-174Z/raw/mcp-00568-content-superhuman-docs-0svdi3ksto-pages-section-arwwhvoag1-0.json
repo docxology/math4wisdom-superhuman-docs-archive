@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-ArwwhVOaG1"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-ArwwhVOaG1\",\"pageUri\":\"pages/section-ArwwhVOaG1\",\"content\":\"<columns>\\nAmerica a Prophecy is a 1793 prophetic book by the English poet and illustrator [https://coda.io/d/_d0SvdI3KSto/_suhVOaG1](https://coda.io/d/_d0SvdI3KSto/_suhVOaG1).\\n\\n[https://en.wikipedia.org/wiki/America_a_Prophecy](https://en.wikipedia.org/wiki/America_a_Prophecy) \\n\\n[https://coda.io/d/_d0SvdI3KSto/_suRfidAo](https://coda.io/d/_d0SvdI3KSto/_suRfidAo) \\n\\n|||\\n\\n[https://www.youtube.com/live/5O5myx5XkBc](https://www.youtube.com/live/5O5myx5XkBc)\\n\\nhttps://www.youtube.com/live/5O5myx5XkBc\\n\\n|||\\n\\n\\n</columns>\\n\\n  - The Doors of Perception are the Threshold of Prediction: Active Inference and William Blake's Theory of Seeing [https://zenodo.org/records/18600041](https://zenodo.org/records/18600041) \\n\\n  - [https://zenodo.org/records/18807971](https://zenodo.org/records/18807971) Before Pragmatism Had a Name: Blake's \\\"America A Prophecy\\\" Anticipates American Anticipatory Epistemology\\n\\n\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

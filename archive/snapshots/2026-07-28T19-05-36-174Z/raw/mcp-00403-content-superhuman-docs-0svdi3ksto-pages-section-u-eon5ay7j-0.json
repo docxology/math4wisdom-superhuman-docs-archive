@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-U-EoN5ay7j"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-U-EoN5ay7j\",\"pageUri\":\"pages/section-U-EoN5ay7j\",\"content\":\"\\n\\nKU: from a Language of Wisdom meetup, presentation by Jere (Apr 9 2024), showing his symbolic formalism + arrow (new) building up to WW.\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 200,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-vZB449pE5w"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-vZB449pE5w\",\"pageUri\":\"pages/section-vZB449pE5w\",\"content\":\"\",\"tables\":[{\"canvasUri\":\"canvases/canvas-vZB449pE5w\",\"tableUri\":\"tables/grid-YhAZWvNIkC\",\"name\":\"Table 1\",\"pageUri\":\"pages/section-vZB449pE5w\",\"rowCount\":6,\"columns\":[{\"columnId\":\"c-9hijEE3IMR\",\"name\":\"Column 1\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c--qBnU43eW0\",\"name\":\"Column 2\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-NW0yBc8qB1\",\"name\":\"Column 3\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-vZB449pE5w\",\"pageUri\":\"pages/section-vZB449pE5w\",\"tableUri\":\"pages/section-vZB449pE5w/tables/grid-YhAZWvNIkC\",\"viewUri\":\"pages/section-vZB449pE5w/tables/grid-YhAZWvNIkC/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[],\"orderedColumnIds\":[\"c-9hijEE3IMR\",\"c--qBnU43eW0\",\"c-NW0yBc8qB1\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]},{\"canvasUri\":\"canvases/canvas-vZB449pE5w\",\"tableUri\":\"tables/grid-COhfTIxRge\",\"name\":\"Table 2\",\"pageUri\":\"pages/section-vZB449pE5w\",\"rowCount\":20,\"columns\":[{\"columnId\":\"c-73pz6ydG2h\",\"name\":\"Column 1\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-2qVbSFGBkS\",\"name\":\"Column 2\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-2R3gcsI54F\",\"name\":\"Column 3\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-rIrby8ApwK\",\"name\":\"Column 4\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-vZB449pE5w\",\"pageUri\":\"pages/section-vZB449pE5w\",\"tableUri\":\"pages/section-vZB449pE5w/tables/grid-COhfTIxRge\",\"viewUri\":\"pages/section-vZB449pE5w/tables/grid-COhfTIxRge/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[],\"orderedColumnIds\":[\"c-73pz6ydG2h\",\"c-2qVbSFGBkS\",\"c-2R3gcsI54F\",\"c-rIrby8ApwK\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

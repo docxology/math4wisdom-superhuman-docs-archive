@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-mTDWYXLbv1",
+      "content": "[KU's M4W Github repo](https://nbviewer.org/github/4dsolutions/m4w/blob/main/M4WTOC.ipynb)\n\n[CJ’s Collaborating for Comprehensivity](https://www.cjfearnley.com/CfC/)\n\n[KU’s blogs](https://worldgame.blogspot.com)\n\n[TrimTab Coda](https://coda.io/d/Trimtab_dq8smWwhNvC/Trimtab_su8HO#_luMim)\n\n[52 Living Ideas](https://www.youtube.com/@52LivingIdeas)\n\n",
+      "pageUri": "pages/section-mTDWYXLbv1",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-mTDWYXLbv1",
+      "content": "",
+      "pageUri": "pages/section-mTDWYXLbv1",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-mTDWYXLbv1",
+    "canvasUri": "canvases/canvas-mTDWYXLbv1",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1709134674.273,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "mailbox-with-letter",
+    "isHidden": false,
+    "pageId": "section-mTDWYXLbv1",
+    "pageType": "canvas",
+    "pageUri": "pages/section-mTDWYXLbv1",
+    "parentPageUri": "pages/section-QrBkgFmpP_",
+    "position": 32,
+    "subtitle": "",
+    "title": "Adjacent with M4W",
+    "updatedAt": 1712460185.158,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "descriptor": {
+    "canvasUri": "canvases/canvas-sEoh_FCkiT",
+    "columns": [
+      {
+        "columnId": "c-lah4DWRcgv",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Short memo"
+      },
+      {
+        "columnId": "c-JJB31c6afj",
+        "description": null,
+        "error": null,
+        "format": {
+          "format": "DEFAULT",
+          "type": "dp"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Date"
+      },
+      {
+        "columnId": "c-mEoOyfTdag",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "canvas"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      },
+      {
+        "columnId": "c-qwTZUA8IkS",
+        "description": null,
+        "error": null,
+        "format": {
+          "multiple": true,
+          "selectOptions": [
+            "Request",
+            "Email draft"
+          ],
+          "type": "sl"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Message tags"
+      },
+      {
+        "columnId": "c-6IEUbOFfMR",
+        "description": null,
+        "error": null,
+        "format": {
+          "displayType": "Check",
+          "type": "check"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Request complete?"
+      },
+      {
+        "columnId": "c-SbMepMyZ_0",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "From"
+      }
+    ],
+    "name": "Messages table",
+    "pageUri": "pages/section-sEoh_FCkiT",
+    "rowCount": 10,
+    "tableUri": "tables/grid-t31WvC1S1m",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-sEoh_FCkiT",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [
+          "c-6IEUbOFfMR"
+        ],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-lah4DWRcgv",
+          "c-JJB31c6afj",
+          "c-mEoOyfTdag",
+          "c-qwTZUA8IkS",
+          "c-SbMepMyZ_0"
+        ],
+        "pageUri": "pages/section-sEoh_FCkiT",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-sEoh_FCkiT/tables/grid-t31WvC1S1m",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-sEoh_FCkiT/tables/grid-t31WvC1S1m/views/default"
+      }
+    ]
+  },
+  "schema": {
+    "canvasUri": "canvases/canvas-sEoh_FCkiT",
+    "columns": [
+      {
+        "columnId": "c-lah4DWRcgv",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Short memo"
+      },
+      {
+        "columnId": "c-JJB31c6afj",
+        "description": null,
+        "error": null,
+        "format": {
+          "format": "DEFAULT",
+          "type": "dp"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Date"
+      },
+      {
+        "columnId": "c-mEoOyfTdag",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "canvas"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      },
+      {
+        "columnId": "c-qwTZUA8IkS",
+        "description": null,
+        "error": null,
+        "format": {
+          "multiple": true,
+          "selectOptions": [
+            "Request",
+            "Email draft"
+          ],
+          "type": "sl"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Message tags"
+      },
+      {
+        "columnId": "c-6IEUbOFfMR",
+        "description": null,
+        "error": null,
+        "format": {
+          "displayType": "Check",
+          "type": "check"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Request complete?"
+      },
+      {
+        "columnId": "c-SbMepMyZ_0",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "From"
+      }
+    ],
+    "name": "Messages table",
+    "pageUri": "pages/section-sEoh_FCkiT",
+    "rowCount": 10,
+    "tableUri": "tables/grid-t31WvC1S1m",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-sEoh_FCkiT",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [
+          "c-6IEUbOFfMR"
+        ],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-lah4DWRcgv",
+          "c-JJB31c6afj",
+          "c-mEoOyfTdag",
+          "c-qwTZUA8IkS",
+          "c-SbMepMyZ_0"
+        ],
+        "pageUri": "pages/section-sEoh_FCkiT",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-sEoh_FCkiT/tables/grid-t31WvC1S1m",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-sEoh_FCkiT/tables/grid-t31WvC1S1m/views/default"
+      }
+    ]
+  },
+  "sourcePages": [
+    "section-sEoh_FCkiT"
+  ],
+  "uri": "superhuman://docs/0SvdI3KSto/tables/grid-t31WvC1S1m"
+}

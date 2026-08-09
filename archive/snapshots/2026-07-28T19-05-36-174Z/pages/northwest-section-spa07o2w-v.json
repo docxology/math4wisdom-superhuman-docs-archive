@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-sPa07o2w_V",
+      "content": "<columns>\n(This was entered into Perplexity, I generated images and refined the prompt chain from there)  \n  \n*Make an image prompt for a flag representation, with 4 balanced elements of:* \n\n- *Yurok California Indigenous people* \n- *Russian culture* \n- *American patriotism* \n- *Nature*\n\n\n\n\"YUROK\" in traditional Northwest Indigenous style  \n\"РОССИЯ\" in Orthodox Church Slavonic script  \n\"AMERICA\" in colonial serif  \n\"ЗЕМЛЯ\" beneath, representing Earth\n\n\n\n[https://coda.io/d/_d0SvdI3KSto/_suRfidAo](https://coda.io/d/_d0SvdI3KSto/_suRfidAo) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "pageUri": "pages/section-sPa07o2w_V",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-sPa07o2w_V",
+      "content": "",
+      "pageUri": "pages/section-sPa07o2w_V",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-sPa07o2w_V",
+    "canvasUri": "canvases/canvas-sPa07o2w_V",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1730223276.245,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "idaho",
+    "isHidden": false,
+    "pageId": "section-sPa07o2w_V",
+    "pageType": "canvas",
+    "pageUri": "pages/section-sPa07o2w_V",
+    "parentPageUri": "pages/section-qR8t6voMRD",
+    "position": 97,
+    "subtitle": "",
+    "title": "Northwest",
+    "updatedAt": 1735152412.352,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

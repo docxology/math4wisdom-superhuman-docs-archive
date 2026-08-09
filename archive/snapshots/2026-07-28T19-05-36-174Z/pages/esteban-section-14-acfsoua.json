@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-14_acFsOUa",
+      "content": "<formula id=\"f-mWVDfdFON7\">5/28/2025</formula>\n\n[https://coda.io/d/_d0SvdI3KSto/_sulN9Ck7](https://coda.io/d/_d0SvdI3KSto/_sulN9Ck7) \n\n",
+      "pageUri": "pages/section-14_acFsOUa",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-14_acFsOUa",
+      "content": "",
+      "pageUri": "pages/section-14_acFsOUa",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-14_acFsOUa",
+    "canvasUri": "canvases/canvas-14_acFsOUa",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1748440968.643,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "party-baloons",
+    "isHidden": false,
+    "pageId": "section-14_acFsOUa",
+    "pageType": "canvas",
+    "pageUri": "pages/section-14_acFsOUa",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 188,
+    "subtitle": "",
+    "title": "Esteban",
+    "updatedAt": 1764685803.048,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

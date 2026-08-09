@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-TlXiK6xxww"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-TlXiK6xxww\",\"pageUri\":\"pages/section-TlXiK6xxww\",\"content\":\"\",\"tables\":[{\"canvasUri\":\"canvases/canvas-TlXiK6xxww\",\"tableUri\":\"tables/grid-0Qbu-hhPzw\",\"name\":\"One Big Table\",\"pageUri\":\"pages/section-TlXiK6xxww\",\"rowCount\":4,\"columns\":[{\"columnId\":\"c-kuv8AR9oti\",\"name\":\"Name\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-JGJezd0Ik7\",\"name\":\"2\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-FBSJFdoK93\",\"name\":\"3\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-zKVdRmL9Ff\",\"name\":\"Notes\",\"description\":null,\"format\":{\"type\":\"canvas\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-cYZVDy0Lx7\",\"name\":\"4\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-TlXiK6xxww\",\"pageUri\":\"pages/section-TlXiK6xxww\",\"tableUri\":\"pages/section-TlXiK6xxww/tables/grid-0Qbu-hhPzw\",\"viewUri\":\"pages/section-TlXiK6xxww/tables/grid-0Qbu-hhPzw/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[\"c-cYZVDy0Lx7\"],\"orderedColumnIds\":[\"c-kuv8AR9oti\",\"c-JGJezd0Ik7\",\"c-FBSJFdoK93\",\"c-zKVdRmL9Ff\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]},{\"canvasUri\":\"canvases/canvas-TlXiK6xxww\",\"tableUri\":\"pages/section-TlXiK6xxww/tables/table-OpqUUp5Wwe\",\"name\":\"View of Big Table\",\"pageUri\":\"pages/section-TlXiK6xxww\",\"rowCount\":4,\"columns\":[{\"columnId\":\"c-kuv8AR9oti\",\"name\":\"Name\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-JGJezd0Ik7\",\"name\":\"2\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-FBSJFdoK93\",\"name\":\"3\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-zKVdRmL9Ff\",\"name\":\"Notes\",\"description\":null,\"format\":{\"type\":\"canvas\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-cYZVDy0Lx7\",\"name\":\"4\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-TlXiK6xxww\",\"pageUri\":\"pages/section-TlXiK6xxww\",\"tableUri\":\"pages/section-TlXiK6xxww/tables/table-OpqUUp5Wwe\",\"viewUri\":\"pages/section-TlXiK6xxww/tables/table-OpqUUp5Wwe/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[\"c-cYZVDy0Lx7\"],\"orderedColumnIds\":[\"c-kuv8AR9oti\",\"c-JGJezd0Ik7\",\"c-FBSJFdoK93\",\"c-zKVdRmL9Ff\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}],\"sourceTableUri\":\"tables/grid-0Qbu-hhPzw\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-VNJoNzvA1O"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-VNJoNzvA1O\",\"pageUri\":\"pages/section-VNJoNzvA1O\",\"content\":\"\\n\\n<columns>\\nMilitary Memorial (Crescent City, CA, USA)\\n\\n[https://www.youtube.com/shorts/klt6FlAo4qs](https://www.youtube.com/shorts/klt6FlAo4qs)\\n\\nhttps://www.youtube.com/shorts/klt6FlAo4qs\\n\\n\\n\\n|||\\n\\nThe Tetrapod (Crescent City, CA, USA)\\n\\n[https://www.youtube.com/shorts/iK-cIiXchdc](https://www.youtube.com/shorts/iK-cIiXchdc)\\n\\nhttps://www.youtube.com/shorts/iK-cIiXchdc\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n</columns>\\n\\n\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

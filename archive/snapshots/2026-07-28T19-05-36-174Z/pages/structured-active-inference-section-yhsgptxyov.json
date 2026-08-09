@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-yHsgptXYov",
+      "content": "[https://arxiv.org/abs/2406.07577v1](https://arxiv.org/abs/2406.07577v1)\n\n*[Submitted on 7 Jun 2024]*\n\n# **Structured Active Inference (Extended Abstract)**\n\n[Toby St Clere Smithe](https://arxiv.org/search/cs?searchtype=author&query=Smithe,+T+S+C)\n\n> We introduce structured active inference, a large generalization and formalization of active inference using the tools of categorical systems theory. We cast generative models formally as systems \"on an interface\", with the latter being a compositional abstraction of the usual notion of Markov blanket; agents are then 'controllers' for their generative models, formally dual to them. This opens the active inference landscape to new horizons, such as: agents with structured interfaces (e.g. with 'mode-dependence', or that interact with computer APIs); agents that can manage other agents; and 'meta-agents', that use active inference to change their (internal or external) structure. With structured interfaces, we also gain structured ('typed') policies, which are amenable to formal verification, an important step towards safe artificial agents. Moreover, we can make use of categorical logic to describe express agents' goals as formal predicates, whose satisfaction may be dependent on the interaction context. This points towards powerful compositional tools to constrain and control self-organizing ensembles of agents.\n\n---\n\n\n\n- What do each of the 3 minds do? What are the consequences of what it done? \n\n\n\n\n\nMathStream #011.1 ~ 8/12/2024 at 16 UTC \n\nToby St Clere Smithe\n\nStructured Active Inference \n\n[https://www.youtube.com/live/IPiazKlNZ4g](https://www.youtube.com/live/IPiazKlNZ4g)\n\n\n\n<formula id=\"f-ToRHAJUdUe\">Daniel Ari Friedman</formula>  Andrius: I read this paper, not comprehending all of the math, but understanding the general idea.  The main point is that the Active Inference model is meaningful but insufficient, practically speaking.  Markov blankets are uniform in structure.  There needs to be a distinction of contexts which allows for an agent to be in different modes, have a hierarchical structure (an agent within an agent and so on), have a community of agents (acting in parallel and also interacting), have emergence from a group of agents.  There need to be ways to organize contexts in parallel, in series, in hierarchies downward, in metalevels upward.  This is called “Structured” active inference.  The author engineers a solution by appealing to category theory, without, however, any real world justification (no particular example drives this) nor any profound conceptual justification (other than “category theory is the math of structure”).  The solution makes use of polynomial functors, which David Spivak has been championing.  What I do find attractive here is that a polynomial functor codes for multiple contexts which get added together (listed together).  I have much to understand.  In general, this feels to me like a shopping excursion, loading up the cart with items for a new home, coming up with reasons for everything, but never having actually seen that home. I suspect this model may give a few helpful ideas but basically would not relate much to a real life structural model of active inference.\n\n",
+      "pageUri": "pages/section-yHsgptXYov",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-yHsgptXYov",
+      "content": "",
+      "pageUri": "pages/section-yHsgptXYov",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-yHsgptXYov",
+    "canvasUri": "canvases/canvas-yHsgptXYov",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1718721450.591,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "3ds-max",
+    "isHidden": false,
+    "pageId": "section-yHsgptXYov",
+    "pageType": "canvas",
+    "pageUri": "pages/section-yHsgptXYov",
+    "parentPageUri": "pages/section-9_lao0BIkP",
+    "position": 73,
+    "subtitle": "",
+    "title": "Structured Active Inference",
+    "updatedAt": 1722361116.259,
+    "updatedBy": {
+      "email": "math4wisdom@gmail.com",
+      "name": "Andrius Kulikauskas",
+      "userId": 2953483
+    }
+  }
+}

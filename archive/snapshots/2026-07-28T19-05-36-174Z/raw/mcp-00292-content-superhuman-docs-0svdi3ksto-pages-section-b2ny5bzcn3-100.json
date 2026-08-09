@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-b2Ny5Bzcn3"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-b2Ny5Bzcn3\",\"pageUri\":\"pages/section-b2Ny5Bzcn3\",\"content\":\"\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

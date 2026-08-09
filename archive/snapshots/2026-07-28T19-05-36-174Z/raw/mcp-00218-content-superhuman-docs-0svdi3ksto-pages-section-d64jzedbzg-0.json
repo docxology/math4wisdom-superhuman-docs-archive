@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-d64JZEDBZG"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-d64JZEDBZG\",\"pageUri\":\"pages/section-d64JZEDBZG\",\"content\":\"<columns>\\n[https://coda.io/d/_d0SvdI3KSto/_su7o2w_V](https://coda.io/d/_d0SvdI3KSto/_su7o2w_V) \\n\\n[https://coda.io/d/_d0SvdI3KSto/_sue_CQH-](https://coda.io/d/_d0SvdI3KSto/_sue_CQH-) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\nAmerRuss pix (Whole Earth Catalog magazine, 1986-87)\\n\\n[https://flic.kr/p/2nixNpd](https://flic.kr/p/2nixNpd)\\n\\n[https://flic.kr/p/2niy2nV](https://flic.kr/p/2niy2nV)\\n\\n[Oregon Fever](https://worldgame.blogspot.com/2025/01/oregon-fever.html)\\n\\n\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

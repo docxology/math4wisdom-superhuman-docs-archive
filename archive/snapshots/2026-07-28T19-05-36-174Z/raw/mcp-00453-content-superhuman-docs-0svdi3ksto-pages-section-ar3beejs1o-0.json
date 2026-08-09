@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-aR3bEeJS1o"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-aR3bEeJS1o\",\"pageUri\":\"pages/section-aR3bEeJS1o\",\"content\":\"[https://coda.io/d/_d0SvdI3KSto/_suMdl6PD](https://coda.io/d/_d0SvdI3KSto/_suMdl6PD)\\n\\n<columns>\\nCar-like / RV / truck\\n\\n\\n\\n|||\\n\\nDome\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n[Space Capsule Homes](https://capsulecastle.com)\\n\\n\\n\\n|||\\n\\nEarth works\\n\\n|||\\n\\nShipping container / bunker\\n\\n.\\n\\n.\\n\\n.\\n\\n\\n\\n[China Modular Homes Manufacturers, Factory - Customized Modular Homes Made in China - CONRAYN](https://www.conrayn.com/modular-homes/)\\n\\n[Container Homes](https://www.cgchcontainer.com)\\n\\n\\n</columns>\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-jLYIIi8r_N",
+      "content": "",
+      "pageUri": "pages/section-jLYIIi8r_N",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-jLYIIi8r_N",
+    "canvasUri": "canvases/canvas-jLYIIi8r_N",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1713276445.294,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "moon-symbol",
+    "isHidden": false,
+    "pageId": "section-jLYIIi8r_N",
+    "pageType": "canvas",
+    "pageUri": "pages/section-jLYIIi8r_N",
+    "parentPageUri": "pages/section-_Gxm1bIoV1",
+    "position": 45,
+    "subtitle": "",
+    "title": "Symbolic Formalism",
+    "updatedAt": 1713276456.137,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

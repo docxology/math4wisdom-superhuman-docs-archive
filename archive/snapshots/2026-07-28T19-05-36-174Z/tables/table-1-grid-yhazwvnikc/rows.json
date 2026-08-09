@@ -1,0 +1,346 @@
+[
+  {
+    "rowId": "i-Zbj-T-WHlp",
+    "values": {
+      "c--qBnU43eW0": {
+        "value": "URL"
+      },
+      "c-9hijEE3IMR": {
+        "value": "Project"
+      },
+      "c-NW0yBc8qB1": {
+        "value": "Why it belongs"
+      }
+    }
+  },
+  {
+    "rowId": "i--g8dhV2ZjF",
+    "values": {
+      "c--qBnU43eW0": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-NMxtkzsq86",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/langchain-ai/langchain",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langchain"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-zh4_nI2qNb",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langchain"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-a9Xulp90PV",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-9hijEE3IMR": {
+        "value": "LangChain"
+      },
+      "c-NW0yBc8qB1": {
+        "value": "Core “agent engineering” framework often paired with LangGraph, with integrations and components for tools, memory, retrieval, and observability."
+      }
+    }
+  },
+  {
+    "rowId": "i-Stgn-PY-zQ",
+    "values": {
+      "c--qBnU43eW0": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-GmeolzjQFF",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/crewAIInc/crewAI-examples",
+                      "type": "urlref",
+                      "url": "https://github.com/crewAIInc/crewAI-examples"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-hHrnwXxpQg",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/crewAIInc/crewAI-examples"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-JcUx6F6Gc6",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-9hijEE3IMR": {
+        "value": "crewAI examples"
+      },
+      "c-NW0yBc8qB1": {
+        "value": "Concrete end‑to‑end multi‑agent apps showing how to implement vertical workflows on CrewAI."
+      }
+    }
+  },
+  {
+    "rowId": "i-AjBMp4hxYh",
+    "values": {
+      "c--qBnU43eW0": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-aUTJr1yDLH",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/langchain-ai/langgraph-101",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph-101"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-bYw6Hi3kv4",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph-101"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-DIT9qOwLjU",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-9hijEE3IMR": {
+        "value": "langgraph-101"
+      },
+      "c-NW0yBc8qB1": {
+        "value": "Hands‑on tutorials for LangGraph and LangChain, good reference for patterns."
+      }
+    }
+  },
+  {
+    "rowId": "i-911taJo6pQ",
+    "values": {
+      "c--qBnU43eW0": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-UlIqtf8Mm5",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/langchain-ai/langgraph-codeact",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph-codeact"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-TOOexC9Va7",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph-codeact"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-LY3l3FX7no",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-9hijEE3IMR": {
+        "value": "langgraph-codeact"
+      },
+      "c-NW0yBc8qB1": {
+        "value": "Implements CodeAct architecture in LangGraph, relevant for advanced agent planning/execution patterns."
+      }
+    }
+  },
+  {
+    "rowId": "i-GAQTqi091K",
+    "values": {
+      "c--qBnU43eW0": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-4dCTjo7ii9",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/crewAIInc/crewAI-quickstarts",
+                      "type": "urlref",
+                      "url": "https://github.com/crewAIInc/crewAI-quickstarts"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-EGbkRiA1De",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/crewAIInc/crewAI-quickstarts"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-HLfMWyyj7u",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-9hijEE3IMR": {
+        "value": "crewAI quickstarts"
+      },
+      "c-NW0yBc8qB1": {
+        "value": "Quickstart templates and demos for building production multi‑agent systems."
+      }
+    }
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-GiORITdICd"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-GiORITdICd\",\"pageUri\":\"pages/section-GiORITdICd\",\"content\":\"See [https://coda.io/d/_d0SvdI3KSto/_sumWz2XL](https://coda.io/d/_d0SvdI3KSto/_sumWz2XL) \\n\\n<columns>\\nOriginal art from KU\\n\\n\\n\\n|||\\n\\nThen DAF made more images below: \\n\\n\\n\\n|||\\n\\n\\n\\n|||\\n\\n\\n\\n\\n</columns>\\n\\n<columns>\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n\\n\\n[More context at Coffee Shops Network](https://coffeeshopsnet.blogspot.com/2024/10/my-private-sky.html)\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-CpP8d39phc",
+      "content": "[https://github.com/docxology/codomyrmex/](https://github.com/docxology/codomyrmex/)\n\nIs the meta-repo I start in. \n\n[https://github.com/docxology/codomyrmex/tree/main/src/codomyrmex/agents](https://github.com/docxology/codomyrmex/tree/main/src/codomyrmex/agents) for agentic coding dispatch\n\n[https://github.com/docxology/codomyrmex/tree/main/src/codomyrmex/git_operations](https://github.com/docxology/codomyrmex/tree/main/src/codomyrmex/git_operations) for bringing other git repos into the scope. \n\nFrom there, [https://github.com/docxology/template](https://github.com/docxology/template) the template [https://github.com/docxology/template/tree/main/projects/code_project](https://github.com/docxology/template/tree/main/projects/code_project) is example of format that can then do project-level manuscript + source code development. \n\n  \n\n\nUsing that combination above with Cursor+Antigravity and Claude Code dispatch, is configurable and useful, there is dashboard for doing codomyrmex methods too. \n\n\n\n---\n\n\n\nThen [https://github.com/danielmiessler/Personal_AI_Infrastructure/](https://github.com/danielmiessler/Personal_AI_Infrastructure/)\n\nis the PAI repo which augments Claude Code.\n\nFrom there as upstream I have an extensive local fork/sidecar package, that adds features and interface, this is not currently open source as I am learning and thinking about how to apply [https://zenodo.org/records/18364119](https://zenodo.org/records/18364119) . \n\n  \n\n\nInterface/Function-wise though, essentially it extends PAI to hooks/flows with agent calls, with integrated .claude Missions, Projects, Tasks, Beliefs, etc.. knowledge plaintext files. \n\n<columns>\n\n\n\n\n|||\n\n\n\n\n\n|||\n\n\n\n\n\n|||\n\n\n\n\n</columns>\n\nEvery single one of those items/types, has network relations and own content. Each step can be done manually, or with LLM dispatch/orchestration. \n\nFor now the Task type, bidirectionally syncs with Github tasks and private project-specific repos. \n\nThen there are LLM-generated interviews which can be selected or surfaced on schedule/trigger.\n\n---\n\nAnd there are other methods to integrate/explore. \n\nFor example to go direction of OpenClaw integration, different knowledge structuring, generative models (typed via GNN [https://github.com/ActiveInferenceInstitute/GeneralizedNotationNotation](https://github.com/ActiveInferenceInstitute/GeneralizedNotationNotation) ), otherwise.\n\n  \n\n\n",
+      "pageUri": "pages/section-CpP8d39phc",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-CpP8d39phc",
+      "content": "",
+      "pageUri": "pages/section-CpP8d39phc",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-CpP8d39phc",
+    "canvasUri": "canvases/canvas-CpP8d39phc",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1770822945.852,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "used-product",
+    "isHidden": false,
+    "pageId": "section-CpP8d39phc",
+    "pageType": "canvas",
+    "pageUri": "pages/section-CpP8d39phc",
+    "parentPageUri": "pages/section-vZB449pE5w",
+    "position": 276,
+    "subtitle": "",
+    "title": "2-11-2026 AI tool use",
+    "updatedAt": 1770823056.268,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

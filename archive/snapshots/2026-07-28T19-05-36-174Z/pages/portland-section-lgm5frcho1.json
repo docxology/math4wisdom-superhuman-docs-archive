@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-Lgm5FRcHo1",
+      "content": "",
+      "pageUri": "pages/section-Lgm5FRcHo1",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-Lgm5FRcHo1",
+    "canvasUri": "canvases/canvas-Lgm5FRcHo1",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1757426600.859,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "oregon",
+    "isHidden": false,
+    "pageId": "section-Lgm5FRcHo1",
+    "pageType": "canvas",
+    "pageUri": "pages/section-Lgm5FRcHo1",
+    "parentPageUri": "pages/section-w4EQmNcV1g",
+    "position": 233,
+    "subtitle": "",
+    "title": "Portland",
+    "updatedAt": 1757426604.17,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

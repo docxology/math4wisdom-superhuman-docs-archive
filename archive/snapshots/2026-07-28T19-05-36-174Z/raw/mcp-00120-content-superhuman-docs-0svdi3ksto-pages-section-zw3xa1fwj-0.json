@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-_zW3xa1fWJ"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-_zW3xa1fWJ\",\"pageUri\":\"pages/section-_zW3xa1fWJ\",\"content\":\"## **Active Inference Vocabulary** \\n\\nMaking use of the Active Inference [Ontology](https://coda.io/@active-inference-institute/active-inference-ontology-website). \\n\\n**https://www.math4wisdom.com/files/ActiveInferenceFundamentalConcepts.png**\\n\\n- **By** \\n\\n---\\n\\n**human phenomenology**\\n\\n**self-evidencing**\\n\\n**mental action**\\n\\n**meta-awareness**\\n\\n**consciousness**\\n\\n**cognitive state**\\n\\n**higher-level cognitive state**\\n\\n**hidden cognitive state**\\n\\n**access a cognitive state**\\n\\n**control a cognitive state**\\n\\n**attention**\\n\\n**selective attention**\\n\\n**direction of attention**\\n\\n**hierarchical active inference**\\n\\n**expected confidence**\\n\\n**observation**\\n\\n**regulation**\\n\\n**monitor**\\n\\n**control**\\n\\n**mind-wandering**\\n\\n**perceptual object**\\n\\n\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

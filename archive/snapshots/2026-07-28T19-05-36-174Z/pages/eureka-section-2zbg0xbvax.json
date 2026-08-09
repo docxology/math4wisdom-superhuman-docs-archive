@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-2ZBg0XbVAX",
+      "content": "\n\n<columns>\n\n\n\n\n\n\nNote — These kinds of “infographics” are coming up more by default for me. \n\n\n\n\n\n\n\n(Looks like Indiana Jones was included in the training data) \n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_suKqaFpI](https://coda.io/d/_d0SvdI3KSto/_suKqaFpI) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_suZvS-tm](https://coda.io/d/_d0SvdI3KSto/_suZvS-tm) Maps\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[https://coda.io/d/_d0SvdI3KSto/_suM-62GQ](https://coda.io/d/_d0SvdI3KSto/_suM-62GQ) \n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "pageUri": "pages/section-2ZBg0XbVAX",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-2ZBg0XbVAX",
+      "content": "",
+      "pageUri": "pages/section-2ZBg0XbVAX",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-2ZBg0XbVAX",
+    "canvasUri": "canvases/canvas-2ZBg0XbVAX",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1779997314.846,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "light",
+    "isHidden": false,
+    "pageId": "section-2ZBg0XbVAX",
+    "pageType": "canvas",
+    "pageUri": "pages/section-2ZBg0XbVAX",
+    "parentPageUri": "pages/section-l5aXJCjgXV",
+    "position": 302,
+    "subtitle": "",
+    "title": "Eureka",
+    "updatedAt": 1781014497.758,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

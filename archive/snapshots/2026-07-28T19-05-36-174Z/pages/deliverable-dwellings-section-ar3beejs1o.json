@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-aR3bEeJS1o",
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_suMdl6PD](https://coda.io/d/_d0SvdI3KSto/_suMdl6PD)\n\n<columns>\nCar-like / RV / truck\n\n\n\n|||\n\nDome\n\n\n\n\n\n\n\n\n\n[Space Capsule Homes](https://capsulecastle.com)\n\n\n\n|||\n\nEarth works\n\n|||\n\nShipping container / bunker\n\n.\n\n.\n\n.\n\n\n\n[China Modular Homes Manufacturers, Factory - Customized Modular Homes Made in China - CONRAYN](https://www.conrayn.com/modular-homes/)\n\n[Container Homes](https://www.cgchcontainer.com)\n\n\n</columns>",
+      "pageUri": "pages/section-aR3bEeJS1o",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-aR3bEeJS1o",
+      "content": "",
+      "pageUri": "pages/section-aR3bEeJS1o",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-aR3bEeJS1o",
+    "canvasUri": "canvases/canvas-aR3bEeJS1o",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1747233043.597,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "checked-truck",
+    "isHidden": false,
+    "pageId": "section-aR3bEeJS1o",
+    "pageType": "canvas",
+    "pageUri": "pages/section-aR3bEeJS1o",
+    "parentPageUri": "pages/section-SXXoQWY5DS",
+    "position": 178,
+    "subtitle": "",
+    "title": "Deliverable Dwellings",
+    "updatedAt": 1747368352.05,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

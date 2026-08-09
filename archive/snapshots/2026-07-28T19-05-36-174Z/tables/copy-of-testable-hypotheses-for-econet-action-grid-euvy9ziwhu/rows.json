@@ -1,0 +1,462 @@
+[
+  {
+    "rowId": "i-EP1oAZGKvv",
+    "values": {
+      "c-FON6kSNmzf": {
+        "value": "Three Minds"
+      },
+      "c-_gs3OmAooH": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- System will show distinct answering (reactive) and questioning (predictive) responses\n- Observable tipping points between modes\n- Emergence of control states"
+                  }
+                ],
+                "id": "cl-U0Xu3gLyAU",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-aYByxfVxT6": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- TimberFish 70L units with controlled perturbations\n- Measure response to nutrient changes\n- Track microbial community shifts"
+                  }
+                ],
+                "id": "cl-hjvYZHKxWg",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-qSuiLZRNAl": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Simple homeostasis models\n- Random fluctuation\n- Pure stimulus-response"
+                  }
+                ],
+                "id": "cl-cWEjsVthqe",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-vI_HHxdUb6": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Response latency\n- Recovery patterns\n- State transitions"
+                  }
+                ],
+                "id": "cl-uZvUZtIRkG",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-m_LESCZHQw",
+    "values": {
+      "c-FON6kSNmzf": {
+        "value": "24 Types of Inference"
+      },
+      "c-_gs3OmAooH": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Consistent patterns of problem-solving across regions\n- Hierarchical information processing\n- Emergence of standardized response types"
+                  }
+                ],
+                "id": "cl-zNiNHzBYHe",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-aYByxfVxT6": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Cross-bioregion comparison of 100+ units\n- Systematic introduction of novel species\n- Varying wood chip compositions"
+                  }
+                ],
+                "id": "cl-1OuN8btrR0",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-qSuiLZRNAl": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Purely local adaptations\n- Stochastic responses\n- Linear reaction chains"
+                  }
+                ],
+                "id": "cl-B8EH8QTWmB",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-vI_HHxdUb6": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Problem-solving success rate\n- Response categorization\n- Pattern emergence"
+                  }
+                ],
+                "id": "cl-xcu7eaqDWj",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-qQIGVMdyMf",
+    "values": {
+      "c-FON6kSNmzf": {
+        "value": "Ecosystem Active Inference"
+      },
+      "c-_gs3OmAooH": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Evidence of predictive modeling\n- Anticipatory responses\n- Information-seeking behavior"
+                  }
+                ],
+                "id": "cl-E94iQtdXPW",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-aYByxfVxT6": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Paired ecosystem experiments\n- Controlled pollution exposure\n- Resource competition tests"
+                  }
+                ],
+                "id": "cl-y3rPYolqMX",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-qSuiLZRNAl": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Passive diffusion\n- Chemical gradients only\n- Mechanical responses"
+                  }
+                ],
+                "id": "cl-7KGBBILA39",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-vI_HHxdUb6": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Free energy metrics\n- Prediction error\n- Information gain"
+                  }
+                ],
+                "id": "cl-PHYD1fzeUu",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-LesCZ0PCtZ",
+    "values": {
+      "c-FON6kSNmzf": {
+        "value": "Biofirm Integration"
+      },
+      "c-_gs3OmAooH": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Emergence of protective boundaries\n- Self-organizing hierarchies\n- Adaptive resource allocation"
+                  }
+                ],
+                "id": "cl-XQy4LO-FCS",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-aYByxfVxT6": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Multi-scale network analysis\n- Rights management simulations\n- Cross-ecosystem transactions"
+                  }
+                ],
+                "id": "cl-tFpELC6m3Z",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-qSuiLZRNAl": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Central control models\n- Pure market mechanisms\n- Top-down regulation"
+                  }
+                ],
+                "id": "cl-HEHC_eCyz4",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-vI_HHxdUb6": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- System resilience\n- Boundary integrity\n- Resource efficiency"
+                  }
+                ],
+                "id": "cl-P2qe4gg3WT",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-_XredbpA5g",
+    "values": {
+      "c-FON6kSNmzf": {
+        "value": "Ecological Intelligence"
+      },
+      "c-_gs3OmAooH": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Development of shared affordances\n- Cooperative problem solving\n- Emergence of communication patterns"
+                  }
+                ],
+                "id": "cl-TVjn26WFwQ",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-aYByxfVxT6": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Standardized challenge sets\n- Cross-species comparisons\n- Long-term adaptation tracking"
+                  }
+                ],
+                "id": "cl-HZcKJKU_4V",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-qSuiLZRNAl": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Individual selection only\n- Random adaptation\n- Reductionist models"
+                  }
+                ],
+                "id": "cl-E9qldjlJB_",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-vI_HHxdUb6": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "- Collective performance\n- Adaptation rate\n- Communication metrics"
+                  }
+                ],
+                "id": "cl-BNX4njr4pd",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-U-EoN5ay7j",
+      "content": "\n\nKU: from a Language of Wisdom meetup, presentation by Jere (Apr 9 2024), showing his symbolic formalism + arrow (new) building up to WW.",
+      "pageUri": "pages/section-U-EoN5ay7j",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-U-EoN5ay7j",
+      "content": "",
+      "pageUri": "pages/section-U-EoN5ay7j",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-U-EoN5ay7j",
+    "canvasUri": "canvases/canvas-U-EoN5ay7j",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1708286296.71,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "design",
+    "isHidden": false,
+    "pageId": "section-U-EoN5ay7j",
+    "pageType": "canvas",
+    "pageUri": "pages/section-U-EoN5ay7j",
+    "parentPageUri": "pages/section-WKd6Je-p7N",
+    "position": 25,
+    "subtitle": "",
+    "title": "Ododu",
+    "updatedAt": 1712695031.691,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

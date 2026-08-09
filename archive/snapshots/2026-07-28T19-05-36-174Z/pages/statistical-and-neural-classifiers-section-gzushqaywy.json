@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-gZusHQAYwy",
+      "content": "[Perplexity](https://www.perplexity.ai/search/Please-digest-and-CAC_WzSHRe2U9WYbQVsgRQ): “*Please digest and summarize all the attached materials in the most comprehensive and technical fashion possible*”\n\n<columns>\n\n\nEvolution and generalization of a single neurone: I. Single-layer perceptron as seven statistical classifiers\n\n\n\n\n\n|||\n\n\n\nEvolution and generalization of a single neurone II. Complexity of statistical classifiers and sample size considerations\n\n\n\n|||\n\n\n\nEvolution and generalization of a single neurone. III. Primitive, regularized, standard, robust and minimax regressions\n</columns>\n\n\n\n<columns>\n\n\n\n\n|||\n\n\n\n\n\n|||\n\n\n\n\n</columns>",
+      "pageUri": "pages/section-gZusHQAYwy",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-gZusHQAYwy",
+      "content": "",
+      "pageUri": "pages/section-gZusHQAYwy",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-gZusHQAYwy",
+    "canvasUri": "canvases/canvas-gZusHQAYwy",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-nqw-QtMg3f",
+        "canvasUri": "canvases/canvas-nqw-QtMg3f",
+        "pageId": "section-nqw-QtMg3f",
+        "pageUri": "pages/section-nqw-QtMg3f",
+        "title": "Exploring 5-24-2024 Raudys"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1715785827.691,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "deviation",
+    "isHidden": false,
+    "pageId": "section-gZusHQAYwy",
+    "pageType": "canvas",
+    "pageUri": "pages/section-gZusHQAYwy",
+    "parentPageUri": "pages/section-otrP5aA4ke",
+    "position": 62,
+    "subtitle": "",
+    "title": "Statistical and Neural Classifiers",
+    "updatedAt": 1716573112.121,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

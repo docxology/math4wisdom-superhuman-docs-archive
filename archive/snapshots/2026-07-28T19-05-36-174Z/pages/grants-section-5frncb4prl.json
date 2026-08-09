@@ -1,0 +1,51 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-5fRnCB4PRL",
+      "content": "",
+      "pageUri": "pages/section-5fRnCB4PRL",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-5fRnCB4PRL",
+    "canvasUri": "canvases/canvas-5fRnCB4PRL",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-IY29lOwv--",
+        "canvasUri": "canvases/canvas-IY29lOwv--",
+        "pageId": "section-IY29lOwv--",
+        "pageUri": "pages/section-IY29lOwv--",
+        "title": "Templeton 2024 Grant"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1721743913.529,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "receive-cash",
+    "isHidden": false,
+    "pageId": "section-5fRnCB4PRL",
+    "pageType": "canvas",
+    "pageUri": "pages/section-5fRnCB4PRL",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 78,
+    "subtitle": "",
+    "title": "Grants",
+    "updatedAt": 1721743915.648,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

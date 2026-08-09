@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-6Aioy27kzn",
+      "content": "Ace [https://coda.io/d/_d0SvdI3KSto/_suXtZKEK](https://coda.io/d/_d0SvdI3KSto/_suXtZKEK) page: [https://www.minortriad.com/q4d.html](https://www.minortriad.com/q4d.html)\n\nMajor contributor to [https://coda.io/d/_d0SvdI3KSto/_suXtZKEK](https://coda.io/d/_d0SvdI3KSto/_suXtZKEK) \n\nFluent in Hilbert space 4D\n\n[https://zenodo.org/records/17538015](https://zenodo.org/records/17538015) New Lower Bounds for Snake-in-the-Box in 11-, 12-, and 13-dimensional Hypercubes\n\n[https://github.com/4dsolutions/School_of_Tomorrow/blob/master/Hypersnakes.ipynb](https://github.com/4dsolutions/School_of_Tomorrow/blob/master/Hypersnakes.ipynb)\n\n\n\n\n\n     \n\n\n\n",
+      "pageUri": "pages/section-6Aioy27kzn",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-6Aioy27kzn",
+      "content": "",
+      "pageUri": "pages/section-6Aioy27kzn",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-6Aioy27kzn",
+    "canvasUri": "canvases/canvas-6Aioy27kzn",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-GhqTI17YtZ",
+        "canvasUri": "canvases/canvas-GhqTI17YtZ",
+        "pageId": "section-GhqTI17YtZ",
+        "pageUri": "pages/section-GhqTI17YtZ",
+        "title": "Snake-in-the-Box"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1762268993.942,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "ac-dc-converter",
+    "isHidden": false,
+    "pageId": "section-6Aioy27kzn",
+    "pageType": "canvas",
+    "pageUri": "pages/section-6Aioy27kzn",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 243,
+    "subtitle": "",
+    "title": "Tom Ace",
+    "updatedAt": 1768520588.058,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

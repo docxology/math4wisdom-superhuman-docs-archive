@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-C-ZB-Vwgri"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-C-ZB-Vwgri\",\"pageUri\":\"pages/section-C-ZB-Vwgri\",\"content\":\"[https://coda.io/d/_d0SvdI3KSto/_su2w6nPA](https://coda.io/d/_d0SvdI3KSto/_su2w6nPA) // [https://coda.io/d/_d0SvdI3KSto/_suctBzyW](https://coda.io/d/_d0SvdI3KSto/_suctBzyW) // [https://coda.io/d/_d0SvdI3KSto/_suMEu9L_](https://coda.io/d/_d0SvdI3KSto/_suMEu9L_) \\n\\n<columns>\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n</columns>\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

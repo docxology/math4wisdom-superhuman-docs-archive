@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-5k0aq9VPT1",
+      "content": "[https://triplicate.com/](https://triplicate.com/)\n\n\n\n\n\n<columns>\n\n\n\n\n|||\n\n[https://www.triplicate.com/](https://www.triplicate.com/)   -- in Crescent City, our local newspaper is closing and halting printing. Now there are no local newspapers in Del Norte county (causing some possible legal issues, e.g. business annoucements that have nowhere to post). \n\nPlease comprehensively research what would be required to become a print newspaper of reference, for our region.\n\n[https://www.perplexity.ai/search/https-www-triplicate-com-https-Z66a8wXEQAiPbleTWaKOJQ](https://www.perplexity.ai/search/https-www-triplicate-com-https-Z66a8wXEQAiPbleTWaKOJQ)\n\n\n\n\n\n|||\n\n\n\n\n\n|||\n\n\n\n\n</columns>",
+      "pageUri": "pages/section-5k0aq9VPT1",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-5k0aq9VPT1",
+      "content": "",
+      "pageUri": "pages/section-5k0aq9VPT1",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-5k0aq9VPT1",
+    "canvasUri": "canvases/canvas-5k0aq9VPT1",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1758635905.081,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "4-c",
+    "isHidden": false,
+    "pageId": "section-5k0aq9VPT1",
+    "pageType": "canvas",
+    "pageUri": "pages/section-5k0aq9VPT1",
+    "parentPageUri": "pages/section-uUbHYih-tF",
+    "position": 235,
+    "subtitle": "",
+    "title": "Quadruplicate",
+    "updatedAt": 1774966627.245,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

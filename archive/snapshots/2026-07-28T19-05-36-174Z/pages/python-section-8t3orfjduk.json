@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-8t3ORFjdUk",
+      "content": "[https://github.com/python](https://github.com/python)\n\n[Packing Algorithms](https://github.com/4dsolutions/School_of_Tomorrow/blob/master/Packing_algorithms.ipynb) (School of Tomorrow)\n\n[Elite School](https://github.com/4dsolutions/elite_school/blob/master/PY4HS.ipynb) (based on my [Sunshine Elite Education](https://flic.kr/s/aHBqjzJdXN) experience)\n\nhttps://youtu.be/p3LoTy0jJSo\n\nhttps://youtu.be/9sMawhe6glU\n\n[School of Tomorrow](https://coda.io/d/_d0SvdI3KSto/_suIBhimW)\n\n",
+      "pageUri": "pages/section-8t3ORFjdUk",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-8t3ORFjdUk",
+      "content": "",
+      "pageUri": "pages/section-8t3ORFjdUk",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-8t3ORFjdUk",
+    "canvasUri": "canvases/canvas-8t3ORFjdUk",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1748013556.401,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "python",
+    "isHidden": false,
+    "pageId": "section-8t3ORFjdUk",
+    "pageType": "canvas",
+    "pageUri": "pages/section-8t3ORFjdUk",
+    "parentPageUri": "pages/section-9TRHaEEPT0",
+    "position": 181,
+    "subtitle": "",
+    "title": "Python",
+    "updatedAt": 1759012985.907,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

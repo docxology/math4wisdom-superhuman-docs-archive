@@ -1,0 +1,622 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-HPb10opxmi",
+      "content": "\n\nUpcoming Meetings\n\n\n\n---\n\nMeetings\n\n",
+      "pageUri": "pages/section-HPb10opxmi",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-HPb10opxmi",
+          "columns": [
+            {
+              "columnId": "c-2ZwvUVWvUQ",
+              "description": null,
+              "error": null,
+              "format": {
+                "format": "DEFAULT",
+                "type": "dp"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Date"
+            },
+            {
+              "columnId": "c-1821xYlty_",
+              "description": null,
+              "error": null,
+              "format": {
+                "multiple": false,
+                "selectOptions": [
+                  "Language of Wisdom",
+                  "Knowledge Engineering",
+                  "Knowledge Math",
+                  "Interaction Group",
+                  "Living by Wisdom"
+                ],
+                "type": "sl"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Type"
+            },
+            {
+              "columnId": "c-xZ5GN71GGG",
+              "description": null,
+              "error": null,
+              "format": {
+                "grouping": true,
+                "precision": 22,
+                "type": "num"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Hour UTC"
+            },
+            {
+              "columnId": "c-PX-0lySGNb",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-_kR_czMF9u",
+              "description": null,
+              "error": null,
+              "format": {
+                "displayPreview": true,
+                "messageBuilderProperties": {
+                  "message": {
+                    "type": 2,
+                    "value": "_FormatMessageSlate($$[cell:Global-Message-Templates:MessageTemplate:i-_aRzmhQYle:false:false:], $$[rowColumn:grid-O8e6yxDvz5:c-1821xYlty_::false], $$[rowColumn:grid-O8e6yxDvz5:c-2ZwvUVWvUQ::false], $$[rowColumn:grid-O8e6yxDvz5:c-xZ5GN71GGG::false])"
+                  }
+                },
+                "type": "canvas"
+              },
+              "formula": "_FormatMessageSlate(MessageTemplate, Type, Date, [Hour UTC])",
+              "isDisplayColumn": false,
+              "isWritable": false,
+              "name": "Copypasta."
+            },
+            {
+              "columnId": "c-MAFG-TNeiZ",
+              "description": null,
+              "error": null,
+              "format": {
+                "display": "IconOnly",
+                "type": "link"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Link"
+            }
+          ],
+          "name": "Meetings",
+          "pageUri": "pages/section-HPb10opxmi",
+          "rowCount": 158,
+          "tableUri": "tables/grid-O8e6yxDvz5",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-HPb10opxmi",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [
+                  "c-1821xYlty_"
+                ],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-_kR_czMF9u"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-1821xYlty_",
+                "c-xZ5GN71GGG",
+                "c-2ZwvUVWvUQ",
+                "c-PX-0lySGNb",
+                "c-MAFG-TNeiZ"
+              ],
+              "pageUri": "pages/section-HPb10opxmi",
+              "personalFilterColumns": [],
+              "sorts": [
+                {
+                  "columnId": "c-2ZwvUVWvUQ",
+                  "direction": "descending"
+                }
+              ],
+              "tableUri": "pages/section-HPb10opxmi/tables/grid-O8e6yxDvz5",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-HPb10opxmi/tables/grid-O8e6yxDvz5/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-HPb10opxmi",
+          "columns": [
+            {
+              "columnId": "c-2ZwvUVWvUQ",
+              "description": null,
+              "error": null,
+              "format": {
+                "format": "DEFAULT",
+                "type": "dp"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Date"
+            },
+            {
+              "columnId": "c-1821xYlty_",
+              "description": null,
+              "error": null,
+              "format": {
+                "multiple": false,
+                "selectOptions": [
+                  "Language of Wisdom",
+                  "Knowledge Engineering",
+                  "Knowledge Math",
+                  "Interaction Group",
+                  "Living by Wisdom"
+                ],
+                "type": "sl"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Type"
+            },
+            {
+              "columnId": "c-xZ5GN71GGG",
+              "description": null,
+              "error": null,
+              "format": {
+                "grouping": true,
+                "precision": 22,
+                "type": "num"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Hour UTC"
+            },
+            {
+              "columnId": "c-PX-0lySGNb",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-_kR_czMF9u",
+              "description": null,
+              "error": null,
+              "format": {
+                "displayPreview": true,
+                "messageBuilderProperties": {
+                  "message": {
+                    "type": 2,
+                    "value": "_FormatMessageSlate($$[cell:Global-Message-Templates:MessageTemplate:i-_aRzmhQYle:false:false:], $$[rowColumn:grid-O8e6yxDvz5:c-1821xYlty_::false], $$[rowColumn:grid-O8e6yxDvz5:c-2ZwvUVWvUQ::false], $$[rowColumn:grid-O8e6yxDvz5:c-xZ5GN71GGG::false])"
+                  }
+                },
+                "type": "canvas"
+              },
+              "formula": "_FormatMessageSlate(MessageTemplate, Type, Date, [Hour UTC])",
+              "isDisplayColumn": false,
+              "isWritable": false,
+              "name": "Copypasta."
+            },
+            {
+              "columnId": "c-MAFG-TNeiZ",
+              "description": null,
+              "error": null,
+              "format": {
+                "display": "IconOnly",
+                "type": "link"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Link"
+            }
+          ],
+          "name": "Upcoming Meetings",
+          "pageUri": "pages/section-HPb10opxmi",
+          "rowCount": 158,
+          "sourceTableUri": "tables/grid-O8e6yxDvz5",
+          "tableUri": "pages/section-HPb10opxmi/tables/table-FuFa3iwKvT",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-HPb10opxmi",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [
+                  "c-1821xYlty_"
+                ],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-_kR_czMF9u"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-1821xYlty_",
+                "c-xZ5GN71GGG",
+                "c-2ZwvUVWvUQ",
+                "c-PX-0lySGNb",
+                "c-MAFG-TNeiZ"
+              ],
+              "pageUri": "pages/section-HPb10opxmi",
+              "personalFilterColumns": [],
+              "sorts": [
+                {
+                  "columnId": "c-2ZwvUVWvUQ",
+                  "direction": "descending"
+                }
+              ],
+              "tableUri": "pages/section-HPb10opxmi/tables/table-FuFa3iwKvT",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-HPb10opxmi/tables/table-FuFa3iwKvT/views/default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "canvasUri": "canvases/canvas-HPb10opxmi",
+      "content": "",
+      "pageUri": "pages/section-HPb10opxmi",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-HPb10opxmi",
+          "columns": [
+            {
+              "columnId": "c-2ZwvUVWvUQ",
+              "description": null,
+              "error": null,
+              "format": {
+                "format": "DEFAULT",
+                "type": "dp"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Date"
+            },
+            {
+              "columnId": "c-1821xYlty_",
+              "description": null,
+              "error": null,
+              "format": {
+                "multiple": false,
+                "selectOptions": [
+                  "Language of Wisdom",
+                  "Knowledge Engineering",
+                  "Knowledge Math",
+                  "Interaction Group",
+                  "Living by Wisdom"
+                ],
+                "type": "sl"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Type"
+            },
+            {
+              "columnId": "c-xZ5GN71GGG",
+              "description": null,
+              "error": null,
+              "format": {
+                "grouping": true,
+                "precision": 22,
+                "type": "num"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Hour UTC"
+            },
+            {
+              "columnId": "c-PX-0lySGNb",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-_kR_czMF9u",
+              "description": null,
+              "error": null,
+              "format": {
+                "displayPreview": true,
+                "messageBuilderProperties": {
+                  "message": {
+                    "type": 2,
+                    "value": "_FormatMessageSlate($$[cell:Global-Message-Templates:MessageTemplate:i-_aRzmhQYle:false:false:], $$[rowColumn:grid-O8e6yxDvz5:c-1821xYlty_::false], $$[rowColumn:grid-O8e6yxDvz5:c-2ZwvUVWvUQ::false], $$[rowColumn:grid-O8e6yxDvz5:c-xZ5GN71GGG::false])"
+                  }
+                },
+                "type": "canvas"
+              },
+              "formula": "_FormatMessageSlate(MessageTemplate, Type, Date, [Hour UTC])",
+              "isDisplayColumn": false,
+              "isWritable": false,
+              "name": "Copypasta."
+            },
+            {
+              "columnId": "c-MAFG-TNeiZ",
+              "description": null,
+              "error": null,
+              "format": {
+                "display": "IconOnly",
+                "type": "link"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Link"
+            }
+          ],
+          "name": "Meetings",
+          "pageUri": "pages/section-HPb10opxmi",
+          "rowCount": 158,
+          "tableUri": "tables/grid-O8e6yxDvz5",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-HPb10opxmi",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [
+                  "c-1821xYlty_"
+                ],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-_kR_czMF9u"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-1821xYlty_",
+                "c-xZ5GN71GGG",
+                "c-2ZwvUVWvUQ",
+                "c-PX-0lySGNb",
+                "c-MAFG-TNeiZ"
+              ],
+              "pageUri": "pages/section-HPb10opxmi",
+              "personalFilterColumns": [],
+              "sorts": [
+                {
+                  "columnId": "c-2ZwvUVWvUQ",
+                  "direction": "descending"
+                }
+              ],
+              "tableUri": "pages/section-HPb10opxmi/tables/grid-O8e6yxDvz5",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-HPb10opxmi/tables/grid-O8e6yxDvz5/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-HPb10opxmi",
+          "columns": [
+            {
+              "columnId": "c-2ZwvUVWvUQ",
+              "description": null,
+              "error": null,
+              "format": {
+                "format": "DEFAULT",
+                "type": "dp"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Date"
+            },
+            {
+              "columnId": "c-1821xYlty_",
+              "description": null,
+              "error": null,
+              "format": {
+                "multiple": false,
+                "selectOptions": [
+                  "Language of Wisdom",
+                  "Knowledge Engineering",
+                  "Knowledge Math",
+                  "Interaction Group",
+                  "Living by Wisdom"
+                ],
+                "type": "sl"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Type"
+            },
+            {
+              "columnId": "c-xZ5GN71GGG",
+              "description": null,
+              "error": null,
+              "format": {
+                "grouping": true,
+                "precision": 22,
+                "type": "num"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Hour UTC"
+            },
+            {
+              "columnId": "c-PX-0lySGNb",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-_kR_czMF9u",
+              "description": null,
+              "error": null,
+              "format": {
+                "displayPreview": true,
+                "messageBuilderProperties": {
+                  "message": {
+                    "type": 2,
+                    "value": "_FormatMessageSlate($$[cell:Global-Message-Templates:MessageTemplate:i-_aRzmhQYle:false:false:], $$[rowColumn:grid-O8e6yxDvz5:c-1821xYlty_::false], $$[rowColumn:grid-O8e6yxDvz5:c-2ZwvUVWvUQ::false], $$[rowColumn:grid-O8e6yxDvz5:c-xZ5GN71GGG::false])"
+                  }
+                },
+                "type": "canvas"
+              },
+              "formula": "_FormatMessageSlate(MessageTemplate, Type, Date, [Hour UTC])",
+              "isDisplayColumn": false,
+              "isWritable": false,
+              "name": "Copypasta."
+            },
+            {
+              "columnId": "c-MAFG-TNeiZ",
+              "description": null,
+              "error": null,
+              "format": {
+                "display": "IconOnly",
+                "type": "link"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Link"
+            }
+          ],
+          "name": "Upcoming Meetings",
+          "pageUri": "pages/section-HPb10opxmi",
+          "rowCount": 158,
+          "sourceTableUri": "tables/grid-O8e6yxDvz5",
+          "tableUri": "pages/section-HPb10opxmi/tables/table-FuFa3iwKvT",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-HPb10opxmi",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [
+                  "c-1821xYlty_"
+                ],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-_kR_czMF9u"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-1821xYlty_",
+                "c-xZ5GN71GGG",
+                "c-2ZwvUVWvUQ",
+                "c-PX-0lySGNb",
+                "c-MAFG-TNeiZ"
+              ],
+              "pageUri": "pages/section-HPb10opxmi",
+              "personalFilterColumns": [],
+              "sorts": [
+                {
+                  "columnId": "c-2ZwvUVWvUQ",
+                  "direction": "descending"
+                }
+              ],
+              "tableUri": "pages/section-HPb10opxmi/tables/table-FuFa3iwKvT",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-HPb10opxmi/tables/table-FuFa3iwKvT/views/default"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-HPb10opxmi",
+    "canvasUri": "canvases/canvas-HPb10opxmi",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-8j48_gvDCu",
+        "canvasUri": "canvases/canvas-8j48_gvDCu",
+        "pageId": "section-8j48_gvDCu",
+        "pageUri": "pages/section-8j48_gvDCu",
+        "title": "Knowledge Math ~ Meetings"
+      },
+      {
+        "canvasId": "canvas-RJ7_mwvaib",
+        "canvasUri": "canvases/canvas-RJ7_mwvaib",
+        "pageId": "section-HEfvpl0pDW",
+        "pageUri": "pages/section-HEfvpl0pDW",
+        "title": "Interaction Group ~ Meetings"
+      },
+      {
+        "canvasId": "canvas-i6IfBCcHso",
+        "canvasUri": "canvases/canvas-i6IfBCcHso",
+        "pageId": "section-i6IfBCcHso",
+        "pageUri": "pages/section-i6IfBCcHso",
+        "title": "Language of Wisdom ~ Meetings"
+      },
+      {
+        "canvasId": "canvas--PGsRqsJU7",
+        "canvasUri": "canvases/canvas--PGsRqsJU7",
+        "pageId": "section--PGsRqsJU7",
+        "pageUri": "pages/section--PGsRqsJU7",
+        "title": "Knowledge Engineering ~ Meetings"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708215433.416,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "appointment-reminders",
+    "isHidden": false,
+    "pageId": "section-HPb10opxmi",
+    "pageType": "canvas",
+    "pageUri": "pages/section-HPb10opxmi",
+    "parentPageUri": "pages/section-OJTyxu39sp",
+    "position": 5,
+    "subtitle": "",
+    "title": "Meetings",
+    "updatedAt": 1785265487.819,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

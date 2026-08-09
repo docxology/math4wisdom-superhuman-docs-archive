@@ -1,0 +1,197 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-Cs9A2w6nPA",
+      "content": "\n\n\n\n\n\n---\n\n# Ento-Linguistic Areas\n\nThe table below lists some [https://coda.io/d/_d0SvdI3KSto#_tubPlLy2](https://coda.io/d/_d0SvdI3KSto#_tubPlLy2) where language use can be variously unclear, ambiguous, assumptive, or inappropriate. \n\nPlease feel free to add/edit rows and cells, this is just trying to sketch out a few different areas. \n\nEnto-Linguistic Domains\n\n\n\n",
+      "pageUri": "pages/section-Cs9A2w6nPA",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-Cs9A2w6nPA",
+          "columns": [
+            {
+              "columnId": "c-OZPJ447gLD",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-a5M1C6QnC0",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Summary"
+            },
+            {
+              "columnId": "c-ep6ISvxepn",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes & Resources"
+            }
+          ],
+          "name": "Ento-Linguistic Domains",
+          "pageUri": "pages/section-Cs9A2w6nPA",
+          "rowCount": 6,
+          "tableUri": "tables/grid-TUMlbPlLy2",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-Cs9A2w6nPA",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-OZPJ447gLD",
+                "c-a5M1C6QnC0",
+                "c-ep6ISvxepn"
+              ],
+              "pageUri": "pages/section-Cs9A2w6nPA",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-Cs9A2w6nPA/tables/grid-TUMlbPlLy2",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-Cs9A2w6nPA/tables/grid-TUMlbPlLy2/views/default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "canvasUri": "canvases/canvas-Cs9A2w6nPA",
+      "content": "",
+      "pageUri": "pages/section-Cs9A2w6nPA",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-Cs9A2w6nPA",
+          "columns": [
+            {
+              "columnId": "c-OZPJ447gLD",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-a5M1C6QnC0",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Summary"
+            },
+            {
+              "columnId": "c-ep6ISvxepn",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes & Resources"
+            }
+          ],
+          "name": "Ento-Linguistic Domains",
+          "pageUri": "pages/section-Cs9A2w6nPA",
+          "rowCount": 6,
+          "tableUri": "tables/grid-TUMlbPlLy2",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-Cs9A2w6nPA",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-OZPJ447gLD",
+                "c-a5M1C6QnC0",
+                "c-ep6ISvxepn"
+              ],
+              "pageUri": "pages/section-Cs9A2w6nPA",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-Cs9A2w6nPA/tables/grid-TUMlbPlLy2",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-Cs9A2w6nPA/tables/grid-TUMlbPlLy2/views/default"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-Cs9A2w6nPA",
+    "canvasUri": "canvases/canvas-Cs9A2w6nPA",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-bGQ4QfuNAT",
+        "canvasUri": "canvases/canvas-bGQ4QfuNAT",
+        "pageId": "section-bGQ4QfuNAT",
+        "pageUri": "pages/section-bGQ4QfuNAT",
+        "title": "Wax or the Discovery of Television Among the Bees"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1713372275.351,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "bug",
+    "isHidden": false,
+    "pageId": "section-Cs9A2w6nPA",
+    "pageType": "canvas",
+    "pageUri": "pages/section-Cs9A2w6nPA",
+    "parentPageUri": "pages/section-zBChxYHdB8",
+    "position": 52,
+    "subtitle": "",
+    "title": "Entomology",
+    "updatedAt": 1776953289.007,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

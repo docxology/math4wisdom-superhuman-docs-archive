@@ -1,0 +1,144 @@
+{
+  "descriptor": {
+    "canvasUri": "canvases/canvas-G5EWGLGI6n",
+    "columns": [
+      {
+        "columnId": "c-zRJZwXYhSy",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Thoughts and questions by AK with responses by DAF in the notes!"
+      },
+      {
+        "columnId": "c-HN4gyhBBDA",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Status"
+      },
+      {
+        "columnId": "c-aqkVax7jA7",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      }
+    ],
+    "name": "Ant Questions",
+    "pageUri": "pages/section-G5EWGLGI6n",
+    "rowCount": 18,
+    "tableUri": "tables/grid-GhpzJ7s3AA",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-G5EWGLGI6n",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-zRJZwXYhSy",
+          "c-aqkVax7jA7",
+          "c-HN4gyhBBDA"
+        ],
+        "pageUri": "pages/section-G5EWGLGI6n",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-G5EWGLGI6n/tables/grid-GhpzJ7s3AA",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-G5EWGLGI6n/tables/grid-GhpzJ7s3AA/views/default"
+      }
+    ]
+  },
+  "schema": {
+    "canvasUri": "canvases/canvas-G5EWGLGI6n",
+    "columns": [
+      {
+        "columnId": "c-zRJZwXYhSy",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Thoughts and questions by AK with responses by DAF in the notes!"
+      },
+      {
+        "columnId": "c-HN4gyhBBDA",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Status"
+      },
+      {
+        "columnId": "c-aqkVax7jA7",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      }
+    ],
+    "name": "Ant Questions",
+    "pageUri": "pages/section-G5EWGLGI6n",
+    "rowCount": 18,
+    "tableUri": "tables/grid-GhpzJ7s3AA",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-G5EWGLGI6n",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-zRJZwXYhSy",
+          "c-aqkVax7jA7",
+          "c-HN4gyhBBDA"
+        ],
+        "pageUri": "pages/section-G5EWGLGI6n",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-G5EWGLGI6n/tables/grid-GhpzJ7s3AA",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-G5EWGLGI6n/tables/grid-GhpzJ7s3AA/views/default"
+      }
+    ]
+  },
+  "sourcePages": [
+    "section-G5EWGLGI6n"
+  ],
+  "uri": "superhuman://docs/0SvdI3KSto/tables/grid-GhpzJ7s3AA"
+}

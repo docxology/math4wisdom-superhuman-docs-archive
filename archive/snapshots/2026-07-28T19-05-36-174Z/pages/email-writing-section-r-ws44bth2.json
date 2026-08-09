@@ -1,0 +1,259 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-R-ws44bth2",
+      "content": "\n\nEmail writing table\n\n\n\n[https://coda.io/d/_d0SvdI3KSto/_suCwO2Pw](https://coda.io/d/_d0SvdI3KSto/_suCwO2Pw) \n\n",
+      "pageUri": "pages/section-R-ws44bth2",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-R-ws44bth2",
+          "columns": [
+            {
+              "columnId": "c-uk9U_jNilT",
+              "description": null,
+              "error": null,
+              "format": {
+                "format": "DEFAULT",
+                "type": "dp"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Date"
+            },
+            {
+              "columnId": "c-CUbCAqjHBs",
+              "description": null,
+              "error": null,
+              "format": {
+                "multiple": true,
+                "objectId": "grid-neeyDLw2ig",
+                "type": "lookup"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Written by"
+            },
+            {
+              "columnId": "c-Ap_8ITZdQ0",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Message"
+            },
+            {
+              "columnId": "c-QWORUCyGMc",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Subject"
+            },
+            {
+              "columnId": "c-zbe-hqrcyt",
+              "description": null,
+              "error": null,
+              "format": {
+                "display": "IconOnly",
+                "type": "link"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Archive URL"
+            }
+          ],
+          "name": "Email writing table",
+          "pageUri": "pages/section-R-ws44bth2",
+          "rowCount": 11,
+          "tableUri": "tables/grid-Xxigh3V-5m",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-R-ws44bth2",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-uk9U_jNilT",
+                "c-CUbCAqjHBs",
+                "c-Ap_8ITZdQ0",
+                "c-zbe-hqrcyt",
+                "c-QWORUCyGMc"
+              ],
+              "pageUri": "pages/section-R-ws44bth2",
+              "personalFilterColumns": [],
+              "sorts": [
+                {
+                  "columnId": "c-uk9U_jNilT",
+                  "direction": "descending"
+                }
+              ],
+              "tableUri": "pages/section-R-ws44bth2/tables/grid-Xxigh3V-5m",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-R-ws44bth2/tables/grid-Xxigh3V-5m/views/default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "canvasUri": "canvases/canvas-R-ws44bth2",
+      "content": "",
+      "pageUri": "pages/section-R-ws44bth2",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-R-ws44bth2",
+          "columns": [
+            {
+              "columnId": "c-uk9U_jNilT",
+              "description": null,
+              "error": null,
+              "format": {
+                "format": "DEFAULT",
+                "type": "dp"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Date"
+            },
+            {
+              "columnId": "c-CUbCAqjHBs",
+              "description": null,
+              "error": null,
+              "format": {
+                "multiple": true,
+                "objectId": "grid-neeyDLw2ig",
+                "type": "lookup"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Written by"
+            },
+            {
+              "columnId": "c-Ap_8ITZdQ0",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Message"
+            },
+            {
+              "columnId": "c-QWORUCyGMc",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Subject"
+            },
+            {
+              "columnId": "c-zbe-hqrcyt",
+              "description": null,
+              "error": null,
+              "format": {
+                "display": "IconOnly",
+                "type": "link"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Archive URL"
+            }
+          ],
+          "name": "Email writing table",
+          "pageUri": "pages/section-R-ws44bth2",
+          "rowCount": 11,
+          "tableUri": "tables/grid-Xxigh3V-5m",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-R-ws44bth2",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-uk9U_jNilT",
+                "c-CUbCAqjHBs",
+                "c-Ap_8ITZdQ0",
+                "c-zbe-hqrcyt",
+                "c-QWORUCyGMc"
+              ],
+              "pageUri": "pages/section-R-ws44bth2",
+              "personalFilterColumns": [],
+              "sorts": [
+                {
+                  "columnId": "c-uk9U_jNilT",
+                  "direction": "descending"
+                }
+              ],
+              "tableUri": "pages/section-R-ws44bth2/tables/grid-Xxigh3V-5m",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-R-ws44bth2/tables/grid-Xxigh3V-5m/views/default"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-R-ws44bth2",
+    "canvasUri": "canvases/canvas-R-ws44bth2",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1708284916.475,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "send-mass-email",
+    "isHidden": false,
+    "pageId": "section-R-ws44bth2",
+    "pageType": "canvas",
+    "pageUri": "pages/section-R-ws44bth2",
+    "parentPageUri": "pages/section-VVxywlf3Jt",
+    "position": 23,
+    "subtitle": "",
+    "title": "Email writing",
+    "updatedAt": 1767114751.422,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

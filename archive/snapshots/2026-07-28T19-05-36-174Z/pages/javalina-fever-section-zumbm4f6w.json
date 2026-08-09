@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-zumbM4f6W_",
+      "content": "<columns>\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>",
+      "pageUri": "pages/section-zumbM4f6W_",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-zumbM4f6W_",
+      "content": "",
+      "pageUri": "pages/section-zumbM4f6W_",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-zumbM4f6W_",
+    "canvasUri": "canvases/canvas-zumbM4f6W_",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1750767543.465,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "being-sick",
+    "isHidden": false,
+    "pageId": "section-zumbM4f6W_",
+    "pageType": "canvas",
+    "pageUri": "pages/section-zumbM4f6W_",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 214,
+    "subtitle": "",
+    "title": "Javalina Fever",
+    "updatedAt": 1750774161.21,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

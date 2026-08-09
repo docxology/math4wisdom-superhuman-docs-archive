@@ -1,0 +1,276 @@
+{
+  "descriptor": {
+    "canvasUri": "canvases/canvas-p-8HV-LOe1",
+    "columns": [
+      {
+        "columnId": "c-2ZwvUVWvUQ",
+        "description": null,
+        "error": null,
+        "format": {
+          "format": "DEFAULT",
+          "type": "dp"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Date"
+      },
+      {
+        "columnId": "c-1821xYlty_",
+        "description": null,
+        "error": null,
+        "format": {
+          "multiple": false,
+          "selectOptions": [
+            "Language of Wisdom",
+            "Knowledge Engineering",
+            "Knowledge Math",
+            "Interaction Group",
+            "Living by Wisdom"
+          ],
+          "type": "sl"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Type"
+      },
+      {
+        "columnId": "c-xZ5GN71GGG",
+        "description": null,
+        "error": null,
+        "format": {
+          "grouping": true,
+          "precision": 22,
+          "type": "num"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Hour UTC"
+      },
+      {
+        "columnId": "c-PX-0lySGNb",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "canvas"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      },
+      {
+        "columnId": "c-_kR_czMF9u",
+        "description": null,
+        "error": null,
+        "format": {
+          "displayPreview": true,
+          "messageBuilderProperties": {
+            "message": {
+              "type": 2,
+              "value": "_FormatMessageSlate($$[cell:Global-Message-Templates:MessageTemplate:i-_aRzmhQYle:false:false:], $$[rowColumn:grid-O8e6yxDvz5:c-1821xYlty_::false], $$[rowColumn:grid-O8e6yxDvz5:c-2ZwvUVWvUQ::false], $$[rowColumn:grid-O8e6yxDvz5:c-xZ5GN71GGG::false])"
+            }
+          },
+          "type": "canvas"
+        },
+        "formula": "_FormatMessageSlate(MessageTemplate, Type, Date, [Hour UTC])",
+        "isDisplayColumn": false,
+        "isWritable": false,
+        "name": "Copypasta."
+      },
+      {
+        "columnId": "c-MAFG-TNeiZ",
+        "description": null,
+        "error": null,
+        "format": {
+          "display": "IconOnly",
+          "type": "link"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Link"
+      }
+    ],
+    "name": "Upcoming Meetings View",
+    "pageUri": "pages/section-OJTyxu39sp",
+    "rowCount": 158,
+    "sourceTableUri": "tables/grid-O8e6yxDvz5",
+    "tableUri": "pages/section-OJTyxu39sp/tables/table-MkhCK0l-MZ",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-p-8HV-LOe1",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [
+            "c-1821xYlty_"
+          ],
+          "top": []
+        },
+        "hiddenColumnIds": [
+          "c-_kR_czMF9u"
+        ],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-1821xYlty_",
+          "c-xZ5GN71GGG",
+          "c-2ZwvUVWvUQ",
+          "c-PX-0lySGNb",
+          "c-MAFG-TNeiZ"
+        ],
+        "pageUri": "pages/section-OJTyxu39sp",
+        "personalFilterColumns": [],
+        "sorts": [
+          {
+            "columnId": "c-2ZwvUVWvUQ",
+            "direction": "descending"
+          }
+        ],
+        "tableUri": "pages/section-OJTyxu39sp/tables/table-MkhCK0l-MZ",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-OJTyxu39sp/tables/table-MkhCK0l-MZ/views/default"
+      }
+    ]
+  },
+  "schema": {
+    "canvasUri": "canvases/canvas-HPb10opxmi",
+    "columns": [
+      {
+        "columnId": "c-2ZwvUVWvUQ",
+        "description": null,
+        "error": null,
+        "format": {
+          "format": "DEFAULT",
+          "type": "dp"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Date"
+      },
+      {
+        "columnId": "c-1821xYlty_",
+        "description": null,
+        "error": null,
+        "format": {
+          "multiple": false,
+          "selectOptions": [
+            "Language of Wisdom",
+            "Knowledge Engineering",
+            "Knowledge Math",
+            "Interaction Group",
+            "Living by Wisdom"
+          ],
+          "type": "sl"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Type"
+      },
+      {
+        "columnId": "c-xZ5GN71GGG",
+        "description": null,
+        "error": null,
+        "format": {
+          "grouping": true,
+          "precision": 22,
+          "type": "num"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Hour UTC"
+      },
+      {
+        "columnId": "c-PX-0lySGNb",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "canvas"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      },
+      {
+        "columnId": "c-_kR_czMF9u",
+        "description": null,
+        "error": null,
+        "format": {
+          "displayPreview": true,
+          "type": "canvas"
+        },
+        "formula": "_FormatMessageSlate(MessageTemplate, Type, Date, [Hour UTC])",
+        "isDisplayColumn": false,
+        "isWritable": false,
+        "name": "Copypasta."
+      },
+      {
+        "columnId": "c-MAFG-TNeiZ",
+        "description": null,
+        "error": null,
+        "format": {
+          "display": "IconOnly",
+          "type": "link"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Link"
+      }
+    ],
+    "name": "Meetings",
+    "pageUri": "pages/section-HPb10opxmi",
+    "rowCount": 158,
+    "tableUri": "tables/grid-O8e6yxDvz5",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-HPb10opxmi",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [
+            "c-1821xYlty_"
+          ],
+          "top": []
+        },
+        "hiddenColumnIds": [
+          "c-_kR_czMF9u"
+        ],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-1821xYlty_",
+          "c-xZ5GN71GGG",
+          "c-2ZwvUVWvUQ",
+          "c-PX-0lySGNb",
+          "c-MAFG-TNeiZ"
+        ],
+        "pageUri": "pages/section-HPb10opxmi",
+        "personalFilterColumns": [],
+        "sorts": [
+          {
+            "columnId": "c-2ZwvUVWvUQ",
+            "direction": "descending"
+          }
+        ],
+        "tableUri": "pages/section-HPb10opxmi/tables/grid-O8e6yxDvz5",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-HPb10opxmi/tables/grid-O8e6yxDvz5/views/default"
+      }
+    ]
+  },
+  "sourcePages": [
+    "section--PGsRqsJU7",
+    "section-8j48_gvDCu",
+    "section-HEfvpl0pDW",
+    "section-HPb10opxmi",
+    "section-OJTyxu39sp",
+    "section-i6IfBCcHso"
+  ],
+  "uri": "superhuman://docs/0SvdI3KSto/tables/grid-O8e6yxDvz5"
+}

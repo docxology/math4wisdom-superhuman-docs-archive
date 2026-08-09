@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-n19jOmOXpX",
+      "content": "- Archiving [https://coda.io/d/_d0SvdI3KSto/_su618O5l](https://coda.io/d/_d0SvdI3KSto/_su618O5l) and more. Archiving a living thing & towards ahead. \n\n  - [https://coda.io/d/Education-Knowledge-Engineering_doO72TniKUt/Archives-Checklists_sudtpoN9#_lunBG3D7](https://coda.io/d/Education-Knowledge-Engineering_doO72TniKUt/Archives-Checklists_sudtpoN9#_lunBG3D7)\n\n- ",
+      "pageUri": "pages/section-n19jOmOXpX",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-n19jOmOXpX",
+      "content": "",
+      "pageUri": "pages/section-n19jOmOXpX",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-n19jOmOXpX",
+    "canvasUri": "canvases/canvas-n19jOmOXpX",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1727792157.432,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "archive",
+    "isHidden": false,
+    "pageId": "section-n19jOmOXpX",
+    "pageType": "canvas",
+    "pageUri": "pages/section-n19jOmOXpX",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 92,
+    "subtitle": "",
+    "title": "Archiving",
+    "updatedAt": 1727792162.123,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

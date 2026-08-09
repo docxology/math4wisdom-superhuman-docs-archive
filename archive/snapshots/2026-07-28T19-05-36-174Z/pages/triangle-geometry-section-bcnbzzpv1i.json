@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-bcnBZzpv1I",
+      "content": "[https://www.freelists.org/post/math4wisdom/Would-we-investigate-the-Language-of-Triangle-Geometry](https://www.freelists.org/post/math4wisdom/Would-we-investigate-the-Language-of-Triangle-Geometry)\n\nI am considering studying how meaning arises in triangle  \ngeometry. There is a lot that one can do with a triangle, but then again,  \nthere is only so much you can do with a triangle.  \n[https://en.wikipedia.org/wiki/Triangle](https://en.wikipedia.org/wiki/Triangle)  \nOr so it seems. But there are about 200 Wikipedia articles:  \n[https://en.wikipedia.org/wiki/List_of_triangle_topics](https://en.wikipedia.org/wiki/List_of_triangle_topics)  \nFurthermore, there is a list of 65,000 triangle centers (or notable points)  \nstarting with incenter, centroid, circumcenter, orthocenter, nine-point  \ncenter, and so on...  \n[https://en.wikipedia.org/wiki/Encyclopedia_of_Triangle_Centers](https://en.wikipedia.org/wiki/Encyclopedia_of_Triangle_Centers)  \nThus is it possible to study how this conceptual language evolves from the  \nmost basic concepts.\n\n  \nAs a precalculus teacher in San Diego, and then a tutor in Chicago, I  \ntaught my students fundamental principles such as \"Every right triangle is  \nhalf of a rectangle\" or \"Every triangle is the sum of two right  \ntriangles.\"  These can be used to prove, for example, that the area of a  \ntriangle is 1/2 base times height.  They also formulate pictorial thinking  \n(such as drawing an altitude) which is very much in the spirit of Jere's  \nRelational Symmetry Paradigm.  \n[https://www.math4wisdom.com/files/20231014-Northrop-RelationalSymmetryParadigm.pdf](https://www.math4wisdom.com/files/20231014-Northrop-RelationalSymmetryParadigm.pdf)  \n\nCognitively, I think there are four basic ways to think of triangles - in  \nterms of three paths, three intersecting lines, three angles or sweeping  \nout an oriented area.  Pairs of these ways make for six Mobius  \ntransformations which arise in the Wondrous Wisdom theory of emotion, see  \n\"A Geometry of Moods\"  \n[https://www.math4wisdom.com/wiki/Research/20230311AGeometryOfMoods](https://www.math4wisdom.com/wiki/Research/20230311AGeometryOfMoods)  \n\nTriangles are also key in Buckminster Fuller's [https://coda.io/d/_d0SvdI3KSto/_suQWY5DS](https://coda.io/d/_d0SvdI3KSto/_suQWY5DS) .  \n\n\n---\n\nCircumcenter. — Size (width at maximum) \n\nIn-circle. — Shape\n\n[https://www.perplexity.ai/search/for-equilateral-triangle-what-cQL9fQbJSFWfKMGM0qUrtg](https://www.perplexity.ai/search/for-equilateral-triangle-what-cQL9fQbJSFWfKMGM0qUrtg)",
+      "pageUri": "pages/section-bcnBZzpv1I",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-bcnBZzpv1I",
+      "content": "",
+      "pageUri": "pages/section-bcnBZzpv1I",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-bcnBZzpv1I",
+    "canvasUri": "canvases/canvas-bcnBZzpv1I",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1740424381.317,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "triangle-stroked",
+    "isHidden": false,
+    "pageId": "section-bcnBZzpv1I",
+    "pageType": "canvas",
+    "pageUri": "pages/section-bcnBZzpv1I",
+    "parentPageUri": "pages/section-TsNabWlqVP",
+    "position": 156,
+    "subtitle": "",
+    "title": "Triangle Geometry",
+    "updatedAt": 1748357209.041,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

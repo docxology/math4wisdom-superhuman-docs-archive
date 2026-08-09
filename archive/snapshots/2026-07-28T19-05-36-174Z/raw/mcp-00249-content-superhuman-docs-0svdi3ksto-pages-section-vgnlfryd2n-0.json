@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-vGnLFryD2N"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-vGnLFryD2N\",\"pageUri\":\"pages/section-vGnLFryD2N\",\"content\":\"<columns>\\n.\\n\\n.\\n\\n[https://coda.io/d/_d0SvdI3KSto/_su6voMRD](https://coda.io/d/_d0SvdI3KSto/_su6voMRD) [https://coda.io/d/_d0SvdI3KSto/_suZvS-tm](https://coda.io/d/_d0SvdI3KSto/_suZvS-tm) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n  \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n|||\\n\\n\\n</columns>\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-GeiAUrmO0_",
+      "content": "<columns>\n# [https://coda.io/d/_d0SvdI3KSto/_suQWY5DS](https://coda.io/d/_d0SvdI3KSto/_suQWY5DS)  \nNeeds  \nYOU! \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "pageUri": "pages/section-GeiAUrmO0_",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-GeiAUrmO0_",
+      "content": "",
+      "pageUri": "pages/section-GeiAUrmO0_",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-GeiAUrmO0_",
+    "canvasUri": "canvases/canvas-GeiAUrmO0_",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1737932610.232,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "connection-sync",
+    "isHidden": false,
+    "pageId": "section-GeiAUrmO0_",
+    "pageType": "canvas",
+    "pageUri": "pages/section-GeiAUrmO0_",
+    "parentPageUri": "pages/section-d4ItjkjzR-",
+    "position": 142,
+    "subtitle": "",
+    "title": "Synergetics Needs You!",
+    "updatedAt": 1738070570.864,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-JPdrgy1mzW"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-JPdrgy1mzW\",\"pageUri\":\"pages/section-JPdrgy1mzW\",\"content\":\"\\n\\n<columns>\\n[https://coda.io/d/_d0SvdI3KSto/_suQWY5DS](https://coda.io/d/_d0SvdI3KSto/_suQWY5DS) 524.01  — We experience events and no-events. Ergo, we invent *novent.* Novents characterize the finite but nonsensorial remote masses' interattraction, i.e., the gravitational continuum.\\n\\n\\n\\n\\n\\n[https://rwgrayprojects.com/synergetics/s05/p2400.html](https://rwgrayprojects.com/synergetics/s05/p2400.html)\\n\\n\\n\\n\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suZ04FNc](https://coda.io/d/_d0SvdI3KSto/_suZ04FNc) \\n\\n\\n\\n\\n\\n\\n\\nThis isn’t a ____\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\nNoventober  \\n“This is not a month”  \\nA time outside of time/space\\n\\n\\n\\n\\n\\n\\n\\nAction and Non-Action\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\nA playful time\\n\\n\\n\\nThe secret 13th month (12 around 1)\\n\\n\\n\\n\\n\\n[https://coda.io/d/_d0SvdI3KSto/_sukEMePc](https://coda.io/d/_d0SvdI3KSto/_sukEMePc) // [https://coda.io/d/_d0SvdI3KSto/_su2QoeDU](https://coda.io/d/_d0SvdI3KSto/_su2QoeDU) \\n\\n\\n\\n\\n\\n\\n\\n[https://coda.io/d/_d0SvdI3KSto/_su2QoeDU](https://coda.io/d/_d0SvdI3KSto/_su2QoeDU) \\n\\n[https://coda.io/d/_d0SvdI3KSto/_suM-62GQ](https://coda.io/d/_d0SvdI3KSto/_suM-62GQ) \\n\\n\\n\\n\\n\\n|||\\n\\nA time when nothing happens:\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nA relaxing time for [https://coda.io/d/_d0SvdI3KSto/_suMdl6PD](https://coda.io/d/_d0SvdI3KSto/_suMdl6PD) \\n\\n\\n\\n\\n\\nNovember in [https://coda.io/d/_d0SvdI3KSto/_suYih-tF](https://coda.io/d/_d0SvdI3KSto/_suYih-tF) \\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

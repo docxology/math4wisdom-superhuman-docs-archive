@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-PMQekmqEH3",
+      "content": "<columns>\n\n\n[https://www.theverge.com/2025/1/1/24330191/popeye-tintin-head-2025-public-domain](https://www.theverge.com/2025/1/1/24330191/popeye-tintin-head-2025-public-domain)\n\nIt’s a new year, and that means more works are headed to the public domain. This year, thousands of copyrighted works created in 1929, including the earliest versions of Popeye and the Belgian comic book character Tintin, are now free to reuse and repurpose in the US.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\nThese are just some of the works entering the public domain this year (you can view the [full catalog here](https://onlinebooks.library.upenn.edu/cce/to1949.html#y1929)):\n\n- *The Skeleton Dance* from Disney’s Silly Symphonies short film series\n- Alfred Hitchcock’s first sound film *Blackmail*\n- Nacio Herb Brown’s *Singin’ in the Rain* and the film it appeared in, *The Hollywood Revue of 1929*\n- *On With the Show*, the first all-talking feature-length film in color\n- William Faulkner’s *The Sound and the Fury*\n- Agatha Christie’s *Seven Dials Mystery*\n- Ernest Hemingway’s *A Farewell to Arms*\n- Virginia Woolf’s *A Room of One’s Own*\n- Various works from Salvador Dali, including *Illumined Pleasures*, *The Accommodations of Desire*, and *The Great Masturbator*\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n# \"TINTIN IN THE LAND OF THE SOVIETS\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n\n\n",
+      "pageUri": "pages/section-PMQekmqEH3",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-PMQekmqEH3",
+      "content": "",
+      "pageUri": "pages/section-PMQekmqEH3",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-PMQekmqEH3",
+    "canvasUri": "canvases/canvas-PMQekmqEH3",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1735822206.553,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "paragraph",
+    "isHidden": false,
+    "pageId": "section-PMQekmqEH3",
+    "pageType": "canvas",
+    "pageUri": "pages/section-PMQekmqEH3",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 129,
+    "subtitle": "",
+    "title": "Post-Copyright (Tintin in the Land of the Soviets)",
+    "updatedAt": 1736348922.001,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

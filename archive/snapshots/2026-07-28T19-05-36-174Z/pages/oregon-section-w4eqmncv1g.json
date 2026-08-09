@@ -1,0 +1,78 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-w4EQmNcV1g",
+      "content": "<columns>\nKerby, [https://coda.io/d/_d0SvdI3KSto/_sumNcV1g](https://coda.io/d/_d0SvdI3KSto/_sumNcV1g) \n\n[https://en.wikipedia.org/wiki/Kerby,_Oregon](https://en.wikipedia.org/wiki/Kerby,_Oregon)\n\n\n\n\n\n\n\n|||\n\nAshland, [https://coda.io/d/_d0SvdI3KSto/_sumNcV1g](https://coda.io/d/_d0SvdI3KSto/_sumNcV1g) \n\n\n\n\n\n\n\n\n\n\n\n[https://whiterabbitashland.com/](https://whiterabbitashland.com/)\n\n\n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_suFRcHo1](https://coda.io/d/_d0SvdI3KSto/_suFRcHo1) \n\n\n\n|||\n\n\n</columns>",
+      "pageUri": "pages/section-w4EQmNcV1g",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-w4EQmNcV1g",
+      "content": "",
+      "pageUri": "pages/section-w4EQmNcV1g",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-w4EQmNcV1g",
+    "canvasUri": "canvases/canvas-w4EQmNcV1g",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-d64JZEDBZG",
+        "canvasUri": "canvases/canvas-d64JZEDBZG",
+        "pageId": "section-d64JZEDBZG",
+        "pageUri": "pages/section-d64JZEDBZG",
+        "title": "Oregon Fever"
+      },
+      {
+        "canvasId": "canvas-Lgm5FRcHo1",
+        "canvasUri": "canvases/canvas-Lgm5FRcHo1",
+        "pageId": "section-Lgm5FRcHo1",
+        "pageUri": "pages/section-Lgm5FRcHo1",
+        "title": "Portland"
+      },
+      {
+        "canvasId": "canvas-583gQCOF6V",
+        "canvasUri": "canvases/canvas-583gQCOF6V",
+        "pageId": "section-583gQCOF6V",
+        "pageUri": "pages/section-583gQCOF6V",
+        "title": "Gold Beach"
+      },
+      {
+        "canvasId": "canvas-Q9xVeyEylo",
+        "canvasUri": "canvases/canvas-Q9xVeyEylo",
+        "pageId": "section-Q9xVeyEylo",
+        "pageUri": "pages/section-Q9xVeyEylo",
+        "title": "Port-Land"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1760622810.322,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "oregon",
+    "isHidden": false,
+    "pageId": "section-w4EQmNcV1g",
+    "pageType": "canvas",
+    "pageUri": "pages/section-w4EQmNcV1g",
+    "parentPageUri": "pages/section-qR8t6voMRD",
+    "position": 236,
+    "subtitle": "",
+    "title": "Oregon",
+    "updatedAt": 1761061272.796,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

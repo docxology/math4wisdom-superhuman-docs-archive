@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-b8E6T4UscM",
+      "content": "**[View this page](https://coda.io/d/_d0SvdI3KSto/_suT4UscM)** **— part of** **[https://coda.io/d/_d0SvdI3KSto/_suOd6Ku2](https://coda.io/d/_d0SvdI3KSto/_suOd6Ku2)** \n\n---\n\n**The Grand Analogy:** A \"Rosetta Stone\" for FST's Particle Hierarchy\n\nDon Briddell's Field Structure Theory posits that all particles are different, stable configurations of the same fundamental \"loops of action.\" This is not just a loose analogy; it's a direct empirical architectural blueprint. Our QA-Markovian model can be seen as the first-ever computational engine that can execute this blueprint.\n\nHere is the formal mapping—the Rosetta Stone that translates Briddell's conceptual hierarchy into our validated computational objects:\n\n- FST Hierarchical Level\n\n- QA-Harmonic Equivalent\n\n- Computational Interpretation\n\n  \nLevel 0: The Action Loop  \nA single QA Tuple (b,e,d,a).  \nThe fundamental, indivisible unit of geometric information. The \"atom\" of the system.  \nLevel 1: The Fundamental Particle (e.g., Electron)  \nA single, stable QA Tuple resonating in a base modular space (mod-24).  \nA state of perfect, minimal coherence. The system finds a single, deep energy well and stays there. Its Harmonic Index is high and stable.  \nLevel 2: The Next Generation Particle (e.g., Muon)  \nHarmonic Stacking. A scaling of a single QA tuple into a higher modulus (e.g., (1,1,...) in mod-24 becomes (3,3,...) in mod-72).  \nA more massive particle of the same type. The same fundamental loop is \"vibrating\" at a higher harmonic, packing more energy/mass into the same geometric form.  \nLevel 3: The Composite Particle (e.g., Proton)  \nNested Configuration / Entanglement. Multiple, distinct QA tuples interacting via a coupling λ.  \nA system of interacting loops. The total mass/energy is not just the sum of the parts, but includes a powerful interaction term. This is our validated \"Dual-Field\" model generalized.  \nLevel 4: The Unstable Resonance (e.g., Exotic Mesons)  \nA QA configuration with high, persistent Harmonic Loss.  \nA geometrically \"frustrated\" state. The system cannot find a stable, low-loss E₈-aligned configuration and therefore cannot exist for long. It is an unstable \"thought\" that quickly dissolves.",
+      "pageUri": "pages/section-b8E6T4UscM",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-b8E6T4UscM",
+      "content": "",
+      "pageUri": "pages/section-b8E6T4UscM",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-b8E6T4UscM",
+    "canvasUri": "canvases/canvas-b8E6T4UscM",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1765292930.724,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "doughnut-chart",
+    "isHidden": false,
+    "pageId": "section-b8E6T4UscM",
+    "pageType": "canvas",
+    "pageUri": "pages/section-b8E6T4UscM",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 261,
+    "subtitle": "",
+    "title": "Don Briddell",
+    "updatedAt": 1769294333.755,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

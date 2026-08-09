@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-gjyuMRoZbb",
+      "content": "Markus Patz\n\n[https://www.e-c-o.net/wiki/Econet/SyntropicFinance](https://www.e-c-o.net/wiki/Econet/SyntropicFinance)\n\nSyntroFi is a term that was coined by [Marcus Petz](https://www.e-c-o.net/wiki/Econet/MarcusPetz) based on his observations of the work of [Diogo Jorge](https://www.e-c-o.net/wiki/Econet/DiogoJorge) and experiences at the CoFi Week in Belgium. He presented the idea in a paper given at the RAMICS Rome conference in November 2024. [Stephanie Rearick](https://www.e-c-o.net/wiki/Econet/StephanieRearick) of HUMANS has expressed an interest in developing the concept.\n\n  \n[https://www.youtube.com/watch?v=AiHkChcVwx4](https://www.youtube.com/watch?v=AiHkChcVwx4) Joe Brewer's Bioregional Learning Centres\n\n[https://www.researchgate.net/publication/359863524_Nomadtown_Manifesting_the_Global_Village_Hypothesis_A_Case_Study_of_a_Rural_Resilience_Hub_Within_an_Educational_Milieu_in_North_Karelia_Finland](https://www.researchgate.net/publication/359863524_Nomadtown_Manifesting_the_Global_Village_Hypothesis_A_Case_Study_of_a_Rural_Resilience_Hub_Within_an_Educational_Milieu_in_North_Karelia_Finland)\n\nNomadtown, Manifesting the Global Village Hypothesis: A Case Study of a Rural Resilience Hub Within an Educational Milieu in North Karelia, Finland\n\nMarcus Kit Petz\n\n[https://coda.io/d/_d0SvdI3KSto/_sul409wL](https://coda.io/d/_d0SvdI3KSto/_sul409wL) ",
+      "pageUri": "pages/section-gjyuMRoZbb",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-gjyuMRoZbb",
+      "content": "",
+      "pageUri": "pages/section-gjyuMRoZbb",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-gjyuMRoZbb",
+    "canvasUri": "canvases/canvas-gjyuMRoZbb",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1733844914.291,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "summer",
+    "isHidden": false,
+    "pageId": "section-gjyuMRoZbb",
+    "pageType": "canvas",
+    "pageUri": "pages/section-gjyuMRoZbb",
+    "parentPageUri": "pages/section-jTvb1q7GrP",
+    "position": 124,
+    "subtitle": "",
+    "title": "Syntropic Finance",
+    "updatedAt": 1733845607.071,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

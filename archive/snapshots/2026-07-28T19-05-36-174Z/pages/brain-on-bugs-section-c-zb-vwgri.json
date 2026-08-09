@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-C-ZB-Vwgri",
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_su2w6nPA](https://coda.io/d/_d0SvdI3KSto/_su2w6nPA) // [https://coda.io/d/_d0SvdI3KSto/_suctBzyW](https://coda.io/d/_d0SvdI3KSto/_suctBzyW) // [https://coda.io/d/_d0SvdI3KSto/_suMEu9L_](https://coda.io/d/_d0SvdI3KSto/_suMEu9L_) \n\n<columns>\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n</columns>",
+      "pageUri": "pages/section-C-ZB-Vwgri",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-C-ZB-Vwgri",
+      "content": "",
+      "pageUri": "pages/section-C-ZB-Vwgri",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-C-ZB-Vwgri",
+    "canvasUri": "canvases/canvas-C-ZB-Vwgri",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1749579396.315,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "brain",
+    "isHidden": false,
+    "pageId": "section-C-ZB-Vwgri",
+    "pageType": "canvas",
+    "pageUri": "pages/section-C-ZB-Vwgri",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 203,
+    "subtitle": "",
+    "title": "Brain on Bugs",
+    "updatedAt": 1749652719.887,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

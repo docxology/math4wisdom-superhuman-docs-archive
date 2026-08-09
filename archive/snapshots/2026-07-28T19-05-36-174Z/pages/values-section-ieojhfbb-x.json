@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-iEoJhFBB-X",
+      "content": "",
+      "pageUri": "pages/section-iEoJhFBB-X",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-iEoJhFBB-X",
+    "canvasUri": "canvases/canvas-iEoJhFBB-X",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1709651840.025,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "exposure-value",
+    "isHidden": false,
+    "pageId": "section-iEoJhFBB-X",
+    "pageType": "canvas",
+    "pageUri": "pages/section-iEoJhFBB-X",
+    "parentPageUri": "pages/section-TlXiK6xxww",
+    "position": 35,
+    "subtitle": "",
+    "title": "Values",
+    "updatedAt": 1709651842.347,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

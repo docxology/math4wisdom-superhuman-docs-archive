@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section--HOk4SCTvL"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas--HOk4SCTvL\",\"pageUri\":\"pages/section--HOk4SCTvL\",\"content\":\"[https://alexandrefamilyfarm.com/](https://alexandrefamilyfarm.com/)\\n\\n<columns>\\n\\n\\n|||\\n\\n\\n\\n4th of July, 2026, in [https://coda.io/d/_d0SvdI3KSto/_sue_CQH-](https://coda.io/d/_d0SvdI3KSto/_sue_CQH-) \\n\\n|||\\n\\n\\n\\n|||\\n\\n\\n</columns>\\n\\n---\\n\\nRikuzentakata. \\n\\n<columns>\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n</columns>\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-5zT80eIZzY",
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_sukjaJUF](https://coda.io/d/_d0SvdI3KSto/_sukjaJUF) \n\n",
+      "pageUri": "pages/section-5zT80eIZzY",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-5zT80eIZzY",
+      "content": "",
+      "pageUri": "pages/section-5zT80eIZzY",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-5zT80eIZzY",
+    "canvasUri": "canvases/canvas-5zT80eIZzY",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1732634722.996,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "fish",
+    "isHidden": false,
+    "pageId": "section-5zT80eIZzY",
+    "pageType": "canvas",
+    "pageUri": "pages/section-5zT80eIZzY",
+    "parentPageUri": "pages/section-_9VpkjaJUF",
+    "position": 112,
+    "subtitle": "",
+    "title": "Timberfish",
+    "updatedAt": 1732634733.998,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

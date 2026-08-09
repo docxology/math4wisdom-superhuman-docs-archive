@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-TsNabWlqVP"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-TsNabWlqVP\",\"pageUri\":\"pages/section-TsNabWlqVP\",\"content\":\"\",\"tables\":[{\"canvasUri\":\"canvases/canvas-TsNabWlqVP\",\"tableUri\":\"tables/grid-QtpUFTrwU-\",\"name\":\"Projects Table\",\"pageUri\":\"pages/section-TsNabWlqVP\",\"rowCount\":10,\"columns\":[{\"columnId\":\"c-pImIXirO4_\",\"name\":\"Name\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-s8g-gB04hY\",\"name\":\"Area\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-iRTNNxepmX\",\"name\":\"Project status\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-0ZLAkkbs71\",\"name\":\"Notes\",\"description\":null,\"format\":{\"type\":\"canvas\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-W450uMo77O\",\"name\":\"Status\",\"description\":null,\"format\":{\"type\":\"sl\",\"multiple\":false,\"selectOptions\":[\"Inactive\",\"Active\"]},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-Pjt0yOqzAG\",\"name\":\"People\",\"description\":null,\"format\":{\"type\":\"lookup\",\"objectId\":\"grid-rNrfDMz2q8\",\"multiple\":true},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-TsNabWlqVP\",\"pageUri\":\"pages/section-TsNabWlqVP\",\"tableUri\":\"pages/section-TsNabWlqVP/tables/grid-QtpUFTrwU-\",\"viewUri\":\"pages/section-TsNabWlqVP/tables/grid-QtpUFTrwU-/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[\"c-s8g-gB04hY\"],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[],\"orderedColumnIds\":[\"c-s8g-gB04hY\",\"c-pImIXirO4_\",\"c-iRTNNxepmX\",\"c-0ZLAkkbs71\",\"c-W450uMo77O\",\"c-Pjt0yOqzAG\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

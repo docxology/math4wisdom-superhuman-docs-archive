@@ -1,0 +1,120 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-uUbHYih-tF",
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_suYih-tF](https://coda.io/d/_d0SvdI3KSto/_suYih-tF) as fractal bioregion of [https://coda.io/d/_d0SvdI3KSto/_su6voMRD](https://coda.io/d/_d0SvdI3KSto/_su6voMRD), including [https://coda.io/d/_d0SvdI3KSto/_suYih-tF](https://coda.io/d/_d0SvdI3KSto/_suYih-tF) and adjacent to [https://coda.io/d/_d0SvdI3KSto/_suJCjgXV](https://coda.io/d/_d0SvdI3KSto/_suJCjgXV).\n\n<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n[https://coda.io/d/_d0SvdI3KSto/_sukEMePc](https://coda.io/d/_d0SvdI3KSto/_sukEMePc) \n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "pageUri": "pages/section-uUbHYih-tF",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-uUbHYih-tF",
+      "content": "",
+      "pageUri": "pages/section-uUbHYih-tF",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-uUbHYih-tF",
+    "canvasUri": "canvases/canvas-uUbHYih-tF",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-VNJoNzvA1O",
+        "canvasUri": "canvases/canvas-VNJoNzvA1O",
+        "pageId": "section-VNJoNzvA1O",
+        "pageUri": "pages/section-VNJoNzvA1O",
+        "title": "4D Crescent"
+      },
+      {
+        "canvasId": "canvas-CUgBqxvphm",
+        "canvasUri": "canvases/canvas-CUgBqxvphm",
+        "pageId": "section-CUgBqxvphm",
+        "pageUri": "pages/section-CUgBqxvphm",
+        "title": "Crescent City Citizen's Better Blueberry Bureau (C3B3)"
+      },
+      {
+        "canvasId": "canvas-_cPWtA0e57",
+        "canvasUri": "canvases/canvas-_cPWtA0e57",
+        "pageId": "section-_cPWtA0e57",
+        "pageUri": "pages/section-_cPWtA0e57",
+        "title": "Crescent City CogSec"
+      },
+      {
+        "canvasId": "canvas-NW6ae_CQH-",
+        "canvasUri": "canvases/canvas-NW6ae_CQH-",
+        "pageId": "section-NW6ae_CQH-",
+        "pageUri": "pages/section-NW6ae_CQH-",
+        "title": "Crescent City"
+      },
+      {
+        "canvasId": "canvas-l5aXJCjgXV",
+        "canvasUri": "canvases/canvas-l5aXJCjgXV",
+        "pageId": "section-l5aXJCjgXV",
+        "pageUri": "pages/section-l5aXJCjgXV",
+        "title": "Humboldt"
+      },
+      {
+        "canvasId": "canvas-v88rPtqCLK",
+        "canvasUri": "canvases/canvas-v88rPtqCLK",
+        "pageId": "section-v88rPtqCLK",
+        "pageUri": "pages/section-v88rPtqCLK",
+        "title": "Long, Strange Trip"
+      },
+      {
+        "canvasId": "canvas-5k0aq9VPT1",
+        "canvasUri": "canvases/canvas-5k0aq9VPT1",
+        "pageId": "section-5k0aq9VPT1",
+        "pageUri": "pages/section-5k0aq9VPT1",
+        "title": "Quadruplicate"
+      },
+      {
+        "canvasId": "canvas-FtLLEb6wPu",
+        "canvasUri": "canvases/canvas-FtLLEb6wPu",
+        "pageId": "section-FtLLEb6wPu",
+        "pageUri": "pages/section-FtLLEb6wPu",
+        "title": "Redwood Tarot"
+      },
+      {
+        "canvasId": "canvas-BB4tDWTSCc",
+        "canvasUri": "canvases/canvas-BB4tDWTSCc",
+        "pageId": "section-BB4tDWTSCc",
+        "pageUri": "pages/section-BB4tDWTSCc",
+        "title": "No Law North of the Klamath"
+      },
+      {
+        "canvasId": "canvas-iEQW2Huqsl",
+        "canvasUri": "canvases/canvas-iEQW2Huqsl",
+        "pageId": "section-iEQW2Huqsl",
+        "pageUri": "pages/section-iEQW2Huqsl",
+        "title": "Space Zero"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1749321469.546,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "drupal",
+    "isHidden": false,
+    "pageId": "section-uUbHYih-tF",
+    "pageType": "canvas",
+    "pageUri": "pages/section-uUbHYih-tF",
+    "parentPageUri": "pages/section-qR8t6voMRD",
+    "position": 197,
+    "subtitle": "",
+    "title": "Crescentia",
+    "updatedAt": 1774966488.743,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

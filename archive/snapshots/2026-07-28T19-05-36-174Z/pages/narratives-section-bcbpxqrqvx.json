@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-bcBPXqRqVX",
+      "content": "- Lithuanian folk tales and AK work. \n\n- Narrative unit. \n\n  - M2 — To coerce and create tension with M1. \n\n  - M3 — Intervening one way or another. \n\n- Truths of the World, Truths of the Heart. \n\n  - This gives rise to a topic, this is what Verbalization is about. \n\n  - How could there be tension with one voice? \n\n    - Pattern Languages. Wholeness-preserving transformations. Taking the existing whole and transforming the whole, as life works. \n\n    - Pattern is recurring activity with structuring. Context dependence. Downwards & Upwards spirals, regeneration. \n\n    - Good or Bad in Ecology? Is it bad for X to eat Y? For mass extinction? Humans and what as natural? Mercury poisoning? \n\n    - Krebs Cycle, identify processes such as this, identify that why are about. Could study different models and patterns in Economy. \n\n- Connection with [https://coda.io/d/_d0SvdI3KSto/_suRqOPnN](https://coda.io/d/_d0SvdI3KSto/_suRqOPnN) \n\n  - 8-fold permutation structure\n\n  - Beatitudes & Maslow’s Hierarchy. \n\n  - [https://coda.io/d/_d0SvdI3KSto/_suRqOPnN](https://coda.io/d/_d0SvdI3KSto/_suRqOPnN) \n\n    - M1 — How things come to matter — Argumentation\n\n    - M2 — How does meaning get words — Verbalization \n\n    - M3 — How does events come to happen — Occurrances ",
+      "pageUri": "pages/section-bcBPXqRqVX",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-bcBPXqRqVX",
+      "content": "",
+      "pageUri": "pages/section-bcBPXqRqVX",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-bcBPXqRqVX",
+    "canvasUri": "canvases/canvas-bcBPXqRqVX",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1708215629.831,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "storytelling",
+    "isHidden": false,
+    "pageId": "section-bcBPXqRqVX",
+    "pageType": "canvas",
+    "pageUri": "pages/section-bcBPXqRqVX",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 6,
+    "subtitle": "",
+    "title": "Narratives",
+    "updatedAt": 1728397829.194,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

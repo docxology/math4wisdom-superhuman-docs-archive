@@ -1,0 +1,170 @@
+{
+  "descriptor": {
+    "canvasUri": "canvases/canvas-xAG5jjvM3E",
+    "columns": [
+      {
+        "columnId": "c-eYMo9H7TQG",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Synergetics IVM"
+      },
+      {
+        "columnId": "c-zF7F7V7g5R",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Struppi"
+      },
+      {
+        "columnId": "c-Urv3aiT7pE",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Orthogonal XYZ"
+      },
+      {
+        "columnId": "c-rYg680hlel",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "canvas"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      }
+    ],
+    "name": "Synergetics Namespaces",
+    "pageUri": "pages/section-xAG5jjvM3E",
+    "rowCount": 4,
+    "tableUri": "tables/grid-ye3_3aTyhr",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-xAG5jjvM3E",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-eYMo9H7TQG",
+          "c-zF7F7V7g5R",
+          "c-Urv3aiT7pE",
+          "c-rYg680hlel"
+        ],
+        "pageUri": "pages/section-xAG5jjvM3E",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-xAG5jjvM3E/tables/grid-ye3_3aTyhr",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-xAG5jjvM3E/tables/grid-ye3_3aTyhr/views/default"
+      }
+    ]
+  },
+  "schema": {
+    "canvasUri": "canvases/canvas-xAG5jjvM3E",
+    "columns": [
+      {
+        "columnId": "c-eYMo9H7TQG",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Synergetics IVM"
+      },
+      {
+        "columnId": "c-zF7F7V7g5R",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Struppi"
+      },
+      {
+        "columnId": "c-Urv3aiT7pE",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Orthogonal XYZ"
+      },
+      {
+        "columnId": "c-rYg680hlel",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "canvas"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      }
+    ],
+    "name": "Synergetics Namespaces",
+    "pageUri": "pages/section-xAG5jjvM3E",
+    "rowCount": 4,
+    "tableUri": "tables/grid-ye3_3aTyhr",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-xAG5jjvM3E",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-eYMo9H7TQG",
+          "c-zF7F7V7g5R",
+          "c-Urv3aiT7pE",
+          "c-rYg680hlel"
+        ],
+        "pageUri": "pages/section-xAG5jjvM3E",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-xAG5jjvM3E/tables/grid-ye3_3aTyhr",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-xAG5jjvM3E/tables/grid-ye3_3aTyhr/views/default"
+      }
+    ]
+  },
+  "sourcePages": [
+    "section-xAG5jjvM3E"
+  ],
+  "uri": "superhuman://docs/0SvdI3KSto/tables/grid-ye3_3aTyhr"
+}

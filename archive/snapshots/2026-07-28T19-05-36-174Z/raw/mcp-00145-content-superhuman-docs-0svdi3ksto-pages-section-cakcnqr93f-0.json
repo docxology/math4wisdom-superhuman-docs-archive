@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-CakCNQr93F"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-CakCNQr93F\",\"pageUri\":\"pages/section-CakCNQr93F\",\"content\":\"\\n\\n<columns>\\n#CognitiveBimetalism  \\n#Epistemic #Pragmatic\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suo0BIkP](https://coda.io/d/_d0SvdI3KSto/_suo0BIkP) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n[https://coda.io/d/_d0SvdI3KSto/_sulL70vR](https://coda.io/d/_d0SvdI3KSto/_sulL70vR)  \\n[https://coda.io/d/_d0SvdI3KSto/_suZ04FNc](https://coda.io/d/_d0SvdI3KSto/_suZ04FNc) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\nPragmatic Value is Gold. \\n\\nEpistemic Value is Silver (we love and use this too!)\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\nUnified cognitive accounting paradigm.\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n<columns>\\n# **[Cognicism](https://medium.com/@speakerjohnash/what-is-cognicism-a-glossary-baa55e106900)**\\n\\n**Ŧrust:** Within the cognicism framework Ŧrust represents a form of power and influence that transcends traditional notions of money. While money can accumulate and concentrate power in the hands of a few, Ŧrust operates as a decentralized mechanism that distributes attention and credibility within a community. Ŧrust takes into account factors such as the reliability of sources, their alignment with communal values, and their past performance. At the heart of Ŧrust lies the Iris model, which serves as a communal interface for pooling knowledge and forming direction together. Through the allocation of Ŧrust, the Iris model enables informed decision-making and fosters collaboration rooted in shared wisdom and collective intelligence within the community. It is a democratic value signal regulated by communal oversight, fostering collaboration and ethical decision-making rooted in shared wisdom.\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

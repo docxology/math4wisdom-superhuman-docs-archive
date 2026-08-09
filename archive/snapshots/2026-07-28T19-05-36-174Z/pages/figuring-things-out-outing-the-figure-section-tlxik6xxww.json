@@ -1,0 +1,445 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-TlXiK6xxww",
+      "content": "Existence implies 2\n\nParticipation with 3 modes, doing being thinking\n\nKnowledge with the 4 levels. \n\n— Build towards that, prototyping in [https://coda.io/d/_d0SvdI3KSto/_suSWQ4PS](https://coda.io/d/_d0SvdI3KSto/_suSWQ4PS) . That can be plugged in \n\n\n\nOne Big Table\n\n\n\nView of Big Table\n\n",
+      "pageUri": "pages/section-TlXiK6xxww",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-TlXiK6xxww",
+          "columns": [
+            {
+              "columnId": "c-kuv8AR9oti",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-JGJezd0Ik7",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "2"
+            },
+            {
+              "columnId": "c-FBSJFdoK93",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "3"
+            },
+            {
+              "columnId": "c-zKVdRmL9Ff",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-cYZVDy0Lx7",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "4"
+            }
+          ],
+          "name": "One Big Table",
+          "pageUri": "pages/section-TlXiK6xxww",
+          "rowCount": 4,
+          "tableUri": "tables/grid-0Qbu-hhPzw",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-TlXiK6xxww",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-cYZVDy0Lx7"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-kuv8AR9oti",
+                "c-JGJezd0Ik7",
+                "c-FBSJFdoK93",
+                "c-zKVdRmL9Ff"
+              ],
+              "pageUri": "pages/section-TlXiK6xxww",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-TlXiK6xxww/tables/grid-0Qbu-hhPzw",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-TlXiK6xxww/tables/grid-0Qbu-hhPzw/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-TlXiK6xxww",
+          "columns": [
+            {
+              "columnId": "c-kuv8AR9oti",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-JGJezd0Ik7",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "2"
+            },
+            {
+              "columnId": "c-FBSJFdoK93",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "3"
+            },
+            {
+              "columnId": "c-zKVdRmL9Ff",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-cYZVDy0Lx7",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "4"
+            }
+          ],
+          "name": "View of Big Table",
+          "pageUri": "pages/section-TlXiK6xxww",
+          "rowCount": 4,
+          "sourceTableUri": "tables/grid-0Qbu-hhPzw",
+          "tableUri": "pages/section-TlXiK6xxww/tables/table-OpqUUp5Wwe",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-TlXiK6xxww",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-cYZVDy0Lx7"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-kuv8AR9oti",
+                "c-JGJezd0Ik7",
+                "c-FBSJFdoK93",
+                "c-zKVdRmL9Ff"
+              ],
+              "pageUri": "pages/section-TlXiK6xxww",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-TlXiK6xxww/tables/table-OpqUUp5Wwe",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-TlXiK6xxww/tables/table-OpqUUp5Wwe/views/default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "canvasUri": "canvases/canvas-TlXiK6xxww",
+      "content": "",
+      "pageUri": "pages/section-TlXiK6xxww",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-TlXiK6xxww",
+          "columns": [
+            {
+              "columnId": "c-kuv8AR9oti",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-JGJezd0Ik7",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "2"
+            },
+            {
+              "columnId": "c-FBSJFdoK93",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "3"
+            },
+            {
+              "columnId": "c-zKVdRmL9Ff",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-cYZVDy0Lx7",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "4"
+            }
+          ],
+          "name": "One Big Table",
+          "pageUri": "pages/section-TlXiK6xxww",
+          "rowCount": 4,
+          "tableUri": "tables/grid-0Qbu-hhPzw",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-TlXiK6xxww",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-cYZVDy0Lx7"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-kuv8AR9oti",
+                "c-JGJezd0Ik7",
+                "c-FBSJFdoK93",
+                "c-zKVdRmL9Ff"
+              ],
+              "pageUri": "pages/section-TlXiK6xxww",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-TlXiK6xxww/tables/grid-0Qbu-hhPzw",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-TlXiK6xxww/tables/grid-0Qbu-hhPzw/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-TlXiK6xxww",
+          "columns": [
+            {
+              "columnId": "c-kuv8AR9oti",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-JGJezd0Ik7",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "2"
+            },
+            {
+              "columnId": "c-FBSJFdoK93",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "3"
+            },
+            {
+              "columnId": "c-zKVdRmL9Ff",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-cYZVDy0Lx7",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "4"
+            }
+          ],
+          "name": "View of Big Table",
+          "pageUri": "pages/section-TlXiK6xxww",
+          "rowCount": 4,
+          "sourceTableUri": "tables/grid-0Qbu-hhPzw",
+          "tableUri": "pages/section-TlXiK6xxww/tables/table-OpqUUp5Wwe",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-TlXiK6xxww",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-cYZVDy0Lx7"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-kuv8AR9oti",
+                "c-JGJezd0Ik7",
+                "c-FBSJFdoK93",
+                "c-zKVdRmL9Ff"
+              ],
+              "pageUri": "pages/section-TlXiK6xxww",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-TlXiK6xxww/tables/table-OpqUUp5Wwe",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-TlXiK6xxww/tables/table-OpqUUp5Wwe/views/default"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-TlXiK6xxww",
+    "canvasUri": "canvases/canvas-TlXiK6xxww",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-iEoJhFBB-X",
+        "canvasUri": "canvases/canvas-iEoJhFBB-X",
+        "pageId": "section-iEoJhFBB-X",
+        "pageUri": "pages/section-iEoJhFBB-X",
+        "title": "Values"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1709135506.378,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "tongue-out",
+    "isHidden": false,
+    "pageId": "section-TlXiK6xxww",
+    "pageType": "canvas",
+    "pageUri": "pages/section-TlXiK6xxww",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 33,
+    "subtitle": "",
+    "title": "Figuring Things Out // Outing The Figure",
+    "updatedAt": 1709135752.104,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

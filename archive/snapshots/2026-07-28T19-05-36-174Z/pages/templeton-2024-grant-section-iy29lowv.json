@@ -1,0 +1,257 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-IY29lOwv--",
+      "content": "Drawn from [https://www.math4wisdom.com/wiki/KnowledgeEngineering/ActiveInferenceOfAbsoluteTruth](https://www.math4wisdom.com/wiki/KnowledgeEngineering/ActiveInferenceOfAbsoluteTruth)\n\n[https://www.templeton.org/grants/grant-database](https://www.templeton.org/grants/grant-database)\n\n---\n\n# 8-13-2024 — OFI submitted!!!! 🎉🎉🎉🎉🎉🎉🎉🎉\n\nWe should hear back by October 11, 2024. \n\n\n\nTempleton Grant 2024 question\n\n## Notes\n\n**Topics**\n\n[Books by Sir John Templeton](https://archive.org/search?query=creator%3A\"Templeton%2C+John%2C+1912-2008\")\n\n- [Worldwide Laws of Life. 200 Eternal Spiritual Principles.](https://archive.org/details/worldwidelawsofl0000temp)\n\n- [The Essential Worldwide Laws of Life.](https://archive.org/details/essentialworldwi0000temp)\n\n- Active Inference as framework for exploring epistemological/ontological variations\n\n  - E.g. multiagent setting with over-/under-fitting agents, multiple realities (??) \n\n    - With multiple realities/agents — if they are fully partitioned/isolated, they are embedded and isolated in some unified thing. Or to the extent that they do interact, they are in some single unified thing. Reality is truth. \n\n    - Is there a universal relationship with such a reality? \n\n      - [https://coda.io/d/_d0SvdI3KSto/_suptXYov](https://coda.io/d/_d0SvdI3KSto/_suptXYov) ? Can we use [https://coda.io/d/_d0SvdI3KSto/_suli3zvK](https://coda.io/d/_d0SvdI3KSto/_suli3zvK) and other methods to explore possibilities for cognitive interfaces with reality and truth.  \n\n- Low/High Road — What is the bottom-up/top-down situation, who deemed this? \n\n- Innocence. → Overfitting of Experience is dogmatism. Absolute Truth — Everyone has a window/perspective/view on Absolute Truth that can be developed and expressed (e.g. with non-linear questions like What is your deepest value?). \n\n- Active Inference:\n\n  - Gives two-fold between Experience (M1) and Questions/Uncertainty (M2), opening up the possibility of understanding the relationship (M3).\n\n\n\nCommunity organizing\n\n- Inverted pyramid. \n\n  - People\n\n    - Leader is full-time supported. \n\n    - Equivalent amount split across 5 people (e.g. $5,000/year)\n\n      - Maybe doing some training. \n\n    - Equivalent amount split across 25 people ($1,000/year)\n\n      - Take what you are working \n\n  - Other Institute activities & workshops \n\n  - Overhead = +10%\n\n  - \n\nApplication instructions — \n\n- On August 13th we will:\n\n  - Review any comments on the answers. \n\n  - Review ready-for-submission state, make any last edits or side-notes. \n\n  - Daniel: Log in the application portal, ensure we are all ready to make the transfer. \n\n- August 13th after meeting, or 14th probably — D will upload to the application portal.  ",
+      "pageUri": "pages/section-IY29lOwv--",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-IY29lOwv--",
+          "columns": [
+            {
+              "columnId": "c-iRgioQTepw",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Question"
+            },
+            {
+              "columnId": "c-DQQTXPrgca",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Character limit"
+            },
+            {
+              "columnId": "c--yzC7Zvv5-",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Answer"
+            },
+            {
+              "columnId": "c-nBZI1Atrgl",
+              "description": null,
+              "error": null,
+              "format": {
+                "grouping": true,
+                "precision": 22,
+                "type": "num"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Number"
+            },
+            {
+              "columnId": "c-FwJfgsA_cR",
+              "description": null,
+              "error": null,
+              "format": {
+                "grouping": true,
+                "precision": 22,
+                "type": "num"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Character count"
+            }
+          ],
+          "name": "Templeton Grant 2024 question",
+          "pageUri": "pages/section-IY29lOwv--",
+          "rowCount": 24,
+          "tableUri": "tables/grid-IvIo-ut1Tz",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-IY29lOwv--",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-nBZI1Atrgl",
+                "c-iRgioQTepw",
+                "c-DQQTXPrgca",
+                "c--yzC7Zvv5-",
+                "c-FwJfgsA_cR"
+              ],
+              "pageUri": "pages/section-IY29lOwv--",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-IY29lOwv--/tables/grid-IvIo-ut1Tz",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-IY29lOwv--/tables/grid-IvIo-ut1Tz/views/default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "canvasUri": "canvases/canvas-IY29lOwv--",
+      "content": "",
+      "pageUri": "pages/section-IY29lOwv--",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-IY29lOwv--",
+          "columns": [
+            {
+              "columnId": "c-iRgioQTepw",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Question"
+            },
+            {
+              "columnId": "c-DQQTXPrgca",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Character limit"
+            },
+            {
+              "columnId": "c--yzC7Zvv5-",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Answer"
+            },
+            {
+              "columnId": "c-nBZI1Atrgl",
+              "description": null,
+              "error": null,
+              "format": {
+                "grouping": true,
+                "precision": 22,
+                "type": "num"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Number"
+            },
+            {
+              "columnId": "c-FwJfgsA_cR",
+              "description": null,
+              "error": null,
+              "format": {
+                "grouping": true,
+                "precision": 22,
+                "type": "num"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Character count"
+            }
+          ],
+          "name": "Templeton Grant 2024 question",
+          "pageUri": "pages/section-IY29lOwv--",
+          "rowCount": 24,
+          "tableUri": "tables/grid-IvIo-ut1Tz",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-IY29lOwv--",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-nBZI1Atrgl",
+                "c-iRgioQTepw",
+                "c-DQQTXPrgca",
+                "c--yzC7Zvv5-",
+                "c-FwJfgsA_cR"
+              ],
+              "pageUri": "pages/section-IY29lOwv--",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-IY29lOwv--/tables/grid-IvIo-ut1Tz",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-IY29lOwv--/tables/grid-IvIo-ut1Tz/views/default"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-IY29lOwv--",
+    "canvasUri": "canvases/canvas-IY29lOwv--",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-Ld917eYUSQ",
+        "canvasUri": "canvases/canvas-Ld917eYUSQ",
+        "pageId": "section-Ld917eYUSQ",
+        "pageUri": "pages/section-Ld917eYUSQ",
+        "title": "Draft 8-6-2024 ~ Templeton"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1721743922.471,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "todo-list",
+    "isHidden": false,
+    "pageId": "section-IY29lOwv--",
+    "pageType": "canvas",
+    "pageUri": "pages/section-IY29lOwv--",
+    "parentPageUri": "pages/section-5fRnCB4PRL",
+    "position": 79,
+    "subtitle": "",
+    "title": "Templeton 2024 Grant",
+    "updatedAt": 1724953131.047,
+    "updatedBy": {
+      "email": "admin@activeinference.institute",
+      "name": "Active Inference Institute",
+      "userId": 2353494
+    }
+  }
+}

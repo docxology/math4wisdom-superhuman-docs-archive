@@ -1,0 +1,18 @@
+{
+  "arguments": {
+    "include": [
+      "formats",
+      "views"
+    ],
+    "uri": "superhuman://docs/0SvdI3KSto/tables/grid-jY7ekIYesE"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"table_columns_read\",\"result\":{\"canvasUri\":\"canvases/canvas--PGsRqsJU7\",\"pageUri\":\"pages/section--PGsRqsJU7\",\"tableUri\":\"tables/grid-jY7ekIYesE\",\"name\":\"Copy of Outline\",\"rowCount\":10,\"columns\":[{\"columnId\":\"c-ajrgrVZ4Jd\",\"name\":\"Name\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-fG4JYJuiyt\",\"name\":\"Perspective\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-Y0ZVcSweDy\",\"name\":\"Column 3\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-P3zItpdi3w\",\"name\":\"Notes\",\"description\":null,\"format\":{\"type\":\"canvas\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas--PGsRqsJU7\",\"pageUri\":\"pages/section--PGsRqsJU7\",\"tableUri\":\"pages/section--PGsRqsJU7/tables/grid-jY7ekIYesE\",\"viewUri\":\"pages/section--PGsRqsJU7/tables/grid-jY7ekIYesE/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[\"c-ajrgrVZ4Jd\",\"c-fG4JYJuiyt\",\"c-Y0ZVcSweDy\",\"c-P3zItpdi3w\"],\"orderedColumnIds\":[],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "table_columns_read"
+}

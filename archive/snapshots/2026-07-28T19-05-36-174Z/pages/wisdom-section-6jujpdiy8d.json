@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-6juJPdiY8D",
+      "content": "\n\nWhenever you find yourself on the side of the majority, it is time to reform (or pause and reflect).  \n  \n― **Mark Twain**\n\n\n\n\n\nIt is the mark of an educated mind to be able to entertain a thought without accepting it.  \n  \n― **Aristotle, Metaphysics**\n\n\n\n\n\nThe saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.  \n  \n― **Isaac Asimov**\n\n\n\n\n\nMathematics would certainly have not come into existence if one had known from the beginning that there was in nature no exactly straight line, no actual circle, no absolute magnitude.\n\n― **Friedrich Nietzsche**  \n\n\n\n\nWe are under the illusion that what is peculiar, profound, essential, in our investigation, resides in its trying to grasp the incomparable essence of language. That is, the order existing between the concepts of proposition, word, proof, truth, experience, and so on. This order is a *super* -- order between -- so to speak -- *super* -- concepts. Whereas, of course, if the words \"language\", \"experience\", \"world\", have a use, it must be as humble a one as that of the words \"table\", \"lamp\", \"door\".  (PI 97)\n\n“Language (or thought?) is something unique\" -- this proves to be a superstition (not a mistake!), itself produced by grammatical illusions.\n\nAnd now the impressiveness retreats to these illusions, to the problems. (PI 110)  \n  \n— **Ludwig Wittgenstein**\n\n",
+      "pageUri": "pages/section-6juJPdiY8D",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-6juJPdiY8D",
+      "content": "",
+      "pageUri": "pages/section-6juJPdiY8D",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-6juJPdiY8D",
+    "canvasUri": "canvases/canvas-6juJPdiY8D",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-cI0NhwNl0R",
+        "canvasUri": "canvases/canvas-cI0NhwNl0R",
+        "pageId": "section-cI0NhwNl0R",
+        "pageUri": "pages/section-cI0NhwNl0R",
+        "title": "Sri Aurobindo"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708284143.026,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "star-of-bethlehem",
+    "isHidden": false,
+    "pageId": "section-6juJPdiY8D",
+    "pageType": "canvas",
+    "pageUri": "pages/section-6juJPdiY8D",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 19,
+    "subtitle": "",
+    "title": "Wisdom",
+    "updatedAt": 1713376426.764,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

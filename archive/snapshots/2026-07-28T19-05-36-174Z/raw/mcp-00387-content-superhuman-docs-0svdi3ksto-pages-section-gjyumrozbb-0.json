@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-gjyuMRoZbb"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-gjyuMRoZbb\",\"pageUri\":\"pages/section-gjyuMRoZbb\",\"content\":\"Markus Patz\\n\\n[https://www.e-c-o.net/wiki/Econet/SyntropicFinance](https://www.e-c-o.net/wiki/Econet/SyntropicFinance)\\n\\nSyntroFi is a term that was coined by [Marcus Petz](https://www.e-c-o.net/wiki/Econet/MarcusPetz) based on his observations of the work of [Diogo Jorge](https://www.e-c-o.net/wiki/Econet/DiogoJorge) and experiences at the CoFi Week in Belgium. He presented the idea in a paper given at the RAMICS Rome conference in November 2024. [Stephanie Rearick](https://www.e-c-o.net/wiki/Econet/StephanieRearick) of HUMANS has expressed an interest in developing the concept.\\n\\n  \\n[https://www.youtube.com/watch?v=AiHkChcVwx4](https://www.youtube.com/watch?v=AiHkChcVwx4) Joe Brewer's Bioregional Learning Centres\\n\\n[https://www.researchgate.net/publication/359863524_Nomadtown_Manifesting_the_Global_Village_Hypothesis_A_Case_Study_of_a_Rural_Resilience_Hub_Within_an_Educational_Milieu_in_North_Karelia_Finland](https://www.researchgate.net/publication/359863524_Nomadtown_Manifesting_the_Global_Village_Hypothesis_A_Case_Study_of_a_Rural_Resilience_Hub_Within_an_Educational_Milieu_in_North_Karelia_Finland)\\n\\nNomadtown, Manifesting the Global Village Hypothesis: A Case Study of a Rural Resilience Hub Within an Educational Milieu in North Karelia, Finland\\n\\nMarcus Kit Petz\\n\\n[https://coda.io/d/_d0SvdI3KSto/_sul409wL](https://coda.io/d/_d0SvdI3KSto/_sul409wL) \",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

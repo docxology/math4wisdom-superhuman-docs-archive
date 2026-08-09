@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-2vzaNHOpaM"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-2vzaNHOpaM\",\"pageUri\":\"pages/section-2vzaNHOpaM\",\"content\":\"## [https://coda.io/d/_d0SvdI3KSto/_su618O5l](https://coda.io/d/_d0SvdI3KSto/_su618O5l) \\n\\n- 1st mind = enmeshed in the real world. Raw, direct experience, stepped-in. \\n\\n- 2nd mind → conceptual interaction. Stepped-out and reflection, \\n\\nModeling divisions of everything with [https://coda.io/d/_d0SvdI3KSto/_su_54_O3](https://coda.io/d/_d0SvdI3KSto/_su_54_O3)\\n\\n\\n\\n\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

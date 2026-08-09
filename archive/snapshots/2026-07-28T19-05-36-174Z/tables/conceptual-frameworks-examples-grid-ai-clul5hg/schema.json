@@ -1,0 +1,170 @@
+{
+  "descriptor": {
+    "canvasUri": "canvases/canvas-S2dtbpHvLx",
+    "columns": [
+      {
+        "columnId": "c-gvBtD8cz1h",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Name"
+      },
+      {
+        "columnId": "c-EpJy1yymth",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Column 2"
+      },
+      {
+        "columnId": "c-k9RF288bb9",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Column 3"
+      },
+      {
+        "columnId": "c-o7dApA1DE3",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "canvas"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      }
+    ],
+    "name": "Conceptual frameworks. Examples.",
+    "pageUri": "pages/section-S2dtbpHvLx",
+    "rowCount": 3,
+    "tableUri": "tables/grid-aI-CluL5hg",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-S2dtbpHvLx",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-gvBtD8cz1h",
+          "c-EpJy1yymth",
+          "c-k9RF288bb9",
+          "c-o7dApA1DE3"
+        ],
+        "pageUri": "pages/section-S2dtbpHvLx",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-S2dtbpHvLx/tables/grid-aI-CluL5hg",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-S2dtbpHvLx/tables/grid-aI-CluL5hg/views/default"
+      }
+    ]
+  },
+  "schema": {
+    "canvasUri": "canvases/canvas-S2dtbpHvLx",
+    "columns": [
+      {
+        "columnId": "c-gvBtD8cz1h",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Name"
+      },
+      {
+        "columnId": "c-EpJy1yymth",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Column 2"
+      },
+      {
+        "columnId": "c-k9RF288bb9",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Column 3"
+      },
+      {
+        "columnId": "c-o7dApA1DE3",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "canvas"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      }
+    ],
+    "name": "Conceptual frameworks. Examples.",
+    "pageUri": "pages/section-S2dtbpHvLx",
+    "rowCount": 3,
+    "tableUri": "tables/grid-aI-CluL5hg",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-S2dtbpHvLx",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-gvBtD8cz1h",
+          "c-EpJy1yymth",
+          "c-k9RF288bb9",
+          "c-o7dApA1DE3"
+        ],
+        "pageUri": "pages/section-S2dtbpHvLx",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-S2dtbpHvLx/tables/grid-aI-CluL5hg",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-S2dtbpHvLx/tables/grid-aI-CluL5hg/views/default"
+      }
+    ]
+  },
+  "sourcePages": [
+    "section-S2dtbpHvLx"
+  ],
+  "uri": "superhuman://docs/0SvdI3KSto/tables/grid-aI-CluL5hg"
+}

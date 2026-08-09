@@ -1,0 +1,572 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-S2dtbpHvLx",
+      "content": "\n\nIndividuals\n\n\n\nConceptual frameworks. Examples.\n\n\n\nChemistry. Ways of figuring things out.\n\n",
+      "pageUri": "pages/section-S2dtbpHvLx",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-S2dtbpHvLx",
+          "columns": [
+            {
+              "columnId": "c-N5trRH9gSz",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Individual"
+            },
+            {
+              "columnId": "c-iFSSeEJTTH",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Deepest value"
+            },
+            {
+              "columnId": "c-Xk0w_zCEcG",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Relationship with truth"
+            },
+            {
+              "columnId": "c-XdpKZtCfh_",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            }
+          ],
+          "name": "Individuals",
+          "pageUri": "pages/section-S2dtbpHvLx",
+          "rowCount": 4,
+          "tableUri": "tables/grid-rNrfDMz2q8",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-S2dtbpHvLx",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-N5trRH9gSz",
+                "c-iFSSeEJTTH",
+                "c-Xk0w_zCEcG",
+                "c-XdpKZtCfh_"
+              ],
+              "pageUri": "pages/section-S2dtbpHvLx",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-S2dtbpHvLx/tables/grid-rNrfDMz2q8",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-S2dtbpHvLx/tables/grid-rNrfDMz2q8/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-S2dtbpHvLx",
+          "columns": [
+            {
+              "columnId": "c-6ayaGrKZ98",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-2881GQzL0r",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Column 2"
+            },
+            {
+              "columnId": "c-AvtC3iBoug",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Column 3"
+            },
+            {
+              "columnId": "c-VQsum-6fzi",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            }
+          ],
+          "name": "Chemistry. Ways of figuring things out.",
+          "pageUri": "pages/section-S2dtbpHvLx",
+          "rowCount": 3,
+          "tableUri": "tables/grid-fEceEiVhBF",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-S2dtbpHvLx",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-6ayaGrKZ98",
+                "c-2881GQzL0r",
+                "c-AvtC3iBoug",
+                "c-VQsum-6fzi"
+              ],
+              "pageUri": "pages/section-S2dtbpHvLx",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-S2dtbpHvLx/tables/grid-fEceEiVhBF",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-S2dtbpHvLx/tables/grid-fEceEiVhBF/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-S2dtbpHvLx",
+          "columns": [
+            {
+              "columnId": "c-gvBtD8cz1h",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-EpJy1yymth",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Column 2"
+            },
+            {
+              "columnId": "c-k9RF288bb9",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Column 3"
+            },
+            {
+              "columnId": "c-o7dApA1DE3",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            }
+          ],
+          "name": "Conceptual frameworks. Examples.",
+          "pageUri": "pages/section-S2dtbpHvLx",
+          "rowCount": 3,
+          "tableUri": "tables/grid-aI-CluL5hg",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-S2dtbpHvLx",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-gvBtD8cz1h",
+                "c-EpJy1yymth",
+                "c-k9RF288bb9",
+                "c-o7dApA1DE3"
+              ],
+              "pageUri": "pages/section-S2dtbpHvLx",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-S2dtbpHvLx/tables/grid-aI-CluL5hg",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-S2dtbpHvLx/tables/grid-aI-CluL5hg/views/default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "canvasUri": "canvases/canvas-S2dtbpHvLx",
+      "content": "",
+      "pageUri": "pages/section-S2dtbpHvLx",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-S2dtbpHvLx",
+          "columns": [
+            {
+              "columnId": "c-N5trRH9gSz",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Individual"
+            },
+            {
+              "columnId": "c-iFSSeEJTTH",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Deepest value"
+            },
+            {
+              "columnId": "c-Xk0w_zCEcG",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Relationship with truth"
+            },
+            {
+              "columnId": "c-XdpKZtCfh_",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            }
+          ],
+          "name": "Individuals",
+          "pageUri": "pages/section-S2dtbpHvLx",
+          "rowCount": 4,
+          "tableUri": "tables/grid-rNrfDMz2q8",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-S2dtbpHvLx",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-N5trRH9gSz",
+                "c-iFSSeEJTTH",
+                "c-Xk0w_zCEcG",
+                "c-XdpKZtCfh_"
+              ],
+              "pageUri": "pages/section-S2dtbpHvLx",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-S2dtbpHvLx/tables/grid-rNrfDMz2q8",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-S2dtbpHvLx/tables/grid-rNrfDMz2q8/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-S2dtbpHvLx",
+          "columns": [
+            {
+              "columnId": "c-6ayaGrKZ98",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-2881GQzL0r",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Column 2"
+            },
+            {
+              "columnId": "c-AvtC3iBoug",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Column 3"
+            },
+            {
+              "columnId": "c-VQsum-6fzi",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            }
+          ],
+          "name": "Chemistry. Ways of figuring things out.",
+          "pageUri": "pages/section-S2dtbpHvLx",
+          "rowCount": 3,
+          "tableUri": "tables/grid-fEceEiVhBF",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-S2dtbpHvLx",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-6ayaGrKZ98",
+                "c-2881GQzL0r",
+                "c-AvtC3iBoug",
+                "c-VQsum-6fzi"
+              ],
+              "pageUri": "pages/section-S2dtbpHvLx",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-S2dtbpHvLx/tables/grid-fEceEiVhBF",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-S2dtbpHvLx/tables/grid-fEceEiVhBF/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-S2dtbpHvLx",
+          "columns": [
+            {
+              "columnId": "c-gvBtD8cz1h",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-EpJy1yymth",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Column 2"
+            },
+            {
+              "columnId": "c-k9RF288bb9",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Column 3"
+            },
+            {
+              "columnId": "c-o7dApA1DE3",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            }
+          ],
+          "name": "Conceptual frameworks. Examples.",
+          "pageUri": "pages/section-S2dtbpHvLx",
+          "rowCount": 3,
+          "tableUri": "tables/grid-aI-CluL5hg",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-S2dtbpHvLx",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-gvBtD8cz1h",
+                "c-EpJy1yymth",
+                "c-k9RF288bb9",
+                "c-o7dApA1DE3"
+              ],
+              "pageUri": "pages/section-S2dtbpHvLx",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-S2dtbpHvLx/tables/grid-aI-CluL5hg",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-S2dtbpHvLx/tables/grid-aI-CluL5hg/views/default"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-S2dtbpHvLx",
+    "canvasUri": "canvases/canvas-S2dtbpHvLx",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-B5xtZGkgVG",
+        "canvasUri": "canvases/canvas-B5xtZGkgVG",
+        "pageId": "section-B5xtZGkgVG",
+        "pageUri": "pages/section-B5xtZGkgVG",
+        "title": "Tool Review"
+      },
+      {
+        "canvasId": "canvas-9TRHaEEPT0",
+        "canvasUri": "canvases/canvas-9TRHaEEPT0",
+        "pageId": "section-9TRHaEEPT0",
+        "pageUri": "pages/section-9TRHaEEPT0",
+        "title": "Knowledge Tools"
+      },
+      {
+        "canvasId": "canvas-0w-9GCORpG",
+        "canvasUri": "canvases/canvas-0w-9GCORpG",
+        "pageId": "section-0w-9GCORpG",
+        "pageUri": "pages/section-0w-9GCORpG",
+        "title": "Audio-Visual"
+      },
+      {
+        "canvasId": "canvas-Kri8EcSGnw",
+        "canvasUri": "canvases/canvas-Kri8EcSGnw",
+        "pageId": "section-Kri8EcSGnw",
+        "pageUri": "pages/section-Kri8EcSGnw",
+        "title": "AI"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708215652.075,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "administrative-tools",
+    "isHidden": false,
+    "pageId": "section-S2dtbpHvLx",
+    "pageType": "canvas",
+    "pageUri": "pages/section-S2dtbpHvLx",
+    "parentPageUri": null,
+    "position": 8,
+    "subtitle": "",
+    "title": "Tools",
+    "updatedAt": 1709711507.725,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-b2Ny5Bzcn3"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-b2Ny5Bzcn3\",\"pageUri\":\"pages/section-b2Ny5Bzcn3\",\"content\":\"[https://en.wikipedia.org/wiki/Scopes_trial](https://en.wikipedia.org/wiki/Scopes_trial)\\n\\nBased on the historical context of the Scopes \\\"Monkey Trial\\\" and your interest in abstract patterns, I can suggest a conceptual tetrahedron design that captures the key elements of this landmark case\\n\\nThis geometric reframing reveals how the Scopes Trial represented not just a legal battle, but a fundamental clash between fixed, cubic certainty and tetrahedral transformation in American thought and culture.\\n\\nTetrahedra’s inserted into the Cube to stabilize it (*Mars Invades!)*. \\n\\n<columns>\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n  \\nACLU\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

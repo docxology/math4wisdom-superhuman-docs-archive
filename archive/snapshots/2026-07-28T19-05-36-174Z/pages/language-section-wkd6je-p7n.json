@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-WKd6Je-p7N",
+      "content": "---\n\nNotes by KU: \n\nA major topic in early Steering Committee meetings was “what is language?”, the contention being that one may be overly dependent on words and think wisdom only stems for being verbose, versus handling oneself well in a difficult situation (for example). \n\nMany instances of non-verbal activities that nevertheless require precision and sensitivity were considered.\n\nWhen asking myself “what is language?” I like to start from the memes of “control panel” “dashboard” or “cockpit” (nautical: “bridge”) and to consider the interplay of words, visualizations, needles, dials, diagrams, maps, checklists, buttons, levers, and wheels associated therewith. \n\nTo engage in language is to operate with a shared machinery, some of it quite old and time tested, some of it less tested and newer. We’re free to innovate. We’re free to copy.\n\nToday’s computer and smartphone controller screens likewise traffic in an intermix of text and widgets, icons and emoji, lexical and graphical content, with no strict separation between these two categories. \n\nNor is it clear that, as one raises one’s gaze, from the phone to the crosswalk, cars waiting, pedestrian walk signal flashing, that this shift in attention took one from language (screen based) to not language (reality itself). Language is 3D, not just 2D.\n\nIt’s all language, though modaly mixed, the mix changing over time, with concrete roadways and their sidewalks just as much in the game as plastic credit cards, proper names, billboards, alphanumeric phenomena of any nature. Language includes literal mud and stones, as well as the words “mud” and “stones” (air as well as “air”).\n\nAt bottom, there’s no strict line between a semantic space and phenomena more generally, which is kind of like saying “technology could mean everything”, thereby temporarily erasing the distinction between human versus non-human technology. That might be helpful at times, when considering ants and their divided-labor, storage-minded, high tech civilizations. It’s not “anthropomorphic” to think in those terms; humans rather superstitiously see themselves as “outside the natural order” as if cities are unnatural, while anthills are not. \n\nAnts are mathematicians too (per Keith Devlin)... and engineers.\n\n---\n\nQuotes from *Philosophical Investigations* by Ludwig Wittgenstein\n\n[http://topologicalmedialab.net/xinwei/classes/readings/Wittgenstein/pi_94-138_239-309.html](http://topologicalmedialab.net/xinwei/classes/readings/Wittgenstein/pi_94-138_239-309.html)\n\n",
+      "pageUri": "pages/section-WKd6Je-p7N",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-WKd6Je-p7N",
+      "content": "",
+      "pageUri": "pages/section-WKd6Je-p7N",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-WKd6Je-p7N",
+    "canvasUri": "canvases/canvas-WKd6Je-p7N",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-U-EoN5ay7j",
+        "canvasUri": "canvases/canvas-U-EoN5ay7j",
+        "pageId": "section-U-EoN5ay7j",
+        "pageUri": "pages/section-U-EoN5ay7j",
+        "title": "Ododu"
+      },
+      {
+        "canvasId": "canvas-SLnoNH30Ib",
+        "canvasUri": "canvases/canvas-SLnoNH30Ib",
+        "pageId": "section-SLnoNH30Ib",
+        "pageUri": "pages/section-SLnoNH30Ib",
+        "title": "English"
+      },
+      {
+        "canvasId": "canvas-BSUTP5w1h2",
+        "canvasUri": "canvases/canvas-BSUTP5w1h2",
+        "pageId": "section-BSUTP5w1h2",
+        "pageUri": "pages/section-BSUTP5w1h2",
+        "title": "Case System"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708284164.118,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "language",
+    "isHidden": false,
+    "pageId": "section-WKd6Je-p7N",
+    "pageType": "canvas",
+    "pageUri": "pages/section-WKd6Je-p7N",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 20,
+    "subtitle": "",
+    "title": "Language",
+    "updatedAt": 1713372400.737,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

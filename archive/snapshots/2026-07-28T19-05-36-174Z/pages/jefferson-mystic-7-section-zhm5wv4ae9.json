@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-zhM5Wv4ae9",
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_suMdl6PD](https://coda.io/d/_d0SvdI3KSto/_suMdl6PD) // [https://coda.io/d/_d0SvdI3KSto/_sue_CQH-](https://coda.io/d/_d0SvdI3KSto/_sue_CQH-) // [https://coda.io/d/_d0SvdI3KSto/_suM-62GQ](https://coda.io/d/_d0SvdI3KSto/_suM-62GQ) // [https://coda.io/d/_d0SvdI3KSto/_sulL70vR](https://coda.io/d/_d0SvdI3KSto/_sulL70vR) \n\n<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>",
+      "pageUri": "pages/section-zhM5Wv4ae9",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-zhM5Wv4ae9",
+      "content": "",
+      "pageUri": "pages/section-zhM5Wv4ae9",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-zhM5Wv4ae9",
+    "canvasUri": "canvases/canvas-zhM5Wv4ae9",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1748434019.1,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "earth-element",
+    "isHidden": false,
+    "pageId": "section-zhM5Wv4ae9",
+    "pageType": "canvas",
+    "pageUri": "pages/section-zhM5Wv4ae9",
+    "parentPageUri": "pages/section-LMsXkEMePc",
+    "position": 187,
+    "subtitle": "",
+    "title": "Jefferson Mystic 7",
+    "updatedAt": 1749045897.722,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

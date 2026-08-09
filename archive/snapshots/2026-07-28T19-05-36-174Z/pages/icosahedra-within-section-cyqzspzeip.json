@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-CYQzSpZEiP",
+      "content": "<columns>\n# ICOSAHEDRON WITHIN\n\n[https://kirbyurner.medium.com/hypertoon-scenario-cb067cc38455](https://kirbyurner.medium.com/hypertoon-scenario-cb067cc38455)\n\nStarting from the Cuboctahedron of 2.5, two applications of the S-factor are sufficient to boost the volume to that of the Icosahedron Within. We call it that (IW) because it’s nested within the Octahedron of volume 4, faces flush.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\nAX\n\n \n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n# ",
+      "pageUri": "pages/section-CYQzSpZEiP",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-CYQzSpZEiP",
+      "content": "",
+      "pageUri": "pages/section-CYQzSpZEiP",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-CYQzSpZEiP",
+    "canvasUri": "canvases/canvas-CYQzSpZEiP",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1766949060.368,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "surface",
+    "isHidden": false,
+    "pageId": "section-CYQzSpZEiP",
+    "pageType": "canvas",
+    "pageUri": "pages/section-CYQzSpZEiP",
+    "parentPageUri": "pages/section-Jr6QKvOq4x",
+    "position": 266,
+    "subtitle": "",
+    "title": "Icosahedra Within",
+    "updatedAt": 1766949122.358,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

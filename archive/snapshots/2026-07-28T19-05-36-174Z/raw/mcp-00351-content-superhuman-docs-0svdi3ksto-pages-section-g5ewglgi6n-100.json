@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-G5EWGLGI6n"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"pageUri\":\"pages/section-G5EWGLGI6n\",\"content\":\"\",\"tables\":[{\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"tableUri\":\"tables/grid-GhpzJ7s3AA\",\"name\":\"Ant Questions\",\"pageUri\":\"pages/section-G5EWGLGI6n\",\"rowCount\":18,\"columns\":[{\"columnId\":\"c-zRJZwXYhSy\",\"name\":\"Thoughts and questions by AK with responses by DAF in the notes!\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-HN4gyhBBDA\",\"name\":\"Status\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-aqkVax7jA7\",\"name\":\"Notes\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"pageUri\":\"pages/section-G5EWGLGI6n\",\"tableUri\":\"pages/section-G5EWGLGI6n/tables/grid-GhpzJ7s3AA\",\"viewUri\":\"pages/section-G5EWGLGI6n/tables/grid-GhpzJ7s3AA/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[],\"orderedColumnIds\":[\"c-zRJZwXYhSy\",\"c-aqkVax7jA7\",\"c-HN4gyhBBDA\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

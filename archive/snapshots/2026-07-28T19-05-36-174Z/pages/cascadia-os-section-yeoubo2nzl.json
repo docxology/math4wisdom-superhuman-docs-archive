@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-yEoUBO2NzL",
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_suBO2NzL](https://coda.io/d/_d0SvdI3KSto/_suBO2NzL) is a regional variant of [https://coda.io/d/_d0SvdI3KSto/_suRfidAo](https://coda.io/d/_d0SvdI3KSto/_suRfidAo)  \n\n<columns>\n[TempleOS](https://en.wikipedia.org/wiki/TempleOS) theme\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>",
+      "pageUri": "pages/section-yEoUBO2NzL",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-yEoUBO2NzL",
+      "content": "",
+      "pageUri": "pages/section-yEoUBO2NzL",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-yEoUBO2NzL",
+    "canvasUri": "canvases/canvas-yEoUBO2NzL",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1751987813.206,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "dos",
+    "isHidden": false,
+    "pageId": "section-yEoUBO2NzL",
+    "pageType": "canvas",
+    "pageUri": "pages/section-yEoUBO2NzL",
+    "parentPageUri": "pages/section-qR8t6voMRD",
+    "position": 221,
+    "subtitle": "",
+    "title": "Cascadia OS",
+    "updatedAt": 1752104519.316,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

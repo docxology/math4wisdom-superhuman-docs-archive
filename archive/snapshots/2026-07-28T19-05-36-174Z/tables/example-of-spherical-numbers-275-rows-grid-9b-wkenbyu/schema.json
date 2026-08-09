@@ -1,0 +1,448 @@
+{
+  "descriptor": {
+    "canvasUri": "canvases/canvas-9GD8lN9Ck7",
+    "columns": [
+      {
+        "columnId": "c-0JtPHzEQbE",
+        "description": null,
+        "error": null,
+        "format": {
+          "grouping": true,
+          "precision": 22,
+          "type": "num"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Interval Frequency=F"
+      },
+      {
+        "columnId": "c-JT3d_7Br6S",
+        "description": null,
+        "error": null,
+        "format": {
+          "grouping": true,
+          "precision": 22,
+          "type": "num"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "spheres per edge finger"
+      },
+      {
+        "columnId": "c-WGKBhXUfiH",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "per triangular plane, eye"
+      },
+      {
+        "columnId": "c-7H9IANXR7J",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "per foureyes"
+      },
+      {
+        "columnId": "c-lxeb5xAnzr",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "per eighteyes"
+      },
+      {
+        "columnId": "c-ubdaxtGPt9",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "number of finger-vectors in foureyes of given F"
+      },
+      {
+        "columnId": "c-fLHCgqhIw7",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "number of finger-vectors in eighteyes of given F"
+      },
+      {
+        "columnId": "c-Gt13LJwV5q",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "nucleus/up/down triangle"
+      },
+      {
+        "columnId": "c-mlERY5NVbE",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "spheres per VE/icosa-shell"
+      },
+      {
+        "columnId": "c-jxOY_LPU_V",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "spheres VE total (nucleus has in&outside=2)"
+      },
+      {
+        "columnId": "c-T5eLPkyfLm",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "number of vectors in VE of given F"
+      },
+      {
+        "columnId": "c-3boXLx7tYX",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "number of spheres per hex"
+      },
+      {
+        "columnId": "c-D7j5TrXZM2",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "dozenal values"
+      },
+      {
+        "columnId": "c-90gqdBnx5b",
+        "description": null,
+        "error": null,
+        "format": {
+          "multiple": false,
+          "selectOptions": [
+            "#NAME?",
+            "\n"
+          ],
+          "type": "sl"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "eye spheres"
+      }
+    ],
+    "name": "Example of Spherical Numbers (275 rows)",
+    "pageUri": "pages/section-9GD8lN9Ck7",
+    "rowCount": 277,
+    "tableUri": "tables/grid-9b_wKenBYU",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-9GD8lN9Ck7",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-0JtPHzEQbE",
+          "c-JT3d_7Br6S",
+          "c-WGKBhXUfiH",
+          "c-7H9IANXR7J",
+          "c-lxeb5xAnzr",
+          "c-ubdaxtGPt9",
+          "c-fLHCgqhIw7",
+          "c-Gt13LJwV5q",
+          "c-mlERY5NVbE",
+          "c-jxOY_LPU_V",
+          "c-T5eLPkyfLm",
+          "c-3boXLx7tYX",
+          "c-D7j5TrXZM2",
+          "c-90gqdBnx5b"
+        ],
+        "pageUri": "pages/section-9GD8lN9Ck7",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-9GD8lN9Ck7/tables/grid-9b_wKenBYU",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-9GD8lN9Ck7/tables/grid-9b_wKenBYU/views/default"
+      }
+    ]
+  },
+  "schema": {
+    "canvasUri": "canvases/canvas-9GD8lN9Ck7",
+    "columns": [
+      {
+        "columnId": "c-0JtPHzEQbE",
+        "description": null,
+        "error": null,
+        "format": {
+          "grouping": true,
+          "precision": 22,
+          "type": "num"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Interval Frequency=F"
+      },
+      {
+        "columnId": "c-JT3d_7Br6S",
+        "description": null,
+        "error": null,
+        "format": {
+          "grouping": true,
+          "precision": 22,
+          "type": "num"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "spheres per edge finger"
+      },
+      {
+        "columnId": "c-WGKBhXUfiH",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "per triangular plane, eye"
+      },
+      {
+        "columnId": "c-7H9IANXR7J",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "per foureyes"
+      },
+      {
+        "columnId": "c-lxeb5xAnzr",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "per eighteyes"
+      },
+      {
+        "columnId": "c-ubdaxtGPt9",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "number of finger-vectors in foureyes of given F"
+      },
+      {
+        "columnId": "c-fLHCgqhIw7",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "number of finger-vectors in eighteyes of given F"
+      },
+      {
+        "columnId": "c-Gt13LJwV5q",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "nucleus/up/down triangle"
+      },
+      {
+        "columnId": "c-mlERY5NVbE",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "spheres per VE/icosa-shell"
+      },
+      {
+        "columnId": "c-jxOY_LPU_V",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "spheres VE total (nucleus has in&outside=2)"
+      },
+      {
+        "columnId": "c-T5eLPkyfLm",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "number of vectors in VE of given F"
+      },
+      {
+        "columnId": "c-3boXLx7tYX",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "number of spheres per hex"
+      },
+      {
+        "columnId": "c-D7j5TrXZM2",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "dozenal values"
+      },
+      {
+        "columnId": "c-90gqdBnx5b",
+        "description": null,
+        "error": null,
+        "format": {
+          "multiple": false,
+          "selectOptions": [
+            "#NAME?",
+            "\n"
+          ],
+          "type": "sl"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "eye spheres"
+      }
+    ],
+    "name": "Example of Spherical Numbers (275 rows)",
+    "pageUri": "pages/section-9GD8lN9Ck7",
+    "rowCount": 277,
+    "tableUri": "tables/grid-9b_wKenBYU",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-9GD8lN9Ck7",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-0JtPHzEQbE",
+          "c-JT3d_7Br6S",
+          "c-WGKBhXUfiH",
+          "c-7H9IANXR7J",
+          "c-lxeb5xAnzr",
+          "c-ubdaxtGPt9",
+          "c-fLHCgqhIw7",
+          "c-Gt13LJwV5q",
+          "c-mlERY5NVbE",
+          "c-jxOY_LPU_V",
+          "c-T5eLPkyfLm",
+          "c-3boXLx7tYX",
+          "c-D7j5TrXZM2",
+          "c-90gqdBnx5b"
+        ],
+        "pageUri": "pages/section-9GD8lN9Ck7",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-9GD8lN9Ck7/tables/grid-9b_wKenBYU",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-9GD8lN9Ck7/tables/grid-9b_wKenBYU/views/default"
+      }
+    ]
+  },
+  "sourcePages": [
+    "section-9GD8lN9Ck7"
+  ],
+  "uri": "superhuman://docs/0SvdI3KSto/tables/grid-9b_wKenBYU"
+}

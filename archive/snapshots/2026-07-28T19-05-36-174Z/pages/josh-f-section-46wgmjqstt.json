@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-46WgMJQSTT",
+      "content": "  - **[moss.social](http://moss.social/)** \n\n  - [https://www.uor.foundation/](https://www.uor.foundation/)\n\n",
+      "pageUri": "pages/section-46WgMJQSTT",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-46WgMJQSTT",
+      "content": "",
+      "pageUri": "pages/section-46WgMJQSTT",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-46WgMJQSTT",
+    "canvasUri": "canvases/canvas-46WgMJQSTT",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1771335320.913,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "cello",
+    "isHidden": false,
+    "pageId": "section-46WgMJQSTT",
+    "pageType": "canvas",
+    "pageUri": "pages/section-46WgMJQSTT",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 277,
+    "subtitle": "",
+    "title": "Josh F",
+    "updatedAt": 1771335354.942,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

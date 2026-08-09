@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-GiORITdICd",
+      "content": "See [https://coda.io/d/_d0SvdI3KSto/_sumWz2XL](https://coda.io/d/_d0SvdI3KSto/_sumWz2XL) \n\n<columns>\nOriginal art from KU\n\n\n\n|||\n\nThen DAF made more images below: \n\n\n\n|||\n\n\n\n|||\n\n\n\n\n</columns>\n\n<columns>\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n</columns>\n\n\n\n[More context at Coffee Shops Network](https://coffeeshopsnet.blogspot.com/2024/10/my-private-sky.html)",
+      "pageUri": "pages/section-GiORITdICd",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-GiORITdICd",
+      "content": "",
+      "pageUri": "pages/section-GiORITdICd",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-GiORITdICd",
+    "canvasUri": "canvases/canvas-GiORITdICd",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1728493556.504,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "ai",
+    "isHidden": false,
+    "pageId": "section-GiORITdICd",
+    "pageType": "canvas",
+    "pageUri": "pages/section-GiORITdICd",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 94,
+    "subtitle": "",
+    "title": "Covid Art",
+    "updatedAt": 1737454885.59,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

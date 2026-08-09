@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-9XyyuAmvHD",
+      "content": "",
+      "pageUri": "pages/section-9XyyuAmvHD",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-9XyyuAmvHD",
+    "canvasUri": "canvases/canvas-9XyyuAmvHD",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1743605088.172,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "curtains",
+    "isHidden": false,
+    "pageId": "section-9XyyuAmvHD",
+    "pageType": "canvas",
+    "pageUri": "pages/section-9XyyuAmvHD",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 171,
+    "subtitle": "",
+    "title": "​Curt McNamara",
+    "updatedAt": 1743605089.064,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

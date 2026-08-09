@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-d7O4Mdl6PD"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-d7O4Mdl6PD\",\"pageUri\":\"pages/section-d7O4Mdl6PD\",\"content\":\"[https://worldgame.blogspot.com/2025/05/project-cascadia.html](https://worldgame.blogspot.com/2025/05/project-cascadia.html)\\n\\n---\\n\\n[https://coda.io/d/_d0SvdI3KSto/_su6voMRD](https://coda.io/d/_d0SvdI3KSto/_su6voMRD) + [https://coda.io/d/_d0SvdI3KSto/_suQWY5DS](https://coda.io/d/_d0SvdI3KSto/_suQWY5DS) = [https://coda.io/d/_d0SvdI3KSto/_suMdl6PD](https://coda.io/d/_d0SvdI3KSto/_suMdl6PD)  \\n🇱🇸🇱🇸🇱🇸🇱🇸🇱🇸\\n\\n---\\n\\nAlso see [https://coda.io/d/_d0SvdI3KSto/_suctBzyW](https://coda.io/d/_d0SvdI3KSto/_suctBzyW), [https://coda.io/d/_d0SvdI3KSto/_suYih-tF](https://coda.io/d/_d0SvdI3KSto/_suYih-tF), [https://coda.io/d/_d0SvdI3KSto/_sue_CQH-](https://coda.io/d/_d0SvdI3KSto/_sue_CQH-), [https://coda.io/d/_d0SvdI3KSto/_suNzvA1O](https://coda.io/d/_d0SvdI3KSto/_suNzvA1O), [https://coda.io/d/_d0SvdI3KSto/_suq9VPT1](https://coda.io/d/_d0SvdI3KSto/_suq9VPT1), [https://coda.io/d/_d0SvdI3KSto/_suUrmO0_](https://coda.io/d/_d0SvdI3KSto/_suUrmO0_), [https://coda.io/d/_d0SvdI3KSto/_suAGvuEM](https://coda.io/d/_d0SvdI3KSto/_suAGvuEM), and more ~ \\n\\n<columns>\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n[https://www.redwoods.edu/delnorte/pelicanbay.php](https://www.redwoods.edu/delnorte/pelicanbay.php)\\n\\n|||\\n\\n\\n\\n\\n</columns>\\n\\n<columns>\\n\\n\\n|||\\n\\n\\n\\n|||\\n\\n\\n\\n|||\\n\\n\\n</columns>\\n\\nAdded all above on June 15, 2025\\n\\n---\\n\\n# Below is [https://coda.io/d/_d0SvdI3KSto/_suEcSGnw](https://coda.io/d/_d0SvdI3KSto/_suEcSGnw) [https://coda.io/d/_d0SvdI3KSto/_sumWz2XL](https://coda.io/d/_d0SvdI3KSto/_sumWz2XL)\\n\\n<columns>\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n[https://coda.io/d/_d0SvdI3KSto/_sue_CQH-](https://coda.io/d/_d0SvdI3KSto/_sue_CQH-) \\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

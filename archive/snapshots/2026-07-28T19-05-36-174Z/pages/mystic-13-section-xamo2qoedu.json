@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-xaMo2QoeDU",
+      "content": "<columns>\n\n\n\n\n|||\n\n [https://coda.io/d/_d0SvdI3KSto/_sugy1mzW](https://coda.io/d/_d0SvdI3KSto/_sugy1mzW) \n\n\n\n\n\n\n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_sukEMePc](https://coda.io/d/_d0SvdI3KSto/_sukEMePc) and [https://coda.io/d/_d0SvdI3KSto/_suNzvA1O](https://coda.io/d/_d0SvdI3KSto/_suNzvA1O) \n\n\n\n\n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_su0rfEQa](https://coda.io/d/_d0SvdI3KSto/_su0rfEQa) \n\n\n\n\n</columns>\n\n",
+      "pageUri": "pages/section-xaMo2QoeDU",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-xaMo2QoeDU",
+      "content": "",
+      "pageUri": "pages/section-xaMo2QoeDU",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-xaMo2QoeDU",
+    "canvasUri": "canvases/canvas-xaMo2QoeDU",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1762280681.096,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "calendar-13",
+    "isHidden": false,
+    "pageId": "section-xaMo2QoeDU",
+    "pageType": "canvas",
+    "pageUri": "pages/section-xaMo2QoeDU",
+    "parentPageUri": "pages/section-LMsXkEMePc",
+    "position": 246,
+    "subtitle": "",
+    "title": "Mystic 13",
+    "updatedAt": 1762282131.488,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

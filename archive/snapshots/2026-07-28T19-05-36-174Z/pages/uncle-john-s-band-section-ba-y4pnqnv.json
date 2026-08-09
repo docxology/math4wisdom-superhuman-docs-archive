@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-bA_Y4PNqNV",
+      "content": "<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n### [Uncle John’s Band](https://www.dead.net/song/uncle-johns-band)\n\nWell the first days are the hardest days, don't you worry any more  \n'Cause when life looks like easy street, there is danger at your door  \nThink this through with me, let me know your mind  \nWo-oh, what I want to know is, are you kind?\n\nIt's a buck dancer's choice my friend, better take my advice  \nYou know all the rules by now, and the fire from the ice  \nWill you come with me, won't you come with me?  \nWo-oh, what I want to know, will you come with me?\n\nGod damn, well I declare, have you seen the like?  \nTheir walls are built of cannon balls  \nTheir motto is \"don't\" tread on me\"\n\nCome hear Uncle John's Band, playing to the tide  \nCome with me or go alone  \nHe's come to take his children home\n\nIt's the same story the crow told me, it's the only one he knows  \nLike the morning sun you come and like the wind you go  \nAin't no time to hate, barely time to wait  \nWo-oh, what I want to know, where does the time go?\n\nI live in a silver mine and I call it beggar's tomb  \nI got me a violin and I beg you call the tune  \nAnybody's choice, I can hear your voice  \nWo-oh, what I want to know, how does the song go?\n\nCome hear Uncle John's Band, by the river side  \nGot some things to talk about  \nHere beside the rising tide\n\n\n</columns>",
+      "pageUri": "pages/section-bA_Y4PNqNV",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-bA_Y4PNqNV",
+      "content": "",
+      "pageUri": "pages/section-bA_Y4PNqNV",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-bA_Y4PNqNV",
+    "canvasUri": "canvases/canvas-bA_Y4PNqNV",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1750672567.806,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "jelly-band",
+    "isHidden": false,
+    "pageId": "section-bA_Y4PNqNV",
+    "pageType": "canvas",
+    "pageUri": "pages/section-bA_Y4PNqNV",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 213,
+    "subtitle": "",
+    "title": "Uncle John's Band",
+    "updatedAt": 1750774129.813,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

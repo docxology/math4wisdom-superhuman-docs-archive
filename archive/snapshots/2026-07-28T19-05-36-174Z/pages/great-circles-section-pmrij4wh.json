@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-_-PMrIJ4wh",
+      "content": "- Each great circle like perspective. \n\n- Spinning/Rotating each perspectives, tracing out a sphere. \n\n",
+      "pageUri": "pages/section-_-PMrIJ4wh",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-_-PMrIJ4wh",
+      "content": "",
+      "pageUri": "pages/section-_-PMrIJ4wh",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-_-PMrIJ4wh",
+    "canvasUri": "canvases/canvas-_-PMrIJ4wh",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1737557826.891,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "circled",
+    "isHidden": false,
+    "pageId": "section-_-PMrIJ4wh",
+    "pageType": "canvas",
+    "pageUri": "pages/section-_-PMrIJ4wh",
+    "parentPageUri": "pages/section-SXXoQWY5DS",
+    "position": 136,
+    "subtitle": "",
+    "title": "Great Circles",
+    "updatedAt": 1737559310.888,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

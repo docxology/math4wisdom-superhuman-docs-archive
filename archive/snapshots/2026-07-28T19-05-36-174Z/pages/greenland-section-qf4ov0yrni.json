@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-QF4Ov0yrni",
+      "content": "\n\n<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_suM-62GQ](https://coda.io/d/_d0SvdI3KSto/_suM-62GQ)  + [https://coda.io/d/_d0SvdI3KSto/_suv0yrni](https://coda.io/d/_d0SvdI3KSto/_suv0yrni) + Patagonia + Moon \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>",
+      "pageUri": "pages/section-QF4Ov0yrni",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-QF4Ov0yrni",
+      "content": "",
+      "pageUri": "pages/section-QF4Ov0yrni",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-QF4Ov0yrni",
+    "canvasUri": "canvases/canvas-QF4Ov0yrni",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1749138283.744,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "greentech",
+    "isHidden": false,
+    "pageId": "section-QF4Ov0yrni",
+    "pageType": "canvas",
+    "pageUri": "pages/section-QF4Ov0yrni",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 195,
+    "subtitle": "",
+    "title": "Greenland",
+    "updatedAt": 1749564784.544,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

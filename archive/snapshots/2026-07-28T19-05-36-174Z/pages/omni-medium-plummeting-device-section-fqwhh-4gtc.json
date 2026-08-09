@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-fQWhh-4GTC",
+      "content": "",
+      "pageUri": "pages/section-fQWhh-4GTC",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-fQWhh-4GTC",
+    "canvasUri": "canvases/canvas-fQWhh-4GTC",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1747775106.165,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "submarine",
+    "isHidden": false,
+    "pageId": "section-fQWhh-4GTC",
+    "pageType": "canvas",
+    "pageUri": "pages/section-fQWhh-4GTC",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 180,
+    "subtitle": "",
+    "title": "Omni-Medium Plummeting Device",
+    "updatedAt": 1747775109.473,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

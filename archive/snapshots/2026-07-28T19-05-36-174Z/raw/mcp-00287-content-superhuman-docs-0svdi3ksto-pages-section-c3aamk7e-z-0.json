@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-c3aAMk7E-Z"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-c3aAMk7E-Z\",\"pageUri\":\"pages/section-c3aAMk7E-Z\",\"content\":\"[https://coda.io/d/_d0SvdI3KSto/_suQWY5DS](https://coda.io/d/_d0SvdI3KSto/_suQWY5DS) [https://coda.io/d/_d0SvdI3KSto/_suMk7E-Z](https://coda.io/d/_d0SvdI3KSto/_suMk7E-Z) SynthCore [https://coda.io/d/_d0SvdI3KSto/_suITdICd](https://coda.io/d/_d0SvdI3KSto/_suITdICd) [https://coda.io/d/_d0SvdI3KSto/_sumWz2XL](https://coda.io/d/_d0SvdI3KSto/_sumWz2XL)  \\n\\n\\n\\n<columns>\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

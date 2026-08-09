@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-ijK3LQ3WsM"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-ijK3LQ3WsM\",\"pageUri\":\"pages/section-ijK3LQ3WsM\",\"content\":\"\\n\\n\\n\\nBucky Play in Portland in 2008:\\n\\n[Play Preview](https://flic.kr/s/aHsj1nKewz) (Flickr album)\\n\\n[Opening Night](https://flic.kr/s/aHsj1t9uWz) (Flickr album)\\n\\n[Checking out the Venue](https://flic.kr/s/aHsiYhHaZ3) (Flickr album)\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

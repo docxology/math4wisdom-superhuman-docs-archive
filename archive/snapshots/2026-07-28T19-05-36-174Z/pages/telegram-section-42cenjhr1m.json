@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-42cENJHR1m",
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_suNJHR1m](https://coda.io/d/_d0SvdI3KSto/_suNJHR1m) with Fuller Feedback Systems. ",
+      "pageUri": "pages/section-42cENJHR1m",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-42cENJHR1m",
+      "content": "",
+      "pageUri": "pages/section-42cENJHR1m",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-42cENJHR1m",
+    "canvasUri": "canvases/canvas-42cENJHR1m",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1741789041.378,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "telegram-app",
+    "isHidden": false,
+    "pageId": "section-42cENJHR1m",
+    "pageType": "canvas",
+    "pageUri": "pages/section-42cENJHR1m",
+    "parentPageUri": "pages/section-9TRHaEEPT0",
+    "position": 162,
+    "subtitle": "",
+    "title": "Telegram",
+    "updatedAt": 1741789058.383,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

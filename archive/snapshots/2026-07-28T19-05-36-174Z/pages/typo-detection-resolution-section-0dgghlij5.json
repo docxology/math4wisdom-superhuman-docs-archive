@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas--0DgGhLij5",
+      "content": "<columns>\n[https://content.govdelivery.com/accounts/USNIST/bulletins/3c2fb96](https://content.govdelivery.com/accounts/USNIST/bulletins/3c2fb96)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n[https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture#](https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture#)\n\n\n\n^^^ This template has two typos, DAF emailed them 12/4/2024\n\n# It was fixed in 13 minutes \n\n# \n\n\n\n1/8/2025 —DARPA typo.\n\n\n\nWe could have (are? need?) a......\"National Typo Detection and Resolution Center of Excellence\"\n\n\n\n\n\n \n\n# We look when/how/where others don't - to resolve what others can't.\n\n\n\n\n\n\n\n|||\n\n1/21/2025\n\n[https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/)\n\n\n\nEven fewer supervisors –- 26 percent — are confident that they can remove an employee for poor performance.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "pageUri": "pages/section--0DgGhLij5",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas--0DgGhLij5",
+      "content": "",
+      "pageUri": "pages/section--0DgGhLij5",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas--0DgGhLij5",
+    "canvasUri": "canvases/canvas--0DgGhLij5",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1733347437.013,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "type",
+    "isHidden": false,
+    "pageId": "section--0DgGhLij5",
+    "pageType": "canvas",
+    "pageUri": "pages/section--0DgGhLij5",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 121,
+    "subtitle": "",
+    "title": "Typo Detection & Resolution",
+    "updatedAt": 1748432185.784,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-A2FsRfidAo",
+      "content": "<columns>\n[DAF website page for USA OS](https://coda.io/d/DAF-Website_dt-6TzyMOs_/USA-OS_sul1V8uV)\n\nFor more [https://coda.io/d/_d0SvdI3KSto/_sumWz2XL](https://coda.io/d/_d0SvdI3KSto/_sumWz2XL) , see [https://coda.io/d/_d0SvdI3KSto/_suh7bzFa](https://coda.io/d/_d0SvdI3KSto/_suh7bzFa), [https://coda.io/d/_d0SvdI3KSto/_su6voMRD](https://coda.io/d/_d0SvdI3KSto/_su6voMRD)  etc... \n\n\n\n|||\n\nThe original [https://coda.io/d/_d0SvdI3KSto/_suRfidAo](https://coda.io/d/_d0SvdI3KSto/_suRfidAo) : [https://grunch.net/synergetics/usaos.html](https://grunch.net/synergetics/usaos.html) → \n\n — The original flag.gif →\n\n\n\n|||\n\n\n\n\n</columns>\n\n---\n\n---\n\n---\n\n<columns>\n## Undead Uncle Sam (Grateful Dead + Math)\n\n\n\n   \n\n\n\n\n\n\n\n\n\n|||\n\n## More abstraction\n\n     \n\n\n\n\n\n\n\n\n\n\n\n|||\n\n## Symbolic with Hat\n\n\n\n\n\n\n\n\n\n   \n\n\n\n|||\n\n## More symbolic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n---\n\n<columns>\n\n\n|||\n\n\n\n|||\n\n\n\n|||\n\n\n</columns>\n\n\n\n\n\n\n\n\n\n\n\n\n\n---\n\n<columns>\n[https://coda.io/d/_d0SvdI3KSto/_suWv4ae9](https://coda.io/d/_d0SvdI3KSto/_suWv4ae9) \n\n\n\n\n\n[https://coda.io/d/_d0SvdI3KSto/_sue_CQH-](https://coda.io/d/_d0SvdI3KSto/_sue_CQH-) \n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n</columns>",
+      "pageUri": "pages/section-A2FsRfidAo",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-A2FsRfidAo",
+      "content": "",
+      "pageUri": "pages/section-A2FsRfidAo",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-A2FsRfidAo",
+    "canvasUri": "canvases/canvas-A2FsRfidAo",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-P3tMS5s9Cx",
+        "canvasUri": "canvases/canvas-P3tMS5s9Cx",
+        "pageId": "section-P3tMS5s9Cx",
+        "pageUri": "pages/section-P3tMS5s9Cx",
+        "title": "USA 250"
+      },
+      {
+        "canvasId": "canvas-_oHk1_lyry",
+        "canvasUri": "canvases/canvas-_oHk1_lyry",
+        "pageId": "section-_oHk1_lyry",
+        "pageUri": "pages/section-_oHk1_lyry",
+        "title": "The Next 250"
+      },
+      {
+        "canvasId": "canvas-uVUXG8aRQP",
+        "canvasUri": "canvases/canvas-uVUXG8aRQP",
+        "pageId": "section-uVUXG8aRQP",
+        "pageUri": "pages/section-uVUXG8aRQP",
+        "title": "Rising Sun"
+      },
+      {
+        "canvasId": "canvas-4HmS73elq5",
+        "canvasUri": "canvases/canvas-4HmS73elq5",
+        "pageId": "section-4HmS73elq5",
+        "pageUri": "pages/section-4HmS73elq5",
+        "title": "US Bees"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1727276516.085,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "android-os",
+    "isHidden": false,
+    "pageId": "section-A2FsRfidAo",
+    "pageType": "canvas",
+    "pageUri": "pages/section-A2FsRfidAo",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 90,
+    "subtitle": "",
+    "title": "USA OS",
+    "updatedAt": 1751990146.393,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

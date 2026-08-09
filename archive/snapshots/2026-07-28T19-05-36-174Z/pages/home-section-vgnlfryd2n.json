@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-vGnLFryD2N",
+      "content": "<columns>\n.\n\n.\n\n[https://coda.io/d/_d0SvdI3KSto/_su6voMRD](https://coda.io/d/_d0SvdI3KSto/_su6voMRD) [https://coda.io/d/_d0SvdI3KSto/_suZvS-tm](https://coda.io/d/_d0SvdI3KSto/_suZvS-tm) \n\n\n\n\n\n\n\n\n\n|||\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n|||\n\n\n</columns>",
+      "pageUri": "pages/section-vGnLFryD2N",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-vGnLFryD2N",
+      "content": "",
+      "pageUri": "pages/section-vGnLFryD2N",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-vGnLFryD2N",
+    "canvasUri": "canvases/canvas-vGnLFryD2N",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1781754244.757,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "home-page",
+    "isHidden": false,
+    "pageId": "section-vGnLFryD2N",
+    "pageType": "canvas",
+    "pageUri": "pages/section-vGnLFryD2N",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 303,
+    "subtitle": "",
+    "title": "home",
+    "updatedAt": 1781800959.206,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

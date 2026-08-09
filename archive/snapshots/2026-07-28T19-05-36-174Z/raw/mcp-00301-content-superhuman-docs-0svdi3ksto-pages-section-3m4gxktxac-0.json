@@ -1,0 +1,20 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-3m4gXKTXac"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-3m4gXKTXac\",\"pageUri\":\"pages/section-3m4gXKTXac\",\"content\":\"\\n\\n<columns>\\n- STEAM - PATH - BASKET  \\nAn Eternal Golden Braid \\n\\n\\n\\n|||\\n\\n\\n\\n|||\\n\\n```\\n    S T E A M\\n        B\\n        A\\n    P A T H\\n        K\\n        E\\n        T\\n```\\n\\n\\n\\n|||\\n\\n\\n\\n\\n</columns>\\n\\n<columns>\\n\\n\\n\\n\\n  \\n*“What a STEAM-BASKET!”*\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n- .\\n\\n- .\",\"tables\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

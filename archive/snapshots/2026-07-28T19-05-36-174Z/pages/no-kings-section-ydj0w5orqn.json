@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-Ydj0W5ORQn",
+      "content": "<columns>\nJune 14, 2025. “No Kings” protest day, here is an organizer document for archival purposes: \n\n\n\nSee 10/21/2025 [https://coda.io/d/_d0SvdI3KSto/_suW5ORQn](https://coda.io/d/_d0SvdI3KSto/_suW5ORQn) 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\nAnd [https://coda.io/d/_d0SvdI3KSto/_suW5ORQn](https://coda.io/d/_d0SvdI3KSto/_suW5ORQn) means No Queens? \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "pageUri": "pages/section-Ydj0W5ORQn",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-Ydj0W5ORQn",
+      "content": "",
+      "pageUri": "pages/section-Ydj0W5ORQn",
+      "tables": []
+    }
+  ],
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-Ydj0W5ORQn",
+    "canvasUri": "canvases/canvas-Ydj0W5ORQn",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1749732459.311,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "no-gluten",
+    "isHidden": false,
+    "pageId": "section-Ydj0W5ORQn",
+    "pageType": "canvas",
+    "pageUri": "pages/section-Ydj0W5ORQn",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 205,
+    "subtitle": "",
+    "title": "No Kings",
+    "updatedAt": 1761058134.017,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}
