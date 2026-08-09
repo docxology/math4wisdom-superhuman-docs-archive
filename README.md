@@ -2,6 +2,8 @@
 
 This is a structured, content-addressed archive of the public Math4Wisdom document at <https://docs.superhuman.com/d/Math4Wisdom_d0SvdI3KSto/>. The canonical text, links, page hierarchy, tables, and rows come from the official Superhuman Docs MCP endpoint. Rendered page images are consolidated into one deduplicated inventory, with Coda icon/UI assets pruned; see [IMAGE_COVERAGE.md](IMAGE_COVERAGE.md) for coverage and binary materialization status.
 
+See the [documentation index](docs/README.md) for the archive architecture, reproduction workflow, image-inventory rules, validation gates, security boundary, and maintenance checklist.
+
 ## First use
 
 1. In Superhuman Docs, create a personal access token restricted to MCP and **read-only** access. Configure it in Codex as described in the [official setup guide](https://help.superhuman.com/hc/en-us/articles/46210076980365-Connect-to-the-Superhuman-Docs-MCP).
@@ -43,6 +45,7 @@ The archive boundary is the document, its embedded tables/media, and images visi
 | `npm run dry-run` | Verify the MCP catalog can be mapped safely; writes no snapshot. |
 | `npm run archive` | Capture a new validated snapshot. |
 | `npm run validate [-- path]` | Verify the latest (or named) snapshot's structure and checksums. |
+| `npm run consolidate:images` | Prune UI/tiny image observations and deduplicate the rendered-image inventory. |
 | `npm test` | Run deterministic unit tests without a network or token. |
 
 ## Security and scope
