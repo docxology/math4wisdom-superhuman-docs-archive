@@ -14,6 +14,7 @@
     "dry-run": "npm run build && node dist/src/cli.js dry-run",
     "archive": "npm run build && node dist/src/cli.js archive",
     "archive:rendered-images": "npm run build && node dist/src/rendered-images.js",
+    "consolidate:images": "node scripts/consolidate-image-inventory.mjs",
     "validate": "npm run build && node dist/src/cli.js validate"
   },
   "dependencies": {

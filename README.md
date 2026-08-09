@@ -1,6 +1,6 @@
 # Math4Wisdom Superhuman Docs Archive
 
-This is a structured, content-addressed archive of the public Math4Wisdom document at <https://docs.superhuman.com/d/Math4Wisdom_d0SvdI3KSto/>. The canonical text, links, page hierarchy, tables, and rows come from the official Superhuman Docs MCP endpoint. Rendered page images are inventoried separately from the public rendered page, excluding the Coda icon-library UI path; see [IMAGE_COVERAGE.md](IMAGE_COVERAGE.md) for binary materialization status.
+This is a structured, content-addressed archive of the public Math4Wisdom document at <https://docs.superhuman.com/d/Math4Wisdom_d0SvdI3KSto/>. The canonical text, links, page hierarchy, tables, and rows come from the official Superhuman Docs MCP endpoint. Rendered page images are consolidated into one deduplicated inventory, with Coda icon/UI assets pruned; see [IMAGE_COVERAGE.md](IMAGE_COVERAGE.md) for coverage and binary materialization status.
 
 ## First use
 
@@ -30,7 +30,7 @@ This is a structured, content-addressed archive of the public Math4Wisdom docume
 - The complete page inventory and each page's original MCP result, plus a normalized Markdown view.
 - Each table's original MCP result, rows in JSON, and a lossless CSV representation where nested values are JSON-encoded in cells.
 - MCP-emitted embedded image/media data and URLs, stored locally by SHA-256 content hash.
-- Rendered public-page image occurrences with page IDs, titles, alt text, dimensions, and source URLs. Repeated occurrences point to one content-addressed asset when binary materialization is enabled.
+- A single deduplicated rendered-image inventory with one record per retained source URL, occurrence counts, page references, alt text, and dimensions. Icon/UI assets and measured images at or below 64 px are pruned.
 - A per-snapshot `manifest.json` with source identity, tool plan, inventories, counts, file digests, and media metadata.
 
 The archive boundary is the document, its embedded tables/media, and images visibly rendered inside its public page canvases. Linked external websites are recorded as links but are never crawled.

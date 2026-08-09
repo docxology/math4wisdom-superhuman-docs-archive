@@ -1,3 +1,0 @@
-# Trevor Blake
-
-Joe Moore, created the [https://coda.io/d/_d0SvdI3KSto/_su1nmfT1](https://coda.io/d/_d0SvdI3KSto/_su1nmfT1) archive and passed it to [https://coda.io/d/_d0SvdI3KSto/_suNYVjNk](https://coda.io/d/_d0SvdI3KSto/_suNYVjNk) and passed to Oregon state....

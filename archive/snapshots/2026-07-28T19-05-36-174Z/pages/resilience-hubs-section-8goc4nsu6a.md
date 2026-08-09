@@ -1,3 +1,0 @@
-# Resilience hubs
-
-Connection with [https://coda.io/d/_d0SvdI3KSto/_su0eIZzY](https://coda.io/d/_d0SvdI3KSto/_su0eIZzY), [https://coda.io/d/_d0SvdI3KSto/_sumWz2XL](https://coda.io/d/_d0SvdI3KSto/_sumWz2XL), ...
