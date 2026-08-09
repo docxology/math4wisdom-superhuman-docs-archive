@@ -1,0 +1,144 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-c_uBIPHQ-s",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-c_uBIPHQ-s",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-gY3ASxZcru",
+              "createdAt": 1764619244.426,
+              "reactions": [],
+              "text": "Andrius Kulikauskas check this out, a friend sent me this book (published 2011), and in the first chapter Klemm introduces a “three minds” concept: Non-conscious, Subconscious, and Conscious. \n\nAt least this is interesting for /_suuuuImK and your connection with how you understand the 3 minds. ",
+              "userId": 1119613
+            },
+            {
+              "authorEmail": "math4wisdom@gmail.com",
+              "authorName": "Andrius Kulikauskas",
+              "commentUri": "comments/i-6bq7YlquBu",
+              "createdAt": 1764625348.309,
+              "reactions": [],
+              "text": "Thank you, Daniel!  I have included it in the Theory Translator     I think he is just referring to two of the minds: answering = subconscious and questioning = conscious.",
+              "userId": 2953483
+            }
+          ],
+          "pageUri": "pages/section-c_uBIPHQ-s",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-zsDpGKlz9o"
+        }
+      ],
+      "content": "<columns>\nAtoms of Mind - [https://link.springer.com/book/10.1007/978-94-007-1097-9](https://link.springer.com/book/10.1007/978-94-007-1097-9)\n\n\n\n\n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_suRqOPnN](https://coda.io/d/_d0SvdI3KSto/_suRqOPnN) \n\n\n\n\n\n|||\n\n\n\n|||\n\n\n</columns>\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-c_uBIPHQ-s",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-c_uBIPHQ-s",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-c_uBIPHQ-s",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-gY3ASxZcru",
+              "createdAt": 1764619244.426,
+              "reactions": [],
+              "text": "Andrius Kulikauskas check this out, a friend sent me this book (published 2011), and in the first chapter Klemm introduces a “three minds” concept: Non-conscious, Subconscious, and Conscious. \n\nAt least this is interesting for /_suuuuImK and your connection with how you understand the 3 minds. ",
+              "userId": 1119613
+            },
+            {
+              "authorEmail": "math4wisdom@gmail.com",
+              "authorName": "Andrius Kulikauskas",
+              "commentUri": "comments/i-6bq7YlquBu",
+              "createdAt": 1764625348.309,
+              "reactions": [],
+              "text": "Thank you, Daniel!  I have included it in the Theory Translator     I think he is just referring to two of the minds: answering = subconscious and questioning = conscious.",
+              "userId": 2953483
+            }
+          ],
+          "pageUri": "pages/section-c_uBIPHQ-s",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-zsDpGKlz9o"
+        }
+      ],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-c_uBIPHQ-s",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-c_uBIPHQ-s",
+    "canvasUri": "canvases/canvas-c_uBIPHQ-s",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1764619070.842,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "three-cell-cyclorama-lights",
+    "isHidden": false,
+    "pageId": "section-c_uBIPHQ-s",
+    "pageType": "canvas",
+    "pageUri": "pages/section-c_uBIPHQ-s",
+    "parentPageUri": "pages/section-5uQKRqOPnN",
+    "position": 253,
+    "subtitle": "",
+    "title": "Klemm's Three Minds",
+    "updatedAt": 1764777100.3,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-c_uBIPHQ-s",
+    "canvasUri": "canvases/canvas-c_uBIPHQ-s",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1764619070.842,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "three-cell-cyclorama-lights",
+    "isHidden": false,
+    "pageId": "section-c_uBIPHQ-s",
+    "pageType": "canvas",
+    "pageUri": "pages/section-c_uBIPHQ-s",
+    "parentPageUri": "pages/section-5uQKRqOPnN",
+    "position": 253,
+    "subtitle": "",
+    "title": "Klemm's Three Minds",
+    "updatedAt": 1764777100.3,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-DkJi-HwG3A"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-DkJi-HwG3A\",\"canvasId\":\"canvas-DkJi-HwG3A\",\"title\":\"Burroughs & Gysin's Theory of the Third Mind\",\"canvasUri\":\"canvases/canvas-DkJi-HwG3A\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-DkJi-HwG3A\",\"parentPageUri\":\"pages/section-5uQKRqOPnN\",\"position\":157,\"icon\":\"pirates-of-the-caribbean\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1741128975.815,\"updatedAt\":1741247668.496,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":2953483,\"name\":\"Andrius Kulikauskas\",\"email\":\"math4wisdom@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

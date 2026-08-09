@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-hpnJKbZnKR",
+      "commentThreads": [],
+      "content": "<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-hpnJKbZnKR",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-hpnJKbZnKR",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-hpnJKbZnKR",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-hpnJKbZnKR",
+    "canvasUri": "canvases/canvas-hpnJKbZnKR",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1739375711.946,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "gmail",
+    "isHidden": false,
+    "pageId": "section-hpnJKbZnKR",
+    "pageType": "canvas",
+    "pageUri": "pages/section-hpnJKbZnKR",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 155,
+    "subtitle": "",
+    "title": "Gmail & More",
+    "updatedAt": 1739376845.127,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-hpnJKbZnKR",
+    "canvasUri": "canvases/canvas-hpnJKbZnKR",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1739375711.946,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "gmail",
+    "isHidden": false,
+    "pageId": "section-hpnJKbZnKR",
+    "pageType": "canvas",
+    "pageUri": "pages/section-hpnJKbZnKR",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 155,
+    "subtitle": "",
+    "title": "Gmail & More",
+    "updatedAt": 1739376845.127,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

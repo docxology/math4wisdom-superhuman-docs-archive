@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-0M8u_cv0ui"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-0M8u_cv0ui\",\"pageUri\":\"pages/section-0M8u_cv0ui\",\"content\":\"\\n\\n[https://flic.kr/s/aHsjvadhpC](https://flic.kr/s/aHsjvadhpC)  \\nDavid and Kirby visit Fr. Magnus Wenninger at St. John's Abbey and University, 2011\\n\\nhttps://youtu.be/QUt9zlsP5Xw\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

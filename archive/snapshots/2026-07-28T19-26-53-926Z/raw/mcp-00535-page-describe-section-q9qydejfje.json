@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-Q9qydEJFJE"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-Q9qydEJFJE\",\"canvasId\":\"canvas-Q9qydEJFJE\",\"title\":\"EJ Applewhite\",\"canvasUri\":\"canvases/canvas-Q9qydEJFJE\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-Q9qydEJFJE\",\"parentPageUri\":\"pages/section-0ExtFaOdRJ\",\"position\":80,\"icon\":\"eject\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1721750139.886,\"updatedAt\":1765294397.163,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

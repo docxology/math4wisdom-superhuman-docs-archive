@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-erfTCsR2G3"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-erfTCsR2G3\",\"canvasId\":\"canvas-erfTCsR2G3\",\"title\":\"Pressing the Cider\",\"canvasUri\":\"canvases/canvas-erfTCsR2G3\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-erfTCsR2G3\",\"parentPageUri\":\"pages/section-mywyUypYyH\",\"position\":256,\"icon\":\"bench-press\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1764866867.19,\"updatedAt\":1764871318.272,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

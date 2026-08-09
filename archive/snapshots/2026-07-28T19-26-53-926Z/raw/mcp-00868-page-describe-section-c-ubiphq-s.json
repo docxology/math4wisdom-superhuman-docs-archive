@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-c_uBIPHQ-s"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-c_uBIPHQ-s\",\"canvasId\":\"canvas-c_uBIPHQ-s\",\"title\":\"Klemm's Three Minds\",\"canvasUri\":\"canvases/canvas-c_uBIPHQ-s\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-c_uBIPHQ-s\",\"parentPageUri\":\"pages/section-5uQKRqOPnN\",\"position\":253,\"icon\":\"three-cell-cyclorama-lights\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1764619070.842,\"updatedAt\":1764777100.3,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

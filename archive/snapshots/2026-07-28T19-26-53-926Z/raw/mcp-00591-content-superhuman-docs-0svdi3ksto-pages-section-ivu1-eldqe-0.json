@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-iVU1_ELdQe"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-iVU1_ELdQe\",\"pageUri\":\"pages/section-iVU1_ELdQe\",\"content\":\"[https://github.com/ActiveInferenceInstitute/GEO-INFER](https://github.com/ActiveInferenceInstitute/GEO-INFER)\\n\\n<columns>\\n\\n\\n[https://pro.arcgis.com/en/pro-app/latest/help/mapping/properties/fuller.htm](https://pro.arcgis.com/en/pro-app/latest/help/mapping/properties/fuller.htm)\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n**Header:** The memo starts with the official seal of the U.S. State Department, flanked by a stylized Cascadian flag (featuring Douglas fir imagery) and a geometric Dymaxion globe. Below it, the title reads: *\\\"Cascadian Synergetics: Integrating Regional Wisdom and Advanced Mapping Technologies for Strategic Diplomacy.\\\"*\\n\\n- [https://coda.io/d/_d0SvdI3KSto/_suMdl6PD](https://coda.io/d/_d0SvdI3KSto/_suMdl6PD) \\n\\n\\n</columns>\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

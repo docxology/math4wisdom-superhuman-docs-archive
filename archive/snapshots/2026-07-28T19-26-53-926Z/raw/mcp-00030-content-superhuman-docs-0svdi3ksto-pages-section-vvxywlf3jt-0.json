@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-VVxywlf3Jt"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-VVxywlf3Jt\",\"pageUri\":\"pages/section-VVxywlf3Jt\",\"content\":\"\\n\\n<formula id=\\\"f-zKO-AbZXDS\\\">Daniel Ari Friedman</formula> In my browser, the scroll bar for the index is so thin that I can’t use it at all. Is there any way for you to make it bigger?  The index is basically unusable.  I have to use a down arrow to access it. Andrius\\n\\n\\n\\n<formula id=\\\"f-s63qevzxMW\\\">Daniel Ari Friedman</formula> I tried to submit my request above to the Requests page. But I didn’t find a way to submit it until I added a comment, at which point a Send button appeared. Then I sent it out but I never saw where it ended up. That functionality seems unusable and it seems better to me just to have a free form page for requests. Andrius.\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-VVxywlf3Jt/formulas/f-zKO-AbZXDS\",\"name\":\"##_hidden_control_## 113 2\",\"canvasUri\":\"canvases/canvas-VVxywlf3Jt\",\"pageUri\":\"pages/section-VVxywlf3Jt\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"},{\"formulaUri\":\"canvases/canvas-VVxywlf3Jt/formulas/f-s63qevzxMW\",\"name\":\"##_hidden_control_## 113 3\",\"canvasUri\":\"canvases/canvas-VVxywlf3Jt\",\"pageUri\":\"pages/section-VVxywlf3Jt\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"}],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-VVxywlf3Jt\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-2huruX1gxv\",\"createdAt\":1748267995.242,\"reactions\":[],\"text\":\"Andrius Kulikauskas How about using the trackpad (two fingers), or scroll middle button on a mouse? \",\"userId\":1119613},{\"authorEmail\":\"math4wisdom@gmail.com\",\"authorName\":\"Andrius Kulikauskas\",\"commentUri\":\"comments/i-I4K5na-uQQ\",\"createdAt\":1748268703.009,\"reactions\":[],\"text\":\"Daniel Ari Friedman Excellent! Thank you for the tip. The two finger solution works for me. Andrius.\",\"userId\":2953483}],\"pageUri\":\"pages/section-VVxywlf3Jt\",\"reference\":{\"type\":\"text\",\"text\":\"In my browser, the scroll bar for the index is so thin that I can’t use it at all. Is there any way for you to make it bigger?  The index is basically unusable.  I have to use a down arrow to access it. Andrius\"},\"state\":\"Active\",\"threadUri\":\"threads/r-u6qISVMTmM\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

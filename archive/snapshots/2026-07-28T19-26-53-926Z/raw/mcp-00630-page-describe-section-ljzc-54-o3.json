@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-lJzc_54_O3"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-lJzc_54_O3\",\"canvasId\":\"canvas-lJzc_54_O3\",\"title\":\"Bott Periodicity\",\"canvasUri\":\"canvases/canvas-lJzc_54_O3\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-lJzc_54_O3\",\"parentPageUri\":\"pages/section-uRh_-YQoTU\",\"position\":60,\"icon\":\"period-slider\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1714486408.994,\"updatedAt\":1720632778.24,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":2953483,\"name\":\"Andrius Kulikauskas\",\"email\":\"math4wisdom@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

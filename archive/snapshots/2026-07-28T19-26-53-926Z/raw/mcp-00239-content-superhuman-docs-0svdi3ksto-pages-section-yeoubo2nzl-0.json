@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-yEoUBO2NzL"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-yEoUBO2NzL\",\"pageUri\":\"pages/section-yEoUBO2NzL\",\"content\":\"[https://coda.io/d/_d0SvdI3KSto/_suBO2NzL](https://coda.io/d/_d0SvdI3KSto/_suBO2NzL) is a regional variant of [https://coda.io/d/_d0SvdI3KSto/_suRfidAo](https://coda.io/d/_d0SvdI3KSto/_suRfidAo)  \\n\\n<columns>\\n[TempleOS](https://en.wikipedia.org/wiki/TempleOS) theme\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

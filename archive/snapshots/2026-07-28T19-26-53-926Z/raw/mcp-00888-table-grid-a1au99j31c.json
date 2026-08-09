@@ -1,0 +1,18 @@
+{
+  "arguments": {
+    "include": [
+      "formats",
+      "views"
+    ],
+    "uri": "superhuman://docs/0SvdI3KSto/tables/grid-A1au99j31c"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"table_columns_read\",\"result\":{\"canvasUri\":\"canvases/canvas-wQ4uMEu9L_\",\"pageUri\":\"pages/section-wQ4uMEu9L_\",\"tableUri\":\"tables/grid-A1au99j31c\",\"name\":\"Other medias to add\",\"rowCount\":16,\"columns\":[{\"columnId\":\"c-8P2-pEIrNF\",\"name\":\"Name\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-wQ4uMEu9L_\",\"pageUri\":\"pages/section-wQ4uMEu9L_\",\"tableUri\":\"pages/section-wQ4uMEu9L_/tables/grid-A1au99j31c\",\"viewUri\":\"pages/section-wQ4uMEu9L_/tables/grid-A1au99j31c/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[],\"orderedColumnIds\":[\"c-8P2-pEIrNF\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "table_columns_read"
+}

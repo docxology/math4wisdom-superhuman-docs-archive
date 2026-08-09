@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-2ZBg0XbVAX"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-2ZBg0XbVAX\",\"pageUri\":\"pages/section-2ZBg0XbVAX\",\"content\":\"\\n\\n<columns>\\n\\n\\n\\n\\n\\n\\nNote — These kinds of “infographics” are coming up more by default for me. \\n\\n\\n\\n\\n\\n\\n\\n(Looks like Indiana Jones was included in the training data) \\n\\n|||\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suKqaFpI](https://coda.io/d/_d0SvdI3KSto/_suKqaFpI) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suZvS-tm](https://coda.io/d/_d0SvdI3KSto/_suZvS-tm) Maps\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suM-62GQ](https://coda.io/d/_d0SvdI3KSto/_suM-62GQ) \\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

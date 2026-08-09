@@ -1,0 +1,1705 @@
+[
+  {
+    "rowId": "i-EawBkletys",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Category / Role"
+      },
+      "c-2qVbSFGBkS": {
+        "value": "URL"
+      },
+      "c-73pz6ydG2h": {
+        "value": "Name"
+      },
+      "c-rIrby8ApwK": {
+        "value": "Short description"
+      }
+    }
+  },
+  {
+    "rowId": "i-i2INOwJjf8",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Agent workspace UI"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-g2HUT-5a3Y",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/outsourc-e/hermes-workspace",
+                      "type": "urlref",
+                      "url": "https://github.com/outsourc-e/hermes-workspace"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-o4WgMqleCo",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/outsourc-e/hermes-workspace"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-OIz5tQCZ48",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "Hermes Workspace"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Web “command center” for Hermes Agent with chat, terminal, files, memory, skills, inspector.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-NyntHg09OQ",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/outsourc-e/hermes-workspace"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-LfN9bKWR3L",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-f8n0A-C8ea",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Context / KB builder"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-Fd-IbjYWPV",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/parcadei/bloks",
+                      "type": "urlref",
+                      "url": "https://github.com/parcadei/bloks"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-XbD_CFRaNx",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "lib",
+                      "type": "urlref",
+                      "url": "https://lib.rs/crates/bloks"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-_VjD9oNKF0",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "bloks"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Rust CLI that indexes libraries and repos into structured “bloks” for LLM consumption.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-KIuDpOhoFU",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "lib",
+                      "type": "urlref",
+                      "url": "https://lib.rs/crates/bloks"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-avZVo0L3NX",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i--emk0_EYWl",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Agent brain portability"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-YUxEKzWuMU",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/codejunkie99/agentic-stack",
+                      "type": "urlref",
+                      "url": "https://github.com/codejunkie99/agentic-stack"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-4z4YK-437x",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/codejunkie99/agentic-stack"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-fFqmIiANKN",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "agentic-stack"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Portable "
+                  },
+                  {
+                    "monospace": true,
+                    "text": ".agent/"
+                  },
+                  {
+                    "text": " folder (memory, skills, protocols) reusable across IDEs and harnesses.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-Kk4LotlpBL",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/codejunkie99/agentic-stack"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-XhbeinsK7L",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-X_tHRS6PXB",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Agent CLI"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "name": "",
+          "type": "urlref",
+          "url": "https://github.com/pipecat-ai/gradient-bang"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "gradient-bang"
+      },
+      "c-rIrby8ApwK": {
+        "value": "Bang‑style CLI for Pipecat‑based agent workflows."
+      }
+    }
+  },
+  {
+    "rowId": "i-IM2ng51cuI",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Autonomous dev agent platform"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-BR3MZpiFU9",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/OpenHands/OpenHands",
+                      "type": "urlref",
+                      "url": "https://github.com/OpenHands/OpenHands"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-4oJjEDUfW2",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/OpenHands/OpenHands"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-mPh-ssIVCF",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "OpenHands"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Model‑agnostic cloud coding agents that handle end‑to‑end engineering tasks on large codebases.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-OQ-jkN9syp",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/OpenHands/OpenHands"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-w1KM4lKtnB",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-A75rchWmjt",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Terminal pair programmer"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-Cic38hGY13",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/Aider-AI/aider",
+                      "type": "urlref",
+                      "url": "https://github.com/Aider-AI/aider"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-uUbvZbM2La",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/aider-ai/aider"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-9pXnY2uYsj",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "Aider"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Terminal AI pair programmer with multi‑file editing and automatic git commits, supports many LLMs.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-SYUvZNc-B8",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/aider-ai/aider"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-QgjKHz31SJ",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-N6HAr92XZh",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "VS Code agent"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-GaHw2QdLaD",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/cline/cline",
+                      "type": "urlref",
+                      "url": "https://github.com/cline/cline"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-1XE-lZesYW",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/cline/cline"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-gYkL4vEVzt",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "Cline"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "VS Code AI assistant using editor + CLI to perform complex dev tasks, with diff‑based edits and flexible models.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-5pyOiHMexI",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/cline/cline/wiki"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-7M0K6JDC6M",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-zd2olGbk5Y",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Agent PM / orchestrator"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-1nojUVH17A",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/eyaltoledano/claude-task-master",
+                      "type": "urlref",
+                      "url": "https://github.com/eyaltoledano/claude-task-master"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-AJEVLLkIut",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/eyaltoledano/claude-task-master/issues/813"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-9sDzTbmjCS",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "Claude Task Master"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Turns specs into tasks, orchestrates Claude‑based agents, integrates coding agents like Aider.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-6zSQKJD8l6",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/eyaltoledano/claude-task-master/issues/813"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-Kcyb-JPuaf",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-vS6vv6IMYp",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Multi‑agent framework"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-5b8pV-4rcW",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/crewAIInc/crewAI",
+                      "type": "urlref",
+                      "url": "https://github.com/crewAIInc/crewAI"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-2ArCIZJdCV",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/crewaiinc/crewai"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-HLSdxlVrkF",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "CrewAI"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Python framework for role‑playing agents (“crew”) with tools and workflows.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-CNpz4Hugq1",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/crewaiinc/crewai"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-Ety-bk7lVb",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-B3uhAhC_Yg",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Agent orchestration layer"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-w2mSFP-AQO",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/langchain-ai/langgraph",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-xYzUvm9sBa",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph-example"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-11Q5UEibmY",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "LangGraph"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Library for stateful, multi‑actor LLM apps, with checkpoints, cycles, and human‑in‑the‑loop.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-377db8sxeM",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph-example"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-dJtYLVkYxR",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-L3ulKMnWzh",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Workflow automation"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "name": "",
+          "type": "urlref",
+          "url": "https://github.com/n8n-io/n8n"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "n8n"
+      },
+      "c-rIrby8ApwK": {
+        "value": "Self‑hostable workflow builder with 400+ integrations and AI nodes."
+      }
+    }
+  },
+  {
+    "rowId": "i-GzOQk0fyW7",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "PaaS / DevOps"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "name": "",
+          "type": "urlref",
+          "url": "https://github.com/coollabsio/coolify"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "Coolify"
+      },
+      "c-rIrby8ApwK": {
+        "value": "Self‑hosted Heroku/Vercel‑like platform with git‑push deploys and many one‑click services."
+      }
+    }
+  },
+  {
+    "rowId": "i-SkiTdrDcPs",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Product analytics"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-s8QMOKmwEl",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/PostHog/posthog",
+                      "type": "urlref",
+                      "url": "https://github.com/PostHog/posthog"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-DScU8s4u8i",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/posthog/posthog"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-FcqkaTaIrn",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "PostHog"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "All‑in‑one analytics, feature flags, experiments, session replay, and error tracking.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-4jXdAl1qq8",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/posthog/posthog"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-NVNJsiZAm5",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-ZzULdClqun",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Support platform"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "name": "",
+          "type": "urlref",
+          "url": "https://github.com/chatwoot/chatwoot"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "Chatwoot"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Open source multi‑channel support (chat, email, WhatsApp) with AI‑assisted workflows.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-LiERIZMtbB",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "chatwoot",
+                      "type": "urlref",
+                      "url": "https://www.chatwoot.com/community/"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-zcQS3yMVT5",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-P9Ppl_cxy_",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Agent framework"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-duDTmcr1sZ",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/langchain-ai/langchain",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langchain"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-0Him5OT0Dc",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langchain"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-eSFO6P1k0Y",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "LangChain"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Framework for building agents and LLM apps, with integrations and observability tools.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-4mWiIJt1Xd",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langchain"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-qs56BLniEX",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-vXr--Lvh3L",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Examples"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-kb_MW695hZ",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/crewAIInc/crewAI-examples",
+                      "type": "urlref",
+                      "url": "https://github.com/crewAIInc/crewAI-examples"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-3-yQKMu4CW",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/crewAIInc/crewAI-examples"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-zawdGkM6xz",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "crewAI examples"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "End‑to‑end CrewAI application examples.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-XQdDbN6eIa",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/crewAIInc/crewAI-examples"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-y2DhdikGjY",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-exfn9Sdx5i",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Quickstarts"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-13YkdXcV6j",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/crewAIInc/crewAI-quickstarts",
+                      "type": "urlref",
+                      "url": "https://github.com/crewAIInc/crewAI-quickstarts"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-65GmxS7yku",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/crewAIInc/crewAI-quickstarts"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-VRQKAdgZX2",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "crewAI quickstarts"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Quickstart templates and demos for CrewAI.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-4wug8RBzfW",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/crewAIInc/crewAI-quickstarts"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-l4KcuAl58l",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-6yIx3u-1mL",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Tutorials"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-1c3h8sel0z",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/langchain-ai/langgraph-101",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph-101"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-2ESA8vHm_o",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph-101"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-OkQd91tdVC",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "langgraph-101"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Tutorials on LangChain/LangGraph and advanced patterns.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-U5IUC7VUgG",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph-101"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-gIohmEbNWc",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-qe7aqZQZmq",
+    "values": {
+      "c-2R3gcsI54F": {
+        "value": "Advanced architecture"
+      },
+      "c-2qVbSFGBkS": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-WagFiuo_S3",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "https://github.com/langchain-ai/langgraph-codeact",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph-codeact"
+                    }
+                  },
+                  {
+                    "text": "  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-0A2nh4fUoH",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph-codeact"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-wpNONlxX_j",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-73pz6ydG2h": {
+        "value": "langgraph-codeact"
+      },
+      "c-rIrby8ApwK": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "CodeAct architecture implementation on LangGraph for complex tool workflows.  "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-pVFOO-r6Cm",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "github",
+                      "type": "urlref",
+                      "url": "https://github.com/langchain-ai/langgraph-codeact"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-FrdmFBpdBa",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  }
+]

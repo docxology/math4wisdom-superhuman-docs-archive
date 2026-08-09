@@ -1,0 +1,16 @@
+{
+  "arguments": {
+    "rowLimit": 100,
+    "rowOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/tables/grid-0Qbu-hhPzw"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"table_rows_read\",\"result\":{\"rows\":[{\"rowId\":\"i-EAi7FkeLV9\",\"values\":{\"c-kuv8AR9oti\":{\"value\":\"AK\"},\"c-JGJezd0Ik7\":{\"value\":\"a\"},\"c-FBSJFdoK93\":{\"value\":\"\"},\"c-zKVdRmL9Ff\":{\"value\":{\"type\":\"canvas\",\"canvasUri\":\"canvases/grid-0Qbu-hhPzw::i-EAi7FkeLV9::c-zKVdRmL9Ff\"}},\"c-cYZVDy0Lx7\":{\"value\":\"\"}}},{\"rowId\":\"i-XlKlazWpLr\",\"values\":{\"c-kuv8AR9oti\":{\"value\":\"B\"},\"c-JGJezd0Ik7\":{\"value\":\"a\"},\"c-FBSJFdoK93\":{\"value\":\"\"},\"c-zKVdRmL9Ff\":{\"value\":{\"type\":\"canvas\",\"canvasUri\":\"canvases/grid-0Qbu-hhPzw::i-XlKlazWpLr::c-zKVdRmL9Ff\"}},\"c-cYZVDy0Lx7\":{\"value\":\"\"}}},{\"rowId\":\"i-82zOSKR4_t\",\"values\":{\"c-kuv8AR9oti\":{\"value\":\"C\"},\"c-JGJezd0Ik7\":{\"value\":\"hd\"},\"c-FBSJFdoK93\":{\"value\":\"sdfhdfhdf\"},\"c-zKVdRmL9Ff\":{\"value\":{\"type\":\"canvas\",\"canvasUri\":\"canvases/grid-0Qbu-hhPzw::i-82zOSKR4_t::c-zKVdRmL9Ff\"}},\"c-cYZVDy0Lx7\":{\"value\":\"\"}}},{\"rowId\":\"i-o0ra-3ha9Q\",\"values\":{\"c-kuv8AR9oti\":{\"value\":\"D\"},\"c-JGJezd0Ik7\":{\"value\":\"ddfgdfgdf\"},\"c-FBSJFdoK93\":{\"value\":\"\"},\"c-zKVdRmL9Ff\":{\"value\":{\"type\":\"canvas\",\"canvasUri\":\"canvases/grid-0Qbu-hhPzw::i-o0ra-3ha9Q::c-zKVdRmL9Ff\"}},\"c-cYZVDy0Lx7\":{\"value\":\"\"}}}],\"hasMore\":false,\"totalRows\":4}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "table_rows_read"
+}

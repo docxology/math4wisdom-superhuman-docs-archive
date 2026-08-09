@@ -1,0 +1,170 @@
+{
+  "descriptor": {
+    "canvasUri": "canvases/canvas-p-8HV-LOe1",
+    "columns": [
+      {
+        "columnId": "c-yGEjTzBX1x",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Name"
+      },
+      {
+        "columnId": "c-utzaZW8ES0",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Ant"
+      },
+      {
+        "columnId": "c-TJzoh9nTZO",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Characterized by....."
+      },
+      {
+        "columnId": "c-SDzCRMgL5k",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Neural"
+      }
+    ],
+    "name": "Copy 2 of 24 & 3M in Colony & Brain",
+    "pageUri": "pages/section-OJTyxu39sp",
+    "rowCount": 3,
+    "tableUri": "tables/grid-TK5X2qJn9T",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-p-8HV-LOe1",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [
+          "c-yGEjTzBX1x",
+          "c-utzaZW8ES0",
+          "c-TJzoh9nTZO",
+          "c-SDzCRMgL5k"
+        ],
+        "name": "Default",
+        "orderedColumnIds": [],
+        "pageUri": "pages/section-OJTyxu39sp",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-OJTyxu39sp/tables/grid-TK5X2qJn9T",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-OJTyxu39sp/tables/grid-TK5X2qJn9T/views/default"
+      }
+    ]
+  },
+  "schema": {
+    "canvasUri": "canvases/canvas-p-8HV-LOe1",
+    "columns": [
+      {
+        "columnId": "c-yGEjTzBX1x",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Name"
+      },
+      {
+        "columnId": "c-utzaZW8ES0",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Ant"
+      },
+      {
+        "columnId": "c-TJzoh9nTZO",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Characterized by....."
+      },
+      {
+        "columnId": "c-SDzCRMgL5k",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Neural"
+      }
+    ],
+    "name": "Copy 2 of 24 & 3M in Colony & Brain",
+    "pageUri": "pages/section-OJTyxu39sp",
+    "rowCount": 3,
+    "tableUri": "tables/grid-TK5X2qJn9T",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-p-8HV-LOe1",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [
+          "c-yGEjTzBX1x",
+          "c-utzaZW8ES0",
+          "c-TJzoh9nTZO",
+          "c-SDzCRMgL5k"
+        ],
+        "name": "Default",
+        "orderedColumnIds": [],
+        "pageUri": "pages/section-OJTyxu39sp",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-OJTyxu39sp/tables/grid-TK5X2qJn9T",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-OJTyxu39sp/tables/grid-TK5X2qJn9T/views/default"
+      }
+    ]
+  },
+  "sourcePages": [
+    "section-OJTyxu39sp"
+  ],
+  "uri": "superhuman://docs/0SvdI3KSto/tables/grid-TK5X2qJn9T"
+}

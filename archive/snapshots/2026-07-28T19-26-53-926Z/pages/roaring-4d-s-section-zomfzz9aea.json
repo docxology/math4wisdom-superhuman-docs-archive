@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-ZomfZZ9aEA",
+      "commentThreads": [],
+      "content": "# Make image prompt for [https://coda.io/d/_d0SvdI3KSto/_suZZ9aEA](https://coda.io/d/_d0SvdI3KSto/_suZZ9aEA): 1920's style Baseball Americana Synergetics tetrahedral aesthetic with wildly diverse representations\n\n<columns>\n\n\n\n\n|||\n\n\n\n\n\n|||\n\n\n\n\n\n|||\n\n\n\n.\n\n.\n\n\n</columns>",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-ZomfZZ9aEA",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-ZomfZZ9aEA",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-ZomfZZ9aEA",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-ZomfZZ9aEA",
+    "canvasUri": "canvases/canvas-ZomfZZ9aEA",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1730471402.695,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "leopard",
+    "isHidden": false,
+    "pageId": "section-ZomfZZ9aEA",
+    "pageType": "canvas",
+    "pageUri": "pages/section-ZomfZZ9aEA",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 102,
+    "subtitle": "",
+    "title": "Roaring 4D's",
+    "updatedAt": 1730472359.127,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-ZomfZZ9aEA",
+    "canvasUri": "canvases/canvas-ZomfZZ9aEA",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1730471402.695,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "leopard",
+    "isHidden": false,
+    "pageId": "section-ZomfZZ9aEA",
+    "pageType": "canvas",
+    "pageUri": "pages/section-ZomfZZ9aEA",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 102,
+    "subtitle": "",
+    "title": "Roaring 4D's",
+    "updatedAt": 1730472359.127,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

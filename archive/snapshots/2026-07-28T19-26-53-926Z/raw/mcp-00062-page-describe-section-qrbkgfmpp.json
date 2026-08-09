@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-QrBkgFmpP_"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-QrBkgFmpP_\",\"canvasId\":\"canvas-QrBkgFmpP_\",\"title\":\"M4W\",\"canvasUri\":\"canvases/canvas-QrBkgFmpP_\",\"childPageOutlines\":[{\"pageId\":\"section-pVNIX5O9za\",\"canvasId\":\"canvas-pVNIX5O9za\",\"title\":\"YouTube\",\"canvasUri\":\"canvases/canvas-pVNIX5O9za\",\"pageUri\":\"pages/section-pVNIX5O9za\"},{\"pageId\":\"section-WtYqCwO2Pw\",\"canvasId\":\"canvas-WtYqCwO2Pw\",\"title\":\"M4W Emails\",\"canvasUri\":\"canvases/canvas-WtYqCwO2Pw\",\"pageUri\":\"pages/section-WtYqCwO2Pw\"},{\"pageId\":\"section-3Lp88wp-W6\",\"canvasId\":\"canvas-3Lp88wp-W6\",\"title\":\"AK Website\",\"canvasUri\":\"canvases/canvas-3Lp88wp-W6\",\"pageUri\":\"pages/section-3Lp88wp-W6\"},{\"pageId\":\"section-oLtE2_Sy3a\",\"canvasId\":\"canvas-oLtE2_Sy3a\",\"title\":\"Wiki\",\"canvasUri\":\"canvases/canvas-oLtE2_Sy3a\",\"pageUri\":\"pages/section-oLtE2_Sy3a\"},{\"pageId\":\"section-mTDWYXLbv1\",\"canvasId\":\"canvas-mTDWYXLbv1\",\"title\":\"Adjacent with M4W\",\"canvasUri\":\"canvases/canvas-mTDWYXLbv1\",\"pageUri\":\"pages/section-mTDWYXLbv1\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-QrBkgFmpP_\",\"parentPageUri\":null,\"position\":7,\"icon\":\"black-tie\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708215632.726,\"updatedAt\":1763672072.878,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

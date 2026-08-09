@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-IY29lOwv--"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-IY29lOwv--\",\"pageUri\":\"pages/section-IY29lOwv--\",\"content\":\"\",\"tables\":[{\"canvasUri\":\"canvases/canvas-IY29lOwv--\",\"tableUri\":\"tables/grid-IvIo-ut1Tz\",\"name\":\"Templeton Grant 2024 question\",\"pageUri\":\"pages/section-IY29lOwv--\",\"rowCount\":24,\"columns\":[{\"columnId\":\"c-iRgioQTepw\",\"name\":\"Question\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-DQQTXPrgca\",\"name\":\"Character limit\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c--yzC7Zvv5-\",\"name\":\"Answer\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-nBZI1Atrgl\",\"name\":\"Number\",\"description\":null,\"format\":{\"type\":\"num\",\"grouping\":true,\"precision\":22},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-FwJfgsA_cR\",\"name\":\"Character count\",\"description\":null,\"format\":{\"type\":\"num\",\"grouping\":true,\"precision\":22},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-IY29lOwv--\",\"pageUri\":\"pages/section-IY29lOwv--\",\"tableUri\":\"pages/section-IY29lOwv--/tables/grid-IvIo-ut1Tz\",\"viewUri\":\"pages/section-IY29lOwv--/tables/grid-IvIo-ut1Tz/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[],\"orderedColumnIds\":[\"c-nBZI1Atrgl\",\"c-iRgioQTepw\",\"c-DQQTXPrgca\",\"c--yzC7Zvv5-\",\"c-FwJfgsA_cR\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]}],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-IY29lOwv--\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-75YbgHbUus\",\"createdAt\":1723558973.512,\"reactions\":[],\"text\":\"Andrius Kulikauskas here\",\"userId\":1119613}],\"pageUri\":\"pages/section-IY29lOwv--\",\"reference\":null,\"state\":\"Active\",\"threadUri\":\"threads/r-yWly7vdzHk\"},{\"canvasUri\":\"canvases/canvas-IY29lOwv--\",\"comments\":[{\"authorEmail\":\"bleu@activeinference.institute\",\"authorName\":\"Virginia Bleu Knight\",\"commentUri\":\"comments/i-U7hZeQ5l_Q\",\"createdAt\":1721927810.037,\"reactions\":[],\"text\":\"I think this research could perhaps also fit in the “Mathematical and Physical Sciences” funding area which claims to “support research seeking to shed light on the fundamental concepts of physical reality. We also explore the interplay between these sciences and broader human experience. What is the nature of the universe that we inhabit? What are the most fundamental, microscopic constituents of physical reality? How are physical systems more than “the sum of their parts?” How do these various ideas come together? The John Templeton Foundation is interested in fundamental questions in the mathematical and physical sciences and how they might converge to form a coherent picture of physical reality.”\\n\",\"userId\":2494796},{\"authorEmail\":\"math4wisdom@gmail.com\",\"authorName\":\"Andrius Kulikauskas\",\"commentUri\":\"comments/i-nk4NA3F8p7\",\"createdAt\":1722361346.929,\"reactions\":[],\"text\":\"Virginia Bleu Knight Thank you!\",\"userId\":2953483}],\"pageUri\":\"pages/section-IY29lOwv--\",\"reference\":{\"type\":\"text\",\"text\":\"Topics\"},\"state\":\"Active\",\"threadUri\":\"threads/r-mRi8PIMwEf\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

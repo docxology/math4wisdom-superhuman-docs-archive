@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-mUQoIBhimW"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-mUQoIBhimW\",\"canvasId\":\"canvas-mUQoIBhimW\",\"title\":\"School of Tomorrow\",\"canvasUri\":\"canvases/canvas-mUQoIBhimW\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-mUQoIBhimW\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":83,\"icon\":\"school\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1723646751.778,\"updatedAt\":1775098300.776,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1271333,\"name\":\"kirby urner\",\"email\":\"kirby.urner@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

@@ -1,0 +1,18 @@
+{
+  "arguments": {
+    "include": [
+      "formats",
+      "views"
+    ],
+    "uri": "superhuman://docs/0SvdI3KSto/tables/grid-aI-CluL5hg"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"table_columns_read\",\"result\":{\"canvasUri\":\"canvases/canvas-S2dtbpHvLx\",\"pageUri\":\"pages/section-S2dtbpHvLx\",\"tableUri\":\"tables/grid-aI-CluL5hg\",\"name\":\"Conceptual frameworks. Examples.\",\"rowCount\":3,\"columns\":[{\"columnId\":\"c-gvBtD8cz1h\",\"name\":\"Name\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-EpJy1yymth\",\"name\":\"Column 2\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-k9RF288bb9\",\"name\":\"Column 3\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-o7dApA1DE3\",\"name\":\"Notes\",\"description\":null,\"format\":{\"type\":\"canvas\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-S2dtbpHvLx\",\"pageUri\":\"pages/section-S2dtbpHvLx\",\"tableUri\":\"pages/section-S2dtbpHvLx/tables/grid-aI-CluL5hg\",\"viewUri\":\"pages/section-S2dtbpHvLx/tables/grid-aI-CluL5hg/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[],\"orderedColumnIds\":[\"c-gvBtD8cz1h\",\"c-EpJy1yymth\",\"c-k9RF288bb9\",\"c-o7dApA1DE3\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "table_columns_read"
+}

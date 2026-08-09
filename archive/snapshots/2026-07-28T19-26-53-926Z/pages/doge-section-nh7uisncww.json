@@ -1,0 +1,154 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-nH7UIsncww",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-nH7UIsncww",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-mVR7y42jCa",
+              "createdAt": 1739201555.135,
+              "reactions": [],
+              "text": "kirby urner just some random /_suIsncww arts",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-nH7UIsncww",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-k7rivmWbUk"
+        }
+      ],
+      "content": "<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\nBy <formula id=\"f-TpeacML2oc\">KU</formula> using imagine.art:\n\n   \n\n",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-nH7UIsncww",
+          "formula": "KU",
+          "formulaUri": "canvases/canvas-nH7UIsncww/formulas/f-TpeacML2oc",
+          "name": "##_hidden_control_## 87",
+          "pageUri": "pages/section-nH7UIsncww",
+          "value": {
+            "identifier": "i-GxhiBofCQt",
+            "name": "KU",
+            "objectId": "grid-neeyDLw2ig",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-nH7UIsncww",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-nH7UIsncww",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-nH7UIsncww",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-mVR7y42jCa",
+              "createdAt": 1739201555.135,
+              "reactions": [],
+              "text": "kirby urner just some random /_suIsncww arts",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-nH7UIsncww",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-k7rivmWbUk"
+        }
+      ],
+      "content": "",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-nH7UIsncww",
+          "formula": "KU",
+          "formulaUri": "canvases/canvas-nH7UIsncww/formulas/f-TpeacML2oc",
+          "name": "##_hidden_control_## 87",
+          "pageUri": "pages/section-nH7UIsncww",
+          "value": {
+            "identifier": "i-GxhiBofCQt",
+            "name": "KU",
+            "objectId": "grid-neeyDLw2ig",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-nH7UIsncww",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-nH7UIsncww",
+    "canvasUri": "canvases/canvas-nH7UIsncww",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1739199277.662,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "dog-park",
+    "isHidden": false,
+    "pageId": "section-nH7UIsncww",
+    "pageType": "canvas",
+    "pageUri": "pages/section-nH7UIsncww",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 153,
+    "subtitle": "",
+    "title": "DOGE",
+    "updatedAt": 1739372472.177,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-nH7UIsncww",
+    "canvasUri": "canvases/canvas-nH7UIsncww",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1739199277.662,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "dog-park",
+    "isHidden": false,
+    "pageId": "section-nH7UIsncww",
+    "pageType": "canvas",
+    "pageUri": "pages/section-nH7UIsncww",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 153,
+    "subtitle": "",
+    "title": "DOGE",
+    "updatedAt": 1739372472.177,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

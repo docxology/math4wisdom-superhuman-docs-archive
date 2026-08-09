@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-nHf_g1O7tY"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-nHf_g1O7tY\",\"pageUri\":\"pages/section-nHf_g1O7tY\",\"content\":\"\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-nHf_g1O7tY\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-sAppx7YN1y\",\"createdAt\":1746481129.121,\"reactions\":[],\"text\":\"kirby urner \",\"userId\":1119613}],\"pageUri\":\"pages/section-nHf_g1O7tY\",\"reference\":{\"type\":\"text\",\"text\":\"From\"},\"state\":\"Active\",\"threadUri\":\"threads/r-46Blxl7CTX\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

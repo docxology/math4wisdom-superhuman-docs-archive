@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-R-ws44bth2"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-R-ws44bth2\",\"pageUri\":\"pages/section-R-ws44bth2\",\"content\":\"\\n\\nEmail writing table\\n\\n\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suCwO2Pw](https://coda.io/d/_d0SvdI3KSto/_suCwO2Pw) \\n\\n\",\"tables\":[{\"canvasUri\":\"canvases/canvas-R-ws44bth2\",\"tableUri\":\"tables/grid-Xxigh3V-5m\",\"name\":\"Email writing table\",\"pageUri\":\"pages/section-R-ws44bth2\",\"rowCount\":11,\"columns\":[{\"columnId\":\"c-uk9U_jNilT\",\"name\":\"Date\",\"description\":null,\"format\":{\"type\":\"dp\",\"format\":\"DEFAULT\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-CUbCAqjHBs\",\"name\":\"Written by\",\"description\":null,\"format\":{\"type\":\"lookup\",\"objectId\":\"grid-neeyDLw2ig\",\"multiple\":true},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-Ap_8ITZdQ0\",\"name\":\"Message\",\"description\":null,\"format\":{\"type\":\"canvas\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-QWORUCyGMc\",\"name\":\"Subject\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-zbe-hqrcyt\",\"name\":\"Archive URL\",\"description\":null,\"format\":{\"type\":\"link\",\"display\":\"IconOnly\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-R-ws44bth2\",\"pageUri\":\"pages/section-R-ws44bth2\",\"tableUri\":\"pages/section-R-ws44bth2/tables/grid-Xxigh3V-5m\",\"viewUri\":\"pages/section-R-ws44bth2/tables/grid-Xxigh3V-5m/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[{\"columnId\":\"c-uk9U_jNilT\",\"direction\":\"descending\"}],\"hiddenColumnIds\":[],\"orderedColumnIds\":[\"c-uk9U_jNilT\",\"c-CUbCAqjHBs\",\"c-Ap_8ITZdQ0\",\"c-zbe-hqrcyt\",\"c-QWORUCyGMc\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]}],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

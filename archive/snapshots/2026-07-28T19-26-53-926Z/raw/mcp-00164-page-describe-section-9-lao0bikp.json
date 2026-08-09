@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-9_lao0BIkP"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-9_lao0BIkP\",\"canvasId\":\"canvas-9_lao0BIkP\",\"title\":\"Active Inference\",\"canvasUri\":\"canvases/canvas-9_lao0BIkP\",\"childPageOutlines\":[{\"pageId\":\"section-yHsgptXYov\",\"canvasId\":\"canvas-yHsgptXYov\",\"title\":\"Structured Active Inference\",\"canvasUri\":\"canvases/canvas-yHsgptXYov\",\"pageUri\":\"pages/section-yHsgptXYov\"},{\"pageId\":\"section-sYsL28Ftt4\",\"canvasId\":\"canvas-sYsL28Ftt4\",\"title\":\"Active Inference learning\",\"canvasUri\":\"canvases/canvas-sYsL28Ftt4\",\"pageUri\":\"pages/section-sYsL28Ftt4\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-9_lao0BIkP\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":48,\"icon\":\"active-state\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1713364382.864,\"updatedAt\":1724163466.343,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

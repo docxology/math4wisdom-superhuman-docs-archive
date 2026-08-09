@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-YNtrpyKzGe"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-YNtrpyKzGe\",\"canvasId\":\"canvas-YNtrpyKzGe\",\"title\":\"Lionel Wolberger\",\"canvasUri\":\"canvases/canvas-YNtrpyKzGe\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-YNtrpyKzGe\",\"parentPageUri\":\"pages/section-5Z43Od6Ku2\",\"position\":170,\"icon\":\"hub\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1743605054.507,\"updatedAt\":1748907283.054,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1271333,\"name\":\"kirby urner\",\"email\":\"kirby.urner@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

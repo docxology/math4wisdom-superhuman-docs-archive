@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-TsNabWlqVP"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-TsNabWlqVP\",\"canvasId\":\"canvas-TsNabWlqVP\",\"title\":\"Projects\",\"canvasUri\":\"canvases/canvas-TsNabWlqVP\",\"childPageOutlines\":[{\"pageId\":\"section-WNEvNDZxUE\",\"canvasId\":\"canvas-WNEvNDZxUE\",\"title\":\"The effects of artificial intelligence on firm and labour market outcomes\",\"canvasUri\":\"canvases/canvas-WNEvNDZxUE\",\"pageUri\":\"pages/section-WNEvNDZxUE\"},{\"pageId\":\"section-bcnBZzpv1I\",\"canvasId\":\"canvas-bcnBZzpv1I\",\"title\":\"Triangle Geometry\",\"canvasUri\":\"canvases/canvas-bcnBZzpv1I\",\"pageUri\":\"pages/section-bcnBZzpv1I\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-TsNabWlqVP\",\"parentPageUri\":\"pages/section-OJTyxu39sp\",\"position\":34,\"icon\":\"group-of-projects\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1709651229.586,\"updatedAt\":1713365863.773,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

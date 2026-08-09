@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-_3-J7NHO3P"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-_3-J7NHO3P\",\"pageUri\":\"pages/section-_3-J7NHO3P\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-_3-J7NHO3P/formulas/f-QyVS2sIG59\",\"name\":\"##_hidden_control_## 158\",\"canvasUri\":\"canvases/canvas-_3-J7NHO3P\",\"pageUri\":\"pages/section-_3-J7NHO3P\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2527083\",\"name\":\"Ryan Buchanan\"},\"formula\":\"[Ryan Buchanan]\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-TYjwgYI5Ax"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-TYjwgYI5Ax\",\"pageUri\":\"pages/section-TYjwgYI5Ax\",\"content\":\"Make any requests here and tag <formula id=\\\"f-v2vF7idViE\\\">Daniel Ari Friedman</formula> to make the update. \\n\\n\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-TYjwgYI5Ax/formulas/f-v2vF7idViE\",\"name\":\"##_hidden_control_## 119\",\"canvasUri\":\"canvases/canvas-TYjwgYI5Ax\",\"pageUri\":\"pages/section-TYjwgYI5Ax\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

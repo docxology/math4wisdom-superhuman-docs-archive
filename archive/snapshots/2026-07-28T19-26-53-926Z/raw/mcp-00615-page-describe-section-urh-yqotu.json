@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-uRh_-YQoTU"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-uRh_-YQoTU\",\"canvasId\":\"canvas-uRh_-YQoTU\",\"title\":\"Maths\",\"canvasUri\":\"canvases/canvas-uRh_-YQoTU\",\"childPageOutlines\":[{\"pageId\":\"section-U93Hli3zvK\",\"canvasId\":\"canvas-U93Hli3zvK\",\"title\":\"Category Theory\",\"canvasUri\":\"canvases/canvas-U93Hli3zvK\",\"pageUri\":\"pages/section-U93Hli3zvK\"},{\"pageId\":\"section-o2SlaIR30W\",\"canvasId\":\"canvas-o2SlaIR30W\",\"title\":\"Knowledge Math\",\"canvasUri\":\"canvases/canvas-o2SlaIR30W\",\"pageUri\":\"pages/section-o2SlaIR30W\"},{\"pageId\":\"section-lJzc_54_O3\",\"canvasId\":\"canvas-lJzc_54_O3\",\"title\":\"Bott Periodicity\",\"canvasUri\":\"canvases/canvas-lJzc_54_O3\",\"pageUri\":\"pages/section-lJzc_54_O3\"},{\"pageId\":\"section-AuFarf2CG5\",\"canvasId\":\"canvas-AuFarf2CG5\",\"title\":\"Bayes\",\"canvasUri\":\"canvases/canvas-AuFarf2CG5\",\"pageUri\":\"pages/section-AuFarf2CG5\"},{\"pageId\":\"section-LA81jT0Zcu\",\"canvasId\":\"canvas-LA81jT0Zcu\",\"title\":\"Geometry\",\"canvasUri\":\"canvases/canvas-LA81jT0Zcu\",\"pageUri\":\"pages/section-LA81jT0Zcu\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-uRh_-YQoTU\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":18,\"icon\":\"approximately-equal\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708284116.363,\"updatedAt\":1761434729.898,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

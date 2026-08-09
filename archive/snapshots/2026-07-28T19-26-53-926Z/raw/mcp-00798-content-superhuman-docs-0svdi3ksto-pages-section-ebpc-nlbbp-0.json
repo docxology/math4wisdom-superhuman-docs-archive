@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-ebPc_nlBbP"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-ebPc_nlBbP\",\"pageUri\":\"pages/section-ebPc_nlBbP\",\"content\":\"  - — [Trent’s repo based visualizer](https://qsolkcb.github.io/synergetics-viz/) (GIthub)\\n\\n    - [https://github.com/QSOLKCB/synergetics](https://github.com/QSOLKCB/synergetics)\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

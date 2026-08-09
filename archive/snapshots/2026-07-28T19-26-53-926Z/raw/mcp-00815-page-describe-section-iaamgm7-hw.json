@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-IaamGM7-HW"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-IaamGM7-HW\",\"canvasId\":\"canvas-IaamGM7-HW\",\"title\":\"Surprise\",\"canvasUri\":\"canvases/canvas-IaamGM7-HW\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-IaamGM7-HW\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":58,\"icon\":\"surprised\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1713553806.15,\"updatedAt\":1737654949.953,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":2953483,\"name\":\"Andrius Kulikauskas\",\"email\":\"math4wisdom@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

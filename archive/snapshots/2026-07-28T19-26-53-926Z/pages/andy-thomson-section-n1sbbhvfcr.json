@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-N1SBBHVFcR",
+      "commentThreads": [],
+      "content": "<columns>\n\n\n|||\n\n[https://www.researchgate.net/publication/403529544_The_Synergetics_Cookbook-v08_April_2026_A_Comprehensive_Catalogue_of_Quadray-Native_Computational_Methods_for_Tetrahedral_Geometry/](https://www.researchgate.net/publication/403529544_The_Synergetics_Cookbook-v08_April_2026_A_Comprehensive_Catalogue_of_Quadray-Native_Computational_Methods_for_Tetrahedral_Geometry/)\n\n\n\n\n\n|||\n\n\n\n\n\n\n</columns>\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-N1SBBHVFcR",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-N1SBBHVFcR",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-N1SBBHVFcR",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-N1SBBHVFcR",
+    "canvasUri": "canvases/canvas-N1SBBHVFcR",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1771946230.984,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "math",
+    "isHidden": false,
+    "pageId": "section-N1SBBHVFcR",
+    "pageType": "canvas",
+    "pageUri": "pages/section-N1SBBHVFcR",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 280,
+    "subtitle": "",
+    "title": "Andy Thomson",
+    "updatedAt": 1776952791.242,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-N1SBBHVFcR",
+    "canvasUri": "canvases/canvas-N1SBBHVFcR",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1771946230.984,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "math",
+    "isHidden": false,
+    "pageId": "section-N1SBBHVFcR",
+    "pageType": "canvas",
+    "pageUri": "pages/section-N1SBBHVFcR",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 280,
+    "subtitle": "",
+    "title": "Andy Thomson",
+    "updatedAt": 1776952791.242,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

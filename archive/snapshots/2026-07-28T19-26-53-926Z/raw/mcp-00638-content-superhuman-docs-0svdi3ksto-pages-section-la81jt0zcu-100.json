@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-LA81jT0Zcu"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-LA81jT0Zcu\",\"pageUri\":\"pages/section-LA81jT0Zcu\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-LA81jT0Zcu/formulas/f-syuLss63U2\",\"name\":\"##_hidden_control_## 160\",\"canvasUri\":\"canvases/canvas-LA81jT0Zcu\",\"pageUri\":\"pages/section-LA81jT0Zcu\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2953483\",\"name\":\"Andrius Kulikauskas\"},\"formula\":\"[Andrius Kulikauskas]\"},{\"formulaUri\":\"canvases/canvas-LA81jT0Zcu/formulas/f-AK_bxhraMR\",\"name\":\"##_hidden_control_## 161\",\"canvasUri\":\"canvases/canvas-LA81jT0Zcu\",\"pageUri\":\"pages/section-LA81jT0Zcu\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"}],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-LA81jT0Zcu\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-ns-bCGnaHP\",\"createdAt\":1764777393.78,\"reactions\":[],\"text\":\"Interesting, also I could explore that kind of NEWS + 4D visualization, sounds like a secondary structuring / arising pattern, partitioning/distinguisng the thing’s /_suvoHLkC, which connects the 24-ness to 4’s and 6’s and more.\",\"userId\":1119613},{\"authorEmail\":\"math4wisdom@gmail.com\",\"authorName\":\"Andrius Kulikauskas\",\"commentUri\":\"comments/i-hNgjpSSMBy\",\"createdAt\":1764783068.386,\"reactions\":[],\"text\":\"yes\",\"userId\":2953483}],\"pageUri\":\"pages/section-LA81jT0Zcu\",\"reference\":{\"type\":\"text\",\"text\":\"Formally, this can be visualized with a tetrahedron or a NEWS compass but the formal structures typically add features that may be irrelevant and confusing, for example, the notion of distance or periodicity, etc.\"},\"state\":\"Active\",\"threadUri\":\"threads/r-yVrh2kSabz\"},{\"canvasUri\":\"canvases/canvas-LA81jT0Zcu\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-HGiYj4LjE3\",\"createdAt\":1764777266.338,\"reactions\":[{\"reaction\":\"❤️\",\"userIds\":[2953483]}],\"text\":\"I think I do understand those points, they are very concise and help provide better understanding on your sense/use/preferences for dialog. \",\"userId\":1119613}],\"pageUri\":\"pages/section-LA81jT0Zcu\",\"reference\":{\"type\":\"text\",\"text\":\"from your writing above I feel that you appreciate these distinctions I make, you are understanding and supportive\"},\"state\":\"Active\",\"threadUri\":\"threads/r-cPeV94qxs_\"},{\"canvasUri\":\"canvases/canvas-LA81jT0Zcu\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-_UCkdXGNsG\",\"createdAt\":1764777152.299,\"reactions\":[],\"text\":\"Andrius Kulikauskas can you add some links to /_suvoHLkC? Static images or text.\\n And I will give a first try on AI tool.\",\"userId\":1119613},{\"authorEmail\":\"math4wisdom@gmail.com\",\"authorName\":\"Andrius Kulikauskas\",\"commentUri\":\"comments/i-Uc1gecoXIs\",\"createdAt\":1764783030.973,\"reactions\":[],\"text\":\"Daniel Ari Friedman Great! I added the main link and I can work on this more when I finish my work for Steph.\",\"userId\":2953483}],\"pageUri\":\"pages/section-LA81jT0Zcu\",\"reference\":{\"type\":\"text\",\"text\":\"I expect that the 24-fold pattern could arise and then that would help to communicate the building blocks of Wondrous Wisdom.\"},\"state\":\"Active\",\"threadUri\":\"threads/r-5DNOXoEwfm\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-6VLuqR8kMm",
+      "commentThreads": [],
+      "content": "How do you prove a live video stream hasn't been tampered with? Meet Steganographer: an open-source tool for real-time cryptographic watermarking.\n\nCode: [https://github.com/docxology/steganographer](https://github.com/docxology/steganographer) \n\nVideo overview: [https://www.youtube.com/watch?v=sSknNQFBXS0](https://www.youtube.com/watch?v=sSknNQFBXS0)   \n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-6VLuqR8kMm",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-6VLuqR8kMm",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-6VLuqR8kMm",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-6VLuqR8kMm",
+    "canvasUri": "canvases/canvas-6VLuqR8kMm",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1773005383.153,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "google-code",
+    "isHidden": false,
+    "pageId": "section-6VLuqR8kMm",
+    "pageType": "canvas",
+    "pageUri": "pages/section-6VLuqR8kMm",
+    "parentPageUri": "pages/section-9TRHaEEPT0",
+    "position": 289,
+    "subtitle": "",
+    "title": "Steganography",
+    "updatedAt": 1773005399.298,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-6VLuqR8kMm",
+    "canvasUri": "canvases/canvas-6VLuqR8kMm",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1773005383.153,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "google-code",
+    "isHidden": false,
+    "pageId": "section-6VLuqR8kMm",
+    "pageType": "canvas",
+    "pageUri": "pages/section-6VLuqR8kMm",
+    "parentPageUri": "pages/section-9TRHaEEPT0",
+    "position": 289,
+    "subtitle": "",
+    "title": "Steganography",
+    "updatedAt": 1773005399.298,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

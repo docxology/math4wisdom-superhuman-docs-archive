@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-2Nmth7bzFa"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-2Nmth7bzFa\",\"pageUri\":\"pages/section-2Nmth7bzFa\",\"content\":\"# [https://coda.io/d/_d0SvdI3KSto/_suQWY5DS](https://coda.io/d/_d0SvdI3KSto/_suQWY5DS) + [https://coda.io/d/_d0SvdI3KSto/_suRfidAo](https://coda.io/d/_d0SvdI3KSto/_suRfidAo) + [100 Foot Wave](https://www.hbo.com/100-foot-wave) = [https://coda.io/d/_d0SvdI3KSto/_suh7bzFa](https://coda.io/d/_d0SvdI3KSto/_suh7bzFa) \\n\\n<columns>\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nHere are some tetrahedral-themed patriotic puns that play on American phrases:\\n\\n**Geometric Patriotic Wordplay**  \\n- READ, WHITE AND BLUE (playing on \\\"red, white and blue\\\")  \\n- Life, Liberty, and the Pursuit of FACE-iness  \\n- Four FACES and Seven EDGES Ago  \\n- The VERTEX of Liberty  \\n- Home of the PLANE, Land of the THREE  \\n- Don't TREAD on TETRA  \\n- E PLURAL-HEDRON UNUM  \\n- Give me VERTICES or Give me Death  \\n- United we STAND (on our base)  \\n- APEX and Recreation  \\n- The Spirit of SEVENTY-FACES  \\n- PLANE Sweet PLANE\\n\\nThe geometric structure of tetrahedra provides rich opportunities for mathematical and spatial wordplay while maintaining connection to traditional American patriotic phrases. These puns combine the precise vocabulary of polyhedra with familiar national mottos and sayings, creating a unique blend of mathematical and cultural references.\\n\\n\\n\\n\\n\\nHere's a fresh collection of geometry-meets-patriotism wordplay:\\n\\n**Tetrahedral Twists**\\n\\n- In TETRA We Trust\\n- FACE the Nation\\n- EDGE of Glory\\n- The VERTEX of Mount Rushmore\\n- Sweet Land of SYMMETRY\\n- TETRA-dom Ring\\n- Ask not what your TETRA can do for you\\n- FACE the Music and DANCE\\n- The Only Thing We Have to FACE is FACE Itself\\n- Give Me VERTICES or Give Me Death\\n\\n**Synergetic Spins**\\n\\n- We The POLYHEDRA\\n- Pursuit of PLANE-ness\\n- TRIANGULATED We Stand\\n- One Nation Under GEODESICS\\n- The Great TRUNCATION\\n- Purple Mountains' VERTICES\\n- From Sea to Shining SYMMETRY\\n- DYMAXION and Justice for All\\n- The TENSEGRITY of Our Union\\n- BUCKMINSTER's and Cream\\n\\n**Geometric Americana**\\n\\n- The Star TRIANGLED Banner\\n- VERTEX of Allegiance\\n- FACE the People\\n- The EDGE of Independence\\n- Four VERTICES and Seven YEARS Ago\\n- TETRA-dom Isn't Free\\n- The Spirit of SEVENTY-FACES\\n- Don't TREAD on my EDGES\\n- Uncle POLYHEDRON Wants YOU\\n- FACE Upon a City Hill\\n\\nThese puns combine geometric terminology with iconic American phrases, creating a unique intersection of mathematical precision and patriotic expression.  \\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nREAD, WHITE, AND BLUE  \\nFUE FACEES  \\n7 FACES & EIGES  \\nEVE7-DGES AAOM (Windows Activation Key?)  \\nEE PLURBRRAL-HEDRON UNIUM\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n# TO THE SOUTH \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n# TO THE NORTH\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

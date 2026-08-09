@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-S2dtbpHvLx"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-S2dtbpHvLx\",\"canvasId\":\"canvas-S2dtbpHvLx\",\"title\":\"Tools\",\"canvasUri\":\"canvases/canvas-S2dtbpHvLx\",\"childPageOutlines\":[{\"pageId\":\"section-B5xtZGkgVG\",\"canvasId\":\"canvas-B5xtZGkgVG\",\"title\":\"Tool Review\",\"canvasUri\":\"canvases/canvas-B5xtZGkgVG\",\"pageUri\":\"pages/section-B5xtZGkgVG\"},{\"pageId\":\"section-9TRHaEEPT0\",\"canvasId\":\"canvas-9TRHaEEPT0\",\"title\":\"Knowledge Tools\",\"canvasUri\":\"canvases/canvas-9TRHaEEPT0\",\"pageUri\":\"pages/section-9TRHaEEPT0\"},{\"pageId\":\"section-0w-9GCORpG\",\"canvasId\":\"canvas-0w-9GCORpG\",\"title\":\"Audio-Visual\",\"canvasUri\":\"canvases/canvas-0w-9GCORpG\",\"pageUri\":\"pages/section-0w-9GCORpG\"},{\"pageId\":\"section-Kri8EcSGnw\",\"canvasId\":\"canvas-Kri8EcSGnw\",\"title\":\"AI\",\"canvasUri\":\"canvases/canvas-Kri8EcSGnw\",\"pageUri\":\"pages/section-Kri8EcSGnw\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-S2dtbpHvLx\",\"parentPageUri\":null,\"position\":8,\"icon\":\"administrative-tools\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708215652.075,\"updatedAt\":1709711507.725,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1271333,\"name\":\"kirby urner\",\"email\":\"kirby.urner@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

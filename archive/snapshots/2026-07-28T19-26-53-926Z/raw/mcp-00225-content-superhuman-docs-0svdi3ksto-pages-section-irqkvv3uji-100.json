@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-IrQkVv3uJi"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-IrQkVv3uJi\",\"pageUri\":\"pages/section-IrQkVv3uJi\",\"content\":\"\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-IrQkVv3uJi\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-xZB3p1ewAs\",\"createdAt\":1734707019.926,\"reactions\":[],\"text\":\"kirby urner \",\"userId\":1119613}],\"pageUri\":\"pages/section-IrQkVv3uJi\",\"reference\":{\"type\":\"text\",\"text\":\"—\"},\"state\":\"Active\",\"threadUri\":\"threads/r-kHeKQH3Fy-\"},{\"canvasUri\":\"canvases/canvas-IrQkVv3uJi\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-A32N3t7kOM\",\"createdAt\":1734706630.723,\"reactions\":[],\"text\":\"Wow.\",\"userId\":1119613}],\"pageUri\":\"pages/section-IrQkVv3uJi\",\"reference\":null,\"state\":\"Resolved\",\"threadUri\":\"threads/r-kfHmOFnsq8\"},{\"canvasUri\":\"canvases/canvas-IrQkVv3uJi\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-psGuzcNPo7\",\"createdAt\":1734706582.015,\"reactions\":[],\"text\":\"The anomalous camera, strikes again! \",\"userId\":1119613}],\"pageUri\":\"pages/section-IrQkVv3uJi\",\"reference\":null,\"state\":\"Resolved\",\"threadUri\":\"threads/r-IbDF99LtyD\"},{\"canvasUri\":\"canvases/canvas-IrQkVv3uJi\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-VJY5MxKEUr\",\"createdAt\":1734705571.799,\"reactions\":[],\"text\":\"In 2025..... Picture take picture of you! \",\"userId\":1119613}],\"pageUri\":\"pages/section-IrQkVv3uJi\",\"reference\":null,\"state\":\"Active\",\"threadUri\":\"threads/r-_N1nryN00W\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

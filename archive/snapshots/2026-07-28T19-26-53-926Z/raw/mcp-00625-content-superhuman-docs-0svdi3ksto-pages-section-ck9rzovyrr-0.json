@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-CK9rzOvYRR"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-CK9rzOvYRR\",\"pageUri\":\"pages/section-CK9rzOvYRR\",\"content\":\"The cultural cousin of [https://coda.io/d/_d0SvdI3KSto/_suli3zvK](https://coda.io/d/_d0SvdI3KSto/_suli3zvK). And/Or is it the other way around? \\n\\n---\\n\\n- [https://coda.io/d/_d0SvdI3KSto/_suQJJKEG](https://coda.io/d/_d0SvdI3KSto/_suQJJKEG) — Cult of the Situation \\n\\n- [https://coda.io/d/_d0SvdI3KSto/_su2pEle7](https://coda.io/d/_d0SvdI3KSto/_su2pEle7) — Cult of the Syndicate\\n\\n- [https://coda.io/d/_d0SvdI3KSto/_suO5iR7S](https://coda.io/d/_d0SvdI3KSto/_suO5iR7S)  — Cult of the Organization \\n\\nDialectical // Oppositional Cults (true friendship?)\\n\\n- Cult of Secrecy/Openness\\n\\n- Cult of Conformity/Uniqueness \\n\\n- Cult of the Past (Conservatism) and Future (Progressivism) \\n\\n- Cult of Love/Hate (general or specific) \\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

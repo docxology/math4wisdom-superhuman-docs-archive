@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-IY29lOwv--"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-IY29lOwv--\",\"canvasId\":\"canvas-IY29lOwv--\",\"title\":\"Templeton 2024 Grant\",\"canvasUri\":\"canvases/canvas-IY29lOwv--\",\"childPageOutlines\":[{\"pageId\":\"section-Ld917eYUSQ\",\"canvasId\":\"canvas-Ld917eYUSQ\",\"title\":\"Draft 8-6-2024 ~ Templeton\",\"canvasUri\":\"canvases/canvas-Ld917eYUSQ\",\"pageUri\":\"pages/section-Ld917eYUSQ\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-IY29lOwv--\",\"parentPageUri\":\"pages/section-5fRnCB4PRL\",\"position\":79,\"icon\":\"todo-list\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1721743922.471,\"updatedAt\":1724953131.047,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":2353494,\"name\":\"Active Inference Institute\",\"email\":\"admin@activeinference.institute\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

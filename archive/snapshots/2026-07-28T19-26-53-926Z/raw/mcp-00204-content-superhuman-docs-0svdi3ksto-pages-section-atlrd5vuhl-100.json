@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-aTlrd5VuHl"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-aTlrd5VuHl\",\"pageUri\":\"pages/section-aTlrd5VuHl\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-aTlrd5VuHl/formulas/f-Zcr5XF2L8q\",\"name\":\"##_hidden_control_## 131\",\"canvasUri\":\"canvases/canvas-aTlrd5VuHl\",\"pageUri\":\"pages/section-aTlrd5VuHl\",\"value\":{\"Title\":\"The Great Red Dragon paintings\",\"Summary\":{\"type\":\"slate\",\"root\":{\"children\":[{\"children\":[{\"text\":\"Series of paintings by William Blake\"}],\"id\":\"cl-0\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0}]}},\"Image\":{\"type\":\"imageurlref\",\"url\":\"https://upload.wikimedia.org/wikipedia/commons/9/92/The_Great_Red_Dragon_and_the_Woman_Clothed_with_the_Sun.jpg\",\"outline\":true},\"Body\":{\"type\":\"slate\",\"root\":{\"children\":[{\"children\":[{\"text\":\"The Great Red Dragon\",\"bold\":true,\"italic\":true},{\"text\":\" paintings\",\"bold\":true},{\"text\":\" are a series of watercolour paintings by the English poet and painter William Blake, created between 1805 and 1810. It was during this period that Blake was commissioned to create over one hundred paintings intended to illustrate books of the Bible. These paintings depict \\\"The Great Red Dragon\\\" in various scenes from the Book of Revelation. \"}],\"id\":\"cl-0\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0},{\"children\":[{\"text\":\" \"}],\"id\":\"cl-1\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0},{\"alignment\":\"Left\",\"children\":[{\"text\":\"And behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads. And his tail drew the third part of the stars of heaven, and did cast them to the earth.\"}],\"id\":\"cl-2\",\"lineLevel\":0,\"style\":\"BlockQuote\",\"type\":\"Line\"}]}},\"Url\":{\"type\":\"urlref\",\"url\":\"https://en.wikipedia.org/wiki/The_Great_Red_Dragon_paintings\",\"name\":\"\"},\"LastEdited\":{\"type\":\"dt\",\"input\":\"3/13/2025 3:20:36 PM\",\"epoch\":1741904436,\"formatted\":\"3/13/2025\"}},\"formula\":\"WikipediaArticle(\\\"https://en.wikipedia.org/wiki/The_Great_Red_Dragon_paintings\\\")\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

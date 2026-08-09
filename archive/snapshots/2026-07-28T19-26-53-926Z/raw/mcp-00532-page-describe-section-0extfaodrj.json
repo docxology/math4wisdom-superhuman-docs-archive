@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-0ExtFaOdRJ"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-0ExtFaOdRJ\",\"canvasId\":\"canvas-0ExtFaOdRJ\",\"title\":\"Ants in EJ Applewhite\",\"canvasUri\":\"canvases/canvas-0ExtFaOdRJ\",\"childPageOutlines\":[{\"pageId\":\"section-Q9qydEJFJE\",\"canvasId\":\"canvas-Q9qydEJFJE\",\"title\":\"EJ Applewhite\",\"canvasUri\":\"canvases/canvas-Q9qydEJFJE\",\"pageUri\":\"pages/section-Q9qydEJFJE\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-0ExtFaOdRJ\",\"parentPageUri\":\"pages/section-G5EWGLGI6n\",\"position\":71,\"icon\":\"apple\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1718588069.716,\"updatedAt\":1719334875.576,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1271333,\"name\":\"kirby urner\",\"email\":\"kirby.urner@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

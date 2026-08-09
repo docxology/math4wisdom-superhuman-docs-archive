@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-l5aXJCjgXV"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-l5aXJCjgXV\",\"canvasId\":\"canvas-l5aXJCjgXV\",\"title\":\"Humboldt\",\"canvasUri\":\"canvases/canvas-l5aXJCjgXV\",\"childPageOutlines\":[{\"pageId\":\"section-2ZBg0XbVAX\",\"canvasId\":\"canvas-2ZBg0XbVAX\",\"title\":\"Eureka\",\"canvasUri\":\"canvases/canvas-2ZBg0XbVAX\",\"pageUri\":\"pages/section-2ZBg0XbVAX\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-l5aXJCjgXV\",\"parentPageUri\":\"pages/section-uUbHYih-tF\",\"position\":237,\"icon\":\"humidity\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1760623177.481,\"updatedAt\":1760623976.534,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

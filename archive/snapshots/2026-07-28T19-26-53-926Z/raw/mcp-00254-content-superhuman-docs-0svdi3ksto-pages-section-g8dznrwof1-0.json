@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-G8DZnrwoF1"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-G8DZnrwoF1\",\"pageUri\":\"pages/section-G8DZnrwoF1\",\"content\":\"What is a [https://coda.io/d/_d0SvdI3KSto/_sunrwoF1](https://coda.io/d/_d0SvdI3KSto/_sunrwoF1)? \\n\\nA .pyc file is a compiled Python file that contains the bytecode version of your .py source code, which the Python interpreter can load and execute directly.\\n\\n<columns>\\n[https://coda.io/d/_d0SvdI3KSto/_suRFjdUk](https://coda.io/d/_d0SvdI3KSto/_suRFjdUk) \\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n</columns>\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

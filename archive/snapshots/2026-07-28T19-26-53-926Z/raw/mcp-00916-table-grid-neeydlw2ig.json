@@ -1,0 +1,18 @@
+{
+  "arguments": {
+    "include": [
+      "formats",
+      "views"
+    ],
+    "uri": "superhuman://docs/0SvdI3KSto/tables/grid-neeyDLw2ig"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"table_columns_read\",\"result\":{\"canvasUri\":\"canvases/canvas-Zl1ljqBh-1\",\"pageUri\":\"pages/section-Zl1ljqBh-1\",\"tableUri\":\"tables/grid-neeyDLw2ig\",\"name\":\"People table\",\"rowCount\":5,\"columns\":[{\"columnId\":\"c-FI_otmOKMc\",\"name\":\"Name\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-7JHM5tGm13\",\"name\":\"Epistemic Portrait\",\"description\":null,\"format\":{\"type\":\"link\",\"display\":\"IconOnly\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-KeusetjRK7\",\"name\":\"Email\",\"description\":null,\"format\":{\"type\":\"link\",\"display\":\"IconOnly\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-bCibk-MmvF\",\"name\":\"Notes\",\"description\":null,\"format\":{\"type\":\"canvas\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-c077AhjUwi\",\"name\":\"Acronym\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-ltc7SVLw3N\",\"name\":\"Relationship with truth\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-oBq7qQUgCX\",\"name\":\"Deepest value in life is.....\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-rVZhR9bElt\",\"name\":\"Central way is to....\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-OufZNtXXhU\",\"name\":\"Starts by......\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-Zl1ljqBh-1\",\"pageUri\":\"pages/section-Zl1ljqBh-1\",\"tableUri\":\"pages/section-Zl1ljqBh-1/tables/grid-neeyDLw2ig\",\"viewUri\":\"pages/section-Zl1ljqBh-1/tables/grid-neeyDLw2ig/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[],\"orderedColumnIds\":[\"c-FI_otmOKMc\",\"c-c077AhjUwi\",\"c-7JHM5tGm13\",\"c-KeusetjRK7\",\"c-bCibk-MmvF\",\"c-ltc7SVLw3N\",\"c-oBq7qQUgCX\",\"c-rVZhR9bElt\",\"c-OufZNtXXhU\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "table_columns_read"
+}

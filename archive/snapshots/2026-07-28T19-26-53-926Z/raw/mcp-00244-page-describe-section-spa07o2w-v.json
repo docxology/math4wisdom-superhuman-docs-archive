@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-sPa07o2w_V"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-sPa07o2w_V\",\"canvasId\":\"canvas-sPa07o2w_V\",\"title\":\"Northwest\",\"canvasUri\":\"canvases/canvas-sPa07o2w_V\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-sPa07o2w_V\",\"parentPageUri\":\"pages/section-qR8t6voMRD\",\"position\":97,\"icon\":\"idaho\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1730223276.245,\"updatedAt\":1735152412.352,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1271333,\"name\":\"kirby urner\",\"email\":\"kirby.urner@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

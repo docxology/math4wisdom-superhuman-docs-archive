@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-uSo6iw4kE2"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-uSo6iw4kE2\",\"canvasId\":\"canvas-uSo6iw4kE2\",\"title\":\"Investigations\",\"canvasUri\":\"canvases/canvas-uSo6iw4kE2\",\"childPageOutlines\":[{\"pageId\":\"section-otrP5aA4ke\",\"canvasId\":\"canvas-otrP5aA4ke\",\"title\":\"Epistemology of Statistics\",\"canvasUri\":\"canvases/canvas-otrP5aA4ke\",\"pageUri\":\"pages/section-otrP5aA4ke\"},{\"pageId\":\"section-h9c-nrEj99\",\"canvasId\":\"canvas-h9c-nrEj99\",\"title\":\"How can we get people to think Ecologically?\",\"canvasUri\":\"canvases/canvas-h9c-nrEj99\",\"pageUri\":\"pages/section-h9c-nrEj99\"},{\"pageId\":\"section-IC6HIbqcrl\",\"canvasId\":\"canvas-IC6HIbqcrl\",\"title\":\"Extradynamical Evolution\",\"canvasUri\":\"canvases/canvas-IC6HIbqcrl\",\"pageUri\":\"pages/section-IC6HIbqcrl\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-uSo6iw4kE2\",\"parentPageUri\":null,\"position\":67,\"icon\":\"detective\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1716997683.269,\"updatedAt\":1716997686.639,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

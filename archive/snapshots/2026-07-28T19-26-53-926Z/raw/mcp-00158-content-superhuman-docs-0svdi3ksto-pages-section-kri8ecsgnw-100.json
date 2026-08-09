@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-Kri8EcSGnw"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-Kri8EcSGnw\",\"pageUri\":\"pages/section-Kri8EcSGnw\",\"content\":\"\",\"tables\":[{\"canvasUri\":\"canvases/canvas-Kri8EcSGnw\",\"tableUri\":\"tables/grid-d6XaWPJjAI\",\"name\":\"EIC 2024\",\"pageUri\":\"pages/section-Kri8EcSGnw\",\"rowCount\":11,\"columns\":[{\"columnId\":\"c-ix3n8LZDYg\",\"name\":\"Q\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-PgRavuvrnF\",\"name\":\"Question\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-6-n1-1MJD9\",\"name\":\"DAF Text\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-5KBNJnHU07\",\"name\":\".....?\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-Kri8EcSGnw\",\"pageUri\":\"pages/section-Kri8EcSGnw\",\"tableUri\":\"pages/section-Kri8EcSGnw/tables/grid-d6XaWPJjAI\",\"viewUri\":\"pages/section-Kri8EcSGnw/tables/grid-d6XaWPJjAI/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[],\"orderedColumnIds\":[\"c-ix3n8LZDYg\",\"c-PgRavuvrnF\",\"c-6-n1-1MJD9\",\"c-5KBNJnHU07\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]}],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

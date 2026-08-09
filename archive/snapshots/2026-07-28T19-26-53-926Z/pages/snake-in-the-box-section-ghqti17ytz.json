@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-GhqTI17YtZ",
+      "commentThreads": [],
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_suy27kzn](https://coda.io/d/_d0SvdI3KSto/_suy27kzn):  \n[https://zenodo.org/records/17538015](https://zenodo.org/records/17538015)  \nNew Lower Bounds for Snake-in-the-Box in 11-, 12-, and 13-dimensional Hypercubes\n\n---\n\nhttps://youtu.be/5wPoS4Cj_rU",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-GhqTI17YtZ",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-GhqTI17YtZ",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-GhqTI17YtZ",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-GhqTI17YtZ",
+    "canvasUri": "canvases/canvas-GhqTI17YtZ",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1762470588.109,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "year-of-snake",
+    "isHidden": false,
+    "pageId": "section-GhqTI17YtZ",
+    "pageType": "canvas",
+    "pageUri": "pages/section-GhqTI17YtZ",
+    "parentPageUri": "pages/section-6Aioy27kzn",
+    "position": 251,
+    "subtitle": "",
+    "title": "Snake-in-the-Box",
+    "updatedAt": 1765132080.877,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-GhqTI17YtZ",
+    "canvasUri": "canvases/canvas-GhqTI17YtZ",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1762470588.109,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "year-of-snake",
+    "isHidden": false,
+    "pageId": "section-GhqTI17YtZ",
+    "pageType": "canvas",
+    "pageUri": "pages/section-GhqTI17YtZ",
+    "parentPageUri": "pages/section-6Aioy27kzn",
+    "position": 251,
+    "subtitle": "",
+    "title": "Snake-in-the-Box",
+    "updatedAt": 1765132080.877,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

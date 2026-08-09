@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-lhreXtZKEK"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-lhreXtZKEK\",\"pageUri\":\"pages/section-lhreXtZKEK\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-lhreXtZKEK/formulas/f-Z2Arbwcmoq\",\"name\":\"##_hidden_control_## 114\",\"canvasUri\":\"canvases/canvas-lhreXtZKEK\",\"pageUri\":\"pages/section-lhreXtZKEK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1271333\",\"name\":\"kirby urner\"},\"formula\":\"[kirby urner]\"},{\"formulaUri\":\"canvases/canvas-lhreXtZKEK/formulas/f-qCRabERyeA\",\"name\":\"##_hidden_control_## 115\",\"canvasUri\":\"canvases/canvas-lhreXtZKEK\",\"pageUri\":\"pages/section-lhreXtZKEK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2953483\",\"name\":\"Andrius Kulikauskas\"},\"formula\":\"[Andrius Kulikauskas]\"},{\"formulaUri\":\"canvases/canvas-lhreXtZKEK/formulas/f-IGGO0jvcC0\",\"name\":\"##_hidden_control_## 120\",\"canvasUri\":\"canvases/canvas-lhreXtZKEK\",\"pageUri\":\"pages/section-lhreXtZKEK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2953483\",\"name\":\"Andrius Kulikauskas\"},\"formula\":\"[Andrius Kulikauskas]\"},{\"formulaUri\":\"canvases/canvas-lhreXtZKEK/formulas/f-VgYEWqsrWQ\",\"name\":\"##_hidden_control_## 118\",\"canvasUri\":\"canvases/canvas-lhreXtZKEK\",\"pageUri\":\"pages/section-lhreXtZKEK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1271333\",\"name\":\"kirby urner\"},\"formula\":\"[kirby urner]\"},{\"formulaUri\":\"canvases/canvas-lhreXtZKEK/formulas/f-b9ai_cB7b7\",\"name\":\"##_hidden_control_## 123\",\"canvasUri\":\"canvases/canvas-lhreXtZKEK\",\"pageUri\":\"pages/section-lhreXtZKEK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2953483\",\"name\":\"Andrius Kulikauskas\"},\"formula\":\"[Andrius Kulikauskas]\"},{\"formulaUri\":\"canvases/canvas-lhreXtZKEK/formulas/f-YlPryzpCxL\",\"name\":\"##_hidden_control_## 125\",\"canvasUri\":\"canvases/canvas-lhreXtZKEK\",\"pageUri\":\"pages/section-lhreXtZKEK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1271333\",\"name\":\"kirby urner\"},\"formula\":\"[kirby urner]\"},{\"formulaUri\":\"canvases/canvas-lhreXtZKEK/formulas/f-qwm0AoSqvc\",\"name\":\"##_hidden_control_## 126\",\"canvasUri\":\"canvases/canvas-lhreXtZKEK\",\"pageUri\":\"pages/section-lhreXtZKEK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1271333\",\"name\":\"kirby urner\"},\"formula\":\"[kirby urner]\"},{\"formulaUri\":\"canvases/canvas-lhreXtZKEK/formulas/f-3awHDF67js\",\"name\":\"##_hidden_control_## 127\",\"canvasUri\":\"canvases/canvas-lhreXtZKEK\",\"pageUri\":\"pages/section-lhreXtZKEK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2953483\",\"name\":\"Andrius Kulikauskas\"},\"formula\":\"[Andrius Kulikauskas]\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

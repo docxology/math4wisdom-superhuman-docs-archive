@@ -1,0 +1,1426 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-p-8HV-LOe1",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-EqZyFJSLz_",
+              "createdAt": 1713376161.286,
+              "reactions": [],
+              "text": "Thank you. \nI will return to this and do it Andrius Kulikauskas ",
+              "userId": 1119613
+            },
+            {
+              "authorEmail": "math4wisdom@gmail.com",
+              "authorName": "Andrius Kulikauskas",
+              "commentUri": "comments/i-571kXj4VTU",
+              "createdAt": 1713376980.044,
+              "reactions": [],
+              "text": "👍",
+              "userId": 2953483
+            },
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-NTF1vXyP38",
+              "createdAt": 1713555653.374,
+              "reactions": [],
+              "text": "Done and added to /_sugYI5Ax and /_suWmM2DK , will send Email on this in a few minutes.",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-Eavvzel7bk"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-QVj4Yv1W9Q",
+              "createdAt": 1710702578.763,
+              "reactions": [],
+              "text": "Tables can be exported as CSV. \nDifferent views of a table (containing different filtered Rows and Columns) are all connected within (and optionally across) documents.",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-TyiL9fjOeF"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-JRzS9JR6cB"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-O-FyFMW4gC"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-rU6e-epEiA",
+              "createdAt": 1708289549.545,
+              "reactions": [],
+              "text": "For low-code low-complexity databases, yes /_suSWQ4PS is amazing. It can import and export .CSV and other formats. \n\nFor more complex or custom/large-scale data analysis, scripting and development environments can pick up where Coda leaves off. ",
+              "userId": 1119613
+            },
+            {
+              "authorEmail": "math4wisdom@gmail.com",
+              "authorName": "Andrius Kulikauskas",
+              "commentUri": "comments/i-_TuvcUVWDG",
+              "createdAt": 1709639794.653,
+              "reactions": [],
+              "text": "Thank you, Daniel!\n",
+              "userId": 2953483
+            }
+          ],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-7y3YdgJPgM"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-yjXjUM7JHJ"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-fbncSU-cMk"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-GHP_TWsMTR"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-_k09hGa-IV"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-_wmHMeyevl"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [
+            {
+              "authorEmail": "math4wisdom@gmail.com",
+              "authorName": "Andrius Kulikauskas",
+              "commentUri": "comments/i-kwkdsJjsdF",
+              "createdAt": 1708289312.48,
+              "reactions": [],
+              "text": "Daniel, I am trying to write a comment.",
+              "userId": 2953483
+            },
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-lCHcZDfbXl",
+              "createdAt": 1708289492.407,
+              "reactions": [],
+              "text": "Yes, I see this comment 👍",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-ebyYCvQW3a"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-KUs-aElhMJ"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-m90i_34vYW"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-4Bgi1t7HSO",
+              "createdAt": 1708283511.953,
+              "reactions": [
+                {
+                  "reaction": "🐜",
+                  "userIds": [
+                    1119613
+                  ]
+                },
+                {
+                  "reaction": "🐝",
+                  "userIds": [
+                    1119613
+                  ]
+                },
+                {
+                  "reaction": "🐞",
+                  "userIds": [
+                    1119613
+                  ]
+                }
+              ],
+              "text": "Example comment ",
+              "userId": 1119613
+            },
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-TtHeUjKp0_",
+              "createdAt": 1708283529.677,
+              "reactions": [],
+              "text": "🚴",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": {
+            "text": "add comments",
+            "type": "text"
+          },
+          "state": "Resolved",
+          "threadUri": "threads/r-8dvt0G6Z8G"
+        }
+      ],
+      "content": "\n\n<columns>\n[https://coda.io/d/_d0SvdI3KSto/_su0opxmi](https://coda.io/d/_d0SvdI3KSto/_su0opxmi)\n\n\n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_suV-LOe1](https://coda.io/d/_d0SvdI3KSto/_suV-LOe1) for [Math4Wisdom](https://www.math4wisdom.com/) contains information about the project such as: \n</columns>\n\n- [https://coda.io/d/_d0SvdI3KSto/_sujqBh-1](https://coda.io/d/_d0SvdI3KSto/_sujqBh-1) \n\n- [https://coda.io/d/_d0SvdI3KSto/_su0opxmi](https://coda.io/d/_d0SvdI3KSto/_su0opxmi) \n\n- [https://coda.io/d/_d0SvdI3KSto/_suwlf3Jt](https://coda.io/d/_d0SvdI3KSto/_suwlf3Jt) like [https://coda.io/d/_d0SvdI3KSto/_suCwO2Pw](https://coda.io/d/_d0SvdI3KSto/_suCwO2Pw) & [https://coda.io/d/_d0SvdI3KSto/_su44bth2](https://coda.io/d/_d0SvdI3KSto/_su44bth2)\n\n- [https://coda.io/d/_d0SvdI3KSto/_su2_Sy3a](https://coda.io/d/_d0SvdI3KSto/_su2_Sy3a) like the [https://coda.io/d/_d0SvdI3KSto/_su9rdBm7](https://coda.io/d/_d0SvdI3KSto/_su9rdBm7) \n\n- [https://coda.io/d/_d0SvdI3KSto/_sugFmpP_](https://coda.io/d/_d0SvdI3KSto/_sugFmpP_) like [https://coda.io/d/_d0SvdI3KSto/_su8wp-W6](https://coda.io/d/_d0SvdI3KSto/_su8wp-W6)\n\n- Please use [https://coda.io/d/_d0SvdI3KSto/_sugYI5Ax](https://coda.io/d/_d0SvdI3KSto/_sugYI5Ax) for making any requests of the [https://coda.io/d/_d0SvdI3KSto/_suSWQ4PS](https://coda.io/d/_d0SvdI3KSto/_suSWQ4PS) stewards, and tag <formula id=\"f-9h76Hue9YX\">Daniel Ari Friedman</formula> . \n\nAs a start for [https://coda.io/d/_d0SvdI3KSto/_subWlqVP](https://coda.io/d/_d0SvdI3KSto/_subWlqVP)-scale work, a preliminary categorization is:\n\n<columns>\n[https://coda.io/d/_d0SvdI3KSto/_sumWz2XL](https://coda.io/d/_d0SvdI3KSto/_sumWz2XL) + [https://coda.io/d/_d0SvdI3KSto/_suEcSGnw](https://coda.io/d/_d0SvdI3KSto/_suEcSGnw) \n\n[https://coda.io/d/_d0SvdI3KSto/_sujjvM3E](https://coda.io/d/_d0SvdI3KSto/_sujjvM3E) \n\n[https://coda.io/d/_d0SvdI3KSto/_suQWY5DS](https://coda.io/d/_d0SvdI3KSto/_suQWY5DS) \n\n[https://coda.io/d/_d0SvdI3KSto/_suGCORpG](https://coda.io/d/_d0SvdI3KSto/_suGCORpG)\n\n|||\n\n- [https://coda.io/d/_d0SvdI3KSto/_sufZveSi](https://coda.io/d/_d0SvdI3KSto/_sufZveSi) like: \n  - [https://coda.io/d/_d0SvdI3KSto/_subZHKAF](https://coda.io/d/_d0SvdI3KSto/_subZHKAF), [https://coda.io/d/_d0SvdI3KSto/_su-YQoTU](https://coda.io/d/_d0SvdI3KSto/_su-YQoTU), and [https://coda.io/d/_d0SvdI3KSto/_suPdiY8D](https://coda.io/d/_d0SvdI3KSto/_suPdiY8D). [Synergetics](https://coda.io/d/_d0SvdI3KSto/_sugFmpP_).\n  - [https://coda.io/d/_d0SvdI3KSto/_sumWz2XL](https://coda.io/d/_d0SvdI3KSto/_sumWz2XL) and [https://coda.io/d/_d0SvdI3KSto/_suITdICd](https://coda.io/d/_d0SvdI3KSto/_suITdICd) and [https://coda.io/d/_d0SvdI3KSto/_suEcSGnw](https://coda.io/d/_d0SvdI3KSto/_suEcSGnw) \n- [https://coda.io/d/_d0SvdI3KSto/_subpHvLx](https://coda.io/d/_d0SvdI3KSto/_subpHvLx) and [https://coda.io/d/_d0SvdI3KSto/_suaEEPT0](https://coda.io/d/_d0SvdI3KSto/_suaEEPT0) like: Perplexity, ChatGPT, Wiki, [https://coda.io/d/_d0SvdI3KSto/_suSWQ4PS](https://coda.io/d/_d0SvdI3KSto/_suSWQ4PS), Jupyter...\n</columns>\n\n---\n\nFeel free to add comments or enter the “suggest edits” mode by selecting text, and clicking pencil on the right side of the screen. \n\n---\n\nUpcoming Meetings View\n\n",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-p-8HV-LOe1/formulas/f-9h76Hue9YX",
+          "name": "##_hidden_control_## 37",
+          "pageUri": "pages/section-OJTyxu39sp",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-OJTyxu39sp",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "columns": [
+            {
+              "columnId": "c-2ZwvUVWvUQ",
+              "description": null,
+              "error": null,
+              "format": {
+                "format": "DEFAULT",
+                "type": "dp"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Date"
+            },
+            {
+              "columnId": "c-1821xYlty_",
+              "description": null,
+              "error": null,
+              "format": {
+                "multiple": false,
+                "selectOptions": [
+                  "Language of Wisdom",
+                  "Knowledge Engineering",
+                  "Knowledge Math",
+                  "Interaction Group",
+                  "Living by Wisdom"
+                ],
+                "type": "sl"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Type"
+            },
+            {
+              "columnId": "c-xZ5GN71GGG",
+              "description": null,
+              "error": null,
+              "format": {
+                "grouping": true,
+                "precision": 22,
+                "type": "num"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Hour UTC"
+            },
+            {
+              "columnId": "c-PX-0lySGNb",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-_kR_czMF9u",
+              "description": null,
+              "error": null,
+              "format": {
+                "displayPreview": true,
+                "messageBuilderProperties": {
+                  "message": {
+                    "type": 2,
+                    "value": "_FormatMessageSlate($$[cell:Global-Message-Templates:MessageTemplate:i-_aRzmhQYle:false:false:], $$[rowColumn:grid-O8e6yxDvz5:c-1821xYlty_::false], $$[rowColumn:grid-O8e6yxDvz5:c-2ZwvUVWvUQ::false], $$[rowColumn:grid-O8e6yxDvz5:c-xZ5GN71GGG::false])"
+                  }
+                },
+                "type": "canvas"
+              },
+              "formula": "_FormatMessageSlate(MessageTemplate, Type, Date, [Hour UTC])",
+              "isDisplayColumn": false,
+              "isWritable": false,
+              "name": "Copypasta."
+            },
+            {
+              "columnId": "c-MAFG-TNeiZ",
+              "description": null,
+              "error": null,
+              "format": {
+                "display": "IconOnly",
+                "type": "link"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Link"
+            }
+          ],
+          "name": "Upcoming Meetings View",
+          "pageUri": "pages/section-OJTyxu39sp",
+          "rowCount": 158,
+          "sourceTableUri": "tables/grid-O8e6yxDvz5",
+          "tableUri": "pages/section-OJTyxu39sp/tables/table-MkhCK0l-MZ",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-p-8HV-LOe1",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [
+                  "c-1821xYlty_"
+                ],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-_kR_czMF9u"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-1821xYlty_",
+                "c-xZ5GN71GGG",
+                "c-2ZwvUVWvUQ",
+                "c-PX-0lySGNb",
+                "c-MAFG-TNeiZ"
+              ],
+              "pageUri": "pages/section-OJTyxu39sp",
+              "personalFilterColumns": [],
+              "sorts": [
+                {
+                  "columnId": "c-2ZwvUVWvUQ",
+                  "direction": "descending"
+                }
+              ],
+              "tableUri": "pages/section-OJTyxu39sp/tables/table-MkhCK0l-MZ",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-OJTyxu39sp/tables/table-MkhCK0l-MZ/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "columns": [
+            {
+              "columnId": "c-ajrgrVZ4Jd",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-fG4JYJuiyt",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Perspective"
+            },
+            {
+              "columnId": "c-Y0ZVcSweDy",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Column 3"
+            },
+            {
+              "columnId": "c-P3zItpdi3w",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            }
+          ],
+          "name": "Copy 2 of Outline",
+          "pageUri": "pages/section-OJTyxu39sp",
+          "rowCount": 10,
+          "tableUri": "tables/grid-KNTqxU8ewZ",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-p-8HV-LOe1",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-ajrgrVZ4Jd",
+                "c-fG4JYJuiyt",
+                "c-Y0ZVcSweDy",
+                "c-P3zItpdi3w"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [],
+              "pageUri": "pages/section-OJTyxu39sp",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-OJTyxu39sp/tables/grid-KNTqxU8ewZ",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-OJTyxu39sp/tables/grid-KNTqxU8ewZ/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "columns": [
+            {
+              "columnId": "c-yGEjTzBX1x",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-utzaZW8ES0",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Ant"
+            },
+            {
+              "columnId": "c-TJzoh9nTZO",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Characterized by....."
+            },
+            {
+              "columnId": "c-SDzCRMgL5k",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Neural"
+            }
+          ],
+          "name": "Copy 2 of 24 & 3M in Colony & Brain",
+          "pageUri": "pages/section-OJTyxu39sp",
+          "rowCount": 3,
+          "tableUri": "tables/grid-TK5X2qJn9T",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-p-8HV-LOe1",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-yGEjTzBX1x",
+                "c-utzaZW8ES0",
+                "c-TJzoh9nTZO",
+                "c-SDzCRMgL5k"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [],
+              "pageUri": "pages/section-OJTyxu39sp",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-OJTyxu39sp/tables/grid-TK5X2qJn9T",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-OJTyxu39sp/tables/grid-TK5X2qJn9T/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "columns": [
+            {
+              "columnId": "c-FON6kSNmzf",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Hypothesis Category"
+            },
+            {
+              "columnId": "c-aYByxfVxT6",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Experiment Design"
+            },
+            {
+              "columnId": "c-_gs3OmAooH",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Unique Predictions"
+            },
+            {
+              "columnId": "c-qSuiLZRNAl",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Competing Accounts"
+            },
+            {
+              "columnId": "c-vI_HHxdUb6",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Key Metrics"
+            }
+          ],
+          "name": "Copy 2 of Testable Hypotheses for ECONET-ACTION",
+          "pageUri": "pages/section-OJTyxu39sp",
+          "rowCount": 5,
+          "tableUri": "tables/grid-CdcnU1tctK",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-p-8HV-LOe1",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-FON6kSNmzf",
+                "c-aYByxfVxT6",
+                "c-_gs3OmAooH",
+                "c-qSuiLZRNAl",
+                "c-vI_HHxdUb6"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [],
+              "pageUri": "pages/section-OJTyxu39sp",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-OJTyxu39sp/tables/grid-CdcnU1tctK",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-OJTyxu39sp/tables/grid-CdcnU1tctK/views/default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "canvasUri": "canvases/canvas-p-8HV-LOe1",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-EqZyFJSLz_",
+              "createdAt": 1713376161.286,
+              "reactions": [],
+              "text": "Thank you. \nI will return to this and do it Andrius Kulikauskas ",
+              "userId": 1119613
+            },
+            {
+              "authorEmail": "math4wisdom@gmail.com",
+              "authorName": "Andrius Kulikauskas",
+              "commentUri": "comments/i-571kXj4VTU",
+              "createdAt": 1713376980.044,
+              "reactions": [],
+              "text": "👍",
+              "userId": 2953483
+            },
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-NTF1vXyP38",
+              "createdAt": 1713555653.374,
+              "reactions": [],
+              "text": "Done and added to /_sugYI5Ax and /_suWmM2DK , will send Email on this in a few minutes.",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-Eavvzel7bk"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-QVj4Yv1W9Q",
+              "createdAt": 1710702578.763,
+              "reactions": [],
+              "text": "Tables can be exported as CSV. \nDifferent views of a table (containing different filtered Rows and Columns) are all connected within (and optionally across) documents.",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-TyiL9fjOeF"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-JRzS9JR6cB"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-O-FyFMW4gC"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-rU6e-epEiA",
+              "createdAt": 1708289549.545,
+              "reactions": [],
+              "text": "For low-code low-complexity databases, yes /_suSWQ4PS is amazing. It can import and export .CSV and other formats. \n\nFor more complex or custom/large-scale data analysis, scripting and development environments can pick up where Coda leaves off. ",
+              "userId": 1119613
+            },
+            {
+              "authorEmail": "math4wisdom@gmail.com",
+              "authorName": "Andrius Kulikauskas",
+              "commentUri": "comments/i-_TuvcUVWDG",
+              "createdAt": 1709639794.653,
+              "reactions": [],
+              "text": "Thank you, Daniel!\n",
+              "userId": 2953483
+            }
+          ],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-7y3YdgJPgM"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-yjXjUM7JHJ"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-fbncSU-cMk"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-GHP_TWsMTR"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-_k09hGa-IV"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-_wmHMeyevl"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [
+            {
+              "authorEmail": "math4wisdom@gmail.com",
+              "authorName": "Andrius Kulikauskas",
+              "commentUri": "comments/i-kwkdsJjsdF",
+              "createdAt": 1708289312.48,
+              "reactions": [],
+              "text": "Daniel, I am trying to write a comment.",
+              "userId": 2953483
+            },
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-lCHcZDfbXl",
+              "createdAt": 1708289492.407,
+              "reactions": [],
+              "text": "Yes, I see this comment 👍",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-ebyYCvQW3a"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-KUs-aElhMJ"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-m90i_34vYW"
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-4Bgi1t7HSO",
+              "createdAt": 1708283511.953,
+              "reactions": [
+                {
+                  "reaction": "🐜",
+                  "userIds": [
+                    1119613
+                  ]
+                },
+                {
+                  "reaction": "🐝",
+                  "userIds": [
+                    1119613
+                  ]
+                },
+                {
+                  "reaction": "🐞",
+                  "userIds": [
+                    1119613
+                  ]
+                }
+              ],
+              "text": "Example comment ",
+              "userId": 1119613
+            },
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-TtHeUjKp0_",
+              "createdAt": 1708283529.677,
+              "reactions": [],
+              "text": "🚴",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-OJTyxu39sp",
+          "reference": {
+            "text": "add comments",
+            "type": "text"
+          },
+          "state": "Resolved",
+          "threadUri": "threads/r-8dvt0G6Z8G"
+        }
+      ],
+      "content": "",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-p-8HV-LOe1/formulas/f-9h76Hue9YX",
+          "name": "##_hidden_control_## 37",
+          "pageUri": "pages/section-OJTyxu39sp",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-OJTyxu39sp",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "columns": [
+            {
+              "columnId": "c-2ZwvUVWvUQ",
+              "description": null,
+              "error": null,
+              "format": {
+                "format": "DEFAULT",
+                "type": "dp"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Date"
+            },
+            {
+              "columnId": "c-1821xYlty_",
+              "description": null,
+              "error": null,
+              "format": {
+                "multiple": false,
+                "selectOptions": [
+                  "Language of Wisdom",
+                  "Knowledge Engineering",
+                  "Knowledge Math",
+                  "Interaction Group",
+                  "Living by Wisdom"
+                ],
+                "type": "sl"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Type"
+            },
+            {
+              "columnId": "c-xZ5GN71GGG",
+              "description": null,
+              "error": null,
+              "format": {
+                "grouping": true,
+                "precision": 22,
+                "type": "num"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Hour UTC"
+            },
+            {
+              "columnId": "c-PX-0lySGNb",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-_kR_czMF9u",
+              "description": null,
+              "error": null,
+              "format": {
+                "displayPreview": true,
+                "messageBuilderProperties": {
+                  "message": {
+                    "type": 2,
+                    "value": "_FormatMessageSlate($$[cell:Global-Message-Templates:MessageTemplate:i-_aRzmhQYle:false:false:], $$[rowColumn:grid-O8e6yxDvz5:c-1821xYlty_::false], $$[rowColumn:grid-O8e6yxDvz5:c-2ZwvUVWvUQ::false], $$[rowColumn:grid-O8e6yxDvz5:c-xZ5GN71GGG::false])"
+                  }
+                },
+                "type": "canvas"
+              },
+              "formula": "_FormatMessageSlate(MessageTemplate, Type, Date, [Hour UTC])",
+              "isDisplayColumn": false,
+              "isWritable": false,
+              "name": "Copypasta."
+            },
+            {
+              "columnId": "c-MAFG-TNeiZ",
+              "description": null,
+              "error": null,
+              "format": {
+                "display": "IconOnly",
+                "type": "link"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Link"
+            }
+          ],
+          "name": "Upcoming Meetings View",
+          "pageUri": "pages/section-OJTyxu39sp",
+          "rowCount": 158,
+          "sourceTableUri": "tables/grid-O8e6yxDvz5",
+          "tableUri": "pages/section-OJTyxu39sp/tables/table-MkhCK0l-MZ",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-p-8HV-LOe1",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [
+                  "c-1821xYlty_"
+                ],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-_kR_czMF9u"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-1821xYlty_",
+                "c-xZ5GN71GGG",
+                "c-2ZwvUVWvUQ",
+                "c-PX-0lySGNb",
+                "c-MAFG-TNeiZ"
+              ],
+              "pageUri": "pages/section-OJTyxu39sp",
+              "personalFilterColumns": [],
+              "sorts": [
+                {
+                  "columnId": "c-2ZwvUVWvUQ",
+                  "direction": "descending"
+                }
+              ],
+              "tableUri": "pages/section-OJTyxu39sp/tables/table-MkhCK0l-MZ",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-OJTyxu39sp/tables/table-MkhCK0l-MZ/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "columns": [
+            {
+              "columnId": "c-ajrgrVZ4Jd",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-fG4JYJuiyt",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Perspective"
+            },
+            {
+              "columnId": "c-Y0ZVcSweDy",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Column 3"
+            },
+            {
+              "columnId": "c-P3zItpdi3w",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            }
+          ],
+          "name": "Copy 2 of Outline",
+          "pageUri": "pages/section-OJTyxu39sp",
+          "rowCount": 10,
+          "tableUri": "tables/grid-KNTqxU8ewZ",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-p-8HV-LOe1",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-ajrgrVZ4Jd",
+                "c-fG4JYJuiyt",
+                "c-Y0ZVcSweDy",
+                "c-P3zItpdi3w"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [],
+              "pageUri": "pages/section-OJTyxu39sp",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-OJTyxu39sp/tables/grid-KNTqxU8ewZ",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-OJTyxu39sp/tables/grid-KNTqxU8ewZ/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "columns": [
+            {
+              "columnId": "c-yGEjTzBX1x",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-utzaZW8ES0",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Ant"
+            },
+            {
+              "columnId": "c-TJzoh9nTZO",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Characterized by....."
+            },
+            {
+              "columnId": "c-SDzCRMgL5k",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Neural"
+            }
+          ],
+          "name": "Copy 2 of 24 & 3M in Colony & Brain",
+          "pageUri": "pages/section-OJTyxu39sp",
+          "rowCount": 3,
+          "tableUri": "tables/grid-TK5X2qJn9T",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-p-8HV-LOe1",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-yGEjTzBX1x",
+                "c-utzaZW8ES0",
+                "c-TJzoh9nTZO",
+                "c-SDzCRMgL5k"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [],
+              "pageUri": "pages/section-OJTyxu39sp",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-OJTyxu39sp/tables/grid-TK5X2qJn9T",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-OJTyxu39sp/tables/grid-TK5X2qJn9T/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-p-8HV-LOe1",
+          "columns": [
+            {
+              "columnId": "c-FON6kSNmzf",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Hypothesis Category"
+            },
+            {
+              "columnId": "c-aYByxfVxT6",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Experiment Design"
+            },
+            {
+              "columnId": "c-_gs3OmAooH",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Unique Predictions"
+            },
+            {
+              "columnId": "c-qSuiLZRNAl",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Competing Accounts"
+            },
+            {
+              "columnId": "c-vI_HHxdUb6",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Key Metrics"
+            }
+          ],
+          "name": "Copy 2 of Testable Hypotheses for ECONET-ACTION",
+          "pageUri": "pages/section-OJTyxu39sp",
+          "rowCount": 5,
+          "tableUri": "tables/grid-CdcnU1tctK",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-p-8HV-LOe1",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-FON6kSNmzf",
+                "c-aYByxfVxT6",
+                "c-_gs3OmAooH",
+                "c-qSuiLZRNAl",
+                "c-vI_HHxdUb6"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [],
+              "pageUri": "pages/section-OJTyxu39sp",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-OJTyxu39sp/tables/grid-CdcnU1tctK",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-OJTyxu39sp/tables/grid-CdcnU1tctK/views/default"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-p-8HV-LOe1",
+    "canvasUri": "canvases/canvas-p-8HV-LOe1",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-Zl1ljqBh-1",
+        "canvasUri": "canvases/canvas-Zl1ljqBh-1",
+        "pageId": "section-Zl1ljqBh-1",
+        "pageUri": "pages/section-Zl1ljqBh-1",
+        "title": "People"
+      },
+      {
+        "canvasId": "canvas-HPb10opxmi",
+        "canvasUri": "canvases/canvas-HPb10opxmi",
+        "pageId": "section-HPb10opxmi",
+        "pageUri": "pages/section-HPb10opxmi",
+        "title": "Meetings"
+      },
+      {
+        "canvasId": "canvas-VVxywlf3Jt",
+        "canvasUri": "canvases/canvas-VVxywlf3Jt",
+        "pageId": "section-VVxywlf3Jt",
+        "pageUri": "pages/section-VVxywlf3Jt",
+        "title": "Communications"
+      },
+      {
+        "canvasId": "canvas-TsNabWlqVP",
+        "canvasUri": "canvases/canvas-TsNabWlqVP",
+        "pageId": "section-TsNabWlqVP",
+        "pageUri": "pages/section-TsNabWlqVP",
+        "title": "Projects"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708215391.703,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "bungalow",
+    "isHidden": false,
+    "pageId": "section-OJTyxu39sp",
+    "pageType": "canvas",
+    "pageUri": "pages/section-OJTyxu39sp",
+    "parentPageUri": null,
+    "position": 1,
+    "subtitle": "",
+    "title": "Knowledge Engineering",
+    "updatedAt": 1770940998.505,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-p-8HV-LOe1",
+    "canvasUri": "canvases/canvas-p-8HV-LOe1",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-Zl1ljqBh-1",
+        "canvasUri": "canvases/canvas-Zl1ljqBh-1",
+        "pageId": "section-Zl1ljqBh-1",
+        "pageUri": "pages/section-Zl1ljqBh-1",
+        "title": "People"
+      },
+      {
+        "canvasId": "canvas-HPb10opxmi",
+        "canvasUri": "canvases/canvas-HPb10opxmi",
+        "pageId": "section-HPb10opxmi",
+        "pageUri": "pages/section-HPb10opxmi",
+        "title": "Meetings"
+      },
+      {
+        "canvasId": "canvas-VVxywlf3Jt",
+        "canvasUri": "canvases/canvas-VVxywlf3Jt",
+        "pageId": "section-VVxywlf3Jt",
+        "pageUri": "pages/section-VVxywlf3Jt",
+        "title": "Communications"
+      },
+      {
+        "canvasId": "canvas-TsNabWlqVP",
+        "canvasUri": "canvases/canvas-TsNabWlqVP",
+        "pageId": "section-TsNabWlqVP",
+        "pageUri": "pages/section-TsNabWlqVP",
+        "title": "Projects"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708215391.703,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "bungalow",
+    "isHidden": false,
+    "pageId": "section-OJTyxu39sp",
+    "pageType": "canvas",
+    "pageUri": "pages/section-OJTyxu39sp",
+    "parentPageUri": null,
+    "position": 1,
+    "subtitle": "",
+    "title": "Knowledge Engineering",
+    "updatedAt": 1770940998.505,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

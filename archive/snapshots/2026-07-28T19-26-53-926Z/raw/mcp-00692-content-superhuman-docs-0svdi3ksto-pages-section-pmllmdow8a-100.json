@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-pMllmdOW8a"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-pMllmdOW8a\",\"pageUri\":\"pages/section-pMllmdOW8a\",\"content\":\"\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-pMllmdOW8a\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-Hephod0R1l\",\"createdAt\":1710107991.995,\"reactions\":[],\"text\":\"Claude 3 with access to 4dsolutions repo  \",\"userId\":1119613},{\"authorEmail\":\"kirby.urner@gmail.com\",\"authorName\":\"kirby urner\",\"commentUri\":\"comments/i-bOcPOOmHbw\",\"createdAt\":1710124011.935,\"reactions\":[],\"text\":\"Interesting experiment!\",\"userId\":1271333}],\"pageUri\":\"pages/section-pMllmdOW8a\",\"reference\":{\"type\":\"text\",\"text\":\"These functions provide the following functionality:\"},\"state\":\"Resolved\",\"threadUri\":\"threads/r-ebzsaVTLNV\"},{\"canvasUri\":\"canvases/canvas-pMllmdOW8a\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-HJI1vab6Qp\",\"createdAt\":1710107967.263,\"reactions\":[],\"text\":\"kirby urner how accurate are these functions? \",\"userId\":1119613},{\"authorEmail\":\"kirby.urner@gmail.com\",\"authorName\":\"kirby urner\",\"commentUri\":\"comments/i-JL0x9769bn\",\"createdAt\":1710123963.115,\"reactions\":[],\"text\":\"Not accurate\",\"userId\":1271333}],\"pageUri\":\"pages/section-pMllmdOW8a\",\"reference\":{\"type\":\"text\",\"text\":\"def quadray_to_xyz(quadray):\"},\"state\":\"Resolved\",\"threadUri\":\"threads/r--eFhIm3FiA\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

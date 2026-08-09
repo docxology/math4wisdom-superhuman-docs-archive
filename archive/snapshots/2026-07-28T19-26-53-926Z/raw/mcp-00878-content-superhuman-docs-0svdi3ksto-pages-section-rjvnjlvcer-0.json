@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-RjVnjlVcer"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-RjVnjlVcer\",\"pageUri\":\"pages/section-RjVnjlVcer\",\"content\":\"[School of Tomorrow](https://github.com/4dsolutions/School_of_Tomorrow/blob/master/School_of_Tomorrow.ipynb). House of Tomorrow. Training Bucky. \\n\\n# Notes and discussion\\n\\nAndrius: Daniel, is there a way to see “recent changes” for all the pages here?  KU: we can always notify one another of where work is happening, via memos here or other channels.\\n\\nDaniel, I am curious how import/export works, for example, for tables.  I am wondering if it makes sense to use Coda for a database?  Or is it better to simply code one with PHP/MySQL ?\\n\\n- How to get people to run with the ideas? \\n\\n  - Supporting people’s ideas and developments.  \\n\\n- Language that is deeper than words for Mental Action. \\n\\n  - “Language & Not Language” — I will erase these distinctions — Framework with 2 ways of looking at something — [https://coda.io/d/_d0SvdI3KSto/_suTEdstt](https://coda.io/d/_d0SvdI3KSto/_suTEdstt) \\n\\n  - View from the inside // View from the outside \\n\\n- [ISSS Knowledge Engineering](https://coda.io/d/ISSS-Education_doO72TniKUt/2024-Projects_suMAZ#_luSLU)\\n\\n- [https://coda.io/d/_d0SvdI3KSto/_suaEEPT0](https://coda.io/d/_d0SvdI3KSto/_suaEEPT0) \\n\\n  - [https://coda.io/d/_d0SvdI3KSto/_suSWQ4PS](https://coda.io/d/_d0SvdI3KSto/_suSWQ4PS) and [https://coda.io/d/_d0SvdI3KSto/_su2_Sy3a](https://coda.io/d/_d0SvdI3KSto/_su2_Sy3a)  — Coda modification, last modified (can explore packs, tables, etc). \\n\\n    - Using the Wiki as meta-space for the Coda pages. We can find ways to be working with both in synergistic way.\\n\\n    - \\n\\n    - .\\n\\n    -  \\n\\n  - Learning to live with the 3rd deliberate, investigative mind/. \\n\\n- Navigation individual/collective. Internet not navigable like landscape/intuition.\\n\\n  - Phermone/Stigmergy & trails on landscapes. Paths / probabilistically also reflected in the language model inner layers. \\n\\n  - Previously — Slime molds [https://coda.io/d/_d0SvdI3KSto/_su1bIoV1#_luE4tBDE](https://coda.io/d/_d0SvdI3KSto/_su1bIoV1#_luE4tBDE) \\n\\n  - And across efforts — clarifying the deliberate investigations. And projects, like Database or Language Model\\n\\n- On 11-26-2024 [https://www.freelists.org/post/math4wisdom/economics-vs-politics,2](https://www.freelists.org/post/math4wisdom/economics-vs-politics,2) Marcus wrote; \\\"*THIS is the first mind STATE - lack of resources; second mind is the PROCESS (crowd sourcing, funds from a grant) to create a third mind SYNTHESIS of a funded and thus empowered situation - a NEW STATE where we would have these resources*.\\\" was interesting. \\n\\n- To resonate/expand on that, in connection with the [https://coda.io/d/_d0SvdI3KSto/_suRqOPnN](https://coda.io/d/_d0SvdI3KSto/_suRqOPnN). \\n\\n- In terms of how I situate this “three minds” aspects of Andrius’ ontology (an admittedly “private/personal language”) — to this question of situational fitted-ness (fitness). First I consider that this situation can be viewed from the “inside” (first person) or “outside” (third person). \\n\\n  - View from the inside. This is the 1st-person experience of the person seeking funding.  \\n\\n  - View from the outside This \\n\\n- \\n\\n  - In the 3rd mode/approach/stance/mind, there is harmonious Synthesis of the lack of resources (1st mind [what is & its limits]) and the funding/grant opportunities (2nd mind [what could be & change?]). \",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

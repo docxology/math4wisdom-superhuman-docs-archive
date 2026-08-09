@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-G5EWGLGI6n"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"pageUri\":\"pages/section-G5EWGLGI6n\",\"content\":\"\",\"tables\":[{\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"tableUri\":\"tables/grid-GhpzJ7s3AA\",\"name\":\"Ant Questions\",\"pageUri\":\"pages/section-G5EWGLGI6n\",\"rowCount\":18,\"columns\":[{\"columnId\":\"c-zRJZwXYhSy\",\"name\":\"Thoughts and questions by AK with responses by DAF in the notes!\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-HN4gyhBBDA\",\"name\":\"Status\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-aqkVax7jA7\",\"name\":\"Notes\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"pageUri\":\"pages/section-G5EWGLGI6n\",\"tableUri\":\"pages/section-G5EWGLGI6n/tables/grid-GhpzJ7s3AA\",\"viewUri\":\"pages/section-G5EWGLGI6n/tables/grid-GhpzJ7s3AA/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[],\"orderedColumnIds\":[\"c-zRJZwXYhSy\",\"c-aqkVax7jA7\",\"c-HN4gyhBBDA\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]}],\"formulas\":[{\"formulaUri\":\"canvases/canvas-G5EWGLGI6n/formulas/f-VTAqqafXLt\",\"name\":\"##_hidden_control_## 3\",\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"pageUri\":\"pages/section-G5EWGLGI6n\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"},{\"formulaUri\":\"canvases/canvas-G5EWGLGI6n/formulas/f-MgNoDSThur\",\"name\":\"##_hidden_control_## 4\",\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"pageUri\":\"pages/section-G5EWGLGI6n\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"},{\"formulaUri\":\"canvases/canvas-G5EWGLGI6n/formulas/f-eDvs6MvcLU\",\"name\":\"##_hidden_control_## 5\",\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"pageUri\":\"pages/section-G5EWGLGI6n\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2953483\",\"name\":\"Andrius Kulikauskas\"},\"formula\":\"[Andrius Kulikauskas]\"},{\"formulaUri\":\"canvases/canvas-G5EWGLGI6n/formulas/f-LINvMeerE_\",\"name\":\"##_hidden_control_## 6\",\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"pageUri\":\"pages/section-G5EWGLGI6n\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"}],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"comments\":[{\"authorEmail\":\"math4wisdom@gmail.com\",\"authorName\":\"Andrius Kulikauskas\",\"commentUri\":\"comments/i-ndGHLu3aYo\",\"createdAt\":1712217466.055,\"reactions\":[],\"text\":\"Thank you, Daniel, for the link to your interview with Karl Friston. I appreciate any other links on ant nests, with facts or ideas how they may express consciousness.\",\"userId\":2953483},{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-3GbHi6_qXQ\",\"createdAt\":1713370701.057,\"reactions\":[],\"text\":\"Thank you Andrius. \\nI brought in the PDF & screenshots of Friston’s response to the question of the Ant colony consciousness. \",\"userId\":1119613},{\"authorEmail\":\"math4wisdom@gmail.com\",\"authorName\":\"Andrius Kulikauskas\",\"commentUri\":\"comments/i-7UgNmPYmV5\",\"createdAt\":1713373379.593,\"reactions\":[],\"text\":\"Thank you, Daniel!\",\"userId\":2953483}],\"pageUri\":\"pages/section-G5EWGLGI6n\",\"reference\":null,\"state\":\"Active\",\"threadUri\":\"threads/r-XkUk2SHJAQ\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

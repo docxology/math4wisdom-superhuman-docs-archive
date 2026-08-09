@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-otrP5aA4ke",
+      "commentThreads": [],
+      "content": "Andrius: We are collecting and systematizing the ways of figuring things out in statistics. Thank you for helping us!  \n\nThe insights we gain may, in general, help us understand the assumptions that experimental science depends upon, and in particular, help us interpret and analyze the Raudys hierarchy of [https://coda.io/d/_d0SvdI3KSto/_suHQAYwy](https://coda.io/d/_d0SvdI3KSto/_suHQAYwy) as expressing how a single layer perceptron grows in conceptual sophistication.\n\n## **Sources of Examples**\n\n[Wikipedia: Statistics](https://en.wikipedia.org/wiki/Statistics)\n\nAnderson, Norman (2001). Empirical Direction in Design and Analysis. \n\nHuff, Darrell (1954). [How to Lie With Statistics](https://archive.org/details/howtoliewithstat00huff).\n\n## **Collection of Examples**\n\nAndrius: I am starting by collecting very basic examples inspired by the Wikipedia article.\n\n**Defining a population**  \nSimply defining a population gives us a first step in formulating what we are interested in.\n\n\n\n**Classification**  \nDistinguishing categories amongst a population.\n\n**Ranking**  \nOrdering elements. Determining the median and percentiles.\n\n**Measuring, adding, substracting using an** **[interval scale](https://en.wikipedia.org/wiki/Level_of_measurement)**  \nAs with temperature on a Fahrenheit scale. Addition and substraction may be meaningful but there is no meaningful zero with regard to which multiplication or division could be performed.\n\n**Measuring, multiplying, dividing, using a** **[ratio scale](https://en.wikipedia.org/wiki/Level_of_measurement)**  \nWhere zero is meaningful, and thus multiplication and division of values is meaningful.\n\n\n\n**Sampling**  \nEstablishing and characterizing a representative sample allows us to draw conclusions about the entire population.\n\n**Averaging**  \nAveraging reduces a population to a single, typical individual.\n\n**Deviation**  \nDeviation allows us to consider the extent to which a particular individual resembles or not a typical individual.\n\n**Bounding errors**  \nCalculating error bounds distinguishes what is believable from what is not.\n\n\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-otrP5aA4ke",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-otrP5aA4ke",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-otrP5aA4ke",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-otrP5aA4ke",
+    "canvasUri": "canvases/canvas-otrP5aA4ke",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-gZusHQAYwy",
+        "canvasUri": "canvases/canvas-gZusHQAYwy",
+        "pageId": "section-gZusHQAYwy",
+        "pageUri": "pages/section-gZusHQAYwy",
+        "title": "Statistical and Neural Classifiers"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1716997706.526,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "call-statistics",
+    "isHidden": false,
+    "pageId": "section-otrP5aA4ke",
+    "pageType": "canvas",
+    "pageUri": "pages/section-otrP5aA4ke",
+    "parentPageUri": "pages/section-uSo6iw4kE2",
+    "position": 68,
+    "subtitle": "",
+    "title": "Epistemology of Statistics",
+    "updatedAt": 1717504426.374,
+    "updatedBy": {
+      "email": "math4wisdom@gmail.com",
+      "name": "Andrius Kulikauskas",
+      "userId": 2953483
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-otrP5aA4ke",
+    "canvasUri": "canvases/canvas-otrP5aA4ke",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-gZusHQAYwy",
+        "canvasUri": "canvases/canvas-gZusHQAYwy",
+        "pageId": "section-gZusHQAYwy",
+        "pageUri": "pages/section-gZusHQAYwy",
+        "title": "Statistical and Neural Classifiers"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1716997706.526,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "call-statistics",
+    "isHidden": false,
+    "pageId": "section-otrP5aA4ke",
+    "pageType": "canvas",
+    "pageUri": "pages/section-otrP5aA4ke",
+    "parentPageUri": "pages/section-uSo6iw4kE2",
+    "position": 68,
+    "subtitle": "",
+    "title": "Epistemology of Statistics",
+    "updatedAt": 1717504426.374,
+    "updatedBy": {
+      "email": "math4wisdom@gmail.com",
+      "name": "Andrius Kulikauskas",
+      "userId": 2953483
+    }
+  }
+}

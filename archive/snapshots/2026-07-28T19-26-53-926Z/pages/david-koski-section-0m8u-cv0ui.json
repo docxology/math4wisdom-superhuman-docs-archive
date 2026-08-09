@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-0M8u_cv0ui",
+      "commentThreads": [],
+      "content": "\n\n[https://flic.kr/s/aHsjvadhpC](https://flic.kr/s/aHsjvadhpC)  \nDavid and Kirby visit Fr. Magnus Wenninger at St. John's Abbey and University, 2011\n\nhttps://youtu.be/QUt9zlsP5Xw\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-0M8u_cv0ui",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-0M8u_cv0ui",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-0M8u_cv0ui",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-0M8u_cv0ui",
+    "canvasUri": "canvases/canvas-0M8u_cv0ui",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1742392996.054,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "triangle-stroked",
+    "isHidden": false,
+    "pageId": "section-0M8u_cv0ui",
+    "pageType": "canvas",
+    "pageUri": "pages/section-0M8u_cv0ui",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 163,
+    "subtitle": "",
+    "title": "David Koski",
+    "updatedAt": 1765120141.952,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-0M8u_cv0ui",
+    "canvasUri": "canvases/canvas-0M8u_cv0ui",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1742392996.054,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "triangle-stroked",
+    "isHidden": false,
+    "pageId": "section-0M8u_cv0ui",
+    "pageType": "canvas",
+    "pageUri": "pages/section-0M8u_cv0ui",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 163,
+    "subtitle": "",
+    "title": "David Koski",
+    "updatedAt": 1765120141.952,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

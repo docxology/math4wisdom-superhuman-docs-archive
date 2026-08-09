@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-CYQzSpZEiP"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-CYQzSpZEiP\",\"pageUri\":\"pages/section-CYQzSpZEiP\",\"content\":\"<columns>\\n# ICOSAHEDRON WITHIN\\n\\n[https://kirbyurner.medium.com/hypertoon-scenario-cb067cc38455](https://kirbyurner.medium.com/hypertoon-scenario-cb067cc38455)\\n\\nStarting from the Cuboctahedron of 2.5, two applications of the S-factor are sufficient to boost the volume to that of the Icosahedron Within. We call it that (IW) because it’s nested within the Octahedron of volume 4, faces flush.\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\nAX\\n\\n \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n# \",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

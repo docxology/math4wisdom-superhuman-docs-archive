@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-OqO27SxstF"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-OqO27SxstF\",\"pageUri\":\"pages/section-OqO27SxstF\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-OqO27SxstF/formulas/f-Ji9LQICwry\",\"name\":\"##_hidden_control_## 71\",\"canvasUri\":\"canvases/canvas-OqO27SxstF\",\"pageUri\":\"pages/section-OqO27SxstF\",\"value\":{\"type\":\"ref\",\"objectId\":\"grid-O8e6yxDvz5\",\"identifier\":\"i-7wJ3TrEpLm\",\"name\":\"11/26/2024\"},\"formula\":\"[11/26/2024]\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

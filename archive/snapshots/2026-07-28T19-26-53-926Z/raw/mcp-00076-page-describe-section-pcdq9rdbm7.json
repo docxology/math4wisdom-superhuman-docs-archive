@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-PcDq9rdBm7"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-PcDq9rdBm7\",\"canvasId\":\"canvas-PcDq9rdBm7\",\"title\":\"Math4Wisdom Embed Wiki\",\"canvasUri\":\"canvases/canvas-PcDq9rdBm7\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-PcDq9rdBm7\",\"parentPageUri\":\"pages/section-oLtE2_Sy3a\",\"position\":10,\"icon\":\"wikipedia\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"embed\",\"isHidden\":false,\"createdAt\":1708216409.389,\"updatedAt\":1708216446.033,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

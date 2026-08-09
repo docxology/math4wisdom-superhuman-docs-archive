@@ -1,0 +1,346 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-sJrda4QimZ",
+      "commentThreads": [],
+      "content": "<columns>\nhttps://www.youtube.com/watch?v=3I7CLy70WtI\n\n\n\n{\"Title\":\"Terrapin Station\",\"Summary\":{\"type\":\"slate\",\"root\":{\"children\":[{\"children\":[{\"text\":\"1977 studio album by the Grateful Dead\"}],\"id\":\"cl-0\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0}]}},\"Image\":{\"type\":\"imageurlref\",\"url\":\"https://upload.wikimedia.org/wikipedia/en/7/78/Grateful_Dead_-_Terrapin_Station.jpg\",\"outline\":true},\"Body\":{\"type\":\"slate\",\"root\":{\"children\":[{\"children\":[{\"text\":\"Terrapin Station\",\"bold\":true,\"italic\":true},{\"text\":\" is the ninth studio album (and fourteenth overall) by American rock band the Grateful Dead, released July 27, 1977. It was the first Grateful Dead album on Arista Records and the first studio album after the band returned to live touring. \"}],\"id\":\"cl-0\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0},{\"children\":[{\"text\":\"The album reached No. 28 on the \"},{\"text\":\"Billboard\",\"italic\":true},{\"text\":\" Album Chart and achieved gold album status in 1987, after being released for the first time on CD (by Arista Records) following the release of that year's \"},{\"text\":\"In the Dark\",\"italic\":true},{\"text\":\". \"},{\"text\":\"Terrapin Station\",\"italic\":true},{\"text\":\" was remastered and expanded for the \"},{\"text\":\"Beyond Description (1973–1989)\",\"italic\":true},{\"text\":\" box set in October 2004. \"}],\"id\":\"cl-1\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0},{\"children\":[{\"text\":\"It was voted number 848 in the third edition of Colin Larkin's \"},{\"text\":\"All Time Top 1000 Albums\",\"italic\":true},{\"text\":\" (2000). \"}],\"id\":\"cl-2\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0}]}},\"Url\":{\"type\":\"urlref\",\"url\":\"https://en.wikipedia.org/wiki/Terrapin_Station\",\"name\":\"\"},\"LastEdited\":{\"type\":\"dt\",\"input\":\"6/4/2025 9:51:22 PM\",\"epoch\":1749099082,\"formatted\":\"6/4/2025\"}}\n\n\n\n|||\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n|||\n\nMake image for \"Tarrifing Nation\", a pun on the Grateful Dead \"Terrapin Station\"\n\n\n\n\n</columns>",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-sJrda4QimZ",
+          "formula": "WikipediaArticle(\"https://en.wikipedia.org/wiki/Terrapin_Station\")",
+          "formulaUri": "canvases/canvas-sJrda4QimZ/formulas/f-SEp-bbE7zp",
+          "name": "##_hidden_control_## 145",
+          "pageUri": "pages/section-sJrda4QimZ",
+          "value": {
+            "Body": {
+              "root": {
+                "children": [
+                  {
+                    "alignment": "Left",
+                    "children": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "text": "Terrapin Station"
+                      },
+                      {
+                        "text": " is the ninth studio album (and fourteenth overall) by American rock band the Grateful Dead, released July 27, 1977. It was the first Grateful Dead album on Arista Records and the first studio album after the band returned to live touring. "
+                      }
+                    ],
+                    "id": "cl-0",
+                    "lineLevel": 0,
+                    "style": "Paragraph",
+                    "type": "Line"
+                  },
+                  {
+                    "alignment": "Left",
+                    "children": [
+                      {
+                        "text": "The album reached No. 28 on the "
+                      },
+                      {
+                        "italic": true,
+                        "text": "Billboard"
+                      },
+                      {
+                        "text": " Album Chart and achieved gold album status in 1987, after being released for the first time on CD (by Arista Records) following the release of that year's "
+                      },
+                      {
+                        "italic": true,
+                        "text": "In the Dark"
+                      },
+                      {
+                        "text": ". "
+                      },
+                      {
+                        "italic": true,
+                        "text": "Terrapin Station"
+                      },
+                      {
+                        "text": " was remastered and expanded for the "
+                      },
+                      {
+                        "italic": true,
+                        "text": "Beyond Description (1973–1989)"
+                      },
+                      {
+                        "text": " box set in October 2004. "
+                      }
+                    ],
+                    "id": "cl-1",
+                    "lineLevel": 0,
+                    "style": "Paragraph",
+                    "type": "Line"
+                  },
+                  {
+                    "alignment": "Left",
+                    "children": [
+                      {
+                        "text": "It was voted number 848 in the third edition of Colin Larkin's "
+                      },
+                      {
+                        "italic": true,
+                        "text": "All Time Top 1000 Albums"
+                      },
+                      {
+                        "text": " (2000). "
+                      }
+                    ],
+                    "id": "cl-2",
+                    "lineLevel": 0,
+                    "style": "Paragraph",
+                    "type": "Line"
+                  }
+                ]
+              },
+              "type": "slate"
+            },
+            "Image": {
+              "outline": true,
+              "type": "imageurlref",
+              "url": "https://upload.wikimedia.org/wikipedia/en/7/78/Grateful_Dead_-_Terrapin_Station.jpg"
+            },
+            "LastEdited": {
+              "epoch": 1749099082,
+              "formatted": "6/4/2025",
+              "input": "6/4/2025 9:51:22 PM",
+              "type": "dt"
+            },
+            "Summary": {
+              "root": {
+                "children": [
+                  {
+                    "alignment": "Left",
+                    "children": [
+                      {
+                        "text": "1977 studio album by the Grateful Dead"
+                      }
+                    ],
+                    "id": "cl-0",
+                    "lineLevel": 0,
+                    "style": "Paragraph",
+                    "type": "Line"
+                  }
+                ]
+              },
+              "type": "slate"
+            },
+            "Title": "Terrapin Station",
+            "Url": {
+              "name": "",
+              "type": "urlref",
+              "url": "https://en.wikipedia.org/wiki/Terrapin_Station"
+            }
+          }
+        }
+      ],
+      "pageUri": "pages/section-sJrda4QimZ",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-sJrda4QimZ",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-sJrda4QimZ",
+          "formula": "WikipediaArticle(\"https://en.wikipedia.org/wiki/Terrapin_Station\")",
+          "formulaUri": "canvases/canvas-sJrda4QimZ/formulas/f-SEp-bbE7zp",
+          "name": "##_hidden_control_## 145",
+          "pageUri": "pages/section-sJrda4QimZ",
+          "value": {
+            "Body": {
+              "root": {
+                "children": [
+                  {
+                    "alignment": "Left",
+                    "children": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "text": "Terrapin Station"
+                      },
+                      {
+                        "text": " is the ninth studio album (and fourteenth overall) by American rock band the Grateful Dead, released July 27, 1977. It was the first Grateful Dead album on Arista Records and the first studio album after the band returned to live touring. "
+                      }
+                    ],
+                    "id": "cl-0",
+                    "lineLevel": 0,
+                    "style": "Paragraph",
+                    "type": "Line"
+                  },
+                  {
+                    "alignment": "Left",
+                    "children": [
+                      {
+                        "text": "The album reached No. 28 on the "
+                      },
+                      {
+                        "italic": true,
+                        "text": "Billboard"
+                      },
+                      {
+                        "text": " Album Chart and achieved gold album status in 1987, after being released for the first time on CD (by Arista Records) following the release of that year's "
+                      },
+                      {
+                        "italic": true,
+                        "text": "In the Dark"
+                      },
+                      {
+                        "text": ". "
+                      },
+                      {
+                        "italic": true,
+                        "text": "Terrapin Station"
+                      },
+                      {
+                        "text": " was remastered and expanded for the "
+                      },
+                      {
+                        "italic": true,
+                        "text": "Beyond Description (1973–1989)"
+                      },
+                      {
+                        "text": " box set in October 2004. "
+                      }
+                    ],
+                    "id": "cl-1",
+                    "lineLevel": 0,
+                    "style": "Paragraph",
+                    "type": "Line"
+                  },
+                  {
+                    "alignment": "Left",
+                    "children": [
+                      {
+                        "text": "It was voted number 848 in the third edition of Colin Larkin's "
+                      },
+                      {
+                        "italic": true,
+                        "text": "All Time Top 1000 Albums"
+                      },
+                      {
+                        "text": " (2000). "
+                      }
+                    ],
+                    "id": "cl-2",
+                    "lineLevel": 0,
+                    "style": "Paragraph",
+                    "type": "Line"
+                  }
+                ]
+              },
+              "type": "slate"
+            },
+            "Image": {
+              "outline": true,
+              "type": "imageurlref",
+              "url": "https://upload.wikimedia.org/wikipedia/en/7/78/Grateful_Dead_-_Terrapin_Station.jpg"
+            },
+            "LastEdited": {
+              "epoch": 1749099082,
+              "formatted": "6/4/2025",
+              "input": "6/4/2025 9:51:22 PM",
+              "type": "dt"
+            },
+            "Summary": {
+              "root": {
+                "children": [
+                  {
+                    "alignment": "Left",
+                    "children": [
+                      {
+                        "text": "1977 studio album by the Grateful Dead"
+                      }
+                    ],
+                    "id": "cl-0",
+                    "lineLevel": 0,
+                    "style": "Paragraph",
+                    "type": "Line"
+                  }
+                ]
+              },
+              "type": "slate"
+            },
+            "Title": "Terrapin Station",
+            "Url": {
+              "name": "",
+              "type": "urlref",
+              "url": "https://en.wikipedia.org/wiki/Terrapin_Station"
+            }
+          }
+        }
+      ],
+      "pageUri": "pages/section-sJrda4QimZ",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-sJrda4QimZ",
+    "canvasUri": "canvases/canvas-sJrda4QimZ",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1752255267.103,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "alabama",
+    "isHidden": false,
+    "pageId": "section-sJrda4QimZ",
+    "pageType": "canvas",
+    "pageUri": "pages/section-sJrda4QimZ",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 224,
+    "subtitle": "",
+    "title": "Tarrifing Nation",
+    "updatedAt": 1752255598.494,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-sJrda4QimZ",
+    "canvasUri": "canvases/canvas-sJrda4QimZ",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1752255267.103,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "alabama",
+    "isHidden": false,
+    "pageId": "section-sJrda4QimZ",
+    "pageType": "canvas",
+    "pageUri": "pages/section-sJrda4QimZ",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 224,
+    "subtitle": "",
+    "title": "Tarrifing Nation",
+    "updatedAt": 1752255598.494,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

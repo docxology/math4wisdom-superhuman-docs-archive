@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-uUbHYih-tF"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-uUbHYih-tF\",\"canvasId\":\"canvas-uUbHYih-tF\",\"title\":\"Crescentia\",\"canvasUri\":\"canvases/canvas-uUbHYih-tF\",\"childPageOutlines\":[{\"pageId\":\"section-VNJoNzvA1O\",\"canvasId\":\"canvas-VNJoNzvA1O\",\"title\":\"4D Crescent\",\"canvasUri\":\"canvases/canvas-VNJoNzvA1O\",\"pageUri\":\"pages/section-VNJoNzvA1O\"},{\"pageId\":\"section-CUgBqxvphm\",\"canvasId\":\"canvas-CUgBqxvphm\",\"title\":\"Crescent City Citizen's Better Blueberry Bureau (C3B3)\",\"canvasUri\":\"canvases/canvas-CUgBqxvphm\",\"pageUri\":\"pages/section-CUgBqxvphm\"},{\"pageId\":\"section-_cPWtA0e57\",\"canvasId\":\"canvas-_cPWtA0e57\",\"title\":\"Crescent City CogSec\",\"canvasUri\":\"canvases/canvas-_cPWtA0e57\",\"pageUri\":\"pages/section-_cPWtA0e57\"},{\"pageId\":\"section-NW6ae_CQH-\",\"canvasId\":\"canvas-NW6ae_CQH-\",\"title\":\"Crescent City\",\"canvasUri\":\"canvases/canvas-NW6ae_CQH-\",\"pageUri\":\"pages/section-NW6ae_CQH-\"},{\"pageId\":\"section-l5aXJCjgXV\",\"canvasId\":\"canvas-l5aXJCjgXV\",\"title\":\"Humboldt\",\"canvasUri\":\"canvases/canvas-l5aXJCjgXV\",\"pageUri\":\"pages/section-l5aXJCjgXV\"},{\"pageId\":\"section-v88rPtqCLK\",\"canvasId\":\"canvas-v88rPtqCLK\",\"title\":\"Long, Strange Trip\",\"canvasUri\":\"canvases/canvas-v88rPtqCLK\",\"pageUri\":\"pages/section-v88rPtqCLK\"},{\"pageId\":\"section-5k0aq9VPT1\",\"canvasId\":\"canvas-5k0aq9VPT1\",\"title\":\"Quadruplicate\",\"canvasUri\":\"canvases/canvas-5k0aq9VPT1\",\"pageUri\":\"pages/section-5k0aq9VPT1\"},{\"pageId\":\"section-FtLLEb6wPu\",\"canvasId\":\"canvas-FtLLEb6wPu\",\"title\":\"Redwood Tarot\",\"canvasUri\":\"canvases/canvas-FtLLEb6wPu\",\"pageUri\":\"pages/section-FtLLEb6wPu\"},{\"pageId\":\"section-BB4tDWTSCc\",\"canvasId\":\"canvas-BB4tDWTSCc\",\"title\":\"No Law North of the Klamath\",\"canvasUri\":\"canvases/canvas-BB4tDWTSCc\",\"pageUri\":\"pages/section-BB4tDWTSCc\"},{\"pageId\":\"section-iEQW2Huqsl\",\"canvasId\":\"canvas-iEQW2Huqsl\",\"title\":\"Space Zero\",\"canvasUri\":\"canvases/canvas-iEQW2Huqsl\",\"pageUri\":\"pages/section-iEQW2Huqsl\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-uUbHYih-tF\",\"parentPageUri\":\"pages/section-qR8t6voMRD\",\"position\":197,\"icon\":\"drupal\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1749321469.546,\"updatedAt\":1774966488.743,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

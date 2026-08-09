@@ -1,0 +1,17 @@
+# Syndicalism
+
+<columns>
+..
+
+|||
+
+
+
+|||
+
+
+
+|||
+
+
+</columns>

@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-dyxJZvS-tm"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-dyxJZvS-tm\",\"pageUri\":\"pages/section-dyxJZvS-tm\",\"content\":\"[https://github.com/docxology/pydymax/](https://github.com/docxology/pydymax/) — open source methods for making nice Dymaxion maps\\n\\n[https://github.com/docxology/pydymax/tree/develop/output/high](https://github.com/docxology/pydymax/tree/develop/output/high)\\n\\n<columns>\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n</columns>\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

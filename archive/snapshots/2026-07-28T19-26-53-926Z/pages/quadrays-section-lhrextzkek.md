@@ -1,0 +1,74 @@
+# Quadrays
+
+[Quadray Coordinates](https://en.wikipedia.org/wiki/Quadray_coordinates) (Wikipedia article)
+
+https://youtu.be/dwFoqo5vyfU
+
+[Featured Notebook](https://github.com/4dsolutions/m4w/blob/main/Tetravolumes.ipynb) (Jupyter Notebook on Github)
+
+[https://coda.io/d/_d0SvdI3KSto/_suSt6qdu](https://coda.io/d/_d0SvdI3KSto/_suSt6qdu) an d [https://coda.io/d/_d0SvdI3KSto/_su1941KO](https://coda.io/d/_d0SvdI3KSto/_su1941KO)  a lot more...
+
+<columns>
+Partial tabulation of 4d concentric hierarchy polys:
+
+
+
+
+
+|||
+
+
+
+Think of the Reference Cube for Quadrays as having face diagonals of length D where D is the Diameter of an IVM ball.
+
+IVM = CCP = FCC
+
+D=1 or D=2, in which case R=0.5 or R=1 where R means Radius of the same IVM ball. D=2R.
+
+
+
+|||
+
+In the dialog below, D is 1 so the distance between any two quadray basis vector tips is 1.  The edges of this Reference Cube are sqrt(2)/2.
+
+The XYZ positive octant is considered the domain of quadray A i.e. x, y, and z are all positive. 
+
+
+
+
+
+|||
+
+
+
+
+
+
+
+
+</columns>
+
+---
+
+<formula id="f-Z2Arbwcmoq">kirby urner</formula> Are you familiar with quadriplanar coordinates? How do they relate to quadrays? Here is an article by John B. Mertie, [Transformation of Trilinear and Quadriplanar Coordinates to and from Cartesian Coordinates](https://rruff.geo.arizona.edu/doclib/am/vol49/AM49_926.pdf)
+
+I am investigating language and study triangle geometry as an example of a language that I would like to make sense of.  Thus I learned about triangle centers, which are often described in terms of trilinear coordinates, which describe a point in the plane (such as a triangle center) in terms of its distance from the three sides.  Similarly, quadriplanar coordinates describe a point in space in terms of its distance from the four planes of a tetrahedron (which may be the standard tetrahedron or may have other proportions).  These are understood as homogeneous coordinates so that it is the ratios that matter, not the absolute values. <formula id="f-qCRabERyeA">Andrius Kulikauskas</formula> 
+
+<formula id="f-IGGO0jvcC0">Andrius Kulikauskas</formula> So you’re interested in triangles these days... Having scanned *Quadriplanar Coordinates* I’d say it’s a lot more opaque [than Quadrays](https://github.com/4dsolutions/School_of_Tomorrow/blob/master/QuadCraft_Project.ipynb), which is so like XYZ as to be “an API to XYZ”. I like that Quadrays are accessible to high schoolers and have been talking to my own high school (ISM - Manila) about phasing them in, along with more Fuller corpus per [Pound Era Mathematics](https://youtu.be/iAMEPNAeOcg) (Youtube, 5-20-25).
+
+<formula id="f-VgYEWqsrWQ">kirby urner</formula> Thank you for explaining. This helps me think of your interests in terms of the high school world.
+
+<formula id="f-b9ai_cB7b7">Andrius Kulikauskas</formula>  Yes, the high school level focus is critical in my polemics e.g. I say things like “if you didn’t learn Pound Era mathematics by the end of high school, then you went to a bogus high school.” You and I didn’t have the Pound Era in the rear view mirror yet, when we were in high school (the 1900s was still underway), so we get grandfathered in as it were. But then I advocate something like high school occur every 10-15 years in a person’s life, because the basics change that much and that fast. Nowadays, if you’re unfamiliar with the most famous American futurist of the 1900s and his unit edge unit volume tetrahedron idea (alternative volumes table), then you have less than a high schooler’s level of cultural literacy regarding the 1900s. I take that line in the Youtube cited above (5-20-25). That would mean most adults are in need of high school, especially the older ones. Exactly. A radical stance. But then we don’t have to call it that (high school) or get all formal about it. We just need more teachers prepared to help people catch up. Teachers who use social media effectively and who may be in their 20s or 30s, i.e. younger than the folks they’re teaching. Lets help the boomers stop living in the distant past, ever re-fighting their ghostly / ghastly battles (e.g. [“capitalism versus socialism” or whatever](https://www.perplexity.ai/search/how-do-dorion-sagan-author-of-vRP7a0u6Staul5pUMoOjLA)).  
+[https://kirbyurner.substack.com/p/pound-era-mathematics](https://kirbyurner.substack.com/p/pound-era-mathematics)  
+  
+
+
+<formula id="f-YlPryzpCxL">kirby urner</formula> thank you for expanding. That helps me understand you.  I went to a mediocre high school and in many ways was self-educated. So I don’t think of high school as a reference point education wise.  I don’t think in terms of “basic knowledge” but instead in terms of learning projects that I came up with on my own.  A reference point for me is graduate school, the education that gets one up to the frontier of research, and more importantly, simply taking up an investigatory question at or beyond frontier.  I was independent in my own thesis project. But I find it natural to be a research advisor rather than a high school teacher.  And as I finished my PhD, I imagined that I would like to return to a graduate school type of education when I was in my fifties, exploring new subjects, and I have actually been living that since 2016.  All of this to say that I am curious how would you imagine a connection between high school and graduate school?
+
+<formula id="f-qwm0AoSqvc">kirby urner</formula> I wrote to Daniel and I also want to ask you if we could swap our meetings with him on Tuesday and Wednesdays at 7:00 am?  I have been meeting with him on Tuesdays but I would like to attend the Theoretical Neurobiology seminars with Karl Friston that take place on Tuesdays.  
+
+
+
+<formula id="f-3awHDF67js">Andrius Kulikauskas</formula> I’ll put that on our agenda for this Wednesday, whether he’s OK with switching going forward, wouldn’t bother me at all.  
+  
+As to how I’d connect my School of Tomorrow to grad school level topics, that’d be through our experimental curriculum in many ways leapfrogging what you’d get from a Harvard or MIT in 2025. We’d have quadrays and Synergetics and [Silicon Forest Digital Mathematics](https://wikieducator.org/Digital_Math) and thereby be light years ahead of more backwater grad schools, with the understanding it’s our faculty (e.g. Daniel), more than our students, who get the most advantage out of the work they’re doing. Struppi... Daniel has a list of those of us doing Synergetics, not all of whom I see eye to eye with, or have close working relationships with — we’re more sprawling by now than just one clique.

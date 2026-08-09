@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-d64JZEDBZG"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-d64JZEDBZG\",\"pageUri\":\"pages/section-d64JZEDBZG\",\"content\":\"\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-d64JZEDBZG\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-tTHVMMrLSa\",\"createdAt\":1736441406.048,\"reactions\":[],\"text\":\"kirby urner added some starts here, and in /_sue_CQH- \",\"userId\":1119613}],\"pageUri\":\"pages/section-d64JZEDBZG\",\"reference\":null,\"state\":\"Resolved\",\"threadUri\":\"threads/r-DFOBorh9Rg\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

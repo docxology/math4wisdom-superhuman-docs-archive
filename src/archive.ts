@@ -1,8 +1,8 @@
 import { mkdir, readFile, rename, rm, writeFile } from "node:fs/promises";
 import { dirname, join, relative } from "node:path";
 
-import { ARCHIVE_ROOT, DOCUMENT_ID, DOCUMENT_URL, MAX_PAGES, MAX_TOOL_CALLS, SCHEMA_VERSION, SNAPSHOTS_ROOT, STAGING_ROOT } from "./constants.js";
-import { entityId, collection, docTarget, nextCursor, resolveToolPlan, toolArguments, unwrapToolResult, type ToolPlan } from "./tools.js";
+import { DOCUMENT_ID, DOCUMENT_URL, MAX_PAGES, MAX_TOOL_CALLS, SCHEMA_VERSION, SNAPSHOTS_ROOT, STAGING_ROOT } from "./constants.js";
+import { absoluteResourceUri, pageIdFromUri, resolveToolPlan, unwrapToolResult, type ToolPlan } from "./tools.js";
 import { isObject, sha256, slug, stableJson, stringValue } from "./json.js";
 import type { McpClient, ToolDefinition } from "./mcp.js";
 import { validateSnapshot } from "./validate.js";
@@ -14,9 +14,38 @@ export type ArchiveOptions = {
   dryRun?: boolean;
 };
 
-type Page = { id: string; title: string; parentId?: string; response: unknown; raw: Record<string, unknown> };
-type Table = { id: string; name: string; response: unknown; raw: Record<string, unknown>; rows: Record<string, unknown>[] };
-type Asset = { source: string; path: string; sha256: string; bytes: number; mimeType: string };
+type Page = {
+  id: string;
+  title: string;
+  parentId?: string;
+  outline: Record<string, unknown>;
+  metadata: Record<string, unknown>;
+  markdown: string;
+  contentResponses: unknown[];
+};
+
+type Table = {
+  id: string;
+  name: string;
+  uri: string;
+  sourcePages: string[];
+  descriptor: Record<string, unknown>;
+  schema: unknown;
+  rows: Record<string, unknown>[];
+};
+
+type Asset = { source: string; sources: string[]; path: string; sha256: string; bytes: number; mimeType: string };
+
+const RETRY_ATTEMPTS = 4;
+
+function retryableReadError(error: unknown): boolean {
+  const message = error instanceof Error ? error.message : String(error);
+  return /\b(request timed out|timeout|temporar(?:y|ily)|econnreset|eai_again|429|5\d{2})\b/i.test(message);
+}
+
+function delay(milliseconds: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, milliseconds));
+}
 
 class Transcript {
   private calls = 0;
@@ -25,12 +54,29 @@ class Transcript {
   constructor(private readonly root: string, private readonly client: McpClient) {}
 
   async call(label: string, tool: ToolDefinition, args: Record<string, unknown>): Promise<unknown> {
-    if (++this.calls > MAX_TOOL_CALLS) throw new Error(`Refusing more than ${MAX_TOOL_CALLS} MCP calls.`);
-    const result = await this.client.callTool(tool.name, args);
+    let result: unknown;
+    let failure: unknown;
+    for (let attempt = 1; attempt <= RETRY_ATTEMPTS; attempt += 1) {
+      if (++this.calls > MAX_TOOL_CALLS) throw new Error(`Refusing more than ${MAX_TOOL_CALLS} MCP calls.`);
+      try {
+        result = await this.client.callTool(tool.name, args);
+        failure = undefined;
+        break;
+      } catch (error) {
+        failure = error;
+        if (!retryableReadError(error) || attempt === RETRY_ATTEMPTS) throw error;
+        await delay(250 * 2 ** (attempt - 1));
+      }
+    }
+    if (failure !== undefined) throw failure;
     const file = `raw/mcp-${String(this.calls).padStart(5, "0")}-${slug(label)}.json`;
     await writeJson(join(this.root, file), { tool: tool.name, arguments: args, result });
     this.responses.push(result);
     return unwrapToolResult(result);
+  }
+
+  get count(): number {
+    return this.calls;
   }
 }
 
@@ -51,51 +97,98 @@ function firstString(value: Record<string, unknown>, keys: string[], fallback: s
   return fallback;
 }
 
-function parentId(value: Record<string, unknown>): string | undefined {
-  return stringValue(value.parentId) ?? stringValue(value.parent_id) ?? stringValue(value.parentPageId) ?? stringValue(value.parent_page_id);
+function records(value: unknown, label: string): Record<string, unknown>[] {
+  if (!Array.isArray(value) || !value.every(isObject)) throw new Error(`${label} did not return an object collection.`);
+  return value;
 }
 
-async function paginate(
-  transcript: Transcript,
-  label: string,
-  tool: ToolDefinition,
-  target: Record<string, string>,
-  preferred: string[],
-): Promise<Record<string, unknown>[]> {
+function tableIdFromUri(uri: string): string | undefined {
+  const match = /(?:^|\/)tables\/([^/?#]+)/.exec(uri);
+  return match?.[1];
+}
+
+function contentText(value: Record<string, unknown>): string {
+  const content = value.content ?? value.markdown;
+  if (content === undefined || content === null) return "";
+  if (typeof content !== "string") throw new Error("content_read returned non-text page content.");
+  return content;
+}
+
+async function readDocumentOutline(transcript: Transcript, plan: ToolPlan, documentUri: string): Promise<Record<string, unknown>[]> {
   const all: Record<string, unknown>[] = [];
-  const cursors = new Set<string>();
-  let cursor: string | undefined;
+  const seenOffsets = new Set<number>();
+  let offset = 0;
   do {
-    const result = await transcript.call(`${label}-${cursor ?? "first"}`, tool, toolArguments(tool, { ...target, cursor }));
-    all.push(...collection(result, preferred));
-    const next = nextCursor(result);
-    if (!next) return all;
-    if (cursors.has(next)) throw new Error(`${tool.name} repeated pagination cursor ${next}.`);
-    cursors.add(next);
-    cursor = next;
+    if (seenOffsets.has(offset)) throw new Error(`document_outline repeated page offset ${offset}.`);
+    seenOffsets.add(offset);
+    const value = await transcript.call(`document-outline-${offset}`, plan.documentOutline, { uri: documentUri, pageLimit: 50, pageOffset: offset });
+    if (!isObject(value)) throw new Error("document_outline returned a non-object result.");
+    const batch = records(value.pages, "document_outline pages");
+    all.push(...batch);
+    if (all.length > MAX_PAGES) throw new Error(`Refusing more than ${MAX_PAGES} pages.`);
+    const pagination = isObject(value.pagination) ? value.pagination : {};
+    const hasMore = pagination.hasMore === true;
+    if (!hasMore) {
+      const total = typeof pagination.totalPages === "number" ? pagination.totalPages : undefined;
+      if (total !== undefined && total !== all.length) throw new Error(`document_outline reported ${total} pages but returned ${all.length}.`);
+      return all;
+    }
+    if (batch.length === 0) throw new Error("document_outline reported more pages but returned an empty page batch.");
+    offset += batch.length;
   } while (true);
 }
 
-function markdown(value: unknown, depth = 0): string {
-  if (typeof value === "string") return value.trim();
-  if (typeof value === "number" || typeof value === "boolean") return String(value);
-  if (Array.isArray(value)) return value.map((item) => markdown(item, depth)).filter(Boolean).join("\n\n");
-  if (!isObject(value)) return "";
-
-  const direct = ["markdown", "md", "text", "content", "body", "value"]
-    .map((key) => value[key])
-    .find((candidate) => typeof candidate === "string" && candidate.trim());
-  if (typeof direct === "string") return direct.trim();
-
-  const children = ["blocks", "children", "content", "items", "sections"]
-    .map((key) => value[key])
-    .find((candidate) => Array.isArray(candidate));
-  const title = firstString(value, ["title", "name", "heading"], "");
-  if (Array.isArray(children)) {
-    const headingLevel = Math.min(6, Math.max(1, Number(value.level) || depth + 1));
-    return [title ? `${"#".repeat(headingLevel)} ${title}` : "", markdown(children, depth + 1)].filter(Boolean).join("\n\n");
+async function readPageContent(
+  transcript: Transcript,
+  plan: ToolPlan,
+  pageUri: string,
+): Promise<{ markdown: string; responses: unknown[]; tables: Record<string, unknown>[] }> {
+  const chunks: string[] = [];
+  const responses: unknown[] = [];
+  const tables: Record<string, unknown>[] = [];
+  const seenChunks = new Set<string>();
+  const blockLimit = 100;
+  for (let offset = 0; offset <= MAX_TOOL_CALLS * blockLimit; offset += blockLimit) {
+    const value = await transcript.call(`content-${slug(pageUri)}-${offset}`, plan.contentRead, {
+      uri: pageUri,
+      contentTypesToInclude: ["markdown", "tables", "formulas", "controls", "comments"],
+      markdownBlockOffset: offset,
+      markdownBlockLimit: blockLimit,
+    });
+    if (!isObject(value)) throw new Error(`content_read returned a non-object result for ${pageUri}.`);
+    responses.push(value);
+    if (Array.isArray(value.tables)) {
+      if (!value.tables.every(isObject)) throw new Error(`content_read returned a malformed table inventory for ${pageUri}.`);
+      tables.push(...value.tables);
+    }
+    const chunk = contentText(value);
+    if (!chunk.trim()) return { markdown: chunks.join("\n\n").trim(), responses, tables };
+    if (seenChunks.has(chunk)) throw new Error(`content_read did not advance markdown pagination for ${pageUri}.`);
+    seenChunks.add(chunk);
+    chunks.push(chunk);
   }
-  return `\`\`\`json\n${stableJson(value).trim()}\n\`\`\``;
+  throw new Error(`content_read exceeded the page-content pagination limit for ${pageUri}.`);
+}
+
+async function readTableRows(transcript: Transcript, plan: ToolPlan, tableUri: string): Promise<Record<string, unknown>[]> {
+  const all: Record<string, unknown>[] = [];
+  const seenOffsets = new Set<number>();
+  let offset = 0;
+  do {
+    if (seenOffsets.has(offset)) throw new Error(`table_rows_read repeated row offset ${offset} for ${tableUri}.`);
+    seenOffsets.add(offset);
+    const value = await transcript.call(`rows-${slug(tableUri)}-${offset}`, plan.tableRowsRead, { uri: tableUri, rowLimit: 100, rowOffset: offset });
+    if (!isObject(value)) throw new Error(`table_rows_read returned a non-object result for ${tableUri}.`);
+    const batch = records(value.rows, "table_rows_read rows");
+    all.push(...batch);
+    if (value.hasMore !== true) {
+      const total = typeof value.totalRows === "number" ? value.totalRows : undefined;
+      if (total !== undefined && total !== all.length) throw new Error(`table_rows_read reported ${total} rows but returned ${all.length} for ${tableUri}.`);
+      return all;
+    }
+    if (batch.length === 0) throw new Error(`table_rows_read reported more rows but returned an empty batch for ${tableUri}.`);
+    offset += batch.length;
+  } while (true);
 }
 
 function stringifyCell(value: unknown): string {
@@ -103,6 +196,29 @@ function stringifyCell(value: unknown): string {
   if (typeof value === "string") return value;
   if (typeof value === "number" || typeof value === "boolean") return String(value);
   return JSON.stringify(value);
+}
+
+function csvRows(schema: unknown, rows: Record<string, unknown>[]): Record<string, unknown>[] {
+  const columns = isObject(schema) && Array.isArray(schema.columns) && schema.columns.every(isObject) ? schema.columns : [];
+  const labels = new Map<string, string>();
+  const used = new Set<string>(["rowId"]);
+  for (const column of columns) {
+    const id = stringValue(column.columnId) ?? stringValue(column.id);
+    if (!id) continue;
+    const base = firstString(column, ["name"], id);
+    let label = base;
+    if (used.has(label)) label = `${base} (${id})`;
+    used.add(label);
+    labels.set(id, label);
+  }
+  return rows.map((row) => {
+    const normalized: Record<string, unknown> = {};
+    if (row.rowId !== undefined) normalized.rowId = row.rowId;
+    const values = isObject(row.values) ? row.values : undefined;
+    if (!values) return { ...normalized, ...row };
+    for (const [columnId, value] of Object.entries(values)) normalized[labels.get(columnId) ?? columnId] = value;
+    return normalized;
+  });
 }
 
 function csv(rows: Record<string, unknown>[]): string {
@@ -113,17 +229,23 @@ function csv(rows: Record<string, unknown>[]): string {
 
 type AssetCandidate = { source?: string; base64?: string; mimeType?: string };
 
-function assetCandidates(value: unknown, candidates: AssetCandidate[] = []): AssetCandidate[] {
+const mediaField = /(?:image|media|attachment|file|cover|thumbnail|photo|asset|icon)/i;
+
+function assetCandidates(value: unknown, candidates: AssetCandidate[] = [], mediaContext = false): AssetCandidate[] {
   if (typeof value === "string") {
     for (const match of value.matchAll(/!\[[^\]]*\]\((data:[^)]+|https?:\/\/[^)\s]+)\)|<img[^>]+src=["'](data:[^"']+|https?:\/\/[^"'\s]+)["']/gi)) {
       const source = match[1] ?? match[2];
       if (source?.startsWith("data:")) candidates.push({ base64: source });
       else if (source) candidates.push({ source });
     }
+    if (mediaContext) {
+      if (value.startsWith("data:")) candidates.push({ base64: value });
+      else if (/^https?:\/\//i.test(value)) candidates.push({ source: value });
+    }
     return candidates;
   }
   if (Array.isArray(value)) {
-    value.forEach((item) => assetCandidates(item, candidates));
+    value.forEach((item) => assetCandidates(item, candidates, mediaContext));
     return candidates;
   }
   if (!isObject(value)) return candidates;
@@ -133,10 +255,10 @@ function assetCandidates(value: unknown, candidates: AssetCandidate[] = []): Ass
     .find(Boolean);
   const base64 = stringValue(value.data) ?? stringValue(value.base64);
   const sourceLooksLikeMedia = source ? /\.(apng|avif|gif|jpe?g|png|svg|webp|bmp|tiff?|mp3|mp4|mov|webm|pdf)(?:[?#]|$)/i.test(source) : false;
-  if ((/\b(image|media|attachment|file|audio|video)\b/.test(kind) || sourceLooksLikeMedia) && (source || base64)) {
+  if ((/\b(image|media|attachment|file|audio|video)\b/.test(kind) || sourceLooksLikeMedia || mediaContext) && (source || base64)) {
     candidates.push({ source, base64, mimeType: stringValue(value.mimeType) ?? stringValue(value.mediaType) });
   }
-  for (const nested of Object.values(value)) assetCandidates(nested, candidates);
+  for (const [key, nested] of Object.entries(value)) assetCandidates(nested, candidates, mediaContext || mediaField.test(key));
   return candidates;
 }
 
@@ -190,10 +312,15 @@ async function saveAssets(root: string, responses: unknown[]): Promise<{ assets:
     const mimeType = detected ?? declaredMime ?? "application/octet-stream";
     const digest = sha256(bytes);
     const archivePath = `assets/${digest}${extensionFor(mimeType)}`;
-    if (!assets.has(digest)) {
+    const source = candidate.source ?? "inline MCP content";
+    const existing = assets.get(digest);
+    if (!existing) {
       await mkdir(join(root, "assets"), { recursive: true });
       await writeFile(join(root, archivePath), bytes, { flag: "wx" });
-      assets.set(digest, { source: candidate.source ?? "inline MCP content", path: archivePath, sha256: digest, bytes: bytes.byteLength, mimeType });
+      assets.set(digest, { source, sources: [source], path: archivePath, sha256: digest, bytes: bytes.byteLength, mimeType });
+    } else if (!existing.sources.includes(source)) {
+      existing.sources.push(source);
+      existing.sources.sort();
     }
     if (candidate.source) replacements.set(candidate.source, archivePath);
   }
@@ -220,8 +347,8 @@ async function files(root: string, directory = root): Promise<{ path: string; sh
   return results.sort((a, b) => a.path.localeCompare(b.path));
 }
 
-function serializablePlan(plan: ToolPlan): Record<string, string | undefined> {
-  return Object.fromEntries(Object.entries(plan).map(([role, tool]) => [role, tool?.name]));
+function serializablePlan(plan: ToolPlan): Record<string, string> {
+  return Object.fromEntries(Object.entries(plan).map(([role, tool]) => [role, tool.name]));
 }
 
 export async function archive(options: ArchiveOptions): Promise<{ snapshot: string; pages: number; tables: number; assets: number }> {
@@ -243,61 +370,98 @@ export async function archive(options: ArchiveOptions): Promise<{ snapshot: stri
     }
 
     const transcript = new Transcript(stage, options.client);
-    if (plan.document) await transcript.call("document", plan.document, toolArguments(plan.document, docTarget()));
-    const listedPages = await paginate(transcript, "pages", plan.listPages!, docTarget(), ["pages", "items", "results"]);
-    if (listedPages.length === 0) throw new Error("The document contains no readable pages; archive aborted.");
-    if (listedPages.length > MAX_PAGES) throw new Error(`Refusing more than ${MAX_PAGES} pages.`);
+    const decoded = await transcript.call("document-uri", plan.urlConvert, { action: "decode", url: DOCUMENT_URL, scope: "document" });
+    if (!isObject(decoded) || !stringValue(decoded.uri)) throw new Error("url_convert did not return a stable document URI.");
+    const documentUri = decoded.uri as string;
+    const outlinePages = await readDocumentOutline(transcript, plan, documentUri);
+    if (outlinePages.length === 0) throw new Error("The document contains no readable pages; archive aborted.");
 
     const pageIds = new Set<string>();
+    const tablesByUri = new Map<string, { descriptor: Record<string, unknown>; sourcePages: Set<string> }>();
     const pages: Page[] = [];
-    for (const item of listedPages) {
-      const id = entityId(item, "page");
+    for (const outline of outlinePages) {
+      const id = firstString(outline, ["pageId", "id"], "");
+      if (!id) throw new Error("document_outline returned a page without a stable pageId.");
       if (pageIds.has(id)) throw new Error(`Duplicate page ID ${id}.`);
       pageIds.add(id);
-      const response = await transcript.call(`page-${id}`, plan.getPage!, toolArguments(plan.getPage!, { ...docTarget(), pageId: id }));
-      pages.push({ id, title: firstString(item, ["title", "name"], id), parentId: parentId(item), raw: item, response });
+      const relativePageUri = firstString(outline, ["pageUri"], `pages/${id}`);
+      const pageUri = absoluteResourceUri(documentUri, relativePageUri);
+      const metadata = await transcript.call(`page-describe-${id}`, plan.pageDescribe, { uri: pageUri });
+      if (!isObject(metadata)) throw new Error(`page_describe returned a non-object result for ${pageUri}.`);
+      const captured = await readPageContent(transcript, plan, pageUri);
+      for (const descriptor of captured.tables) {
+        const relativeTableUri = stringValue(descriptor.sourceTableUri) ?? stringValue(descriptor.tableUri);
+        if (!relativeTableUri) throw new Error(`content_read returned a table without a URI on page ${id}.`);
+        const tableUri = absoluteResourceUri(documentUri, relativeTableUri);
+        const entry = tablesByUri.get(tableUri) ?? { descriptor, sourcePages: new Set<string>() };
+        entry.sourcePages.add(id);
+        tablesByUri.set(tableUri, entry);
+      }
+      const parentId = pageIdFromUri(outline.parentPageUri);
+      pages.push({
+        id,
+        title: firstString(outline, ["title", "name"], id),
+        parentId,
+        outline,
+        metadata,
+        markdown: captured.markdown,
+        contentResponses: captured.responses,
+      });
     }
     for (const page of pages) if (page.parentId && !pageIds.has(page.parentId)) throw new Error(`Page ${page.id} refers to missing parent ${page.parentId}.`);
 
-    const listedTables = await paginate(transcript, "tables", plan.listTables!, docTarget(), ["tables", "items", "results"]);
     const tableIds = new Set<string>();
     const tables: Table[] = [];
-    for (const item of listedTables) {
-      const id = entityId(item, "table");
+    for (const [uri, entry] of [...tablesByUri.entries()].sort(([left], [right]) => left.localeCompare(right))) {
+      const id = tableIdFromUri(uri);
+      if (!id) throw new Error(`Unable to derive a stable table ID from ${uri}.`);
       if (tableIds.has(id)) throw new Error(`Duplicate table ID ${id}.`);
       tableIds.add(id);
-      const response = await transcript.call(`table-${id}`, plan.getTable!, toolArguments(plan.getTable!, { ...docTarget(), tableId: id }));
-      const rows = await paginate(transcript, `rows-${id}`, plan.listRows!, { ...docTarget(), tableId: id }, ["rows", "items", "results"]);
-      tables.push({ id, name: firstString(item, ["name", "title"], id), raw: item, response, rows });
+      const schema = await transcript.call(`table-${id}`, plan.tableColumnsRead, { uri, include: ["formats", "views"] });
+      const rows = await readTableRows(transcript, plan, uri);
+      tables.push({
+        id,
+        name: firstString(entry.descriptor, ["name", "title"], id),
+        uri,
+        sourcePages: [...entry.sourcePages].sort(),
+        descriptor: entry.descriptor,
+        schema,
+        rows,
+      });
     }
 
     const { assets, replacements } = await saveAssets(stage, transcript.responses);
     for (const page of pages) {
       const path = `pages/${slug(page.title, page.id)}-${slug(page.id)}.md`;
-      const content = localizeMarkdown(markdown(page.response) || `# ${page.title}\n\nNo textual representation was returned; see raw MCP response.`, replacements);
+      const content = localizeMarkdown(page.markdown, replacements);
+      const body = content || "No textual representation was returned; see raw MCP responses.";
       await mkdir(join(stage, dirname(path)), { recursive: true });
-      await writeFile(join(stage, path), `# ${page.title}\n\n${content.replace(/^# .+\n+/, "")}`.trimEnd() + "\n", "utf8");
-      await writeJson(join(stage, `pages/${slug(page.title, page.id)}-${slug(page.id)}.json`), page.response);
+      await writeFile(join(stage, path), `# ${page.title}\n\n${body.replace(/^# .+\n+/, "")}`.trimEnd() + "\n", "utf8");
+      await writeJson(join(stage, `pages/${slug(page.title, page.id)}-${slug(page.id)}.json`), {
+        outline: page.outline,
+        metadata: page.metadata,
+        content: page.contentResponses,
+      });
     }
     for (const table of tables) {
       const dir = `tables/${slug(table.name, table.id)}-${slug(table.id)}`;
-      await writeJson(join(stage, `${dir}/schema.json`), table.response);
+      await writeJson(join(stage, `${dir}/schema.json`), { descriptor: table.descriptor, schema: table.schema, uri: table.uri, sourcePages: table.sourcePages });
       await writeJson(join(stage, `${dir}/rows.json`), table.rows);
-      await writeFile(join(stage, `${dir}/rows.csv`), csv(table.rows), "utf8");
+      await writeFile(join(stage, `${dir}/rows.csv`), csv(csvRows(table.schema, table.rows)), "utf8");
     }
 
     const fileIndex = await files(stage);
     const manifest = {
       schemaVersion: SCHEMA_VERSION,
       capturedAt: now.toISOString(),
-      source: { documentUrl: DOCUMENT_URL, documentId: DOCUMENT_ID, endpoint: "https://docs.superhuman.com/apis/mcp" },
+      source: { documentUrl: DOCUMENT_URL, documentId: DOCUMENT_ID, resourceUri: documentUri, endpoint: "https://docs.superhuman.com/apis/mcp" },
       toolPlan: serializablePlan(plan),
       inventory: {
         pages: pages.map((page) => ({ id: page.id, title: page.title, parentId: page.parentId, markdown: `pages/${slug(page.title, page.id)}-${slug(page.id)}.md`, raw: `pages/${slug(page.title, page.id)}-${slug(page.id)}.json` })),
-        tables: tables.map((table) => ({ id: table.id, name: table.name, rows: table.rows.length, directory: `tables/${slug(table.name, table.id)}-${slug(table.id)}` })),
+        tables: tables.map((table) => ({ id: table.id, name: table.name, rows: table.rows.length, directory: `tables/${slug(table.name, table.id)}-${slug(table.id)}`, uri: table.uri, sourcePages: table.sourcePages })),
         assets,
       },
-      counts: { pages: pages.length, tables: tables.length, rows: tables.reduce((sum, table) => sum + table.rows.length, 0), assets: assets.length, toolCalls: transcript.responses.length },
+      counts: { pages: pages.length, tables: tables.length, rows: tables.reduce((sum, table) => sum + table.rows.length, 0), assets: assets.length, toolCalls: transcript.count },
       files: fileIndex,
     };
     await writeJson(join(stage, "manifest.json"), manifest);

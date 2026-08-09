@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-NhTTiAEr9J"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-NhTTiAEr9J\",\"canvasId\":\"canvas-NhTTiAEr9J\",\"title\":\"Synergetics Notes\",\"canvasUri\":\"canvases/canvas-NhTTiAEr9J\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-NhTTiAEr9J\",\"parentPageUri\":\"pages/section-SXXoQWY5DS\",\"position\":38,\"icon\":\"double-whole-note\",\"subtitle\":\"Discussions about Synergetics\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1710339183.038,\"updatedAt\":1715628437.346,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1271333,\"name\":\"kirby urner\",\"email\":\"kirby.urner@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

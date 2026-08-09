@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-CJeFTEdstt"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-CJeFTEdstt\",\"canvasId\":\"canvas-CJeFTEdstt\",\"title\":\"Cognitive Frameworks\",\"canvasUri\":\"canvases/canvas-CJeFTEdstt\",\"childPageOutlines\":[{\"pageId\":\"section-muzuHokt_m\",\"canvasId\":\"canvas-muzuHokt_m\",\"title\":\"Example/Ontology\",\"canvasUri\":\"canvases/canvas-muzuHokt_m\",\"pageUri\":\"pages/section-muzuHokt_m\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-CJeFTEdstt\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":3,\"icon\":\"t-shirt\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708215422.912,\"updatedAt\":1715051975.017,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1271333,\"name\":\"kirby urner\",\"email\":\"kirby.urner@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

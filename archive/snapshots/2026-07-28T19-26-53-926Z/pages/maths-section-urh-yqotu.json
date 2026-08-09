@@ -1,0 +1,160 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-uRh_-YQoTU",
+      "commentThreads": [],
+      "content": "\n\n# [https://coda.io/d/_d0SvdI3KSto/_suIBhimW](https://coda.io/d/_d0SvdI3KSto/_suIBhimW) [https://coda.io/d/_d0SvdI3KSto/_su-YQoTU](https://coda.io/d/_d0SvdI3KSto/_su-YQoTU):  \nMartian, Casino, Neolithic and Supermarket\n\n\n\n\n\n<callout type=\"info\">\nKU: if you’re perchance looking for [https://coda.io/d/_d0SvdI3KSto/_suXtZKEK](https://coda.io/d/_d0SvdI3KSto/_suXtZKEK) Coordinates (a [https://coda.io/d/_d0SvdI3KSto/_su-YQoTU](https://coda.io/d/_d0SvdI3KSto/_su-YQoTU)  topic), check the [https://coda.io/d/_d0SvdI3KSto/_suQWY5DS](https://coda.io/d/_d0SvdI3KSto/_suQWY5DS) section.\n</callout>\n\n<columns>\n\n\n|||\n\n\n\n|||\n\n\n\n|||\n\n\n</columns>",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-uRh_-YQoTU",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-uRh_-YQoTU",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-uRh_-YQoTU",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-uRh_-YQoTU",
+    "canvasUri": "canvases/canvas-uRh_-YQoTU",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-U93Hli3zvK",
+        "canvasUri": "canvases/canvas-U93Hli3zvK",
+        "pageId": "section-U93Hli3zvK",
+        "pageUri": "pages/section-U93Hli3zvK",
+        "title": "Category Theory"
+      },
+      {
+        "canvasId": "canvas-o2SlaIR30W",
+        "canvasUri": "canvases/canvas-o2SlaIR30W",
+        "pageId": "section-o2SlaIR30W",
+        "pageUri": "pages/section-o2SlaIR30W",
+        "title": "Knowledge Math"
+      },
+      {
+        "canvasId": "canvas-lJzc_54_O3",
+        "canvasUri": "canvases/canvas-lJzc_54_O3",
+        "pageId": "section-lJzc_54_O3",
+        "pageUri": "pages/section-lJzc_54_O3",
+        "title": "Bott Periodicity"
+      },
+      {
+        "canvasId": "canvas-AuFarf2CG5",
+        "canvasUri": "canvases/canvas-AuFarf2CG5",
+        "pageId": "section-AuFarf2CG5",
+        "pageUri": "pages/section-AuFarf2CG5",
+        "title": "Bayes"
+      },
+      {
+        "canvasId": "canvas-LA81jT0Zcu",
+        "canvasUri": "canvases/canvas-LA81jT0Zcu",
+        "pageId": "section-LA81jT0Zcu",
+        "pageUri": "pages/section-LA81jT0Zcu",
+        "title": "Geometry"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708284116.363,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "approximately-equal",
+    "isHidden": false,
+    "pageId": "section-uRh_-YQoTU",
+    "pageType": "canvas",
+    "pageUri": "pages/section-uRh_-YQoTU",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 18,
+    "subtitle": "",
+    "title": "Maths",
+    "updatedAt": 1761434729.898,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-uRh_-YQoTU",
+    "canvasUri": "canvases/canvas-uRh_-YQoTU",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-U93Hli3zvK",
+        "canvasUri": "canvases/canvas-U93Hli3zvK",
+        "pageId": "section-U93Hli3zvK",
+        "pageUri": "pages/section-U93Hli3zvK",
+        "title": "Category Theory"
+      },
+      {
+        "canvasId": "canvas-o2SlaIR30W",
+        "canvasUri": "canvases/canvas-o2SlaIR30W",
+        "pageId": "section-o2SlaIR30W",
+        "pageUri": "pages/section-o2SlaIR30W",
+        "title": "Knowledge Math"
+      },
+      {
+        "canvasId": "canvas-lJzc_54_O3",
+        "canvasUri": "canvases/canvas-lJzc_54_O3",
+        "pageId": "section-lJzc_54_O3",
+        "pageUri": "pages/section-lJzc_54_O3",
+        "title": "Bott Periodicity"
+      },
+      {
+        "canvasId": "canvas-AuFarf2CG5",
+        "canvasUri": "canvases/canvas-AuFarf2CG5",
+        "pageId": "section-AuFarf2CG5",
+        "pageUri": "pages/section-AuFarf2CG5",
+        "title": "Bayes"
+      },
+      {
+        "canvasId": "canvas-LA81jT0Zcu",
+        "canvasUri": "canvases/canvas-LA81jT0Zcu",
+        "pageId": "section-LA81jT0Zcu",
+        "pageUri": "pages/section-LA81jT0Zcu",
+        "title": "Geometry"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708284116.363,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "approximately-equal",
+    "isHidden": false,
+    "pageId": "section-uRh_-YQoTU",
+    "pageType": "canvas",
+    "pageUri": "pages/section-uRh_-YQoTU",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 18,
+    "subtitle": "",
+    "title": "Maths",
+    "updatedAt": 1761434729.898,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

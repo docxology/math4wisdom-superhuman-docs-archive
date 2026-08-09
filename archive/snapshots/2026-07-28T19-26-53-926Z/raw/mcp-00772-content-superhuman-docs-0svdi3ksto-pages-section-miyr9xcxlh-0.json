@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-MIYr9XcxlH"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-MIYr9XcxlH\",\"pageUri\":\"pages/section-MIYr9XcxlH\",\"content\":\"<columns>\\n[https://www.linkedin.com/in/leomurillo/](https://www.linkedin.com/in/leomurillo/)\\n\\n\\n\\n\\n\\n|||\\n\\n[https://zenodo.org/records/19689050](https://zenodo.org/records/19689050)  \\nIntrinsic Vector Algebra on Simplicial (Quadray) Coordinates: Cross Product, Rotation, and the Zero-Sum Hyperplane\\n\\n\\n\\n\\n</columns>\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

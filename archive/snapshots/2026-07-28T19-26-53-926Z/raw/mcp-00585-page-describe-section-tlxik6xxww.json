@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-TlXiK6xxww"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-TlXiK6xxww\",\"canvasId\":\"canvas-TlXiK6xxww\",\"title\":\"Figuring Things Out // Outing The Figure\",\"canvasUri\":\"canvases/canvas-TlXiK6xxww\",\"childPageOutlines\":[{\"pageId\":\"section-iEoJhFBB-X\",\"canvasId\":\"canvas-iEoJhFBB-X\",\"title\":\"Values\",\"canvasUri\":\"canvases/canvas-iEoJhFBB-X\",\"pageUri\":\"pages/section-iEoJhFBB-X\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-TlXiK6xxww\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":33,\"icon\":\"tongue-out\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1709135506.378,\"updatedAt\":1709135752.104,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

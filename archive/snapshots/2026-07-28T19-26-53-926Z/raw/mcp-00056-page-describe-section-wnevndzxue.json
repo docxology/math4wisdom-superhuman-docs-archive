@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-WNEvNDZxUE"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-WNEvNDZxUE\",\"canvasId\":\"canvas-WNEvNDZxUE\",\"title\":\"The effects of artificial intelligence on firm and labour market outcomes\",\"canvasUri\":\"canvases/canvas-WNEvNDZxUE\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-WNEvNDZxUE\",\"parentPageUri\":\"pages/section-TsNabWlqVP\",\"position\":158,\"icon\":\"artificial-intelligence\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1741373490.527,\"updatedAt\":1741376705.822,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

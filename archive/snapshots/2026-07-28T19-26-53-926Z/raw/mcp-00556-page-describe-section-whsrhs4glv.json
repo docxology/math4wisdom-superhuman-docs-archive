@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-WHsrHs4gLV"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-WHsrHs4gLV\",\"canvasId\":\"canvas-WHsrHs4gLV\",\"title\":\"Comprecisance\",\"canvasUri\":\"canvases/canvas-WHsrHs4gLV\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-WHsrHs4gLV\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":122,\"icon\":\"goal\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1733437988.558,\"updatedAt\":1733515852.375,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":2953483,\"name\":\"Andrius Kulikauskas\",\"email\":\"math4wisdom@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

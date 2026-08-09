@@ -1,0 +1,347 @@
+[
+  {
+    "rowId": "i-jT6nwWh3ww",
+    "values": {
+      "c-OZPJ447gLD": {
+        "value": "Unit of individuality"
+      },
+      "c-a5M1C6QnC0": {
+        "value": "What is an “ant” — the nestmate, the colony, or something else? "
+      },
+      "c-ep6ISvxepn": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Is the \"ant\" the nestmate? the colony? "
+                  }
+                ],
+                "id": "cl-grid-n30XHRMvEl::i-jT6nwWh3ww::c-ep6ISvxepn-0",
+                "lineLevel": 0,
+                "style": "BulletedList",
+                "type": "Line"
+              },
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Are ants social, eusocial, colonial, organismal, super-organismal, holo-organismal (e.g. symbionts, agriculture). "
+                  }
+                ],
+                "id": "cl-Hlnc0CqfpF",
+                "lineLevel": 0,
+                "style": "BulletedList",
+                "type": "Line"
+              },
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "What are the causes & consequences of “colony”? Other terms for this level of analysis? Just “ant” (as organism)?  "
+                  }
+                ],
+                "id": "cl-kdC4mS_1ST",
+                "lineLevel": 0,
+                "style": "BulletedList",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-mIUn3RWTo4",
+    "values": {
+      "c-OZPJ447gLD": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Behavior and Identity"
+                  }
+                ],
+                "id": "cl-8qWGEogM6y",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-a5M1C6QnC0": {
+        "value": "How do we describe what ants do, and what they are because of what they do? "
+      },
+      "c-ep6ISvxepn": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "is the ant carrying a seed \"foraging\", and does that make it \"a forager\"? What if it is \"observed in the foraging area\" but not carrying a seed? "
+                  }
+                ],
+                "id": "cl-grid-n30XHRMvEl::i-mIUn3RWTo4::c-ep6ISvxepn-0",
+                "lineLevel": 0,
+                "style": "BulletedList",
+                "type": "Line"
+              },
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Deborah Gordon has many relevant works here. "
+                  }
+                ],
+                "id": "cl-N-Xcf4CsD_",
+                "lineLevel": 0,
+                "style": "BulletedList",
+                "type": "Line"
+              },
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Helen Longino on scientific pluralism & consequences of definitions of behavior in e.g. rodents.  "
+                  }
+                ],
+                "id": "cl-4Hu03jLDXq",
+                "lineLevel": 0,
+                "style": "BulletedList",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-Be2OE8_5bq",
+    "values": {
+      "c-OZPJ447gLD": {
+        "value": "Power & Labor"
+      },
+      "c-a5M1C6QnC0": {
+        "value": "What terms such as “caste”, “queen”, “worker”, “slave”, “parasite” structure the discourse around colony anatomy and physiology? "
+      },
+      "c-ep6ISvxepn": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "."
+                  }
+                ],
+                "id": "cl-grid-n30XHRMvEl::i-Be2OE8_5bq::c-ep6ISvxepn-0",
+                "lineLevel": 0,
+                "style": "BulletedList",
+                "type": "Line"
+              },
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "."
+                  }
+                ],
+                "id": "cl-qBd2v5PBFu",
+                "lineLevel": 0,
+                "style": "BulletedList",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-owfZgqlkk8",
+    "values": {
+      "c-OZPJ447gLD": {
+        "value": "Sex & Reproduction"
+      },
+      "c-a5M1C6QnC0": {
+        "value": "What are the causes and consequences of how people deploy their sex/gender concepts while Ento-sensemaking?  "
+      },
+      "c-ep6ISvxepn": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "“Sex determination” and “Sex differentiation” are the commonly-used terms"
+                  }
+                ],
+                "id": "cl-grid-n30XHRMvEl::i-Be2OE8_5bq::c-ep6ISvxepn-0",
+                "lineLevel": 0,
+                "style": "BulletedList",
+                "type": "Line"
+              },
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Example review paper using these concepts: “Double nexus—Doublesex is the connecting element in sex determination” "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-IPHa_pSfK9",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "",
+                      "type": "urlref",
+                      "url": "https://academic.oup.com/bfg/article/14/6/396/193998"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-D-F33kQRSm",
+                "lineLevel": 1,
+                "style": "BulletedList",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-G0HHu8ncol",
+    "values": {
+      "c-OZPJ447gLD": {
+        "value": "Kin"
+      },
+      "c-a5M1C6QnC0": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "What is the kin, social, family, population structure of ants? "
+                  }
+                ],
+                "id": "cl-VI8uZnGXXe",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              },
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "How are different kinds of relatedness considered (genetic, epigenetic, chemical, spatial), and how is relatedness deployed in "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-Uc7Hcuz06W",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "grid-TUMlbPlLy2",
+                      "refType": "grid",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " and EcoEvoDevo?"
+                  }
+                ],
+                "id": "cl-d0C61kI2zn",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-ep6ISvxepn": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-AJt8LkRZVg",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "",
+                      "type": "urlref",
+                      "url": "https://press.uchicago.edu/ucp/books/book/distributed/M/bo28583407.html"
+                    }
+                  },
+                  {
+                    "text": " Making Kin not Population: Reconceiving Generations, Edited by Adele Clarke and Donna Haraway"
+                  }
+                ],
+                "id": "cl-grid-n30XHRMvEl::i-G0HHu8ncol::c-ep6ISvxepn-0",
+                "lineLevel": 0,
+                "style": "BulletedList",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-9uwIFr6GX4",
+    "values": {
+      "c-OZPJ447gLD": {
+        "value": "Economics"
+      },
+      "c-a5M1C6QnC0": {
+        "value": ""
+      },
+      "c-ep6ISvxepn": {
+        "value": ""
+      }
+    }
+  }
+]

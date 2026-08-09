@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-jIWSNhhADW"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-jIWSNhhADW\",\"canvasId\":\"canvas-jIWSNhhADW\",\"title\":\"First Mind Bike Trip\",\"canvasUri\":\"canvases/canvas-jIWSNhhADW\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-jIWSNhhADW\",\"parentPageUri\":\"pages/section-OBbGWmM2DK\",\"position\":85,\"icon\":\"cycling-mountain-bike\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1726235247.273,\"updatedAt\":1727127614.574,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":2953483,\"name\":\"Andrius Kulikauskas\",\"email\":\"math4wisdom@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

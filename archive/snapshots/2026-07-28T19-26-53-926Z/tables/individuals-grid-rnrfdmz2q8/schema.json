@@ -1,0 +1,170 @@
+{
+  "descriptor": {
+    "canvasUri": "canvases/canvas-S2dtbpHvLx",
+    "columns": [
+      {
+        "columnId": "c-N5trRH9gSz",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Individual"
+      },
+      {
+        "columnId": "c-iFSSeEJTTH",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Deepest value"
+      },
+      {
+        "columnId": "c-Xk0w_zCEcG",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Relationship with truth"
+      },
+      {
+        "columnId": "c-XdpKZtCfh_",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "canvas"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      }
+    ],
+    "name": "Individuals",
+    "pageUri": "pages/section-S2dtbpHvLx",
+    "rowCount": 4,
+    "tableUri": "tables/grid-rNrfDMz2q8",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-S2dtbpHvLx",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-N5trRH9gSz",
+          "c-iFSSeEJTTH",
+          "c-Xk0w_zCEcG",
+          "c-XdpKZtCfh_"
+        ],
+        "pageUri": "pages/section-S2dtbpHvLx",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-S2dtbpHvLx/tables/grid-rNrfDMz2q8",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-S2dtbpHvLx/tables/grid-rNrfDMz2q8/views/default"
+      }
+    ]
+  },
+  "schema": {
+    "canvasUri": "canvases/canvas-S2dtbpHvLx",
+    "columns": [
+      {
+        "columnId": "c-N5trRH9gSz",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Individual"
+      },
+      {
+        "columnId": "c-iFSSeEJTTH",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Deepest value"
+      },
+      {
+        "columnId": "c-Xk0w_zCEcG",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Relationship with truth"
+      },
+      {
+        "columnId": "c-XdpKZtCfh_",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "canvas"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      }
+    ],
+    "name": "Individuals",
+    "pageUri": "pages/section-S2dtbpHvLx",
+    "rowCount": 4,
+    "tableUri": "tables/grid-rNrfDMz2q8",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-S2dtbpHvLx",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-N5trRH9gSz",
+          "c-iFSSeEJTTH",
+          "c-Xk0w_zCEcG",
+          "c-XdpKZtCfh_"
+        ],
+        "pageUri": "pages/section-S2dtbpHvLx",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-S2dtbpHvLx/tables/grid-rNrfDMz2q8",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-S2dtbpHvLx/tables/grid-rNrfDMz2q8/views/default"
+      }
+    ]
+  },
+  "sourcePages": [
+    "section-S2dtbpHvLx"
+  ],
+  "uri": "superhuman://docs/0SvdI3KSto/tables/grid-rNrfDMz2q8"
+}

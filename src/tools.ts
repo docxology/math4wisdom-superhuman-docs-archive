@@ -1,127 +1,78 @@
-import { DOCUMENT_ID, DOCUMENT_URL } from "./constants.js";
 import { isObject } from "./json.js";
 import type { ToolDefinition } from "./mcp.js";
 
-export type ToolRole = "document" | "listPages" | "getPage" | "listTables" | "getTable" | "listRows";
+export type ToolRole = "urlConvert" | "documentOutline" | "pageDescribe" | "contentRead" | "tableColumnsRead" | "tableRowsRead";
 
-export type ToolPlan = Record<ToolRole, ToolDefinition | undefined>;
+export type ToolPlan = Record<ToolRole, ToolDefinition>;
 
-const roles: Record<ToolRole, RegExp[]> = {
-  document: [/\b(get|read|fetch|retrieve)\b.*\b(doc|document)\b/i, /\b(doc|document)\b.*\b(get|read|fetch|retrieve)\b/i],
-  listPages: [/\b(list|search|browse|enumerate)\b.*\bpages?\b/i, /\bpages?\b.*\b(list|search|browse|enumerate)\b/i],
-  getPage: [/\b(get|read|fetch|retrieve)\b.*\bpages?\b/i, /\bpages?\b.*\b(get|read|fetch|retrieve)\b/i],
-  listTables: [/\b(list|search|browse|enumerate)\b.*\btables?\b/i, /\btables?\b.*\b(list|search|browse|enumerate)\b/i],
-  getTable: [/\b(get|read|fetch|retrieve)\b.*\btables?\b/i, /\btables?\b.*\b(get|read|fetch|retrieve)\b/i],
-  listRows: [/\b(list|search|browse|enumerate|read)\b.*\brows?\b/i, /\brows?\b.*\b(list|search|browse|enumerate|read)\b/i],
+const expectedTools: Record<ToolRole, { name: string; required: string[] }> = {
+  urlConvert: { name: "url_convert", required: ["action"] },
+  documentOutline: { name: "document_outline", required: ["uri"] },
+  pageDescribe: { name: "page_describe", required: ["uri"] },
+  contentRead: { name: "content_read", required: ["uri", "contentTypesToInclude"] },
+  tableColumnsRead: { name: "table_columns_read", required: ["uri"] },
+  tableRowsRead: { name: "table_rows_read", required: ["uri"] },
 };
 
-const mutating = /\b(create|update|delete|remove|write|modify|edit|insert|archive)\b/i;
+const mutating = /\b(create|update|delete|remove|write|modify|edit|insert|archive|manage)\b/i;
 
-function score(role: ToolRole, tool: ToolDefinition): number {
-  if (tool.annotations?.readOnlyHint === false || tool.annotations?.destructiveHint || mutating.test(`${tool.name} ${tool.description ?? ""}`)) return -1;
-  const text = `${tool.name.replaceAll(/[_-]/g, " ")} ${tool.description ?? ""}`;
-  const subject = role === "document" ? /\b(doc|document)\b/i : role.includes("Page") ? /\bpages?\b/i : role.includes("Table") ? /\btables?\b/i : /\brows?\b/i;
-  if (!subject.test(text)) return -1;
-  let value = 0;
-  for (const pattern of roles[role]) if (pattern.test(text)) value += 10;
-  if (role === "document" && /\b(doc|document)\b/i.test(text)) value += 2;
-  if (role.includes("Page") && /\bpage\b/i.test(text)) value += 2;
-  if (role.includes("Table") && /\btable\b/i.test(text)) value += 2;
-  if (role === "listRows" && /\brow\b/i.test(text)) value += 2;
-  if (/\b(list|search|browse|enumerate)\b/i.test(text) && role.startsWith("list")) value += 3;
-  if (/\b(get|read|fetch|retrieve)\b/i.test(text) && role.startsWith("get")) value += 3;
+function isReadOnly(tool: ToolDefinition): boolean {
+  return tool.annotations?.readOnlyHint === true
+    && !tool.annotations?.destructiveHint
+    // Tool descriptions are instructional prose and may refer to a separate
+    // write workflow. The exact resource-reader name and vendor annotation are
+    // the stable authority for this strictly allowlisted archive path.
+    && !mutating.test(tool.name);
+}
+
+function supports(tool: ToolDefinition, required: string[]): boolean {
+  const properties = tool.inputSchema.properties ?? {};
+  return required.every((name) => name in properties);
+}
+
+/**
+ * Select the vendor's documented resource-URI read path exactly.  The archive
+ * deliberately does not guess between similarly worded read-only tools such
+ * as formula evaluation or name matching.
+ */
+export function resolveToolPlan(tools: ToolDefinition[]): ToolPlan {
+  const selected = {} as Partial<ToolPlan>;
+  for (const [role, expected] of Object.entries(expectedTools) as [ToolRole, { name: string; required: string[] }][]) {
+    const candidates = tools.filter((tool) => tool.name === expected.name && isReadOnly(tool) && supports(tool, expected.required));
+    if (candidates.length !== 1) {
+      const names = candidates.map((tool) => tool.name).join(", ") || "none";
+      throw new Error(`Expected exactly one read-only ${role} MCP tool (${expected.name}); found ${names}.`);
+    }
+    selected[role] = candidates[0];
+  }
+  return selected as ToolPlan;
+}
+
+/**
+ * Superhuman currently wraps many structured results in a JSON text block of
+ * the form `{ toolName, result }`; retain the unwrapped result for projections
+ * while the raw wrapper remains in the transcript.
+ */
+export function unwrapToolResult(result: unknown): unknown {
+  let value = result;
+  if (isObject(value) && value.structuredContent !== undefined) value = value.structuredContent;
+  else if (isObject(value) && value.toolResult !== undefined) value = value.toolResult;
+  else if (isObject(value) && Array.isArray(value.content) && value.content.length === 1 && isObject(value.content[0]) && typeof value.content[0].text === "string") {
+    const text = value.content[0].text;
+    try { value = JSON.parse(text); } catch { value = text; }
+  }
+  if (isObject(value) && isObject(value.result) && typeof value.toolName === "string") return value.result;
   return value;
 }
 
-export function resolveToolPlan(tools: ToolDefinition[]): ToolPlan {
-  const plan: ToolPlan = {
-    document: undefined,
-    listPages: undefined,
-    getPage: undefined,
-    listTables: undefined,
-    getTable: undefined,
-    listRows: undefined,
-  };
-  for (const role of Object.keys(roles) as ToolRole[]) {
-    const ranked = tools
-      .map((tool) => ({ tool, score: score(role, tool) }))
-      .filter((candidate) => candidate.score > 0)
-      .sort((a, b) => b.score - a.score || a.tool.name.localeCompare(b.tool.name));
-    if (ranked.length === 0) continue;
-    if (ranked.length > 1 && ranked[0].score === ranked[1].score) {
-      throw new Error(`Ambiguous ${role} MCP tools: ${ranked.filter((item) => item.score === ranked[0].score).map((item) => item.tool.name).join(", ")}.`);
-    }
-    plan[role] = ranked[0].tool;
-  }
-  if (!plan.listPages || !plan.getPage || !plan.listTables || !plan.getTable || !plan.listRows) {
-    const missing = (Object.entries(plan) as [ToolRole, ToolDefinition | undefined][]).filter(([, tool]) => !tool).map(([role]) => role);
-    throw new Error(`The MCP tool catalog does not expose an unambiguous, read-only archive path. Missing: ${missing.join(", ")}.`);
-  }
-  return plan;
+export function pageIdFromUri(value: unknown): string | undefined {
+  if (typeof value !== "string") return undefined;
+  const match = /(?:^|\/)pages\/([^/?#]+)/.exec(value);
+  return match?.[1];
 }
 
-type Target = { documentId?: string; documentUrl?: string; pageId?: string; tableId?: string; cursor?: string };
-
-export function toolArguments(tool: ToolDefinition, target: Target): Record<string, unknown> {
-  const required = new Set(tool.inputSchema.required ?? []);
-  const properties = tool.inputSchema.properties ?? {};
-  const args: Record<string, unknown> = {};
-  for (const name of Object.keys(properties)) {
-    const lower = name.toLowerCase();
-    if (/cursor|page.?token|next.?token/.test(lower) && target.cursor) args[name] = target.cursor;
-    else if (/limit|page.?size|max.?results/.test(lower)) args[name] = 100;
-    else if (/doc.*url|document.*url|^url$/.test(lower) && target.documentUrl) args[name] = target.documentUrl;
-    else if (/(doc|document).*(id|ref|identifier)|^(doc|document)$/.test(lower) && target.documentId) args[name] = target.documentId;
-    else if (/page.*(id|ref|identifier)|^page$/.test(lower) && target.pageId) args[name] = target.pageId;
-    else if (/table.*(id|ref|identifier)|^table$/.test(lower) && target.tableId) args[name] = target.tableId;
-    else if (/^id$/.test(lower)) {
-      args[name] = target.pageId ?? target.tableId ?? target.documentId ?? DOCUMENT_ID;
-    }
-  }
-  const missing = [...required].filter((name) => args[name] === undefined);
-  if (missing.length > 0) {
-    throw new Error(`Cannot safely supply required MCP arguments for ${tool.name}: ${missing.join(", ")}. Tool schema is preserved in the discovery output for review.`);
-  }
-  return args;
-}
-
-export function docTarget(): Required<Pick<Target, "documentId" | "documentUrl">> {
-  return { documentId: DOCUMENT_ID, documentUrl: DOCUMENT_URL };
-}
-
-export function unwrapToolResult(result: unknown): unknown {
-  if (!isObject(result)) return result;
-  if (result.structuredContent !== undefined) return result.structuredContent;
-  if (result.toolResult !== undefined) return result.toolResult;
-  if (Array.isArray(result.content)) {
-    const content = result.content;
-    if (content.length === 1 && isObject(content[0]) && typeof content[0].text === "string") {
-      try { return JSON.parse(content[0].text); } catch { return content[0].text; }
-    }
-  }
-  return result;
-}
-
-export function collection(value: unknown, preferred: string[]): Record<string, unknown>[] {
-  if (Array.isArray(value) && value.every(isObject)) return value;
-  if (isObject(value)) {
-    for (const key of preferred) if (Array.isArray(value[key]) && value[key].every(isObject)) return value[key] as Record<string, unknown>[];
-    for (const nested of Object.values(value)) {
-      if (Array.isArray(nested) && nested.every(isObject)) return nested;
-    }
-  }
-  throw new Error(`Expected a collection (${preferred.join(", ")}) in MCP response.`);
-}
-
-export function nextCursor(value: unknown): string | undefined {
-  if (!isObject(value)) return undefined;
-  for (const key of ["nextCursor", "next_cursor", "cursor", "nextPageToken", "next_page_token"]) {
-    if (typeof value[key] === "string" && value[key]) return value[key] as string;
-  }
-  return undefined;
-}
-
-export function entityId(value: Record<string, unknown>, kind: "page" | "table"): string {
-  for (const key of [`${kind}Id`, `${kind}_id`, "id"]) if (typeof value[key] === "string" && value[key]) return value[key] as string;
-  throw new Error(`A ${kind} response is missing a stable ID.`);
+export function absoluteResourceUri(documentUri: string, resourceUri: string): string {
+  if (/^[a-z][a-z0-9+.-]*:\/\//i.test(resourceUri)) return resourceUri;
+  const base = documentUri.replace(/#.*$/, "").replace(/\/+$/, "");
+  return `${base}/${resourceUri.replace(/^\/+/, "")}`;
 }

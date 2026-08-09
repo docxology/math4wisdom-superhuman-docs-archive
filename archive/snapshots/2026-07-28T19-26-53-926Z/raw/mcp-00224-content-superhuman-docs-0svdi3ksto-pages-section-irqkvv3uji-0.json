@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-IrQkVv3uJi"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-IrQkVv3uJi\",\"pageUri\":\"pages/section-IrQkVv3uJi\",\"content\":\"\\n\\n<columns>\\n\\n\\n[Apparently real](https://www.washingtonpost.com/history/2019/12/22/they-will-kill-santa-jfk-promised-rd-grader-that-kris-kringle-was-safe-russians/)\\n\\nI started with entering this image into Perplexity, then continuing to evolve the prompt & generate things from there.  — DAF 12/20/2024\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nCultural - Military Typography — Typographic Warfare — [https://coda.io/d/_d0SvdI3KSto/_suGhLij5](https://coda.io/d/_d0SvdI3KSto/_suGhLij5) \\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\nContinue to develop the image prompt, with dialectic/dualistic relationship between traditional Russian Ded Moroz, and Grateful Dead American Uncle Sam [https://coda.io/d/_d0SvdI3KSto/_suRfidAo](https://coda.io/d/_d0SvdI3KSto/_suRfidAo).\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n# CHESS\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-IrQkVv3uJi\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-xZB3p1ewAs\",\"createdAt\":1734707019.926,\"reactions\":[],\"text\":\"kirby urner \",\"userId\":1119613}],\"pageUri\":\"pages/section-IrQkVv3uJi\",\"reference\":{\"type\":\"text\",\"text\":\"—\"},\"state\":\"Active\",\"threadUri\":\"threads/r-kHeKQH3Fy-\"},{\"canvasUri\":\"canvases/canvas-IrQkVv3uJi\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-A32N3t7kOM\",\"createdAt\":1734706630.723,\"reactions\":[],\"text\":\"Wow.\",\"userId\":1119613}],\"pageUri\":\"pages/section-IrQkVv3uJi\",\"reference\":null,\"state\":\"Resolved\",\"threadUri\":\"threads/r-kfHmOFnsq8\"},{\"canvasUri\":\"canvases/canvas-IrQkVv3uJi\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-psGuzcNPo7\",\"createdAt\":1734706582.015,\"reactions\":[],\"text\":\"The anomalous camera, strikes again! \",\"userId\":1119613}],\"pageUri\":\"pages/section-IrQkVv3uJi\",\"reference\":null,\"state\":\"Resolved\",\"threadUri\":\"threads/r-IbDF99LtyD\"},{\"canvasUri\":\"canvases/canvas-IrQkVv3uJi\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-VJY5MxKEUr\",\"createdAt\":1734705571.799,\"reactions\":[],\"text\":\"In 2025..... Picture take picture of you! \",\"userId\":1119613}],\"pageUri\":\"pages/section-IrQkVv3uJi\",\"reference\":null,\"state\":\"Active\",\"threadUri\":\"threads/r-_N1nryN00W\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-wFeDPtUBEr"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-wFeDPtUBEr\",\"pageUri\":\"pages/section-wFeDPtUBEr\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-wFeDPtUBEr/formulas/f-IF6IMYP3pR\",\"name\":\"##_hidden_control_## 43\",\"canvasUri\":\"canvases/canvas-wFeDPtUBEr\",\"pageUri\":\"pages/section-wFeDPtUBEr\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"},{\"formulaUri\":\"canvases/canvas-wFeDPtUBEr/formulas/f-Rcj40WLQKS\",\"name\":\"##_hidden_control_## 45\",\"canvasUri\":\"canvases/canvas-wFeDPtUBEr\",\"pageUri\":\"pages/section-wFeDPtUBEr\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

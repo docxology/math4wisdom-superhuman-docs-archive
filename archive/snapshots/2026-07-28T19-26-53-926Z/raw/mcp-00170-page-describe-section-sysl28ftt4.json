@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-sYsL28Ftt4"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-sYsL28Ftt4\",\"canvasId\":\"canvas-sYsL28Ftt4\",\"title\":\"Active Inference learning\",\"canvasUri\":\"canvases/canvas-sYsL28Ftt4\",\"childPageOutlines\":[{\"pageId\":\"section-gzouY-zc7b\",\"canvasId\":\"canvas-gzouY-zc7b\",\"title\":\"Active Inference References\",\"canvasUri\":\"canvases/canvas-gzouY-zc7b\",\"pageUri\":\"pages/section-gzouY-zc7b\"},{\"pageId\":\"section-2vzaNHOpaM\",\"canvasId\":\"canvas-2vzaNHOpaM\",\"title\":\"Learning Wondrous Wisdom\",\"canvasUri\":\"canvases/canvas-2vzaNHOpaM\",\"pageUri\":\"pages/section-2vzaNHOpaM\"},{\"pageId\":\"section-_zW3xa1fWJ\",\"canvasId\":\"canvas-_zW3xa1fWJ\",\"title\":\"Active Inference Vocabulary\",\"canvasUri\":\"canvases/canvas-_zW3xa1fWJ\",\"pageUri\":\"pages/section-_zW3xa1fWJ\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-sYsL28Ftt4\",\"parentPageUri\":\"pages/section-9_lao0BIkP\",\"position\":74,\"icon\":\"active-directory\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1718721717.69,\"updatedAt\":1732310024.999,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":2953483,\"name\":\"Andrius Kulikauskas\",\"email\":\"math4wisdom@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-oLtE2_Sy3a"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-oLtE2_Sy3a\",\"canvasId\":\"canvas-oLtE2_Sy3a\",\"title\":\"Wiki\",\"canvasUri\":\"canvases/canvas-oLtE2_Sy3a\",\"childPageOutlines\":[{\"pageId\":\"section-PcDq9rdBm7\",\"canvasId\":\"canvas-PcDq9rdBm7\",\"title\":\"Math4Wisdom Embed Wiki\",\"canvasUri\":\"canvases/canvas-PcDq9rdBm7\",\"pageUri\":\"pages/section-PcDq9rdBm7\"},{\"pageId\":\"section-gfxneY_bZp\",\"canvasId\":\"canvas-gfxneY_bZp\",\"title\":\"Vocabulary\",\"canvasUri\":\"canvases/canvas-gfxneY_bZp\",\"pageUri\":\"pages/section-gfxneY_bZp\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-oLtE2_Sy3a\",\"parentPageUri\":\"pages/section-QrBkgFmpP_\",\"position\":9,\"icon\":\"wikimapia\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708215657.425,\"updatedAt\":1709136000.918,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

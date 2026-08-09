@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-sHlZZKQ2u-"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-sHlZZKQ2u-\",\"pageUri\":\"pages/section-sHlZZKQ2u-\",\"content\":\"  - \\n\\n  - CJ’s Book on Collaborating for Comprehensivity ([PDF](https://drive.google.com/file/d/1bapsUhFtRDSPdAW6zRBe7omBlcghz-yi/edit)) [https://coda.io/d/_d0SvdI3KSto/_suZKQ2u-](https://coda.io/d/_d0SvdI3KSto/_suZKQ2u-) \\n\\n  - \",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

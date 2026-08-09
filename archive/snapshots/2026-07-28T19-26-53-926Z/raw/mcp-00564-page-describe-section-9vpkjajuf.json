@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-_9VpkjaJUF"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-_9VpkjaJUF\",\"canvasId\":\"canvas-_9VpkjaJUF\",\"title\":\"econet\",\"canvasUri\":\"canvases/canvas-_9VpkjaJUF\",\"childPageOutlines\":[{\"pageId\":\"section-OqO27SxstF\",\"canvasId\":\"canvas-OqO27SxstF\",\"title\":\"Econet action plan\",\"canvasUri\":\"canvases/canvas-OqO27SxstF\",\"pageUri\":\"pages/section-OqO27SxstF\"},{\"pageId\":\"section-5zT80eIZzY\",\"canvasId\":\"canvas-5zT80eIZzY\",\"title\":\"Timberfish\",\"canvasUri\":\"canvases/canvas-5zT80eIZzY\",\"pageUri\":\"pages/section-5zT80eIZzY\"},{\"pageId\":\"section-xISPl409wL\",\"canvasId\":\"canvas-xISPl409wL\",\"title\":\"Biofirm\",\"canvasUri\":\"canvases/canvas-xISPl409wL\",\"pageUri\":\"pages/section-xISPl409wL\"},{\"pageId\":\"section-8gOc4nsu6A\",\"canvasId\":\"canvas-8gOc4nsu6A\",\"title\":\"Resilience hubs\",\"canvasUri\":\"canvases/canvas-8gOc4nsu6A\",\"pageUri\":\"pages/section-8gOc4nsu6A\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-_9VpkjaJUF\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":84,\"icon\":\"vegetarian-mark\",\"subtitle\":\"What is Ecological thinking? \",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1724163353.397,\"updatedAt\":1728398432.82,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

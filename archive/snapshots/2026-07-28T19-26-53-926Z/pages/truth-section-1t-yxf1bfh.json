@@ -1,0 +1,79 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-1T-Yxf1BFH",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-1T-Yxf1BFH",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-1T-Yxf1BFH",
+    "canvasUri": "canvases/canvas-1T-Yxf1BFH",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1736868843.027,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "dot-logo",
+    "isHidden": false,
+    "pageId": "section-1T-Yxf1BFH",
+    "pageType": "canvas",
+    "pageUri": "pages/section-1T-Yxf1BFH",
+    "parentPageUri": "pages/section-LJftbZHKAF",
+    "position": 133,
+    "subtitle": "",
+    "title": "Truth",
+    "updatedAt": 1736868845.291,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-1T-Yxf1BFH",
+    "canvasUri": "canvases/canvas-1T-Yxf1BFH",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1736868843.027,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "dot-logo",
+    "isHidden": false,
+    "pageId": "section-1T-Yxf1BFH",
+    "pageType": "canvas",
+    "pageUri": "pages/section-1T-Yxf1BFH",
+    "parentPageUri": "pages/section-LJftbZHKAF",
+    "position": 133,
+    "subtitle": "",
+    "title": "Truth",
+    "updatedAt": 1736868845.291,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

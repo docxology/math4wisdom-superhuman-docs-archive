@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-PcDq9rdBm7",
+      "commentThreads": [],
+      "content": "https://www.math4wisdom.com/wiki/KnowledgeEngineering/Welcome",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-PcDq9rdBm7",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-PcDq9rdBm7",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-PcDq9rdBm7",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-PcDq9rdBm7",
+    "canvasUri": "canvases/canvas-PcDq9rdBm7",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1708216409.389,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "wikipedia",
+    "isHidden": false,
+    "pageId": "section-PcDq9rdBm7",
+    "pageType": "embed",
+    "pageUri": "pages/section-PcDq9rdBm7",
+    "parentPageUri": "pages/section-oLtE2_Sy3a",
+    "position": 10,
+    "subtitle": "",
+    "title": "Math4Wisdom Embed Wiki",
+    "updatedAt": 1708216446.033,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-PcDq9rdBm7",
+    "canvasUri": "canvases/canvas-PcDq9rdBm7",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1708216409.389,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "wikipedia",
+    "isHidden": false,
+    "pageId": "section-PcDq9rdBm7",
+    "pageType": "embed",
+    "pageUri": "pages/section-PcDq9rdBm7",
+    "parentPageUri": "pages/section-oLtE2_Sy3a",
+    "position": 10,
+    "subtitle": "",
+    "title": "Math4Wisdom Embed Wiki",
+    "updatedAt": 1708216446.033,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

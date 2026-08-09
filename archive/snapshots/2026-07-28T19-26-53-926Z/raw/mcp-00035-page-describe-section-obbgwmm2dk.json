@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-OBbGWmM2DK"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-OBbGWmM2DK\",\"canvasId\":\"canvas-OBbGWmM2DK\",\"title\":\"Messages\",\"canvasUri\":\"canvases/canvas-OBbGWmM2DK\",\"childPageOutlines\":[{\"pageId\":\"section-sEoh_FCkiT\",\"canvasId\":\"canvas-sEoh_FCkiT\",\"title\":\"Experimental Messages Interface\",\"canvasUri\":\"canvases/canvas-sEoh_FCkiT\",\"pageUri\":\"pages/section-sEoh_FCkiT\"},{\"pageId\":\"section-j6DKz5la1b\",\"canvasId\":\"canvas-j6DKz5la1b\",\"title\":\"John Harland in Lithuania\",\"canvasUri\":\"canvases/canvas-j6DKz5la1b\",\"pageUri\":\"pages/section-j6DKz5la1b\"},{\"pageId\":\"section-jIWSNhhADW\",\"canvasId\":\"canvas-jIWSNhhADW\",\"title\":\"First Mind Bike Trip\",\"canvasUri\":\"canvases/canvas-jIWSNhhADW\",\"pageUri\":\"pages/section-jIWSNhhADW\"},{\"pageId\":\"section-wFeDPtUBEr\",\"canvasId\":\"canvas-wFeDPtUBEr\",\"title\":\"Andrius Applied Active Inference 2024\",\"canvasUri\":\"canvases/canvas-wFeDPtUBEr\",\"pageUri\":\"pages/section-wFeDPtUBEr\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-OBbGWmM2DK\",\"parentPageUri\":\"pages/section-VVxywlf3Jt\",\"position\":55,\"icon\":\"message-group\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1713479765.622,\"updatedAt\":1726236375.969,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":2953483,\"name\":\"Andrius Kulikauskas\",\"email\":\"math4wisdom@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

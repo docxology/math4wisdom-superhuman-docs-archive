@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-HPb10opxmi"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-HPb10opxmi\",\"canvasId\":\"canvas-HPb10opxmi\",\"title\":\"Meetings\",\"canvasUri\":\"canvases/canvas-HPb10opxmi\",\"childPageOutlines\":[{\"pageId\":\"section-8j48_gvDCu\",\"canvasId\":\"canvas-8j48_gvDCu\",\"title\":\"Knowledge Math ~ Meetings\",\"canvasUri\":\"canvases/canvas-8j48_gvDCu\",\"pageUri\":\"pages/section-8j48_gvDCu\"},{\"pageId\":\"section-HEfvpl0pDW\",\"canvasId\":\"canvas-RJ7_mwvaib\",\"title\":\"Interaction Group ~ Meetings\",\"canvasUri\":\"canvases/canvas-RJ7_mwvaib\",\"pageUri\":\"pages/section-HEfvpl0pDW\"},{\"pageId\":\"section-i6IfBCcHso\",\"canvasId\":\"canvas-i6IfBCcHso\",\"title\":\"Language of Wisdom ~ Meetings\",\"canvasUri\":\"canvases/canvas-i6IfBCcHso\",\"pageUri\":\"pages/section-i6IfBCcHso\"},{\"pageId\":\"section--PGsRqsJU7\",\"canvasId\":\"canvas--PGsRqsJU7\",\"title\":\"Knowledge Engineering ~ Meetings\",\"canvasUri\":\"canvases/canvas--PGsRqsJU7\",\"pageUri\":\"pages/section--PGsRqsJU7\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-HPb10opxmi\",\"parentPageUri\":\"pages/section-OJTyxu39sp\",\"position\":5,\"icon\":\"appointment-reminders\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708215433.416,\"updatedAt\":1785266618.659,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-nqw-QtMg3f"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-nqw-QtMg3f\",\"pageUri\":\"pages/section-nqw-QtMg3f\",\"content\":\" \\n\\n\\n\\n\\n\\n\",\"tables\":[{\"canvasUri\":\"canvases/canvas-nqw-QtMg3f\",\"tableUri\":\"tables/grid-mtQeS23APv\",\"name\":\"5-24-2024 Perplexity Raudys\",\"pageUri\":\"pages/section-nqw-QtMg3f\",\"rowCount\":3,\"columns\":[{\"columnId\":\"c-_zWEj2eBLp\",\"name\":\"Field\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":true,\"isWritable\":true},{\"columnId\":\"c-IcA0YLh1TI\",\"name\":\"Contextuality/Relationality of Raudys' Work\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-AdZJVM5YAI\",\"name\":\"Differentiating Factors\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true},{\"columnId\":\"c-69ZKtQs_cb\",\"name\":\"Unique Explanations/Predictions/Capacities\",\"description\":null,\"format\":{\"type\":\"none\"},\"formula\":null,\"error\":null,\"isDisplayColumn\":false,\"isWritable\":true}],\"views\":[{\"canvasUri\":\"canvases/canvas-nqw-QtMg3f\",\"pageUri\":\"pages/section-nqw-QtMg3f\",\"tableUri\":\"pages/section-nqw-QtMg3f/tables/grid-mtQeS23APv\",\"viewUri\":\"pages/section-nqw-QtMg3f/tables/grid-mtQeS23APv/views/default\",\"name\":\"Default\",\"filterFormula\":null,\"viewLayout\":\"default grid\",\"groups\":{\"left\":[],\"top\":[]},\"sorts\":[],\"hiddenColumnIds\":[],\"orderedColumnIds\":[\"c-_zWEj2eBLp\",\"c-IcA0YLh1TI\",\"c-AdZJVM5YAI\",\"c-69ZKtQs_cb\"],\"conditionalFormats\":[],\"personalFilterColumns\":[]}]}],\"formulas\":[{\"formulaUri\":\"canvases/canvas-nqw-QtMg3f/formulas/f-RsXdEsl2hJ\",\"name\":\"##_hidden_control_## 7\",\"canvasUri\":\"canvases/canvas-nqw-QtMg3f\",\"pageUri\":\"pages/section-nqw-QtMg3f\",\"value\":{\"type\":\"ref\",\"objectId\":\"grid-O8e6yxDvz5\",\"identifier\":\"i-GNfMWaYRJt\",\"name\":\"5/28/2024\"},\"formula\":\"[5/28/2024]\"},{\"formulaUri\":\"canvases/canvas-nqw-QtMg3f/formulas/f-AAu0b1CG2c\",\"name\":\"##_hidden_control_## 9\",\"canvasUri\":\"canvases/canvas-nqw-QtMg3f\",\"pageUri\":\"pages/section-nqw-QtMg3f\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2953483\",\"name\":\"Andrius Kulikauskas\"},\"formula\":\"[Andrius Kulikauskas]\"},{\"formulaUri\":\"canvases/canvas-nqw-QtMg3f/formulas/f-sX3YajTuXq\",\"name\":\"##_hidden_control_## 13\",\"canvasUri\":\"canvases/canvas-nqw-QtMg3f\",\"pageUri\":\"pages/section-nqw-QtMg3f\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

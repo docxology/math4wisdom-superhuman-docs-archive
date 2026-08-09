@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-FtLLEb6wPu",
+      "commentThreads": [],
+      "content": "<columns>\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n</columns>",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-FtLLEb6wPu",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-FtLLEb6wPu",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-FtLLEb6wPu",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-FtLLEb6wPu",
+    "canvasUri": "canvases/canvas-FtLLEb6wPu",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1769028712.869,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "coniferous-tree",
+    "isHidden": false,
+    "pageId": "section-FtLLEb6wPu",
+    "pageType": "canvas",
+    "pageUri": "pages/section-FtLLEb6wPu",
+    "parentPageUri": "pages/section-uUbHYih-tF",
+    "position": 271,
+    "subtitle": "",
+    "title": "Redwood Tarot",
+    "updatedAt": 1769035064.269,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-FtLLEb6wPu",
+    "canvasUri": "canvases/canvas-FtLLEb6wPu",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1769028712.869,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "coniferous-tree",
+    "isHidden": false,
+    "pageId": "section-FtLLEb6wPu",
+    "pageType": "canvas",
+    "pageUri": "pages/section-FtLLEb6wPu",
+    "parentPageUri": "pages/section-uUbHYih-tF",
+    "position": 271,
+    "subtitle": "",
+    "title": "Redwood Tarot",
+    "updatedAt": 1769035064.269,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

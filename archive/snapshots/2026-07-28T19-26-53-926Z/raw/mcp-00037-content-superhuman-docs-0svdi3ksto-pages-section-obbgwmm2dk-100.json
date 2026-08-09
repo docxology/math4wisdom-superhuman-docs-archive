@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-OBbGWmM2DK"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-OBbGWmM2DK\",\"pageUri\":\"pages/section-OBbGWmM2DK\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-OBbGWmM2DK/formulas/f-BoKqqW6Oop\",\"name\":\"##_hidden_control_## 15\",\"canvasUri\":\"canvases/canvas-OBbGWmM2DK\",\"pageUri\":\"pages/section-OBbGWmM2DK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"},{\"formulaUri\":\"canvases/canvas-OBbGWmM2DK/formulas/f-Je0t82C4M4\",\"name\":\"##_hidden_control_## 16\",\"canvasUri\":\"canvases/canvas-OBbGWmM2DK\",\"pageUri\":\"pages/section-OBbGWmM2DK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2953483\",\"name\":\"Andrius Kulikauskas\"},\"formula\":\"[Andrius Kulikauskas]\"},{\"formulaUri\":\"canvases/canvas-OBbGWmM2DK/formulas/f-Vztnw3Rf4-\",\"name\":\"##_hidden_control_## 20\",\"canvasUri\":\"canvases/canvas-OBbGWmM2DK\",\"pageUri\":\"pages/section-OBbGWmM2DK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"},{\"formulaUri\":\"canvases/canvas-OBbGWmM2DK/formulas/f-oGVNu8H9Fz\",\"name\":\"##_hidden_control_## 29\",\"canvasUri\":\"canvases/canvas-OBbGWmM2DK\",\"pageUri\":\"pages/section-OBbGWmM2DK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"},{\"formulaUri\":\"canvases/canvas-OBbGWmM2DK/formulas/f-YQNcSDGCKY\",\"name\":\"##_hidden_control_## 30\",\"canvasUri\":\"canvases/canvas-OBbGWmM2DK\",\"pageUri\":\"pages/section-OBbGWmM2DK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2953483\",\"name\":\"Andrius Kulikauskas\"},\"formula\":\"[Andrius Kulikauskas]\"},{\"formulaUri\":\"canvases/canvas-OBbGWmM2DK/formulas/f-6nFhKZgqOW\",\"name\":\"##_hidden_control_## 41\",\"canvasUri\":\"canvases/canvas-OBbGWmM2DK\",\"pageUri\":\"pages/section-OBbGWmM2DK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"},{\"formulaUri\":\"canvases/canvas-OBbGWmM2DK/formulas/f-9JTCEpMGVW\",\"name\":\"##_hidden_control_## 42\",\"canvasUri\":\"canvases/canvas-OBbGWmM2DK\",\"pageUri\":\"pages/section-OBbGWmM2DK\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2953483\",\"name\":\"Andrius Kulikauskas\"},\"formula\":\"[Andrius Kulikauskas]\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

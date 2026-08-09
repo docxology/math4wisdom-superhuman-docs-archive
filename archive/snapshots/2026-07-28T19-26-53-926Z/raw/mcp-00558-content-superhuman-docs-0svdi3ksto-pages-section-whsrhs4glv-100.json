@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-WHsrHs4gLV"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-WHsrHs4gLV\",\"pageUri\":\"pages/section-WHsrHs4gLV\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-WHsrHs4gLV/formulas/f-ct5umbe9Mw\",\"name\":\"##_hidden_control_## 75\",\"canvasUri\":\"canvases/canvas-WHsrHs4gLV\",\"pageUri\":\"pages/section-WHsrHs4gLV\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"}],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-WHsrHs4gLV\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-YB5ynzTCLu\",\"createdAt\":1733512201.509,\"reactions\":[],\"text\":\"Andrius Kulikauskas here is the reply by Steve, in yellow.\",\"userId\":1119613}],\"pageUri\":\"pages/section-WHsrHs4gLV\",\"reference\":{\"type\":\"text\",\"text\":\"Please ask Steve\"},\"state\":\"Active\",\"threadUri\":\"threads/r-qY3aIt1jYF\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

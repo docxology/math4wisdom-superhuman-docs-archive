@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-nH7UIsncww"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-nH7UIsncww\",\"pageUri\":\"pages/section-nH7UIsncww\",\"content\":\"<columns>\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\nBy <formula id=\\\"f-TpeacML2oc\\\">KU</formula> using imagine.art:\\n\\n   \\n\\n\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-nH7UIsncww/formulas/f-TpeacML2oc\",\"name\":\"##_hidden_control_## 87\",\"canvasUri\":\"canvases/canvas-nH7UIsncww\",\"pageUri\":\"pages/section-nH7UIsncww\",\"value\":{\"type\":\"ref\",\"objectId\":\"grid-neeyDLw2ig\",\"identifier\":\"i-GxhiBofCQt\",\"name\":\"KU\"},\"formula\":\"KU\"}],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-nH7UIsncww\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-mVR7y42jCa\",\"createdAt\":1739201555.135,\"reactions\":[],\"text\":\"kirby urner just some random /_suIsncww arts\",\"userId\":1119613}],\"pageUri\":\"pages/section-nH7UIsncww\",\"reference\":null,\"state\":\"Resolved\",\"threadUri\":\"threads/r-k7rivmWbUk\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

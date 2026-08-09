@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-Avk6JQdZn_",
+      "commentThreads": [],
+      "content": "<callout type=\"info\">\n### **General Systems Theory**\n\nThe BE DO HAVE projects completion cycle diagrams the flow of ideas from inception through some kind of realization phase to become actual items in inventory, available for the next round of projects completion.\n\nIn [synergetics](https://www.grunch.net/synergetics/intro.html), thinking and planning (BE) involves *apprehension*, wherein data is amassed, followed by *comprehension*, wherein systematic understanding and appreciation for underlying principles is gained.\n\nUsing the metaphors of [Theater](https://www.grunch.net/synergetics/usaos2.html), we may consider *implementation phase* (DO phase) a time for players (e.g. [World Game](http://www.worldgame.org/) players) to demonstrate their understanding through [action](http://www.4dsolutions.com/ocn/calculus2.html), leading towards an increase in our supply (HAVE) of recorded performances, the fruits of collaboration, stores of worthwhile teachings and so on. [Prayer, service, results](https://www.grunch.net/synergetics/quakes.html).\n\n[https://www.grunch.net/synergetics/gst1.html](https://www.grunch.net/synergetics/gst1.html)\n</callout>\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-Avk6JQdZn_",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-Avk6JQdZn_",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-Avk6JQdZn_",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-Avk6JQdZn_",
+    "canvasUri": "canvases/canvas-Avk6JQdZn_",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1754788271.271,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "general-electrics",
+    "isHidden": false,
+    "pageId": "section-Avk6JQdZn_",
+    "pageType": "canvas",
+    "pageUri": "pages/section-Avk6JQdZn_",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 225,
+    "subtitle": "",
+    "title": "General Systems Theory",
+    "updatedAt": 1754788288.41,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-Avk6JQdZn_",
+    "canvasUri": "canvases/canvas-Avk6JQdZn_",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1754788271.271,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "general-electrics",
+    "isHidden": false,
+    "pageId": "section-Avk6JQdZn_",
+    "pageType": "canvas",
+    "pageUri": "pages/section-Avk6JQdZn_",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 225,
+    "subtitle": "",
+    "title": "General Systems Theory",
+    "updatedAt": 1754788288.41,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-bGQ4QfuNAT",
+      "commentThreads": [],
+      "content": "<columns>\n{\"Title\":\"Wax or the Discovery of Television Among the Bees\",\"Summary\":{\"type\":\"slate\",\"root\":{\"children\":[{\"children\":[{\"text\":\"1991 American film\"}],\"id\":\"cl-0\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0}]}},\"Image\":{\"type\":\"imageurlref\",\"url\":\"https://upload.wikimedia.org/wikipedia/en/d/d7/Wax_or_the_Discovery_of_Television_Among_the_Bees.jpg\",\"outline\":true},\"Body\":{\"type\":\"slate\",\"root\":{\"children\":[{\"children\":[{\"text\":\"Wax or the Discovery of Television Among the Bees\",\"bold\":true,\"italic\":true},{\"text\":\" is the first independent feature film by American filmmaker and artist David Blair. It was also the first film to be livestreamed on the Internet. \"}],\"id\":\"cl-0\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0}]}},\"Url\":{\"type\":\"urlref\",\"url\":\"https://en.wikipedia.org/wiki/Wax_or_the_Discovery_of_Television_Among_the_Bees\",\"name\":\"\"},\"LastEdited\":{\"type\":\"dt\",\"input\":\"4/22/2026 7:45:49 AM\",\"epoch\":1776869149,\"formatted\":\"4/22/2026\"}}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_suRfidAo](https://coda.io/d/_d0SvdI3KSto/_suRfidAo) \n\n\n\n\n\n\n\n\n\n\n\n\n\n[https://coda.io/d/_d0SvdI3KSto/_suM-62GQ](https://coda.io/d/_d0SvdI3KSto/_suM-62GQ) \n\n\n\n\n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_suxYHdB8](https://coda.io/d/_d0SvdI3KSto/_suxYHdB8) [https://coda.io/d/_d0SvdI3KSto/_su2w6nPA](https://coda.io/d/_d0SvdI3KSto/_su2w6nPA) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_su3MVkmT](https://coda.io/d/_d0SvdI3KSto/_su3MVkmT) \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-bGQ4QfuNAT",
+          "formula": "WikipediaArticle(\"https://en.wikipedia.org/wiki/Wax_or_the_Discovery_of_Television_Among_the_Bees\")",
+          "formulaUri": "canvases/canvas-bGQ4QfuNAT/formulas/f-b3R5Hr44I_",
+          "name": "##_hidden_control_## 177",
+          "pageUri": "pages/section-bGQ4QfuNAT",
+          "value": {
+            "Body": {
+              "root": {
+                "children": [
+                  {
+                    "alignment": "Left",
+                    "children": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "text": "Wax or the Discovery of Television Among the Bees"
+                      },
+                      {
+                        "text": " is the first independent feature film by American filmmaker and artist David Blair. It was also the first film to be livestreamed on the Internet. "
+                      }
+                    ],
+                    "id": "cl-0",
+                    "lineLevel": 0,
+                    "style": "Paragraph",
+                    "type": "Line"
+                  }
+                ]
+              },
+              "type": "slate"
+            },
+            "Image": {
+              "outline": true,
+              "type": "imageurlref",
+              "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Wax_or_the_Discovery_of_Television_Among_the_Bees.jpg"
+            },
+            "LastEdited": {
+              "epoch": 1776869149,
+              "formatted": "4/22/2026",
+              "input": "4/22/2026 7:45:49 AM",
+              "type": "dt"
+            },
+            "Summary": {
+              "root": {
+                "children": [
+                  {
+                    "alignment": "Left",
+                    "children": [
+                      {
+                        "text": "1991 American film"
+                      }
+                    ],
+                    "id": "cl-0",
+                    "lineLevel": 0,
+                    "style": "Paragraph",
+                    "type": "Line"
+                  }
+                ]
+              },
+              "type": "slate"
+            },
+            "Title": "Wax or the Discovery of Television Among the Bees",
+            "Url": {
+              "name": "",
+              "type": "urlref",
+              "url": "https://en.wikipedia.org/wiki/Wax_or_the_Discovery_of_Television_Among_the_Bees"
+            }
+          }
+        }
+      ],
+      "pageUri": "pages/section-bGQ4QfuNAT",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-bGQ4QfuNAT",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-bGQ4QfuNAT",
+          "formula": "WikipediaArticle(\"https://en.wikipedia.org/wiki/Wax_or_the_Discovery_of_Television_Among_the_Bees\")",
+          "formulaUri": "canvases/canvas-bGQ4QfuNAT/formulas/f-b3R5Hr44I_",
+          "name": "##_hidden_control_## 177",
+          "pageUri": "pages/section-bGQ4QfuNAT",
+          "value": {
+            "Body": {
+              "root": {
+                "children": [
+                  {
+                    "alignment": "Left",
+                    "children": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "text": "Wax or the Discovery of Television Among the Bees"
+                      },
+                      {
+                        "text": " is the first independent feature film by American filmmaker and artist David Blair. It was also the first film to be livestreamed on the Internet. "
+                      }
+                    ],
+                    "id": "cl-0",
+                    "lineLevel": 0,
+                    "style": "Paragraph",
+                    "type": "Line"
+                  }
+                ]
+              },
+              "type": "slate"
+            },
+            "Image": {
+              "outline": true,
+              "type": "imageurlref",
+              "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Wax_or_the_Discovery_of_Television_Among_the_Bees.jpg"
+            },
+            "LastEdited": {
+              "epoch": 1776869149,
+              "formatted": "4/22/2026",
+              "input": "4/22/2026 7:45:49 AM",
+              "type": "dt"
+            },
+            "Summary": {
+              "root": {
+                "children": [
+                  {
+                    "alignment": "Left",
+                    "children": [
+                      {
+                        "text": "1991 American film"
+                      }
+                    ],
+                    "id": "cl-0",
+                    "lineLevel": 0,
+                    "style": "Paragraph",
+                    "type": "Line"
+                  }
+                ]
+              },
+              "type": "slate"
+            },
+            "Title": "Wax or the Discovery of Television Among the Bees",
+            "Url": {
+              "name": "",
+              "type": "urlref",
+              "url": "https://en.wikipedia.org/wiki/Wax_or_the_Discovery_of_Television_Among_the_Bees"
+            }
+          }
+        }
+      ],
+      "pageUri": "pages/section-bGQ4QfuNAT",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-bGQ4QfuNAT",
+    "canvasUri": "canvases/canvas-bGQ4QfuNAT",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1776953295.472,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "bee",
+    "isHidden": false,
+    "pageId": "section-bGQ4QfuNAT",
+    "pageType": "canvas",
+    "pageUri": "pages/section-bGQ4QfuNAT",
+    "parentPageUri": "pages/section-Cs9A2w6nPA",
+    "position": 297,
+    "subtitle": "",
+    "title": "Wax or the Discovery of Television Among the Bees",
+    "updatedAt": 1777239605.191,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-bGQ4QfuNAT",
+    "canvasUri": "canvases/canvas-bGQ4QfuNAT",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1776953295.472,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "bee",
+    "isHidden": false,
+    "pageId": "section-bGQ4QfuNAT",
+    "pageType": "canvas",
+    "pageUri": "pages/section-bGQ4QfuNAT",
+    "parentPageUri": "pages/section-Cs9A2w6nPA",
+    "position": 297,
+    "subtitle": "",
+    "title": "Wax or the Discovery of Television Among the Bees",
+    "updatedAt": 1777239605.191,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-vZB449pE5w"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-vZB449pE5w\",\"canvasId\":\"canvas-vZB449pE5w\",\"title\":\"AI as a tool\",\"canvasUri\":\"canvases/canvas-vZB449pE5w\",\"childPageOutlines\":[{\"pageId\":\"section-44qkSOceyP\",\"canvasId\":\"canvas-44qkSOceyP\",\"title\":\"Omi\",\"canvasUri\":\"canvases/canvas-44qkSOceyP\",\"pageUri\":\"pages/section-44qkSOceyP\"},{\"pageId\":\"section-CpP8d39phc\",\"canvasId\":\"canvas-CpP8d39phc\",\"title\":\"2-11-2026 AI tool use\",\"canvasUri\":\"canvases/canvas-CpP8d39phc\",\"pageUri\":\"pages/section-CpP8d39phc\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-vZB449pE5w\",\"parentPageUri\":\"pages/section-9TRHaEEPT0\",\"position\":248,\"icon\":\"administrative-tools\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1762290096.657,\"updatedAt\":1776878961.337,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

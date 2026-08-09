@@ -1,0 +1,116 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-LIHHMFjDsx",
+      "commentThreads": [],
+      "content": "[https://topos.institute/](https://topos.institute/) in Berkeley, CA. September 18-20, 2024.\n\n<columns>\nPoster I made on [https://coda.io/d/_d0SvdI3KSto/_suli3zvK](https://coda.io/d/_d0SvdI3KSto/_suli3zvK) + [https://coda.io/d/_d0SvdI3KSto/_suo0BIkP](https://coda.io/d/_d0SvdI3KSto/_suo0BIkP) \n\nDaniel Ari Friedman  Thank you!  I look forward to learning more about the conference. Thank you for the links. Andrius\n\n|||\n\nGroup for [https://coda.io/d/_d0SvdI3KSto/_suMFjDsx](https://coda.io/d/_d0SvdI3KSto/_suMFjDsx) \n\n\n\n\n\n|||\n\n\n\n\n\n- Poly & Yoneda Lemma.\n  - Yoneda — 4some\n  - Adjunctions — 6 ways of thinking about divisions. \n  - Levels of knowledge\n    - From Observer/Observed, increasing/decreasing slack. \n- Cube as mnemonic.\n  - Divisions not interacted with directly. Plucking off the perspective. 4 levels, 3 perspectives to choose from, 12. \n  - Octahedra too, as dual (equally natural).  \n- M1 Doing, \n\n\n</columns>\n\n",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-LIHHMFjDsx",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-LIHHMFjDsx/formulas/f-QMPPXj7qWu",
+          "name": "##_hidden_control_## 52",
+          "pageUri": "pages/section-LIHHMFjDsx",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-LIHHMFjDsx",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-LIHHMFjDsx",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-LIHHMFjDsx",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-LIHHMFjDsx/formulas/f-QMPPXj7qWu",
+          "name": "##_hidden_control_## 52",
+          "pageUri": "pages/section-LIHHMFjDsx",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-LIHHMFjDsx",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-LIHHMFjDsx",
+    "canvasUri": "canvases/canvas-LIHHMFjDsx",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1727042076.575,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "strike",
+    "isHidden": false,
+    "pageId": "section-LIHHMFjDsx",
+    "pageType": "canvas",
+    "pageUri": "pages/section-LIHHMFjDsx",
+    "parentPageUri": "pages/section-U93Hli3zvK",
+    "position": 88,
+    "subtitle": "",
+    "title": "ACT2Infer 2024",
+    "updatedAt": 1729685677.6,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-LIHHMFjDsx",
+    "canvasUri": "canvases/canvas-LIHHMFjDsx",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1727042076.575,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "strike",
+    "isHidden": false,
+    "pageId": "section-LIHHMFjDsx",
+    "pageType": "canvas",
+    "pageUri": "pages/section-LIHHMFjDsx",
+    "parentPageUri": "pages/section-U93Hli3zvK",
+    "position": 88,
+    "subtitle": "",
+    "title": "ACT2Infer 2024",
+    "updatedAt": 1729685677.6,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

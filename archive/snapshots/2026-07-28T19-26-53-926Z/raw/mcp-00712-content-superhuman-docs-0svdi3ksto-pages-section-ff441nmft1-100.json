@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-ff441nmfT1"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-ff441nmfT1\",\"pageUri\":\"pages/section-ff441nmfT1\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-ff441nmfT1/formulas/f-pt7KDdPIBS\",\"name\":\"##_hidden_control_## 66\",\"canvasUri\":\"canvases/canvas-ff441nmfT1\",\"pageUri\":\"pages/section-ff441nmfT1\",\"value\":{\"type\":\"ref\",\"objectId\":\"grid-neeyDLw2ig\",\"identifier\":\"i-GxhiBofCQt\",\"name\":\"KU\"},\"formula\":\"KU\"},{\"formulaUri\":\"canvases/canvas-ff441nmfT1/formulas/f-B4z-0zvBwv\",\"name\":\"##_hidden_control_## 67\",\"canvasUri\":\"canvases/canvas-ff441nmfT1\",\"pageUri\":\"pages/section-ff441nmfT1\",\"value\":{\"type\":\"ref\",\"objectId\":\"grid-neeyDLw2ig\",\"identifier\":\"i-6-iv2lSgGL\",\"name\":\"DAF\"},\"formula\":\"DAF\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

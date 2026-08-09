@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-_Gxm1bIoV1"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-_Gxm1bIoV1\",\"canvasId\":\"canvas-_Gxm1bIoV1\",\"title\":\"Cosmic Crossword Puzzle\",\"canvasUri\":\"canvases/canvas-_Gxm1bIoV1\",\"childPageOutlines\":[{\"pageId\":\"section-jLYIIi8r_N\",\"canvasId\":\"canvas-jLYIIi8r_N\",\"title\":\"Symbolic Formalism\",\"canvasUri\":\"canvases/canvas-jLYIIi8r_N\",\"pageUri\":\"pages/section-jLYIIi8r_N\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-_Gxm1bIoV1\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":44,\"icon\":\"astronaut\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1713276337.892,\"updatedAt\":1713277885.545,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

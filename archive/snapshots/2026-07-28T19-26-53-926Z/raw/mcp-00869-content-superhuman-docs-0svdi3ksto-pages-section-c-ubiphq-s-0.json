@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-c_uBIPHQ-s"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-c_uBIPHQ-s\",\"pageUri\":\"pages/section-c_uBIPHQ-s\",\"content\":\"<columns>\\nAtoms of Mind - [https://link.springer.com/book/10.1007/978-94-007-1097-9](https://link.springer.com/book/10.1007/978-94-007-1097-9)\\n\\n\\n\\n\\n\\n|||\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suRqOPnN](https://coda.io/d/_d0SvdI3KSto/_suRqOPnN) \\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n|||\\n\\n\\n</columns>\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-c_uBIPHQ-s\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-gY3ASxZcru\",\"createdAt\":1764619244.426,\"reactions\":[],\"text\":\"Andrius Kulikauskas check this out, a friend sent me this book (published 2011), and in the first chapter Klemm introduces a “three minds” concept: Non-conscious, Subconscious, and Conscious. \\n\\nAt least this is interesting for /_suuuuImK and your connection with how you understand the 3 minds. \",\"userId\":1119613},{\"authorEmail\":\"math4wisdom@gmail.com\",\"authorName\":\"Andrius Kulikauskas\",\"commentUri\":\"comments/i-6bq7YlquBu\",\"createdAt\":1764625348.309,\"reactions\":[],\"text\":\"Thank you, Daniel!  I have included it in the Theory Translator     I think he is just referring to two of the minds: answering = subconscious and questioning = conscious.\",\"userId\":2953483}],\"pageUri\":\"pages/section-c_uBIPHQ-s\",\"reference\":null,\"state\":\"Active\",\"threadUri\":\"threads/r-zsDpGKlz9o\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-Q9qydEJFJE"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-Q9qydEJFJE\",\"pageUri\":\"pages/section-Q9qydEJFJE\",\"content\":\"\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-Q9qydEJFJE\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-wH0Qn8nfgB\",\"createdAt\":1765210699.022,\"reactions\":[],\"text\":\"kirby urner — minor /_sudEJFJE + Angleton mention, from Gold Beach book store. \",\"userId\":1119613}],\"pageUri\":\"pages/section-Q9qydEJFJE\",\"reference\":null,\"state\":\"Active\",\"threadUri\":\"threads/r-gNQum2moIf\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

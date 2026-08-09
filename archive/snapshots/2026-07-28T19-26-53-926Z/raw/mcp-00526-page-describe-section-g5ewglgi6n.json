@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-G5EWGLGI6n"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-G5EWGLGI6n\",\"canvasId\":\"canvas-G5EWGLGI6n\",\"title\":\"Ants\",\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"childPageOutlines\":[{\"pageId\":\"section-3KOuRAUenq\",\"canvasId\":\"canvas-3KOuRAUenq\",\"title\":\"Synthesizing the Born rule with reinforcement learning\",\"canvasUri\":\"canvases/canvas-3KOuRAUenq\",\"pageUri\":\"pages/section-3KOuRAUenq\"},{\"pageId\":\"section-0ExtFaOdRJ\",\"canvasId\":\"canvas-0ExtFaOdRJ\",\"title\":\"Ants in EJ Applewhite\",\"canvasUri\":\"canvases/canvas-0ExtFaOdRJ\",\"pageUri\":\"pages/section-0ExtFaOdRJ\"},{\"pageId\":\"section-qFqf69ha7Q\",\"canvasId\":\"canvas-qFqf69ha7Q\",\"title\":\"Antopia\",\"canvasUri\":\"canvases/canvas-qFqf69ha7Q\",\"pageUri\":\"pages/section-qFqf69ha7Q\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-G5EWGLGI6n\",\"parentPageUri\":\"pages/section-zBChxYHdB8\",\"position\":41,\"icon\":\"ant\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1710700557.461,\"updatedAt\":1713549721.521,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1271333,\"name\":\"kirby urner\",\"email\":\"kirby.urner@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

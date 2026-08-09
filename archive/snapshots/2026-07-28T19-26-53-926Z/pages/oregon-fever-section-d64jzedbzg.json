@@ -1,0 +1,126 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-d64JZEDBZG",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-d64JZEDBZG",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-tTHVMMrLSa",
+              "createdAt": 1736441406.048,
+              "reactions": [],
+              "text": "kirby urner added some starts here, and in /_sue_CQH- ",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-d64JZEDBZG",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-DFOBorh9Rg"
+        }
+      ],
+      "content": "<columns>\n[https://coda.io/d/_d0SvdI3KSto/_su7o2w_V](https://coda.io/d/_d0SvdI3KSto/_su7o2w_V) \n\n[https://coda.io/d/_d0SvdI3KSto/_sue_CQH-](https://coda.io/d/_d0SvdI3KSto/_sue_CQH-) \n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n</columns>\n\nAmerRuss pix (Whole Earth Catalog magazine, 1986-87)\n\n[https://flic.kr/p/2nixNpd](https://flic.kr/p/2nixNpd)\n\n[https://flic.kr/p/2niy2nV](https://flic.kr/p/2niy2nV)\n\n[Oregon Fever](https://worldgame.blogspot.com/2025/01/oregon-fever.html)\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-d64JZEDBZG",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-d64JZEDBZG",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-d64JZEDBZG",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-tTHVMMrLSa",
+              "createdAt": 1736441406.048,
+              "reactions": [],
+              "text": "kirby urner added some starts here, and in /_sue_CQH- ",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-d64JZEDBZG",
+          "reference": null,
+          "state": "Resolved",
+          "threadUri": "threads/r-DFOBorh9Rg"
+        }
+      ],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-d64JZEDBZG",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-d64JZEDBZG",
+    "canvasUri": "canvases/canvas-d64JZEDBZG",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1736439262.635,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "oregon",
+    "isHidden": false,
+    "pageId": "section-d64JZEDBZG",
+    "pageType": "canvas",
+    "pageUri": "pages/section-d64JZEDBZG",
+    "parentPageUri": "pages/section-w4EQmNcV1g",
+    "position": 132,
+    "subtitle": "",
+    "title": "Oregon Fever",
+    "updatedAt": 1736780522.075,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-d64JZEDBZG",
+    "canvasUri": "canvases/canvas-d64JZEDBZG",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1736439262.635,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "oregon",
+    "isHidden": false,
+    "pageId": "section-d64JZEDBZG",
+    "pageType": "canvas",
+    "pageUri": "pages/section-d64JZEDBZG",
+    "parentPageUri": "pages/section-w4EQmNcV1g",
+    "position": 132,
+    "subtitle": "",
+    "title": "Oregon Fever",
+    "updatedAt": 1736780522.075,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

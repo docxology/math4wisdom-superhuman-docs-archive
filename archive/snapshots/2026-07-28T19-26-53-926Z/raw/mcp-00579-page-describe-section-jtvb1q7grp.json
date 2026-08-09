@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-jTvb1q7GrP"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-jTvb1q7GrP\",\"canvasId\":\"canvas-jTvb1q7GrP\",\"title\":\"Economics\",\"canvasUri\":\"canvases/canvas-jTvb1q7GrP\",\"childPageOutlines\":[{\"pageId\":\"section-gjyuMRoZbb\",\"canvasId\":\"canvas-gjyuMRoZbb\",\"title\":\"Syntropic Finance\",\"canvasUri\":\"canvases/canvas-gjyuMRoZbb\",\"pageUri\":\"pages/section-gjyuMRoZbb\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-jTvb1q7GrP\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":106,\"icon\":\"currency\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1731424430.407,\"updatedAt\":1744219085.881,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1271333,\"name\":\"kirby urner\",\"email\":\"kirby.urner@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-6oBgyzW28s"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-6oBgyzW28s\",\"pageUri\":\"pages/section-6oBgyzW28s\",\"content\":\"# **Synergetics: An Adventure in Human Development First Edition**\\n\\nby Norman Arthur Coulter\\n\\n[https://www.amazon.com/Synergetics-Development-Norman-Arthur-Coulter/dp/0138799814](https://www.amazon.com/Synergetics-Development-Norman-Arthur-Coulter/dp/0138799814)\\n\\n<columns>\\n\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suMdl6PD](https://coda.io/d/_d0SvdI3KSto/_suMdl6PD) \\n\\n|||\\n\\n\\n\\n\\n\\n[https://coda.io/d/_d0SvdI3KSto/_su1nmfT1](https://coda.io/d/_d0SvdI3KSto/_su1nmfT1) \\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\nest\\n\\n\\n</columns>\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

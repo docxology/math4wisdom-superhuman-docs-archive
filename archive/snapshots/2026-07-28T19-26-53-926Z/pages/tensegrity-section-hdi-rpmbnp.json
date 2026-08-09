@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-hdi_RpMbNp",
+      "commentThreads": [],
+      "content": "- [Kenneth Snelson](https://www.grunch.net/snelson/)\n\n- \n\n  - [https://pubmed.ncbi.nlm.nih.gov/?term=tensegrity](https://pubmed.ncbi.nlm.nih.gov/?term=tensegrity)\n\n- .\n\n- \n\n[nbviewer link](https://nbviewer.org/github/4dsolutions/School_of_Tomorrow/blob/master/School_of_Tomorrow.ipynb#Tensegrity) to the above School of Tomorrow page\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-hdi_RpMbNp",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-hdi_RpMbNp",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-hdi_RpMbNp",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-hdi_RpMbNp",
+    "canvasUri": "canvases/canvas-hdi_RpMbNp",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-yziOzEbTES",
+        "canvasUri": "canvases/canvas-yziOzEbTES",
+        "pageId": "section-yziOzEbTES",
+        "pageUri": "pages/section-yziOzEbTES",
+        "title": "Domes"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1736953694.38,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "bowling",
+    "isHidden": false,
+    "pageId": "section-hdi_RpMbNp",
+    "pageType": "canvas",
+    "pageUri": "pages/section-hdi_RpMbNp",
+    "parentPageUri": "pages/section-SXXoQWY5DS",
+    "position": 134,
+    "subtitle": "",
+    "title": "Tensegrity",
+    "updatedAt": 1740598652.004,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-hdi_RpMbNp",
+    "canvasUri": "canvases/canvas-hdi_RpMbNp",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-yziOzEbTES",
+        "canvasUri": "canvases/canvas-yziOzEbTES",
+        "pageId": "section-yziOzEbTES",
+        "pageUri": "pages/section-yziOzEbTES",
+        "title": "Domes"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1736953694.38,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "bowling",
+    "isHidden": false,
+    "pageId": "section-hdi_RpMbNp",
+    "pageType": "canvas",
+    "pageUri": "pages/section-hdi_RpMbNp",
+    "parentPageUri": "pages/section-SXXoQWY5DS",
+    "position": 134,
+    "subtitle": "",
+    "title": "Tensegrity",
+    "updatedAt": 1740598652.004,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

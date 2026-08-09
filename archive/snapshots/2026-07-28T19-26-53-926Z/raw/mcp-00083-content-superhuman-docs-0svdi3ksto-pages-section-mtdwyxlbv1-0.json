@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-mTDWYXLbv1"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-mTDWYXLbv1\",\"pageUri\":\"pages/section-mTDWYXLbv1\",\"content\":\"[KU's M4W Github repo](https://nbviewer.org/github/4dsolutions/m4w/blob/main/M4WTOC.ipynb)\\n\\n[CJ’s Collaborating for Comprehensivity](https://www.cjfearnley.com/CfC/)\\n\\n[KU’s blogs](https://worldgame.blogspot.com)\\n\\n[TrimTab Coda](https://coda.io/d/Trimtab_dq8smWwhNvC/Trimtab_su8HO#_luMim)\\n\\n[52 Living Ideas](https://www.youtube.com/@52LivingIdeas)\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

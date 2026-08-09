@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-Jr6QKvOq4x"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-Jr6QKvOq4x\",\"pageUri\":\"pages/section-Jr6QKvOq4x\",\"content\":\"<columns>\\n#  [https://coda.io/d/_d0SvdI3KSto/_suKvOq4x](https://coda.io/d/_d0SvdI3KSto/_suKvOq4x). \\n\\nThere is an element of [https://coda.io/d/_d0SvdI3KSto/_sujjvM3E](https://coda.io/d/_d0SvdI3KSto/_sujjvM3E) and Passage. \\n\\nIf you are curious, you can: \\n\\n- [https://coda.io/d/_d0SvdI3KSto/_suKvOq4x](https://coda.io/d/_d0SvdI3KSto/_suKvOq4x) yourself\\n- [https://coda.io/d/_d0SvdI3KSto/_suKvOq4x](https://coda.io/d/_d0SvdI3KSto/_suKvOq4x) and ask into another’s blanket\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n---\\n\\n---\\n\\n# [https://coda.io/d/_d0SvdI3KSto/_suSpZEiP](https://coda.io/d/_d0SvdI3KSto/_suSpZEiP) \",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-Jr6QKvOq4x\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-hNo9dFlqjZ\",\"createdAt\":1735302113.7,\"reactions\":[],\"text\":\"kirby urner see this section and /_suKvOq4x \",\"userId\":1119613}],\"pageUri\":\"pages/section-Jr6QKvOq4x\",\"reference\":null,\"state\":\"Resolved\",\"threadUri\":\"threads/r-G9PoZWq9Qx\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

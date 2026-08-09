@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-CakCNQr93F"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-CakCNQr93F\",\"canvasId\":\"canvas-CakCNQr93F\",\"title\":\"Cognitive Bimetalism\",\"canvasUri\":\"canvases/canvas-CakCNQr93F\",\"childPageOutlines\":[{\"pageId\":\"section-HdV9RpIlpU\",\"canvasId\":\"canvas-HdV9RpIlpU\",\"title\":\"Cascadian Bimetalism\",\"canvasUri\":\"canvases/canvas-HdV9RpIlpU\",\"pageUri\":\"pages/section-HdV9RpIlpU\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-CakCNQr93F\",\"parentPageUri\":\"pages/section-M2XPmWz2XL\",\"position\":196,\"icon\":\"gold-bars\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1749149571.545,\"updatedAt\":1760718599.304,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

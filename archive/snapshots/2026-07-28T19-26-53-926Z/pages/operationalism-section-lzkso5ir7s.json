@@ -1,0 +1,79 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-LZkSO5iR7S",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-LZkSO5iR7S",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-LZkSO5iR7S",
+    "canvasUri": "canvases/canvas-LZkSO5iR7S",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1772552755.91,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "operating-system",
+    "isHidden": false,
+    "pageId": "section-LZkSO5iR7S",
+    "pageType": "canvas",
+    "pageUri": "pages/section-LZkSO5iR7S",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 286,
+    "subtitle": "",
+    "title": "Operationalism",
+    "updatedAt": 1772552763.502,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-LZkSO5iR7S",
+    "canvasUri": "canvases/canvas-LZkSO5iR7S",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1772552755.91,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "operating-system",
+    "isHidden": false,
+    "pageId": "section-LZkSO5iR7S",
+    "pageType": "canvas",
+    "pageUri": "pages/section-LZkSO5iR7S",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 286,
+    "subtitle": "",
+    "title": "Operationalism",
+    "updatedAt": 1772552763.502,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

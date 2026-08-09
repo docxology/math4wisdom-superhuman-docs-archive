@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-6Aioy27kzn"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-6Aioy27kzn\",\"pageUri\":\"pages/section-6Aioy27kzn\",\"content\":\"Ace [https://coda.io/d/_d0SvdI3KSto/_suXtZKEK](https://coda.io/d/_d0SvdI3KSto/_suXtZKEK) page: [https://www.minortriad.com/q4d.html](https://www.minortriad.com/q4d.html)\\n\\nMajor contributor to [https://coda.io/d/_d0SvdI3KSto/_suXtZKEK](https://coda.io/d/_d0SvdI3KSto/_suXtZKEK) \\n\\nFluent in Hilbert space 4D\\n\\n[https://zenodo.org/records/17538015](https://zenodo.org/records/17538015) New Lower Bounds for Snake-in-the-Box in 11-, 12-, and 13-dimensional Hypercubes\\n\\n[https://github.com/4dsolutions/School_of_Tomorrow/blob/master/Hypersnakes.ipynb](https://github.com/4dsolutions/School_of_Tomorrow/blob/master/Hypersnakes.ipynb)\\n\\n\\n\\n\\n\\n     \\n\\n\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

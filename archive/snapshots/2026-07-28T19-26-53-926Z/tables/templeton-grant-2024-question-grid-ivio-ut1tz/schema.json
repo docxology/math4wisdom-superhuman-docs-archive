@@ -1,0 +1,204 @@
+{
+  "descriptor": {
+    "canvasUri": "canvases/canvas-IY29lOwv--",
+    "columns": [
+      {
+        "columnId": "c-iRgioQTepw",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Question"
+      },
+      {
+        "columnId": "c-DQQTXPrgca",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Character limit"
+      },
+      {
+        "columnId": "c--yzC7Zvv5-",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Answer"
+      },
+      {
+        "columnId": "c-nBZI1Atrgl",
+        "description": null,
+        "error": null,
+        "format": {
+          "grouping": true,
+          "precision": 22,
+          "type": "num"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Number"
+      },
+      {
+        "columnId": "c-FwJfgsA_cR",
+        "description": null,
+        "error": null,
+        "format": {
+          "grouping": true,
+          "precision": 22,
+          "type": "num"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Character count"
+      }
+    ],
+    "name": "Templeton Grant 2024 question",
+    "pageUri": "pages/section-IY29lOwv--",
+    "rowCount": 24,
+    "tableUri": "tables/grid-IvIo-ut1Tz",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-IY29lOwv--",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-nBZI1Atrgl",
+          "c-iRgioQTepw",
+          "c-DQQTXPrgca",
+          "c--yzC7Zvv5-",
+          "c-FwJfgsA_cR"
+        ],
+        "pageUri": "pages/section-IY29lOwv--",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-IY29lOwv--/tables/grid-IvIo-ut1Tz",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-IY29lOwv--/tables/grid-IvIo-ut1Tz/views/default"
+      }
+    ]
+  },
+  "schema": {
+    "canvasUri": "canvases/canvas-IY29lOwv--",
+    "columns": [
+      {
+        "columnId": "c-iRgioQTepw",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Question"
+      },
+      {
+        "columnId": "c-DQQTXPrgca",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Character limit"
+      },
+      {
+        "columnId": "c--yzC7Zvv5-",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Answer"
+      },
+      {
+        "columnId": "c-nBZI1Atrgl",
+        "description": null,
+        "error": null,
+        "format": {
+          "grouping": true,
+          "precision": 22,
+          "type": "num"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Number"
+      },
+      {
+        "columnId": "c-FwJfgsA_cR",
+        "description": null,
+        "error": null,
+        "format": {
+          "grouping": true,
+          "precision": 22,
+          "type": "num"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Character count"
+      }
+    ],
+    "name": "Templeton Grant 2024 question",
+    "pageUri": "pages/section-IY29lOwv--",
+    "rowCount": 24,
+    "tableUri": "tables/grid-IvIo-ut1Tz",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-IY29lOwv--",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-nBZI1Atrgl",
+          "c-iRgioQTepw",
+          "c-DQQTXPrgca",
+          "c--yzC7Zvv5-",
+          "c-FwJfgsA_cR"
+        ],
+        "pageUri": "pages/section-IY29lOwv--",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-IY29lOwv--/tables/grid-IvIo-ut1Tz",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-IY29lOwv--/tables/grid-IvIo-ut1Tz/views/default"
+      }
+    ]
+  },
+  "sourcePages": [
+    "section-IY29lOwv--"
+  ],
+  "uri": "superhuman://docs/0SvdI3KSto/tables/grid-IvIo-ut1Tz"
+}

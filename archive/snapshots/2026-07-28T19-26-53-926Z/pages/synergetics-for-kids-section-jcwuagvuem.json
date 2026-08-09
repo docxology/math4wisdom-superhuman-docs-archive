@@ -1,0 +1,126 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-jcwUAGvuEM",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-jcwUAGvuEM",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-KVqbfWMxv4",
+              "createdAt": 1738699153.774,
+              "reactions": [],
+              "text": "kirby urner ",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-jcwUAGvuEM",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-sz6nxQMzAm"
+        }
+      ],
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_suIBhimW](https://coda.io/d/_d0SvdI3KSto/_suIBhimW) — [https://coda.io/d/_d0SvdI3KSto/_suAzuUpw](https://coda.io/d/_d0SvdI3KSto/_suAzuUpw) \n\n[Synergetics for Kids](https://groups.io/g/synergeo/message/2938)\n\n<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-jcwUAGvuEM",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-jcwUAGvuEM",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-jcwUAGvuEM",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-KVqbfWMxv4",
+              "createdAt": 1738699153.774,
+              "reactions": [],
+              "text": "kirby urner ",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-jcwUAGvuEM",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-sz6nxQMzAm"
+        }
+      ],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-jcwUAGvuEM",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-jcwUAGvuEM",
+    "canvasUri": "canvases/canvas-jcwUAGvuEM",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1738684112.136,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "kids-bedroom",
+    "isHidden": false,
+    "pageId": "section-jcwUAGvuEM",
+    "pageType": "canvas",
+    "pageUri": "pages/section-jcwUAGvuEM",
+    "parentPageUri": "pages/section-d4ItjkjzR-",
+    "position": 150,
+    "subtitle": "",
+    "title": "Synergetics for Kids",
+    "updatedAt": 1759166457.191,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-jcwUAGvuEM",
+    "canvasUri": "canvases/canvas-jcwUAGvuEM",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1738684112.136,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "kids-bedroom",
+    "isHidden": false,
+    "pageId": "section-jcwUAGvuEM",
+    "pageType": "canvas",
+    "pageUri": "pages/section-jcwUAGvuEM",
+    "parentPageUri": "pages/section-d4ItjkjzR-",
+    "position": 150,
+    "subtitle": "",
+    "title": "Synergetics for Kids",
+    "updatedAt": 1759166457.191,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

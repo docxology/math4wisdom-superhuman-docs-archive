@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-WKd6Je-p7N"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-WKd6Je-p7N\",\"canvasId\":\"canvas-WKd6Je-p7N\",\"title\":\"Language\",\"canvasUri\":\"canvases/canvas-WKd6Je-p7N\",\"childPageOutlines\":[{\"pageId\":\"section-U-EoN5ay7j\",\"canvasId\":\"canvas-U-EoN5ay7j\",\"title\":\"Ododu\",\"canvasUri\":\"canvases/canvas-U-EoN5ay7j\",\"pageUri\":\"pages/section-U-EoN5ay7j\"},{\"pageId\":\"section-SLnoNH30Ib\",\"canvasId\":\"canvas-SLnoNH30Ib\",\"title\":\"English\",\"canvasUri\":\"canvases/canvas-SLnoNH30Ib\",\"pageUri\":\"pages/section-SLnoNH30Ib\"},{\"pageId\":\"section-BSUTP5w1h2\",\"canvasId\":\"canvas-BSUTP5w1h2\",\"title\":\"Case System\",\"canvasUri\":\"canvases/canvas-BSUTP5w1h2\",\"pageUri\":\"pages/section-BSUTP5w1h2\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-WKd6Je-p7N\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":20,\"icon\":\"language\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708284164.118,\"updatedAt\":1713372400.737,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

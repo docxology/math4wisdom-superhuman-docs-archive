@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-GeiAUrmO0_"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-GeiAUrmO0_\",\"pageUri\":\"pages/section-GeiAUrmO0_\",\"content\":\"\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-GeiAUrmO0_\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-lfOZ9OnGUd\",\"createdAt\":1737932993.826,\"reactions\":[],\"text\":\"Bob? Is that you? \",\"userId\":1119613},{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-RRN8C731CK\",\"createdAt\":1737933795.739,\"reactions\":[],\"text\":\"kirby urner new page/effort /_suUrmO0_ \",\"userId\":1119613}],\"pageUri\":\"pages/section-GeiAUrmO0_\",\"reference\":null,\"state\":\"Active\",\"threadUri\":\"threads/r-wlncPWIAAB\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

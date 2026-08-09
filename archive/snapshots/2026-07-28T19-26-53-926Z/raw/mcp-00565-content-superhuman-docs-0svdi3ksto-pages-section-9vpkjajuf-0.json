@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-_9VpkjaJUF"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-_9VpkjaJUF\",\"pageUri\":\"pages/section-_9VpkjaJUF\",\"content\":\"- [https://www.e-c-o.net/wiki/Econet/Welcome](https://www.e-c-o.net/wiki/Econet/Welcome)\\n\\n- Risk & N=1. \\n\\n- [https://philpapers.org/rec/STRNHI](https://philpapers.org/rec/STRNHI) Null hypotheses in ecology, Donald R. Strong (1980). \\n\\n- Types of money, value, risk, ethics of all. Relationships with past, present, futures.\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

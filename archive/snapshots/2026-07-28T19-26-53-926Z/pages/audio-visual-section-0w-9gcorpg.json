@@ -1,0 +1,132 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-0w-9GCORpG",
+      "commentThreads": [],
+      "content": "[https://obsproject.com/](https://obsproject.com/) [https://coda.io/d/_d0SvdI3KSto/_suHZfEql](https://coda.io/d/_d0SvdI3KSto/_suHZfEql) \n\n[MKVToolNix](https://www.matroska.org/downloads/mkvtoolnix.html) (Matroska project — links to OBS)\n\n[https://github.com/ActiveInferenceInstitute/Journal-Utilities](https://github.com/ActiveInferenceInstitute/Journal-Utilities)\n\n/\n\n.....\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-0w-9GCORpG",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-0w-9GCORpG",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-0w-9GCORpG",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-0w-9GCORpG",
+    "canvasUri": "canvases/canvas-0w-9GCORpG",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-eGBPHZfEql",
+        "canvasUri": "canvases/canvas-eGBPHZfEql",
+        "pageId": "section-eGBPHZfEql",
+        "pageUri": "pages/section-eGBPHZfEql",
+        "title": "OBS Studio"
+      },
+      {
+        "canvasId": "canvas-Em3-wuAVGx",
+        "canvasUri": "canvases/canvas-Em3-wuAVGx",
+        "pageId": "section-Em3-wuAVGx",
+        "pageUri": "pages/section-Em3-wuAVGx",
+        "title": "Live Video"
+      },
+      {
+        "canvasId": "canvas-aiBaoFNFl6",
+        "canvasUri": "canvases/canvas-aiBaoFNFl6",
+        "pageId": "section-aiBaoFNFl6",
+        "pageUri": "pages/section-aiBaoFNFl6",
+        "title": "QR Live Protocol (QRLP)"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708283285.595,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "scart",
+    "isHidden": false,
+    "pageId": "section-0w-9GCORpG",
+    "pageType": "canvas",
+    "pageUri": "pages/section-0w-9GCORpG",
+    "parentPageUri": "pages/section-S2dtbpHvLx",
+    "position": 13,
+    "subtitle": "",
+    "title": "Audio-Visual",
+    "updatedAt": 1713579513.008,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-0w-9GCORpG",
+    "canvasUri": "canvases/canvas-0w-9GCORpG",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-eGBPHZfEql",
+        "canvasUri": "canvases/canvas-eGBPHZfEql",
+        "pageId": "section-eGBPHZfEql",
+        "pageUri": "pages/section-eGBPHZfEql",
+        "title": "OBS Studio"
+      },
+      {
+        "canvasId": "canvas-Em3-wuAVGx",
+        "canvasUri": "canvases/canvas-Em3-wuAVGx",
+        "pageId": "section-Em3-wuAVGx",
+        "pageUri": "pages/section-Em3-wuAVGx",
+        "title": "Live Video"
+      },
+      {
+        "canvasId": "canvas-aiBaoFNFl6",
+        "canvasUri": "canvases/canvas-aiBaoFNFl6",
+        "pageId": "section-aiBaoFNFl6",
+        "pageUri": "pages/section-aiBaoFNFl6",
+        "title": "QR Live Protocol (QRLP)"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708283285.595,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "scart",
+    "isHidden": false,
+    "pageId": "section-0w-9GCORpG",
+    "pageType": "canvas",
+    "pageUri": "pages/section-0w-9GCORpG",
+    "parentPageUri": "pages/section-S2dtbpHvLx",
+    "position": 13,
+    "subtitle": "",
+    "title": "Audio-Visual",
+    "updatedAt": 1713579513.008,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

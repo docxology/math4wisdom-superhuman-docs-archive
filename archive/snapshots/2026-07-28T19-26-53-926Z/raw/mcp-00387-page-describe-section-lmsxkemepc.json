@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-LMsXkEMePc"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-LMsXkEMePc\",\"canvasId\":\"canvas-LMsXkEMePc\",\"title\":\"Mystic 7\",\"canvasUri\":\"canvases/canvas-LMsXkEMePc\",\"childPageOutlines\":[{\"pageId\":\"section-zhM5Wv4ae9\",\"canvasId\":\"canvas-zhM5Wv4ae9\",\"title\":\"Jefferson Mystic 7\",\"canvasUri\":\"canvases/canvas-zhM5Wv4ae9\",\"pageUri\":\"pages/section-zhM5Wv4ae9\"},{\"pageId\":\"section-9vUyXriYKB\",\"canvasId\":\"canvas-9vUyXriYKB\",\"title\":\"1920's Mystic 7\",\"canvasUri\":\"canvases/canvas-9vUyXriYKB\",\"pageUri\":\"pages/section-9vUyXriYKB\"},{\"pageId\":\"section-xaMo2QoeDU\",\"canvasId\":\"canvas-xaMo2QoeDU\",\"title\":\"Mystic 13\",\"canvasUri\":\"canvases/canvas-xaMo2QoeDU\",\"pageUri\":\"pages/section-xaMo2QoeDU\"},{\"pageId\":\"section-YmHxK3hGJf\",\"canvasId\":\"canvas-YmHxK3hGJf\",\"title\":\"Optimistic 7\",\"canvasUri\":\"canvases/canvas-YmHxK3hGJf\",\"pageUri\":\"pages/section-YmHxK3hGJf\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-LMsXkEMePc\",\"parentPageUri\":\"pages/section-M2XPmWz2XL\",\"position\":182,\"icon\":\"7-circle\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1748354519.203,\"updatedAt\":1762280689.305,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-84yGSt6qdu"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-84yGSt6qdu\",\"pageUri\":\"pages/section-84yGSt6qdu\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-84yGSt6qdu/formulas/f-byIwwaFdaa\",\"name\":\"##_hidden_control_## 2\",\"canvasUri\":\"canvases/canvas-84yGSt6qdu\",\"pageUri\":\"pages/section-84yGSt6qdu\",\"value\":{\"type\":\"ref\",\"objectId\":\"grid-O8e6yxDvz5\",\"identifier\":\"i-AbpJvSahk0\",\"name\":\"3/13/2024\"},\"formula\":\"[3/13/2024]\"},{\"formulaUri\":\"canvases/canvas-84yGSt6qdu/formulas/f-9ttZ426-gV\",\"name\":\"##_hidden_control_## 39\",\"canvasUri\":\"canvases/canvas-84yGSt6qdu\",\"pageUri\":\"pages/section-84yGSt6qdu\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1271333\",\"name\":\"kirby urner\"},\"formula\":\"[kirby urner]\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

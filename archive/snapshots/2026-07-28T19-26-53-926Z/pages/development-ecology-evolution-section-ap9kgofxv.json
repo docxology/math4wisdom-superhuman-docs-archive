@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-AP9Kgofxv_",
+      "commentThreads": [],
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_sugofxv_](https://coda.io/d/_d0SvdI3KSto/_sugofxv_) — EcoEvoDevo — describing the nested timescales of analysis and change.\n\nFrom faster/smaller to the slower/larger\n\n- Intra-generational\n\n  - Behavioral (perception-action inference, attention, learning). \n\n  - Development (synaptic, morphological)\n\n- Ecological dynamics\n\n- Inter-generational\n\n- \n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-AP9Kgofxv_",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-AP9Kgofxv_",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-AP9Kgofxv_",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-AP9Kgofxv_",
+    "canvasUri": "canvases/canvas-AP9Kgofxv_",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1713374821.815,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "forest",
+    "isHidden": false,
+    "pageId": "section-AP9Kgofxv_",
+    "pageType": "canvas",
+    "pageUri": "pages/section-AP9Kgofxv_",
+    "parentPageUri": "pages/section-zBChxYHdB8",
+    "position": 54,
+    "subtitle": "",
+    "title": "Development, Ecology, Evolution",
+    "updatedAt": 1713975384.768,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-AP9Kgofxv_",
+    "canvasUri": "canvases/canvas-AP9Kgofxv_",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1713374821.815,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "forest",
+    "isHidden": false,
+    "pageId": "section-AP9Kgofxv_",
+    "pageType": "canvas",
+    "pageUri": "pages/section-AP9Kgofxv_",
+    "parentPageUri": "pages/section-zBChxYHdB8",
+    "position": 54,
+    "subtitle": "",
+    "title": "Development, Ecology, Evolution",
+    "updatedAt": 1713975384.768,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

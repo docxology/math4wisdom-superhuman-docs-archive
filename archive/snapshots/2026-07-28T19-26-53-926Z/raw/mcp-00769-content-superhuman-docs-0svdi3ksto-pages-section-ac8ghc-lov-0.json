@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-aC8gHc-Lov"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-aC8gHc-Lov\",\"pageUri\":\"pages/section-aC8gHc-Lov\",\"content\":\"[https://tensegritywiki.com/index.php?title=De_Jong,_Gerald](https://tensegritywiki.com/index.php?title=De_Jong,_Gerald)\\n\\n[https://www.youtube.com/user/geralddejong](https://www.youtube.com/user/geralddejong)\\n\\n[https://pretenst.com/software/2021/03/01/eig.html](https://pretenst.com/software/2021/03/01/eig.html)\\n\\n[https://github.com/elastic-interval/pretenst](https://github.com/elastic-interval/pretenst)\\n\\nhttps://www.youtube.com/watch?v=pq1ru6VZ5rM\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

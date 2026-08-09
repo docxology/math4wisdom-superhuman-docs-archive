@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-x5RkF26nFn",
+      "commentThreads": [],
+      "content": "Symmetry, Space/Time. \n\nCharge +/-. \n\nThe groups pull together a Circle (1D like a line embedded in 2D), and 2 on/off switches. \n\nPattern Language; Recurring activity → Structure → Activity\n\nCircle as recurring activity. Two on/off switches and sub-groups. \n\nEvery pattern with a Context.",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-x5RkF26nFn",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-x5RkF26nFn",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-x5RkF26nFn",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-x5RkF26nFn",
+    "canvasUri": "canvases/canvas-x5RkF26nFn",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-7sJrIMigrj",
+        "canvasUri": "canvases/canvas-7sJrIMigrj",
+        "pageId": "section-7sJrIMigrj",
+        "pageUri": "pages/section-7sJrIMigrj",
+        "title": "Qubit Onion"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1713373740.516,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "gyroscope",
+    "isHidden": false,
+    "pageId": "section-x5RkF26nFn",
+    "pageType": "canvas",
+    "pageUri": "pages/section-x5RkF26nFn",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 53,
+    "subtitle": "",
+    "title": "Quantum",
+    "updatedAt": 1727188745.161,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-x5RkF26nFn",
+    "canvasUri": "canvases/canvas-x5RkF26nFn",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-7sJrIMigrj",
+        "canvasUri": "canvases/canvas-7sJrIMigrj",
+        "pageId": "section-7sJrIMigrj",
+        "pageUri": "pages/section-7sJrIMigrj",
+        "title": "Qubit Onion"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1713373740.516,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "gyroscope",
+    "isHidden": false,
+    "pageId": "section-x5RkF26nFn",
+    "pageType": "canvas",
+    "pageUri": "pages/section-x5RkF26nFn",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 53,
+    "subtitle": "",
+    "title": "Quantum",
+    "updatedAt": 1727188745.161,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

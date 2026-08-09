@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-otrP5aA4ke"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-otrP5aA4ke\",\"canvasId\":\"canvas-otrP5aA4ke\",\"title\":\"Epistemology of Statistics\",\"canvasUri\":\"canvases/canvas-otrP5aA4ke\",\"childPageOutlines\":[{\"pageId\":\"section-gZusHQAYwy\",\"canvasId\":\"canvas-gZusHQAYwy\",\"title\":\"Statistical and Neural Classifiers\",\"canvasUri\":\"canvases/canvas-gZusHQAYwy\",\"pageUri\":\"pages/section-gZusHQAYwy\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-otrP5aA4ke\",\"parentPageUri\":\"pages/section-uSo6iw4kE2\",\"position\":68,\"icon\":\"call-statistics\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1716997706.526,\"updatedAt\":1717504426.374,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":2953483,\"name\":\"Andrius Kulikauskas\",\"email\":\"math4wisdom@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

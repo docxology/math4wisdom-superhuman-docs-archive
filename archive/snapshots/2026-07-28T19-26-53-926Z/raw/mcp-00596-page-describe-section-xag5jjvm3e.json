@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-xAG5jjvM3E"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-xAG5jjvM3E\",\"canvasId\":\"canvas-xAG5jjvM3E\",\"title\":\"Inquiry\",\"canvasUri\":\"canvases/canvas-xAG5jjvM3E\",\"childPageOutlines\":[{\"pageId\":\"section-wfKcH1F8iL\",\"canvasId\":\"canvas-wfKcH1F8iL\",\"title\":\"What are the enabling conditions for symbolic coherence?\",\"canvasUri\":\"canvases/canvas-wfKcH1F8iL\",\"pageUri\":\"pages/section-wfKcH1F8iL\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-xAG5jjvM3E\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":56,\"icon\":\"detective\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1713534629.925,\"updatedAt\":1741471124.248,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-5uzpflX5za",
+      "commentThreads": [],
+      "content": "[http://www.rwgrayprojects.com/synergetics/synergetics.html](http://www.rwgrayprojects.com/synergetics/synergetics.html)\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-5uzpflX5za",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-5uzpflX5za",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-5uzpflX5za",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-5uzpflX5za",
+    "canvasUri": "canvases/canvas-5uzpflX5za",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1755009618.486,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "bowler-hat",
+    "isHidden": false,
+    "pageId": "section-5uzpflX5za",
+    "pageType": "canvas",
+    "pageUri": "pages/section-5uzpflX5za",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 226,
+    "subtitle": "",
+    "title": "Bob Gray",
+    "updatedAt": 1755009643.05,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-5uzpflX5za",
+    "canvasUri": "canvases/canvas-5uzpflX5za",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1755009618.486,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "bowler-hat",
+    "isHidden": false,
+    "pageId": "section-5uzpflX5za",
+    "pageType": "canvas",
+    "pageUri": "pages/section-5uzpflX5za",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 226,
+    "subtitle": "",
+    "title": "Bob Gray",
+    "updatedAt": 1755009643.05,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

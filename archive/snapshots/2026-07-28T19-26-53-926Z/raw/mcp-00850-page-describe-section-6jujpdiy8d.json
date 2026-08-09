@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-6juJPdiY8D"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-6juJPdiY8D\",\"canvasId\":\"canvas-6juJPdiY8D\",\"title\":\"Wisdom\",\"canvasUri\":\"canvases/canvas-6juJPdiY8D\",\"childPageOutlines\":[{\"pageId\":\"section-cI0NhwNl0R\",\"canvasId\":\"canvas-cI0NhwNl0R\",\"title\":\"Sri Aurobindo\",\"canvasUri\":\"canvases/canvas-cI0NhwNl0R\",\"pageUri\":\"pages/section-cI0NhwNl0R\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-6juJPdiY8D\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":19,\"icon\":\"star-of-bethlehem\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708284143.026,\"updatedAt\":1713376426.764,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1271333,\"name\":\"kirby urner\",\"email\":\"kirby.urner@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 200,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-4-fi8GTZ6-"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-4-fi8GTZ6-\",\"pageUri\":\"pages/section-4-fi8GTZ6-\",\"content\":\"\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-4-fi8GTZ6-\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-C-I0l5PHOC\",\"createdAt\":1745180989.314,\"reactions\":[],\"text\":\"kirby urner see here for Ben’s response, we can discuss on Wednesday. \",\"userId\":1119613}],\"pageUri\":\"pages/section-4-fi8GTZ6-\",\"reference\":{\"type\":\"text\",\"text\":\"response on 4/20/2025\"},\"state\":\"Resolved\",\"threadUri\":\"threads/r-XnLpy4559s\"},{\"canvasUri\":\"canvases/canvas-4-fi8GTZ6-\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-RuzUczdb3e\",\"createdAt\":1744934932.076,\"reactions\":[],\"text\":\"kirby urner here is response from /_su8GTZ6- today. Could you provide some response/thought? As stand-alone paragraph, possibly linking to any relevant repo/post. Or could be in a different color here, and I could link him to this page. \",\"userId\":1119613},{\"authorEmail\":\"kirby.urner@gmail.com\",\"authorName\":\"kirby urner\",\"commentUri\":\"comments/i-AbAm36PiGN\",\"createdAt\":1744977188.909,\"reactions\":[],\"text\":\"I’ve added more details regarding the IVM (= CCP = FCC)\",\"userId\":1271333},{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-4dIKSYjJ0C\",\"createdAt\":1744983569.223,\"reactions\":[],\"text\":\"Thank you \",\"userId\":1119613},{\"authorEmail\":\"kirby.urner@gmail.com\",\"authorName\":\"kirby urner\",\"commentUri\":\"comments/i-Z2O4DjGgzZ\",\"createdAt\":1744988860.109,\"reactions\":[],\"text\":\"FYI, I appended some more graphics and notes tying in Quadrays.\",\"userId\":1271333}],\"pageUri\":\"pages/section-4-fi8GTZ6-\",\"reference\":{\"type\":\"text\",\"text\":\"4-17-2025\"},\"state\":\"Resolved\",\"threadUri\":\"threads/r-79CFVDmUxL\"},{\"canvasUri\":\"canvases/canvas-4-fi8GTZ6-\",\"comments\":[{\"authorEmail\":\"kirby.urner@gmail.com\",\"authorName\":\"kirby urner\",\"commentUri\":\"comments/i-gcQzdtMHjU\",\"createdAt\":1744819782.032,\"reactions\":[],\"text\":\"Inserted this clarifying comment\",\"userId\":1271333},{\"authorEmail\":\"kirby.urner@gmail.com\",\"authorName\":\"kirby urner\",\"commentUri\":\"comments/i-vtPxFFVBz7\",\"createdAt\":1744819798.465,\"reactions\":[{\"reaction\":\"👍\",\"userIds\":[1119613]}],\"text\":\"Daniel Ari Friedman \",\"userId\":1271333}],\"pageUri\":\"pages/section-4-fi8GTZ6-\",\"reference\":{\"type\":\"text\",\"text\":\"[Kirby correction: each concentric shell of 1, 12, 42, 92... balls is cuboctahedron-shaped; the polyhedron encasing each individual ball is rhombic dodecahedron shaped — which could be the single cell shape used ]\"},\"state\":\"Active\",\"threadUri\":\"threads/r-NXFk1BvaMT\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

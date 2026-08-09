@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-_cPWtA0e57",
+      "commentThreads": [],
+      "content": "Crescent City Cognitive Security\n\nIntelligence & Vigilance\n\n<columns>\n[https://coda.io/d/_d0SvdI3KSto/_sue_CQH-](https://coda.io/d/_d0SvdI3KSto/_sue_CQH-) [https://coda.io/d/_d0SvdI3KSto/_suQ4-6WX](https://coda.io/d/_d0SvdI3KSto/_suQ4-6WX) \n\n|||\n\n\n\n|||\n\n\n\n|||\n\n\n</columns>\n\n<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-_cPWtA0e57",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-_cPWtA0e57",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-_cPWtA0e57",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-_cPWtA0e57",
+    "canvasUri": "canvases/canvas-_cPWtA0e57",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas--FEr7Iyov4",
+        "canvasUri": "canvases/canvas--FEr7Iyov4",
+        "pageId": "section--FEr7Iyov4",
+        "pageUri": "pages/section--FEr7Iyov4",
+        "title": "BLAKE-SEC"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1737650888.446,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "waxing-crescent",
+    "isHidden": false,
+    "pageId": "section-_cPWtA0e57",
+    "pageType": "canvas",
+    "pageUri": "pages/section-_cPWtA0e57",
+    "parentPageUri": "pages/section-uUbHYih-tF",
+    "position": 138,
+    "subtitle": "",
+    "title": "Crescent City CogSec",
+    "updatedAt": 1767037495.492,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-_cPWtA0e57",
+    "canvasUri": "canvases/canvas-_cPWtA0e57",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas--FEr7Iyov4",
+        "canvasUri": "canvases/canvas--FEr7Iyov4",
+        "pageId": "section--FEr7Iyov4",
+        "pageUri": "pages/section--FEr7Iyov4",
+        "title": "BLAKE-SEC"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1737650888.446,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "waxing-crescent",
+    "isHidden": false,
+    "pageId": "section-_cPWtA0e57",
+    "pageType": "canvas",
+    "pageUri": "pages/section-_cPWtA0e57",
+    "parentPageUri": "pages/section-uUbHYih-tF",
+    "position": 138,
+    "subtitle": "",
+    "title": "Crescent City CogSec",
+    "updatedAt": 1767037495.492,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

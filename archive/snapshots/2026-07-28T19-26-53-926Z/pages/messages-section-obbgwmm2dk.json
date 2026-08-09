@@ -1,0 +1,330 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-OBbGWmM2DK",
+      "commentThreads": [],
+      "content": "Andrius: Please <formula id=\"f-6nFhKZgqOW\">Daniel Ari Friedman</formula> could you create two pages:\n\n- Andrius First Mind Bike Trip [https://coda.io/d/_d0SvdI3KSto/_suNhhADW](https://coda.io/d/_d0SvdI3KSto/_suNhhADW) \n\n- Andrius Applied Active Inference 2024 [https://coda.io/d/_d0SvdI3KSto/_suPtUBEr](https://coda.io/d/_d0SvdI3KSto/_suPtUBEr) \n\nI want to work on my abstract at the latter page.  Thank you!  \n<formula id=\"f-9JTCEpMGVW\">Andrius Kulikauskas</formula> I made these above, we can move them as needed ~ \n\n\n\n\n\n\n\n\n\n**Earlier message**\n\n---\n\n---\n\n<formula id=\"f-oGVNu8H9Fz\">Daniel Ari Friedman</formula> Andrius (July 8): I look forward to talking with you tomorrow. I am interested to talk about [my letter](https://www.freelists.org/post/math4wisdom/Reflecting-on-Math-4-Wisdom-and-Taking-a-Stand) and a vision you may have about knowledge engineering and knowledge math regarding Math 4 Wisdom, perhaps working together with Islam Hakim. I am also interested in how Wondrous Wisdom could be meaningful in bridging Active Inference with all manner of thinkers. I need to learn more about Active Inference myself.\n\n- Thank you <formula id=\"f-YQNcSDGCKY\">Andrius Kulikauskas</formula>, added some comments for tomorrow [https://coda.io/d/_d0SvdI3KSto/_su0opxmi](https://coda.io/d/_d0SvdI3KSto/_su0opxmi). \n\n<formula id=\"f-BoKqqW6Oop\">Daniel Ari Friedman</formula> Andrius (June 12): I hope your travels are going well.  I am learning profound ideas from the lectures by Chris Fields on Physics as Information Processing.  In Lecture 1, at around [43:26](https://www.youtube.com/live/RpOrRw4EhTo?si=RtJO9K-bvv3zFyXk&t=2606), he talks about time, relative to an observer, as the number of bits across a boundary.  That reminded me of the foraging ants you and your advisor studied, how they tracked the number of interactions per time with other ants.  So I wanted to tell you that.\n\nHello <formula id=\"f-Je0t82C4M4\">Andrius Kulikauskas</formula>, thank you for the message. This is awesome to hear — totally agreed about the “*inferring time through counting discrete interactions*” concept of Chris Fields. The could-be forager in the nest lobby, is counting the (rate of) interactions with incoming foragers. Given my memory/history of interactions, it “*time to forage*”? That has been modeled in terms of a leaky integrator / excitable system. Lots of cool ways to go there, for example possible to include some of these quantum clock & emergent space-time geometries, into the [Active InferAnts](https://github.com/ActiveInferenceInstitute/ActiveInferAnts) package. \n\nOther than this, I am having a great time in Washington DC at the [ISSS conference](https://www.isss.org/home/) and seeing other sights. When I get the pictures off my camera, I will share some here. \n\nLooking forward to returning home & next interactions/works.\n\nTalk to you later,\n\nDaniel (June 12, 2024). \n\n<formula id=\"f-Vztnw3Rf4-\">Daniel Ari Friedman</formula> I look forward to talking with you tomorrow. I am curious what you would like to talk about.\n\nI have made great progress connecting Bott periodicity with the divisions of everything, perspectives, shifts in perspective, the three minds and so on.  I am wondering how to prepare an abstract about that so I look to your thoughts, in general, how I could connect to the academic community.\n\nI think it would be meaningful for me to learn active inference and translate Wondrous Wisdom into that language.  I appreciate your help with that.\n\nI linked to the ISSS conference from our news bar at [http://www.math](http://www.math)[4wisdom.com](4wisdom.com)  Good to see you heard and appreciated!\n\nA few days ago I noticed for the first time that my mysterious mound did indeed have tiny ants coming out of some its holes.\n\nhttps://www.math4wisdom.com/files/KupstoSkruzdes.jpg\n\nhttps://www.math4wisdom.com/files/KupstoSkruzdes.mp4\n\nhttps://www.math4wisdom.com/files/AndriusAntColony.jpg\n\nMy forest ants are also doing well. Their nest is growing.  Andrius (June 17)",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-BoKqqW6Oop",
+          "name": "##_hidden_control_## 15",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        },
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Andrius Kulikauskas]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-Je0t82C4M4",
+          "name": "##_hidden_control_## 16",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-2953483",
+            "name": "Andrius Kulikauskas",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        },
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-Vztnw3Rf4-",
+          "name": "##_hidden_control_## 20",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        },
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-oGVNu8H9Fz",
+          "name": "##_hidden_control_## 29",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        },
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Andrius Kulikauskas]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-YQNcSDGCKY",
+          "name": "##_hidden_control_## 30",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-2953483",
+            "name": "Andrius Kulikauskas",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        },
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-6nFhKZgqOW",
+          "name": "##_hidden_control_## 41",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        },
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Andrius Kulikauskas]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-9JTCEpMGVW",
+          "name": "##_hidden_control_## 42",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-2953483",
+            "name": "Andrius Kulikauskas",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-OBbGWmM2DK",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-OBbGWmM2DK",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-BoKqqW6Oop",
+          "name": "##_hidden_control_## 15",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        },
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Andrius Kulikauskas]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-Je0t82C4M4",
+          "name": "##_hidden_control_## 16",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-2953483",
+            "name": "Andrius Kulikauskas",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        },
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-Vztnw3Rf4-",
+          "name": "##_hidden_control_## 20",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        },
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-oGVNu8H9Fz",
+          "name": "##_hidden_control_## 29",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        },
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Andrius Kulikauskas]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-YQNcSDGCKY",
+          "name": "##_hidden_control_## 30",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-2953483",
+            "name": "Andrius Kulikauskas",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        },
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-6nFhKZgqOW",
+          "name": "##_hidden_control_## 41",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        },
+        {
+          "canvasUri": "canvases/canvas-OBbGWmM2DK",
+          "formula": "[Andrius Kulikauskas]",
+          "formulaUri": "canvases/canvas-OBbGWmM2DK/formulas/f-9JTCEpMGVW",
+          "name": "##_hidden_control_## 42",
+          "pageUri": "pages/section-OBbGWmM2DK",
+          "value": {
+            "identifier": "i-2953483",
+            "name": "Andrius Kulikauskas",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-OBbGWmM2DK",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-OBbGWmM2DK",
+    "canvasUri": "canvases/canvas-OBbGWmM2DK",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-sEoh_FCkiT",
+        "canvasUri": "canvases/canvas-sEoh_FCkiT",
+        "pageId": "section-sEoh_FCkiT",
+        "pageUri": "pages/section-sEoh_FCkiT",
+        "title": "Experimental Messages Interface"
+      },
+      {
+        "canvasId": "canvas-j6DKz5la1b",
+        "canvasUri": "canvases/canvas-j6DKz5la1b",
+        "pageId": "section-j6DKz5la1b",
+        "pageUri": "pages/section-j6DKz5la1b",
+        "title": "John Harland in Lithuania"
+      },
+      {
+        "canvasId": "canvas-jIWSNhhADW",
+        "canvasUri": "canvases/canvas-jIWSNhhADW",
+        "pageId": "section-jIWSNhhADW",
+        "pageUri": "pages/section-jIWSNhhADW",
+        "title": "First Mind Bike Trip"
+      },
+      {
+        "canvasId": "canvas-wFeDPtUBEr",
+        "canvasUri": "canvases/canvas-wFeDPtUBEr",
+        "pageId": "section-wFeDPtUBEr",
+        "pageUri": "pages/section-wFeDPtUBEr",
+        "title": "Andrius Applied Active Inference 2024"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1713479765.622,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "message-group",
+    "isHidden": false,
+    "pageId": "section-OBbGWmM2DK",
+    "pageType": "canvas",
+    "pageUri": "pages/section-OBbGWmM2DK",
+    "parentPageUri": "pages/section-VVxywlf3Jt",
+    "position": 55,
+    "subtitle": "",
+    "title": "Messages",
+    "updatedAt": 1726236375.969,
+    "updatedBy": {
+      "email": "math4wisdom@gmail.com",
+      "name": "Andrius Kulikauskas",
+      "userId": 2953483
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-OBbGWmM2DK",
+    "canvasUri": "canvases/canvas-OBbGWmM2DK",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-sEoh_FCkiT",
+        "canvasUri": "canvases/canvas-sEoh_FCkiT",
+        "pageId": "section-sEoh_FCkiT",
+        "pageUri": "pages/section-sEoh_FCkiT",
+        "title": "Experimental Messages Interface"
+      },
+      {
+        "canvasId": "canvas-j6DKz5la1b",
+        "canvasUri": "canvases/canvas-j6DKz5la1b",
+        "pageId": "section-j6DKz5la1b",
+        "pageUri": "pages/section-j6DKz5la1b",
+        "title": "John Harland in Lithuania"
+      },
+      {
+        "canvasId": "canvas-jIWSNhhADW",
+        "canvasUri": "canvases/canvas-jIWSNhhADW",
+        "pageId": "section-jIWSNhhADW",
+        "pageUri": "pages/section-jIWSNhhADW",
+        "title": "First Mind Bike Trip"
+      },
+      {
+        "canvasId": "canvas-wFeDPtUBEr",
+        "canvasUri": "canvases/canvas-wFeDPtUBEr",
+        "pageId": "section-wFeDPtUBEr",
+        "pageUri": "pages/section-wFeDPtUBEr",
+        "title": "Andrius Applied Active Inference 2024"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1713479765.622,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "message-group",
+    "isHidden": false,
+    "pageId": "section-OBbGWmM2DK",
+    "pageType": "canvas",
+    "pageUri": "pages/section-OBbGWmM2DK",
+    "parentPageUri": "pages/section-VVxywlf3Jt",
+    "position": 55,
+    "subtitle": "",
+    "title": "Messages",
+    "updatedAt": 1726236375.969,
+    "updatedBy": {
+      "email": "math4wisdom@gmail.com",
+      "name": "Andrius Kulikauskas",
+      "userId": 2953483
+    }
+  }
+}

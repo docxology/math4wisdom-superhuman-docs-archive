@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-zBChxYHdB8"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-zBChxYHdB8\",\"canvasId\":\"canvas-zBChxYHdB8\",\"title\":\"Biology\",\"canvasUri\":\"canvases/canvas-zBChxYHdB8\",\"childPageOutlines\":[{\"pageId\":\"section-Cs9A2w6nPA\",\"canvasId\":\"canvas-Cs9A2w6nPA\",\"title\":\"Entomology\",\"canvasUri\":\"canvases/canvas-Cs9A2w6nPA\",\"pageUri\":\"pages/section-Cs9A2w6nPA\"},{\"pageId\":\"section-G5EWGLGI6n\",\"canvasId\":\"canvas-G5EWGLGI6n\",\"title\":\"Ants\",\"canvasUri\":\"canvases/canvas-G5EWGLGI6n\",\"pageUri\":\"pages/section-G5EWGLGI6n\"},{\"pageId\":\"section-wQ4uMEu9L_\",\"canvasId\":\"canvas-wQ4uMEu9L_\",\"title\":\"Ants & Media\",\"canvasUri\":\"canvases/canvas-wQ4uMEu9L_\",\"pageUri\":\"pages/section-wQ4uMEu9L_\"},{\"pageId\":\"section-AP9Kgofxv_\",\"canvasId\":\"canvas-AP9Kgofxv_\",\"title\":\"Development, Ecology, Evolution\",\"canvasUri\":\"canvases/canvas-AP9Kgofxv_\",\"pageUri\":\"pages/section-AP9Kgofxv_\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-zBChxYHdB8\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":50,\"icon\":\"biology-book\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1713365352.287,\"updatedAt\":1779884551.034,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

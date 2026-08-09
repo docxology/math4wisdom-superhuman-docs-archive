@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-ff441nmfT1"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-ff441nmfT1\",\"canvasId\":\"canvas-ff441nmfT1\",\"title\":\"R. Buckminster Fuller\",\"canvasUri\":\"canvases/canvas-ff441nmfT1\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-ff441nmfT1\",\"parentPageUri\":\"pages/section-SXXoQWY5DS\",\"position\":81,\"icon\":\"r\",\"subtitle\":\"A 20th Century Philosopher\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1721829917.396,\"updatedAt\":1736980244.287,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

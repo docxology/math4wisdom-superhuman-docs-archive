@@ -1,0 +1,16 @@
+{
+  "arguments": {
+    "rowLimit": 100,
+    "rowOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/tables/grid-ye3_3aTyhr"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"table_rows_read\",\"result\":{\"rows\":[{\"rowId\":\"i-H4Fd05auaH\",\"values\":{\"c-eYMo9H7TQG\":{\"value\":\"Tetrahedra\"},\"c-zF7F7V7g5R\":{\"value\":\"Foureyes\"},\"c-Urv3aiT7pE\":{\"value\":\"Tetrahedra\"},\"c-rYg680hlel\":{\"value\":{\"type\":\"canvas\",\"canvasUri\":\"canvases/grid-ye3_3aTyhr::i-H4Fd05auaH::c-rYg680hlel\"}}}},{\"rowId\":\"i-VCF454boBs\",\"values\":{\"c-eYMo9H7TQG\":{\"value\":\"Jitterbug\"},\"c-zF7F7V7g5R\":{\"value\":\"\"},\"c-Urv3aiT7pE\":{\"value\":\"\"},\"c-rYg680hlel\":{\"value\":{\"type\":\"canvas\",\"canvasUri\":\"canvases/grid-ye3_3aTyhr::i-VCF454boBs::c-rYg680hlel\"}}}},{\"rowId\":\"i-AHxBhcNM2r\",\"values\":{\"c-eYMo9H7TQG\":{\"value\":\"..\"},\"c-zF7F7V7g5R\":{\"value\":\"\"},\"c-Urv3aiT7pE\":{\"value\":\"\"},\"c-rYg680hlel\":{\"value\":{\"type\":\"canvas\",\"canvasUri\":\"canvases/grid-ye3_3aTyhr::i-AHxBhcNM2r::c-rYg680hlel\"}}}},{\"rowId\":\"i-1xzYmN0qy5\",\"values\":{\"c-eYMo9H7TQG\":{\"value\":\"\"},\"c-zF7F7V7g5R\":{\"value\":\"\"},\"c-Urv3aiT7pE\":{\"value\":\"\"},\"c-rYg680hlel\":{\"value\":{\"type\":\"canvas\",\"canvasUri\":\"canvases/grid-ye3_3aTyhr::i-1xzYmN0qy5::c-rYg680hlel\"}}}}],\"hasMore\":false,\"totalRows\":4}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "table_rows_read"
+}

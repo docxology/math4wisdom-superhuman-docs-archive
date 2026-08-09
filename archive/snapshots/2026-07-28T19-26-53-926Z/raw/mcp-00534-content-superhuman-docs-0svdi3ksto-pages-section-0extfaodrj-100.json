@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-0ExtFaOdRJ"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-0ExtFaOdRJ\",\"pageUri\":\"pages/section-0ExtFaOdRJ\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-0ExtFaOdRJ/formulas/f-uYtqe4CtVG\",\"name\":\"##_hidden_control_## 18\",\"canvasUri\":\"canvases/canvas-0ExtFaOdRJ\",\"pageUri\":\"pages/section-0ExtFaOdRJ\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1271333\",\"name\":\"kirby urner\"},\"formula\":\"[kirby urner]\"},{\"formulaUri\":\"canvases/canvas-0ExtFaOdRJ/formulas/f-rPro0qaqPt\",\"name\":\"##_hidden_control_## 19\",\"canvasUri\":\"canvases/canvas-0ExtFaOdRJ\",\"pageUri\":\"pages/section-0ExtFaOdRJ\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"},{\"formulaUri\":\"canvases/canvas-0ExtFaOdRJ/formulas/f-H44SqKAi7F\",\"name\":\"##_hidden_control_## 22\",\"canvasUri\":\"canvases/canvas-0ExtFaOdRJ\",\"pageUri\":\"pages/section-0ExtFaOdRJ\",\"value\":{\"type\":\"ref\",\"objectId\":\"grid-neeyDLw2ig\",\"identifier\":\"i-GxhiBofCQt\",\"name\":\"KU\"},\"formula\":\"KU\"}],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-0ExtFaOdRJ\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-5PZrJdAzy-\",\"createdAt\":1718588635.123,\"reactions\":[],\"text\":\"Andrius Kulikauskas may be interested in this closing quotation (go to top of page for context). \",\"userId\":1119613}],\"pageUri\":\"pages/section-0ExtFaOdRJ\",\"reference\":{\"type\":\"text\",\"text\":\"This feature, which is so highly developed in man, and which we call plasticity of behavior when we look at it from outside, is called the freedom of the will when we look at it from inside.\"},\"state\":\"Active\",\"threadUri\":\"threads/r-X6XPJ1zmKO\"},{\"canvasUri\":\"canvases/canvas-0ExtFaOdRJ\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-VwCYObP37W\",\"createdAt\":1718588466.56,\"reactions\":[],\"text\":\"Ed went there! \",\"userId\":1119613}],\"pageUri\":\"pages/section-0ExtFaOdRJ\",\"reference\":{\"type\":\"text\",\"text\":\"The psychology of ants?\"},\"state\":\"Active\",\"threadUri\":\"threads/r-Ej7eT8MUTi\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

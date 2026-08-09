@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-8I4S618O5l"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-8I4S618O5l\",\"canvasId\":\"canvas-8I4S618O5l\",\"title\":\"Wondrous Wisdom\",\"canvasUri\":\"canvases/canvas-8I4S618O5l\",\"childPageOutlines\":[{\"pageId\":\"section-5uQKRqOPnN\",\"canvasId\":\"canvas-5uQKRqOPnN\",\"title\":\"Three Minds\",\"canvasUri\":\"canvases/canvas-5uQKRqOPnN\",\"pageUri\":\"pages/section-5uQKRqOPnN\"},{\"pageId\":\"section-ShqtvoHLkC\",\"canvasId\":\"canvas-ShqtvoHLkC\",\"title\":\"Ways of Figuring Things out\",\"canvasUri\":\"canvases/canvas-ShqtvoHLkC\",\"pageUri\":\"pages/section-ShqtvoHLkC\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-8I4S618O5l\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":46,\"icon\":\"w\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1713277234.814,\"updatedAt\":1717271106.191,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

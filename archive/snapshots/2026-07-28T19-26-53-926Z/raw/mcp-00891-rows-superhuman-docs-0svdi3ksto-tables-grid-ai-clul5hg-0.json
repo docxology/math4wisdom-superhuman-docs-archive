@@ -1,0 +1,16 @@
+{
+  "arguments": {
+    "rowLimit": 100,
+    "rowOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/tables/grid-aI-CluL5hg"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"table_rows_read\",\"result\":{\"rows\":[{\"rowId\":\"i-FyctrCQd8m\",\"values\":{\"c-gvBtD8cz1h\":{\"value\":\"\"},\"c-EpJy1yymth\":{\"value\":\"\"},\"c-k9RF288bb9\":{\"value\":\"\"},\"c-o7dApA1DE3\":{\"value\":{\"type\":\"canvas\",\"canvasUri\":\"canvases/grid-aI-CluL5hg::i-FyctrCQd8m::c-o7dApA1DE3\"}}}},{\"rowId\":\"i-2Ehkev7_Jt\",\"values\":{\"c-gvBtD8cz1h\":{\"value\":\"\"},\"c-EpJy1yymth\":{\"value\":\"\"},\"c-k9RF288bb9\":{\"value\":\"\"},\"c-o7dApA1DE3\":{\"value\":{\"type\":\"canvas\",\"canvasUri\":\"canvases/grid-aI-CluL5hg::i-2Ehkev7_Jt::c-o7dApA1DE3\"}}}},{\"rowId\":\"i-Wb_e4XeS9v\",\"values\":{\"c-gvBtD8cz1h\":{\"value\":\"\"},\"c-EpJy1yymth\":{\"value\":\"\"},\"c-k9RF288bb9\":{\"value\":\"\"},\"c-o7dApA1DE3\":{\"value\":{\"type\":\"canvas\",\"canvasUri\":\"canvases/grid-aI-CluL5hg::i-Wb_e4XeS9v::c-o7dApA1DE3\"}}}}],\"hasMore\":false,\"totalRows\":3}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "table_rows_read"
+}

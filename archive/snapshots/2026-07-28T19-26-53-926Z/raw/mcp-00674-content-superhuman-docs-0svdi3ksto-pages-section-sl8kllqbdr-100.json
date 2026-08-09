@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-SL8kLlqbdr"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-SL8kLlqbdr\",\"pageUri\":\"pages/section-SL8kLlqbdr\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-SL8kLlqbdr/formulas/f-T46BvNQQIW\",\"name\":\"##_hidden_control_## 77\",\"canvasUri\":\"canvases/canvas-SL8kLlqbdr\",\"pageUri\":\"pages/section-SL8kLlqbdr\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1271333\",\"name\":\"kirby urner\"},\"formula\":\"[kirby urner]\"}],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-SL8kLlqbdr\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-NSsaHnGPYA\",\"createdAt\":1767978147.718,\"reactions\":[],\"text\":\"kirby urner just added you to the 4D project page at this site \",\"userId\":1119613}],\"pageUri\":\"pages/section-SL8kLlqbdr\",\"reference\":null,\"state\":\"Resolved\",\"threadUri\":\"threads/r-_-K57151oe\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

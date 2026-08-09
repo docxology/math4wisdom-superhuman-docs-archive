@@ -1,0 +1,388 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-Zl1ljqBh-1",
+      "commentThreads": [],
+      "content": "More information [here](https://www.math4wisdom.com/wiki/Research/TruthAndValues) \n\nPeople table\n\n....... can go into more details and linking, with the the canvas sub-pages Notes, and sections/links to [https://coda.io/d/_d0SvdI3KSto/_suTEdstt](https://coda.io/d/_d0SvdI3KSto/_suTEdstt) etc.\n\n\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-Zl1ljqBh-1",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-Zl1ljqBh-1",
+          "columns": [
+            {
+              "columnId": "c-FI_otmOKMc",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-7JHM5tGm13",
+              "description": null,
+              "error": null,
+              "format": {
+                "display": "IconOnly",
+                "type": "link"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Epistemic Portrait"
+            },
+            {
+              "columnId": "c-KeusetjRK7",
+              "description": null,
+              "error": null,
+              "format": {
+                "display": "IconOnly",
+                "type": "link"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Email"
+            },
+            {
+              "columnId": "c-bCibk-MmvF",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-c077AhjUwi",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Acronym"
+            },
+            {
+              "columnId": "c-ltc7SVLw3N",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Relationship with truth"
+            },
+            {
+              "columnId": "c-oBq7qQUgCX",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Deepest value in life is....."
+            },
+            {
+              "columnId": "c-rVZhR9bElt",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Central way is to...."
+            },
+            {
+              "columnId": "c-OufZNtXXhU",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Starts by......"
+            }
+          ],
+          "name": "People table",
+          "pageUri": "pages/section-Zl1ljqBh-1",
+          "rowCount": 5,
+          "tableUri": "tables/grid-neeyDLw2ig",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-Zl1ljqBh-1",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-FI_otmOKMc",
+                "c-c077AhjUwi",
+                "c-7JHM5tGm13",
+                "c-KeusetjRK7",
+                "c-bCibk-MmvF",
+                "c-ltc7SVLw3N",
+                "c-oBq7qQUgCX",
+                "c-rVZhR9bElt",
+                "c-OufZNtXXhU"
+              ],
+              "pageUri": "pages/section-Zl1ljqBh-1",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-Zl1ljqBh-1/tables/grid-neeyDLw2ig",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-Zl1ljqBh-1/tables/grid-neeyDLw2ig/views/default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "canvasUri": "canvases/canvas-Zl1ljqBh-1",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-Zl1ljqBh-1",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-Zl1ljqBh-1",
+          "columns": [
+            {
+              "columnId": "c-FI_otmOKMc",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Name"
+            },
+            {
+              "columnId": "c-7JHM5tGm13",
+              "description": null,
+              "error": null,
+              "format": {
+                "display": "IconOnly",
+                "type": "link"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Epistemic Portrait"
+            },
+            {
+              "columnId": "c-KeusetjRK7",
+              "description": null,
+              "error": null,
+              "format": {
+                "display": "IconOnly",
+                "type": "link"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Email"
+            },
+            {
+              "columnId": "c-bCibk-MmvF",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-c077AhjUwi",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Acronym"
+            },
+            {
+              "columnId": "c-ltc7SVLw3N",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Relationship with truth"
+            },
+            {
+              "columnId": "c-oBq7qQUgCX",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Deepest value in life is....."
+            },
+            {
+              "columnId": "c-rVZhR9bElt",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Central way is to...."
+            },
+            {
+              "columnId": "c-OufZNtXXhU",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Starts by......"
+            }
+          ],
+          "name": "People table",
+          "pageUri": "pages/section-Zl1ljqBh-1",
+          "rowCount": 5,
+          "tableUri": "tables/grid-neeyDLw2ig",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-Zl1ljqBh-1",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-FI_otmOKMc",
+                "c-c077AhjUwi",
+                "c-7JHM5tGm13",
+                "c-KeusetjRK7",
+                "c-bCibk-MmvF",
+                "c-ltc7SVLw3N",
+                "c-oBq7qQUgCX",
+                "c-rVZhR9bElt",
+                "c-OufZNtXXhU"
+              ],
+              "pageUri": "pages/section-Zl1ljqBh-1",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-Zl1ljqBh-1/tables/grid-neeyDLw2ig",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-Zl1ljqBh-1/tables/grid-neeyDLw2ig/views/default"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-Zl1ljqBh-1",
+    "canvasUri": "canvases/canvas-Zl1ljqBh-1",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1708283187.048,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "classroom",
+    "isHidden": false,
+    "pageId": "section-Zl1ljqBh-1",
+    "pageType": "canvas",
+    "pageUri": "pages/section-Zl1ljqBh-1",
+    "parentPageUri": "pages/section-OJTyxu39sp",
+    "position": 11,
+    "subtitle": "",
+    "title": "People",
+    "updatedAt": 1749562362.196,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-Zl1ljqBh-1",
+    "canvasUri": "canvases/canvas-Zl1ljqBh-1",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1708283187.048,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "classroom",
+    "isHidden": false,
+    "pageId": "section-Zl1ljqBh-1",
+    "pageType": "canvas",
+    "pageUri": "pages/section-Zl1ljqBh-1",
+    "parentPageUri": "pages/section-OJTyxu39sp",
+    "position": 11,
+    "subtitle": "",
+    "title": "People",
+    "updatedAt": 1749562362.196,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

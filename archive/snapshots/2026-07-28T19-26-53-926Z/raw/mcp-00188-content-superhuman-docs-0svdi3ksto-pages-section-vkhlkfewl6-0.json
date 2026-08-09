@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-VkhLkFEWl6"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-VkhLkFEWl6\",\"pageUri\":\"pages/section-VkhLkFEWl6\",\"content\":\"<callout type=\\\"note\\\">\\n### [https://coda.io/d/_d0SvdI3KSto/_suIDMiaB](https://coda.io/d/_d0SvdI3KSto/_suIDMiaB)\\n\\n[https://vimeo.com/460336691](https://vimeo.com/460336691) — [https://coda.io/d/_d0SvdI3KSto/_suFRcHo1](https://coda.io/d/_d0SvdI3KSto/_suFRcHo1) Humanists, Sept 20, 2020 (uploaded Sept 21)  \\nJeff LaLande discusses the reasons for the 160-year-long history of proposed secession movements to separate Southern Oregon and to form a new state with Northern California.\\n\\n-  \\n</callout>\\n\\n\\n\\n<columns>\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suM-62GQ](https://coda.io/d/_d0SvdI3KSto/_suM-62GQ) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suQWY5DS](https://coda.io/d/_d0SvdI3KSto/_suQWY5DS) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

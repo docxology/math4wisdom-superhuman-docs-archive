@@ -1,0 +1,170 @@
+{
+  "descriptor": {
+    "canvasUri": "canvases/canvas-nqw-QtMg3f",
+    "columns": [
+      {
+        "columnId": "c-_zWEj2eBLp",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Field"
+      },
+      {
+        "columnId": "c-IcA0YLh1TI",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Contextuality/Relationality of Raudys' Work"
+      },
+      {
+        "columnId": "c-AdZJVM5YAI",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Differentiating Factors"
+      },
+      {
+        "columnId": "c-69ZKtQs_cb",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Unique Explanations/Predictions/Capacities"
+      }
+    ],
+    "name": "5-24-2024 Perplexity Raudys",
+    "pageUri": "pages/section-nqw-QtMg3f",
+    "rowCount": 3,
+    "tableUri": "tables/grid-mtQeS23APv",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-nqw-QtMg3f",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-_zWEj2eBLp",
+          "c-IcA0YLh1TI",
+          "c-AdZJVM5YAI",
+          "c-69ZKtQs_cb"
+        ],
+        "pageUri": "pages/section-nqw-QtMg3f",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-nqw-QtMg3f/tables/grid-mtQeS23APv",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-nqw-QtMg3f/tables/grid-mtQeS23APv/views/default"
+      }
+    ]
+  },
+  "schema": {
+    "canvasUri": "canvases/canvas-nqw-QtMg3f",
+    "columns": [
+      {
+        "columnId": "c-_zWEj2eBLp",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Field"
+      },
+      {
+        "columnId": "c-IcA0YLh1TI",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Contextuality/Relationality of Raudys' Work"
+      },
+      {
+        "columnId": "c-AdZJVM5YAI",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Differentiating Factors"
+      },
+      {
+        "columnId": "c-69ZKtQs_cb",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Unique Explanations/Predictions/Capacities"
+      }
+    ],
+    "name": "5-24-2024 Perplexity Raudys",
+    "pageUri": "pages/section-nqw-QtMg3f",
+    "rowCount": 3,
+    "tableUri": "tables/grid-mtQeS23APv",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-nqw-QtMg3f",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-_zWEj2eBLp",
+          "c-IcA0YLh1TI",
+          "c-AdZJVM5YAI",
+          "c-69ZKtQs_cb"
+        ],
+        "pageUri": "pages/section-nqw-QtMg3f",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-nqw-QtMg3f/tables/grid-mtQeS23APv",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-nqw-QtMg3f/tables/grid-mtQeS23APv/views/default"
+      }
+    ]
+  },
+  "sourcePages": [
+    "section-nqw-QtMg3f"
+  ],
+  "uri": "superhuman://docs/0SvdI3KSto/tables/grid-mtQeS23APv"
+}

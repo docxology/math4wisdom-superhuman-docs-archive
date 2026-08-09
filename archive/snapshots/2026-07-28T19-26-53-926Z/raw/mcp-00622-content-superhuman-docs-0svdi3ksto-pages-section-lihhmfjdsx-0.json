@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-LIHHMFjDsx"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-LIHHMFjDsx\",\"pageUri\":\"pages/section-LIHHMFjDsx\",\"content\":\"[https://topos.institute/](https://topos.institute/) in Berkeley, CA. September 18-20, 2024.\\n\\n<columns>\\nPoster I made on [https://coda.io/d/_d0SvdI3KSto/_suli3zvK](https://coda.io/d/_d0SvdI3KSto/_suli3zvK) + [https://coda.io/d/_d0SvdI3KSto/_suo0BIkP](https://coda.io/d/_d0SvdI3KSto/_suo0BIkP) \\n\\nDaniel Ari Friedman  Thank you!  I look forward to learning more about the conference. Thank you for the links. Andrius\\n\\n|||\\n\\nGroup for [https://coda.io/d/_d0SvdI3KSto/_suMFjDsx](https://coda.io/d/_d0SvdI3KSto/_suMFjDsx) \\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n- Poly & Yoneda Lemma.\\n  - Yoneda — 4some\\n  - Adjunctions — 6 ways of thinking about divisions. \\n  - Levels of knowledge\\n    - From Observer/Observed, increasing/decreasing slack. \\n- Cube as mnemonic.\\n  - Divisions not interacted with directly. Plucking off the perspective. 4 levels, 3 perspectives to choose from, 12. \\n  - Octahedra too, as dual (equally natural).  \\n- M1 Doing, \\n\\n\\n</columns>\\n\\n\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-LIHHMFjDsx/formulas/f-QMPPXj7qWu\",\"name\":\"##_hidden_control_## 52\",\"canvasUri\":\"canvases/canvas-LIHHMFjDsx\",\"pageUri\":\"pages/section-LIHHMFjDsx\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-aiBaoFNFl6",
+      "commentThreads": [],
+      "content": "[https://www.youtube.com/live/y-kcGgk-DFg](https://www.youtube.com/live/y-kcGgk-DFg)\n\n[https://github.com/docxology/qr_live_protocol](https://github.com/docxology/qr_live_protocol)\n\nA comprehensive system for generating live, verifiable QR codes with cryptographic authentication for livestreaming and official video releases.\n\n  \n\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-aiBaoFNFl6",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-aiBaoFNFl6",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-aiBaoFNFl6",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-aiBaoFNFl6",
+    "canvasUri": "canvases/canvas-aiBaoFNFl6",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1750109479.709,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "paint-bucket-with-qr",
+    "isHidden": false,
+    "pageId": "section-aiBaoFNFl6",
+    "pageType": "canvas",
+    "pageUri": "pages/section-aiBaoFNFl6",
+    "parentPageUri": "pages/section-0w-9GCORpG",
+    "position": 209,
+    "subtitle": "",
+    "title": "QR Live Protocol (QRLP)",
+    "updatedAt": 1750109565.649,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-aiBaoFNFl6",
+    "canvasUri": "canvases/canvas-aiBaoFNFl6",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1750109479.709,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "paint-bucket-with-qr",
+    "isHidden": false,
+    "pageId": "section-aiBaoFNFl6",
+    "pageType": "canvas",
+    "pageUri": "pages/section-aiBaoFNFl6",
+    "parentPageUri": "pages/section-0w-9GCORpG",
+    "position": 209,
+    "subtitle": "",
+    "title": "QR Live Protocol (QRLP)",
+    "updatedAt": 1750109565.649,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

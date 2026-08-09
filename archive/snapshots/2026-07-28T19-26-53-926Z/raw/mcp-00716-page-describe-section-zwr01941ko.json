@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-zWR01941KO"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-zWR01941KO\",\"canvasId\":\"canvas-zWR01941KO\",\"title\":\"QuadCraft\",\"canvasUri\":\"canvases/canvas-zWR01941KO\",\"childPageOutlines\":[{\"pageId\":\"section-nHf_g1O7tY\",\"canvasId\":\"canvas-nHf_g1O7tY\",\"title\":\"5-5-2025\",\"canvasUri\":\"canvases/canvas-nHf_g1O7tY\",\"pageUri\":\"pages/section-nHf_g1O7tY\"},{\"pageId\":\"section-HvR9fUcqO4\",\"canvasId\":\"canvas-HvR9fUcqO4\",\"title\":\"QuadCraft Art\",\"canvasUri\":\"canvases/canvas-HvR9fUcqO4\",\"pageUri\":\"pages/section-HvR9fUcqO4\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-zWR01941KO\",\"parentPageUri\":\"pages/section-SXXoQWY5DS\",\"position\":166,\"icon\":\"surface\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1742421131.795,\"updatedAt\":1770125768.247,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

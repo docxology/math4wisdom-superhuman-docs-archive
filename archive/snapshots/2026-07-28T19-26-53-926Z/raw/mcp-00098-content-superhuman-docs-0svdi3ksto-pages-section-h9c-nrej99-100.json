@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-h9c-nrEj99"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-h9c-nrEj99\",\"pageUri\":\"pages/section-h9c-nrEj99\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-h9c-nrEj99/formulas/f-PEuH4lXFG5\",\"name\":\"##_hidden_control_## 17\",\"canvasUri\":\"canvases/canvas-h9c-nrEj99\",\"pageUri\":\"pages/section-h9c-nrEj99\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"}],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-h9c-nrEj99\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-688YraRFDQ\",\"createdAt\":1717512149.19,\"reactions\":[],\"text\":\"For adding some People, Resources, Questions, Ideas, ~\",\"userId\":1119613}],\"pageUri\":\"pages/section-h9c-nrEj99\",\"reference\":null,\"state\":\"Active\",\"threadUri\":\"threads/r-7NMhIgcXio\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

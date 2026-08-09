@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-fGHXKgl6x3",
+      "commentThreads": [],
+      "content": "<columns>\n\n\n\n\n|||\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n|||\n\n\n\n\n</columns>\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-fGHXKgl6x3",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-fGHXKgl6x3",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-fGHXKgl6x3",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-fGHXKgl6x3",
+    "canvasUri": "canvases/canvas-fGHXKgl6x3",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1778598674.147,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "add-image",
+    "isHidden": false,
+    "pageId": "section-fGHXKgl6x3",
+    "pageType": "canvas",
+    "pageUri": "pages/section-fGHXKgl6x3",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 299,
+    "subtitle": "",
+    "title": "Random Image",
+    "updatedAt": 1778599458.519,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-fGHXKgl6x3",
+    "canvasUri": "canvases/canvas-fGHXKgl6x3",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1778598674.147,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "add-image",
+    "isHidden": false,
+    "pageId": "section-fGHXKgl6x3",
+    "pageType": "canvas",
+    "pageUri": "pages/section-fGHXKgl6x3",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 299,
+    "subtitle": "",
+    "title": "Random Image",
+    "updatedAt": 1778599458.519,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

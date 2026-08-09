@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-5ufYtvQJY8",
+      "commentThreads": [],
+      "content": "<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-5ufYtvQJY8",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-5ufYtvQJY8",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-5ufYtvQJY8",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-5ufYtvQJY8",
+    "canvasUri": "canvases/canvas-5ufYtvQJY8",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1737677082.373,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "nothing-found",
+    "isHidden": false,
+    "pageId": "section-5ufYtvQJY8",
+    "pageType": "canvas",
+    "pageUri": "pages/section-5ufYtvQJY8",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 140,
+    "subtitle": "",
+    "title": "Nothing is beyond our teach",
+    "updatedAt": 1738001124.852,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-5ufYtvQJY8",
+    "canvasUri": "canvases/canvas-5ufYtvQJY8",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1737677082.373,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "nothing-found",
+    "isHidden": false,
+    "pageId": "section-5ufYtvQJY8",
+    "pageType": "canvas",
+    "pageUri": "pages/section-5ufYtvQJY8",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 140,
+    "subtitle": "",
+    "title": "Nothing is beyond our teach",
+    "updatedAt": 1738001124.852,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

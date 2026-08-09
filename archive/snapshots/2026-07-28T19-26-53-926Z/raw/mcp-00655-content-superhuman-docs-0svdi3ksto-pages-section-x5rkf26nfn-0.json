@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-x5RkF26nFn"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-x5RkF26nFn\",\"pageUri\":\"pages/section-x5RkF26nFn\",\"content\":\"Symmetry, Space/Time. \\n\\nCharge +/-. \\n\\nThe groups pull together a Circle (1D like a line embedded in 2D), and 2 on/off switches. \\n\\nPattern Language; Recurring activity → Structure → Activity\\n\\nCircle as recurring activity. Two on/off switches and sub-groups. \\n\\nEvery pattern with a Context.\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

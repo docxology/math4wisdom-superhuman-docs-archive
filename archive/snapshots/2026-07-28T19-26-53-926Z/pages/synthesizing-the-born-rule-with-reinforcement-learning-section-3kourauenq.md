@@ -1,0 +1,100 @@
+# Synthesizing the Born rule with reinforcement learning
+
+# 
+
+5-28-2024
+
+I discovered this paper [https://arxiv.org/abs/2404.19011](https://arxiv.org/abs/2404.19011) via a citation alert. As it shows later down on this page, their discussion section includes a fascinating connection with stigmergy & [https://coda.io/d/_d0SvdI3KSto/_suo0BIkP](https://coda.io/d/_d0SvdI3KSto/_suo0BIkP) [https://coda.io/d/_d0SvdI3KSto/_suGLGI6n](https://coda.io/d/_d0SvdI3KSto/_suGLGI6n). 
+
+I filled out the contact form on the author’s site, we are now in contact & we may have some livestream in the coming months. 
+
+Either way it is motivating/inspiring to learn [https://coda.io/d/_d0SvdI3KSto/_suF26nFn](https://coda.io/d/_d0SvdI3KSto/_suF26nFn) at another level of detail — for example understanding the specific variables/matrices used in this paper, what is the relevance of the Born rule (is it related to [https://coda.io/d/_d0SvdI3KSto/_su_54_O3](https://coda.io/d/_d0SvdI3KSto/_su_54_O3)?), understanding the graphical representation of the Figure 6, and understanding the connections with Bayesian Reinforcement Learning. 
+
+These directions feel relevant as they connect to [https://coda.io/d/_d0SvdI3KSto/_suaIR30W](https://coda.io/d/_d0SvdI3KSto/_suaIR30W), [https://coda.io/d/_d0SvdI3KSto/_suF26nFn](https://coda.io/d/_d0SvdI3KSto/_suF26nFn), emerging statistical lines like from [https://coda.io/d/_d0SvdI3KSto/_suQtMg3f](https://coda.io/d/_d0SvdI3KSto/_suQtMg3f), and of course [https://coda.io/d/_d0SvdI3KSto/_suGLGI6n](https://coda.io/d/_d0SvdI3KSto/_suGLGI6n). Perhaps John could also support/participate in this research area, and recommend background material. 
+
+Daniel 
+
+<formula id="f-6LmcBOHWqm">Daniel Ari Friedman</formula> Thank you for sharing this. John regularly emphasizes the centrality of the Born rule.  Nice to see them cite your paper and reference ants!  Good to know that you are in contact with the author. Andrius
+
+
+
+---
+
+
+
+<columns>
+### **[https://coda.io/d/_d0SvdI3KSto/_suF26nFn](https://coda.io/d/_d0SvdI3KSto/_suF26nFn)** **Physics** *[Submitted on 29 Apr 2024]*
+
+# **Synthesizing the Born rule with reinforcement learning**
+
+[Rodrigo S. Piera](https://arxiv.org/search/quant-ph?searchtype=author&query=Piera,+R+S), [John B. DeBrota](https://arxiv.org/search/quant-ph?searchtype=author&query=DeBrota,+J+B), [Matthew B. Weiss](https://arxiv.org/search/quant-ph?searchtype=author&query=Weiss,+M+B), [Gabriela B. Lemos](https://arxiv.org/search/quant-ph?searchtype=author&query=Lemos,+G+B), [Jailson Sales Araújo](https://arxiv.org/search/quant-ph?searchtype=author&query=Ara%C3%BAjo,+J+S), [Gabriel H. Aguilar](https://arxiv.org/search/quant-ph?searchtype=author&query=Aguilar,+G+H), [Jacques L. Pienaar](https://arxiv.org/search/quant-ph?searchtype=author&query=Pienaar,+J+L)
+
+[https://arxiv.org/abs/2404.19011](https://arxiv.org/abs/2404.19011)
+
+
+
+|||
+
+> According to the subjective Bayesian interpretation of quantum theory (QBism), quantum mechanics is a tool that an agent would be wise to use when making bets about natural phenomena. 
+> In particular, the Born rule is understood to be a decision-making norm, an ideal which one should strive to meet even if usually falling short in practice. What is required for an agent to make decisions that conform to quantum mechanics? 
+> Here we investigate how a realistic (hence non-ideal) agent might deviate from the Born rule in its decisions. To do so we simulate a simple agent as a reinforcement-learning algorithm that makes `bets' on the outputs of a symmetric informationally-complete measurement (SIC) and adjusts its decisions in order to maximize its expected return. 
+> We quantify how far the algorithm's decision-making behavior departs from the ideal form of the Born rule and investigate the limiting factors. We propose an experimental implementation of the scenario using heralded single photons.
+</columns>
+
+
+
+<columns>
+- We have studied how closely a simple reward-seeking algorithm can approximate decision-making behavior consistent with the quantum mechanical Born rule. 
+- To do this, we take advantage of a theorem due to QBism that allows us to formulate the Born rule as a decisiontheoretic constraint on an agent’s betting strategy.
+
+
+
+|||
+
+
+
+|||
+
+Our simulated agent takes as input the measurement outcomes for each of the three experiments in Fig. 1 and places different ‘bets’ on which outcomes will occur on the next inputs. By design, our algorithm roughly emulates an ideal Bayesian agent with an exchangeable, full-support, prior distribution who updates to Bayes rule posteriors upon data acquisition
+
+
+
+*[This can connect to Active Data Sampling, Attention, many other* *[https://coda.io/d/_d0SvdI3KSto/_suo0BIkP](https://coda.io/d/_d0SvdI3KSto/_suo0BIkP)* *situations]*  
+</columns>
+
+
+
+
+
+---
+
+<columns>
+
+
+[27] D. A. Friedman, A. Tschantz, M. J. D. Ramstead, K. Friston, and A. Constant, Frontiers in Behavioral Neuroscience 15, 647732 (2021). [Active InferAnts](https://www.frontiersin.org/articles/10.3389/fnbeh.2021.647732/full). 
+
+|||
+
+[https://coda.io/d/_d0SvdI3KSto/_su9mLmih](https://coda.io/d/_d0SvdI3KSto/_su9mLmih) 
+
+- How do we model (mindfull/mindless, reward-/surprise-seeking/avoiding, etc..) behavior across scales and among agents? 
+- What does it mean for the possibility of some element (material, analytical), to “serve as building blocks for more complex forms of emergent agency”?
+- What would it mean or look like to find out “whether the multiscale optimization of such systems could lead to quantum-sensitive behavior.”?
+- What are the [https://coda.io/d/_d0SvdI3KSto/_suF26nFn](https://coda.io/d/_d0SvdI3KSto/_suF26nFn) and QBism experimental [https://coda.io/d/_d0SvdI3KSto/_suaIR30W](https://coda.io/d/_d0SvdI3KSto/_suaIR30W) that come into play here?  
+- How does Quantum/QBism relate with Stigmergy and Niche modification? 
+- How can this connect with [Chris Fields](https://chrisfieldsresearch.com/), Glazebrook et al., work on Quantum Reference Frames, [https://coda.io/d/_d0SvdI3KSto/_suo0BIkP](https://coda.io/d/_d0SvdI3KSto/_suo0BIkP) & Free Energy Principle, etc? 
+
+
+</columns>
+
+---
+
+
+
+.
+
+.
+
+.
+
+.

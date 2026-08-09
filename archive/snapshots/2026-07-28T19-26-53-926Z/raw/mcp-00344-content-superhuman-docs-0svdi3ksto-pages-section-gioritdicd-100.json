@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-GiORITdICd"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-GiORITdICd\",\"pageUri\":\"pages/section-GiORITdICd\",\"content\":\"\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-GiORITdICd\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-gArc7x-9_M\",\"createdAt\":1728493764.617,\"reactions\":[],\"text\":\"Where Science Meets Satire lol\",\"userId\":1119613}],\"pageUri\":\"pages/section-GiORITdICd\",\"reference\":null,\"state\":\"Active\",\"threadUri\":\"threads/r-7axYGhavdg\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

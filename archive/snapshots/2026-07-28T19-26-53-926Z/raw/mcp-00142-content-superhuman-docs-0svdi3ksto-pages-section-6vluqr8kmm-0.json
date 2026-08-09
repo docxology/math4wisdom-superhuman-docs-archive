@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-6VLuqR8kMm"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-6VLuqR8kMm\",\"pageUri\":\"pages/section-6VLuqR8kMm\",\"content\":\"How do you prove a live video stream hasn't been tampered with? Meet Steganographer: an open-source tool for real-time cryptographic watermarking.\\n\\nCode: [https://github.com/docxology/steganographer](https://github.com/docxology/steganographer) \\n\\nVideo overview: [https://www.youtube.com/watch?v=sSknNQFBXS0](https://www.youtube.com/watch?v=sSknNQFBXS0)   \\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

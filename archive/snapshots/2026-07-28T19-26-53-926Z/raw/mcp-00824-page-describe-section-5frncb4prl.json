@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-5fRnCB4PRL"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-5fRnCB4PRL\",\"canvasId\":\"canvas-5fRnCB4PRL\",\"title\":\"Grants\",\"canvasUri\":\"canvases/canvas-5fRnCB4PRL\",\"childPageOutlines\":[{\"pageId\":\"section-IY29lOwv--\",\"canvasId\":\"canvas-IY29lOwv--\",\"title\":\"Templeton 2024 Grant\",\"canvasUri\":\"canvases/canvas-IY29lOwv--\",\"pageUri\":\"pages/section-IY29lOwv--\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-5fRnCB4PRL\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":78,\"icon\":\"receive-cash\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1721743913.529,\"updatedAt\":1721743915.648,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-OJTyxu39sp"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-OJTyxu39sp\",\"canvasId\":\"canvas-p-8HV-LOe1\",\"title\":\"Knowledge Engineering\",\"canvasUri\":\"canvases/canvas-p-8HV-LOe1\",\"childPageOutlines\":[{\"pageId\":\"section-Zl1ljqBh-1\",\"canvasId\":\"canvas-Zl1ljqBh-1\",\"title\":\"People\",\"canvasUri\":\"canvases/canvas-Zl1ljqBh-1\",\"pageUri\":\"pages/section-Zl1ljqBh-1\"},{\"pageId\":\"section-HPb10opxmi\",\"canvasId\":\"canvas-HPb10opxmi\",\"title\":\"Meetings\",\"canvasUri\":\"canvases/canvas-HPb10opxmi\",\"pageUri\":\"pages/section-HPb10opxmi\"},{\"pageId\":\"section-VVxywlf3Jt\",\"canvasId\":\"canvas-VVxywlf3Jt\",\"title\":\"Communications\",\"canvasUri\":\"canvases/canvas-VVxywlf3Jt\",\"pageUri\":\"pages/section-VVxywlf3Jt\"},{\"pageId\":\"section-TsNabWlqVP\",\"canvasId\":\"canvas-TsNabWlqVP\",\"title\":\"Projects\",\"canvasUri\":\"canvases/canvas-TsNabWlqVP\",\"pageUri\":\"pages/section-TsNabWlqVP\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-OJTyxu39sp\",\"parentPageUri\":null,\"position\":1,\"icon\":\"bungalow\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708215391.703,\"updatedAt\":1770940998.505,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

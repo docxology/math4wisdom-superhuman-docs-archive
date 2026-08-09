@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-CJeFTEdstt"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-CJeFTEdstt\",\"pageUri\":\"pages/section-CJeFTEdstt\",\"content\":\"\",\"tables\":[],\"formulas\":[],\"controls\":[{\"controlUri\":\"controls/ctrl-FU_KnLD2J8\",\"name\":\"button 2\",\"canvasUri\":\"canvases/canvas-CJeFTEdstt\",\"pageUri\":\"pages/section-CJeFTEdstt\",\"value\":\"\",\"type\":\"button\"}],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

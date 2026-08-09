@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-s3DuD1zPXC",
+      "commentThreads": [],
+      "content": "3D Printing ",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-s3DuD1zPXC",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-s3DuD1zPXC",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-s3DuD1zPXC",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-s3DuD1zPXC",
+    "canvasUri": "canvases/canvas-s3DuD1zPXC",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1772550331.982,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "rocket",
+    "isHidden": false,
+    "pageId": "section-s3DuD1zPXC",
+    "pageType": "canvas",
+    "pageUri": "pages/section-s3DuD1zPXC",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 284,
+    "subtitle": "",
+    "title": "Jim Lehman",
+    "updatedAt": 1772550349.298,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-s3DuD1zPXC",
+    "canvasUri": "canvases/canvas-s3DuD1zPXC",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1772550331.982,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "rocket",
+    "isHidden": false,
+    "pageId": "section-s3DuD1zPXC",
+    "pageType": "canvas",
+    "pageUri": "pages/section-s3DuD1zPXC",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 284,
+    "subtitle": "",
+    "title": "Jim Lehman",
+    "updatedAt": 1772550349.298,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

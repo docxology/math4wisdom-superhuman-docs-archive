@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-NGfKK-kRt2"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-NGfKK-kRt2\",\"pageUri\":\"pages/section-NGfKK-kRt2\",\"content\":\"Minimalistic in ways...\\n\\n- Contemplating Bigger Picture (1 hour/month?)\\n\\n- Designing own investigations (1 hour/month?)\\n\\nAnd maximal in goals.\\n\\n- Making knowledge available and accessible. \\n\\n- Could make the effort to know\\n\\n[https://coda.io/d/_d0SvdI3KSto/_suxf1BFH](https://coda.io/d/_d0SvdI3KSto/_suxf1BFH) \\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

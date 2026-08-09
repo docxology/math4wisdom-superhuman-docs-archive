@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-LJftbZHKAF"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-LJftbZHKAF\",\"canvasId\":\"canvas-LJftbZHKAF\",\"title\":\"Relationship with Truth\",\"canvasUri\":\"canvases/canvas-LJftbZHKAF\",\"childPageOutlines\":[{\"pageId\":\"section-1T-Yxf1BFH\",\"canvasId\":\"canvas-1T-Yxf1BFH\",\"title\":\"Truth\",\"canvasUri\":\"canvases/canvas-1T-Yxf1BFH\",\"pageUri\":\"pages/section-1T-Yxf1BFH\"},{\"pageId\":\"section-NGfKK-kRt2\",\"canvasId\":\"canvas-NGfKK-kRt2\",\"title\":\"Living by Truth\",\"canvasUri\":\"canvases/canvas-NGfKK-kRt2\",\"pageUri\":\"pages/section-NGfKK-kRt2\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-LJftbZHKAF\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":17,\"icon\":\"sun\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708284102.623,\"updatedAt\":1737474753.133,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

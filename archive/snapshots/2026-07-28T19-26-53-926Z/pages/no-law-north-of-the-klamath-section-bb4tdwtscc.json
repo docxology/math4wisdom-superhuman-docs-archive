@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-BB4tDWTSCc",
+      "commentThreads": [],
+      "content": "<columns>\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-BB4tDWTSCc",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-BB4tDWTSCc",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-BB4tDWTSCc",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-BB4tDWTSCc",
+    "canvasUri": "canvases/canvas-BB4tDWTSCc",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1772550504.062,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "north-north-west",
+    "isHidden": false,
+    "pageId": "section-BB4tDWTSCc",
+    "pageType": "canvas",
+    "pageUri": "pages/section-BB4tDWTSCc",
+    "parentPageUri": "pages/section-uUbHYih-tF",
+    "position": 285,
+    "subtitle": "",
+    "title": "No Law North of the Klamath",
+    "updatedAt": 1772551817.125,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-BB4tDWTSCc",
+    "canvasUri": "canvases/canvas-BB4tDWTSCc",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1772550504.062,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "north-north-west",
+    "isHidden": false,
+    "pageId": "section-BB4tDWTSCc",
+    "pageType": "canvas",
+    "pageUri": "pages/section-BB4tDWTSCc",
+    "parentPageUri": "pages/section-uUbHYih-tF",
+    "position": 285,
+    "subtitle": "",
+    "title": "No Law North of the Klamath",
+    "updatedAt": 1772551817.125,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

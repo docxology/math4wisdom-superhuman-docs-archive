@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-8gOc4nsu6A",
+      "commentThreads": [],
+      "content": "Connection with [https://coda.io/d/_d0SvdI3KSto/_su0eIZzY](https://coda.io/d/_d0SvdI3KSto/_su0eIZzY), [https://coda.io/d/_d0SvdI3KSto/_sumWz2XL](https://coda.io/d/_d0SvdI3KSto/_sumWz2XL), ...\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-8gOc4nsu6A",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-8gOc4nsu6A",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-8gOc4nsu6A",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-8gOc4nsu6A",
+    "canvasUri": "canvases/canvas-8gOc4nsu6A",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1741700880.58,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "hub",
+    "isHidden": false,
+    "pageId": "section-8gOc4nsu6A",
+    "pageType": "canvas",
+    "pageUri": "pages/section-8gOc4nsu6A",
+    "parentPageUri": "pages/section-_9VpkjaJUF",
+    "position": 161,
+    "subtitle": "",
+    "title": "Resilience hubs",
+    "updatedAt": 1741700891.944,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-8gOc4nsu6A",
+    "canvasUri": "canvases/canvas-8gOc4nsu6A",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1741700880.58,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "hub",
+    "isHidden": false,
+    "pageId": "section-8gOc4nsu6A",
+    "pageType": "canvas",
+    "pageUri": "pages/section-8gOc4nsu6A",
+    "parentPageUri": "pages/section-_9VpkjaJUF",
+    "position": 161,
+    "subtitle": "",
+    "title": "Resilience hubs",
+    "updatedAt": 1741700891.944,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

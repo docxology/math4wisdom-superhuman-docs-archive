@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-j6DKz5la1b"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-j6DKz5la1b\",\"pageUri\":\"pages/section-j6DKz5la1b\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-j6DKz5la1b/formulas/f-O0aYwqGLYu\",\"name\":\"##_hidden_control_## 8\",\"canvasUri\":\"canvases/canvas-j6DKz5la1b\",\"pageUri\":\"pages/section-j6DKz5la1b\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2953483\",\"name\":\"Andrius Kulikauskas\"},\"formula\":\"[Andrius Kulikauskas]\"}],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-j6DKz5la1b\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-p_ObleS-S3\",\"createdAt\":1715983333.085,\"reactions\":[],\"text\":\"This dish looks amazing.\",\"userId\":1119613}],\"pageUri\":\"pages/section-j6DKz5la1b\",\"reference\":null,\"state\":\"Active\",\"threadUri\":\"threads/r-EqqujL-n7S\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

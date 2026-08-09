@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-8I4S618O5l"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-8I4S618O5l\",\"pageUri\":\"pages/section-8I4S618O5l\",\"content\":\"May 31, 2024, AK email  \\nI am realizing that the point of Wondrous Wisdom is to disentangle three minds\\n\\n- Unconscious, which think in terms of answers, provided by our neurons\\n\\n- Conscious, which thinks in terms of questions, expressed by our conceptual languages\\n\\n- Consciousness, which thinks in terms of investigations, disentangling the other two minds\\n\\n---\\n\\n---\\n\\n- WW — language, language club. Learned as with cooking/dancing, not with books. Hence Projects for the embodied logic and rhythm of [https://coda.io/d/_d0SvdI3KSto/_su618O5l](https://coda.io/d/_d0SvdI3KSto/_su618O5l) . \\n\\n- Turing complete : Programming language :: WW : Frameworks\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

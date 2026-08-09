@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-x5RkF26nFn"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-x5RkF26nFn\",\"canvasId\":\"canvas-x5RkF26nFn\",\"title\":\"Quantum\",\"canvasUri\":\"canvases/canvas-x5RkF26nFn\",\"childPageOutlines\":[{\"pageId\":\"section-7sJrIMigrj\",\"canvasId\":\"canvas-7sJrIMigrj\",\"title\":\"Qubit Onion\",\"canvasUri\":\"canvases/canvas-7sJrIMigrj\",\"pageUri\":\"pages/section-7sJrIMigrj\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-x5RkF26nFn\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":53,\"icon\":\"gyroscope\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1713373740.516,\"updatedAt\":1727188745.161,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

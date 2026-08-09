@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-SJJ7q-YlvB",
+      "commentThreads": [],
+      "content": "[https://urbit.org/](https://urbit.org/)\n\n[https://tlon.network/](https://tlon.network/) free [https://coda.io/d/_d0SvdI3KSto/_suq-YlvB](https://coda.io/d/_d0SvdI3KSto/_suq-YlvB)  hosting\n\n\n\n<columns>\n**~darlyn-satbec — DAF**\n\n\n\nHoon → Nock\n\n\n\n|||\n\n[https://www.nockchain.org/](https://www.nockchain.org/)\n\n\n\n|||\n\n[https://docs.jock.org/](https://docs.jock.org/)\n\nFrom Nock\n\n[https://coda.io/d/_d0SvdI3KSto/_suo0BIkP](https://coda.io/d/_d0SvdI3KSto/_suo0BIkP) in Nock & for [https://coda.io/d/_d0SvdI3KSto/_suq-YlvB](https://coda.io/d/_d0SvdI3KSto/_suq-YlvB) \n\n**[https://github.com/ActiveInferenceInstitute/ActiveInferAnts/tree/main/0_CONTEXT/Computer_Languages/Jock](https://github.com/ActiveInferenceInstitute/ActiveInferAnts/tree/main/0_CONTEXT/Computer_Languages/Jock)**\n\n\n\n|||\n\nCurtis Yarvin (Mencius Moldbug)\n\n\n\n\n</columns>\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-SJJ7q-YlvB",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-SJJ7q-YlvB",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-SJJ7q-YlvB",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-SJJ7q-YlvB",
+    "canvasUri": "canvases/canvas-SJJ7q-YlvB",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1734458028.459,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "5-star-hotel",
+    "isHidden": false,
+    "pageId": "section-SJJ7q-YlvB",
+    "pageType": "canvas",
+    "pageUri": "pages/section-SJJ7q-YlvB",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 125,
+    "subtitle": "",
+    "title": "Urbit",
+    "updatedAt": 1737565720.587,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-SJJ7q-YlvB",
+    "canvasUri": "canvases/canvas-SJJ7q-YlvB",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1734458028.459,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "5-star-hotel",
+    "isHidden": false,
+    "pageId": "section-SJJ7q-YlvB",
+    "pageType": "canvas",
+    "pageUri": "pages/section-SJJ7q-YlvB",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 125,
+    "subtitle": "",
+    "title": "Urbit",
+    "updatedAt": 1737565720.587,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

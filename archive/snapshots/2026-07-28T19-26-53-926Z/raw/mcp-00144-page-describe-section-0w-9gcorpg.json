@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-0w-9GCORpG"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-0w-9GCORpG\",\"canvasId\":\"canvas-0w-9GCORpG\",\"title\":\"Audio-Visual\",\"canvasUri\":\"canvases/canvas-0w-9GCORpG\",\"childPageOutlines\":[{\"pageId\":\"section-eGBPHZfEql\",\"canvasId\":\"canvas-eGBPHZfEql\",\"title\":\"OBS Studio\",\"canvasUri\":\"canvases/canvas-eGBPHZfEql\",\"pageUri\":\"pages/section-eGBPHZfEql\"},{\"pageId\":\"section-Em3-wuAVGx\",\"canvasId\":\"canvas-Em3-wuAVGx\",\"title\":\"Live Video\",\"canvasUri\":\"canvases/canvas-Em3-wuAVGx\",\"pageUri\":\"pages/section-Em3-wuAVGx\"},{\"pageId\":\"section-aiBaoFNFl6\",\"canvasId\":\"canvas-aiBaoFNFl6\",\"title\":\"QR Live Protocol (QRLP)\",\"canvasUri\":\"canvases/canvas-aiBaoFNFl6\",\"pageUri\":\"pages/section-aiBaoFNFl6\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-0w-9GCORpG\",\"parentPageUri\":\"pages/section-S2dtbpHvLx\",\"position\":13,\"icon\":\"scart\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708283285.595,\"updatedAt\":1713579513.008,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1271333,\"name\":\"kirby urner\",\"email\":\"kirby.urner@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

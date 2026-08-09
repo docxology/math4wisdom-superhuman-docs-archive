@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-AwoNukZ5nR",
+      "commentThreads": [],
+      "content": "<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n</columns>",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-AwoNukZ5nR",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-AwoNukZ5nR",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-AwoNukZ5nR",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-AwoNukZ5nR",
+    "canvasUri": "canvases/canvas-AwoNukZ5nR",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1751894288.892,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "heart-health",
+    "isHidden": false,
+    "pageId": "section-AwoNukZ5nR",
+    "pageType": "canvas",
+    "pageUri": "pages/section-AwoNukZ5nR",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 219,
+    "subtitle": "",
+    "title": "Triangle-Heart",
+    "updatedAt": 1751985536.921,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-AwoNukZ5nR",
+    "canvasUri": "canvases/canvas-AwoNukZ5nR",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1751894288.892,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "heart-health",
+    "isHidden": false,
+    "pageId": "section-AwoNukZ5nR",
+    "pageType": "canvas",
+    "pageUri": "pages/section-AwoNukZ5nR",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 219,
+    "subtitle": "",
+    "title": "Triangle-Heart",
+    "updatedAt": 1751985536.921,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-9TRHaEEPT0"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-9TRHaEEPT0\",\"pageUri\":\"pages/section-9TRHaEEPT0\",\"content\":\"\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-9TRHaEEPT0\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-zIAw35Dbo7\",\"createdAt\":1713380428.654,\"reactions\":[],\"text\":\"Develop this into table/categories of types of /_subpHvLx \",\"userId\":1119613},{\"authorEmail\":\"kirby.urner@gmail.com\",\"authorName\":\"kirby urner\",\"commentUri\":\"comments/i-X2Xqjshsrf\",\"createdAt\":1713577125.505,\"reactions\":[],\"text\":\"Scheduling / Time Management\",\"userId\":1271333},{\"authorEmail\":\"kirby.urner@gmail.com\",\"authorName\":\"kirby urner\",\"commentUri\":\"comments/i--J3yhR6SjS\",\"createdAt\":1713579665.648,\"reactions\":[],\"text\":\"Where to put AI and what scope? Several tools already in use.\",\"userId\":1271333},{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-STSmHdL9Rd\",\"createdAt\":1762290178.952,\"reactions\":[],\"text\":\"Added \\n/_suPj4JCn \\n/_su49pE5w \",\"userId\":1119613}],\"pageUri\":\"pages/section-9TRHaEEPT0\",\"reference\":{\"type\":\"text\",\"text\":\"Drawing\\nVideo and Podcast Making: see Audio-Visual\\n  (listed at math4wisdom wiki)\\n \\n \\nAnimation and Ray Tracing:   ,\"},\"state\":\"Resolved\",\"threadUri\":\"threads/r-efBnt9zi1I\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

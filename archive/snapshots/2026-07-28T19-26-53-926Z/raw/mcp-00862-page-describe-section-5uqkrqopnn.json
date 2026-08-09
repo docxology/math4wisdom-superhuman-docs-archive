@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-5uQKRqOPnN"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-5uQKRqOPnN\",\"canvasId\":\"canvas-5uQKRqOPnN\",\"title\":\"Three Minds\",\"canvasUri\":\"canvases/canvas-5uQKRqOPnN\",\"childPageOutlines\":[{\"pageId\":\"section-DkJi-HwG3A\",\"canvasId\":\"canvas-DkJi-HwG3A\",\"title\":\"Burroughs & Gysin's Theory of the Third Mind\",\"canvasUri\":\"canvases/canvas-DkJi-HwG3A\",\"pageUri\":\"pages/section-DkJi-HwG3A\"},{\"pageId\":\"section-c_uBIPHQ-s\",\"canvasId\":\"canvas-c_uBIPHQ-s\",\"title\":\"Klemm's Three Minds\",\"canvasUri\":\"canvases/canvas-c_uBIPHQ-s\",\"pageUri\":\"pages/section-c_uBIPHQ-s\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-5uQKRqOPnN\",\"parentPageUri\":\"pages/section-8I4S618O5l\",\"position\":76,\"icon\":\"three-cell-cyclorama-lights\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1721139290.572,\"updatedAt\":1764619251.925,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

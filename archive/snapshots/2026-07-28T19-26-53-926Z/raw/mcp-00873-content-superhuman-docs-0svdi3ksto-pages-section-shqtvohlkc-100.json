@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-ShqtvoHLkC"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-ShqtvoHLkC\",\"pageUri\":\"pages/section-ShqtvoHLkC\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-ShqtvoHLkC/formulas/f-oSfxkIfhMi\",\"name\":\"##_hidden_control_## 162\",\"canvasUri\":\"canvases/canvas-ShqtvoHLkC\",\"pageUri\":\"pages/section-ShqtvoHLkC\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"},{\"formulaUri\":\"canvases/canvas-ShqtvoHLkC/formulas/f-5BJ_iAnTLB\",\"name\":\"##_hidden_control_## 163\",\"canvasUri\":\"canvases/canvas-ShqtvoHLkC\",\"pageUri\":\"pages/section-ShqtvoHLkC\",\"value\":{\"FullName\":\"AndriusKulikauskas/WondrousWisdom\",\"Name\":\"WondrousWisdom\",\"IsPrivate\":false,\"Owner\":{\"type\":\"obj\",\"value\":{\"Login\":\"AndriusKulikauskas\",\"Avatar\":{\"type\":\"imageurlref\",\"url\":\"https://avatars.githubusercontent.com/u/107762442?v=4\",\"outline\":true},\"Url\":{\"type\":\"urlref\",\"url\":\"https://github.com/AndriusKulikauskas\",\"name\":\"\"}}},\"Url\":{\"type\":\"urlref\",\"url\":\"https://github.com/AndriusKulikauskas/WondrousWisdom\",\"name\":\"\"},\"Description\":\"Documentation and code for presenting, applying and generating Wondrous Wisdom.\",\"IsFork\":false,\"Created\":{\"type\":\"dt\",\"input\":\"12/3/2025 2:07:48 AM\",\"epoch\":1764756468,\"formatted\":\"12/3/2025, 2:07 AM\"},\"Modified\":{\"type\":\"dt\",\"input\":\"12/3/2025 2:07:52 AM\",\"epoch\":1764756472,\"formatted\":\"12/3/2025, 2:07 AM\"},\"LastPushed\":{\"type\":\"dt\",\"input\":\"12/3/2025 2:07:48 AM\",\"epoch\":1764756468,\"formatted\":\"12/3/2025, 2:07 AM\"},\"StarCount\":0,\"WatcherCount\":0,\"ForkCount\":0,\"OpenIssueCount\":0,\"SubscriberCount\":0},\"formula\":\"GitHubRepo(\\\"https://github.com/AndriusKulikauskas/WondrousWisdom\\\", [])\"},{\"formulaUri\":\"canvases/canvas-ShqtvoHLkC/formulas/f-ulYA-3vNq0\",\"name\":\"##_hidden_control_## 164\",\"canvasUri\":\"canvases/canvas-ShqtvoHLkC\",\"pageUri\":\"pages/section-ShqtvoHLkC\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-2953483\",\"name\":\"Andrius Kulikauskas\"},\"formula\":\"[Andrius Kulikauskas]\"},{\"formulaUri\":\"canvases/canvas-ShqtvoHLkC/formulas/f-bKDaTlhQKE\",\"name\":\"##_hidden_control_## 165\",\"canvasUri\":\"canvases/canvas-ShqtvoHLkC\",\"pageUri\":\"pages/section-ShqtvoHLkC\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"},{\"formulaUri\":\"canvases/canvas-ShqtvoHLkC/formulas/f-sGNLSZx-fA\",\"name\":\"##_hidden_control_## 165 2\",\"canvasUri\":\"canvases/canvas-ShqtvoHLkC\",\"pageUri\":\"pages/section-ShqtvoHLkC\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

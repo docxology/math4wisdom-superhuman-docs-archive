@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-SL8kLlqbdr"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-SL8kLlqbdr\",\"pageUri\":\"pages/section-SL8kLlqbdr\",\"content\":\"[https://newworld-game.org/](https://newworld-game.org/)\\n\\n4D: [https://newworld-game.org/solution-view/gjVbhffFd9011RfiOMuv](https://newworld-game.org/solution-view/gjVbhffFd9011RfiOMuv)\\n\\n\\n\\n---\\n\\n\\n\\n<formula id=\\\"f-T46BvNQQIW\\\">kirby urner</formula> remarks:  \\n  \\nPer one of the World Game staged events I attended, with the gym-size Dymaxion Map and trainer (poker chips...), I recall the punchline “world game begins when you walk out the door” i.e. we were encouraged to think of ourselves as avatars, pieces on the game board, not only in a simulation sense, but for real, on the spherical motherboard we call “the world” i.e. Planet Earth. \\n\\nI’d assess The *est* Training was an influential on the rhetoric at this point, if not directly then by osmosis, and contributed to the “This is It” flavor.\\n\\nEnglish has its grammatical precedence for this way of thinking in “great game” (referring to geopolitics) and “game theory” (about the real world), and in philosophy through “language games” (Wittgenstein) as any and all generic semiotic activities.  \\n  \\nThat’s in terms of the similarities. In terms of contrast, “world game” was designed to set itself off from “war games” i.e. dress rehearsals for upcoming orgies of degeneracy and mindless violence. World Game was meant as a synonym for “the healthy activity of a non-decaying civilization” i.e. was anti-entropic. \\n\\nThat we might experience anti-entropy on a global scale is not “against physics” as Planet Earth is a sun-powered open system not some “universe” on the road to heat death overall. There’s no sense in confusing these time scales. Anti-entropy is not prohibited by thermodynamics; it’s allowed in pockets.\\n\\nGranted the ontological status of World Game as simply civilizational activity, groups and companies come together to stage events and/or craft simulations in the Bucky-Medard lineage, as in-person workshops or other scripted theater, likely with improv elements. \\n\\nMy Project Renaissance, a GST project, might fit into this rubric, as a model for an economy centered around prototyping and subsequent commercialization, and featuring public-private partnerships. \\n\\nLikewise USA OS: a hybrid of already existing, along with desired or hoped for, technologies. \\n\\nEach might constitute “new circuit designs for motherboard Earth” [[link](http://net4dem.org/cyrev/archive/issue3/articles/Motherboard%20Earth/Motherboard%20Earth.pdf)] and as such count as operational elements within World Game.\\n\\n\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-SL8kLlqbdr/formulas/f-T46BvNQQIW\",\"name\":\"##_hidden_control_## 77\",\"canvasUri\":\"canvases/canvas-SL8kLlqbdr\",\"pageUri\":\"pages/section-SL8kLlqbdr\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1271333\",\"name\":\"kirby urner\"},\"formula\":\"[kirby urner]\"}],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-SL8kLlqbdr\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-NSsaHnGPYA\",\"createdAt\":1767978147.718,\"reactions\":[],\"text\":\"kirby urner just added you to the 4D project page at this site \",\"userId\":1119613}],\"pageUri\":\"pages/section-SL8kLlqbdr\",\"reference\":null,\"state\":\"Resolved\",\"threadUri\":\"threads/r-_-K57151oe\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

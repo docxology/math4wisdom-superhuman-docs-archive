@@ -1,0 +1,146 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-_9VpkjaJUF",
+      "commentThreads": [],
+      "content": "- [https://www.e-c-o.net/wiki/Econet/Welcome](https://www.e-c-o.net/wiki/Econet/Welcome)\n\n- Risk & N=1. \n\n- [https://philpapers.org/rec/STRNHI](https://philpapers.org/rec/STRNHI) Null hypotheses in ecology, Donald R. Strong (1980). \n\n- Types of money, value, risk, ethics of all. Relationships with past, present, futures.\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-_9VpkjaJUF",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-_9VpkjaJUF",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-_9VpkjaJUF",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-_9VpkjaJUF",
+    "canvasUri": "canvases/canvas-_9VpkjaJUF",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-OqO27SxstF",
+        "canvasUri": "canvases/canvas-OqO27SxstF",
+        "pageId": "section-OqO27SxstF",
+        "pageUri": "pages/section-OqO27SxstF",
+        "title": "Econet action plan"
+      },
+      {
+        "canvasId": "canvas-5zT80eIZzY",
+        "canvasUri": "canvases/canvas-5zT80eIZzY",
+        "pageId": "section-5zT80eIZzY",
+        "pageUri": "pages/section-5zT80eIZzY",
+        "title": "Timberfish"
+      },
+      {
+        "canvasId": "canvas-xISPl409wL",
+        "canvasUri": "canvases/canvas-xISPl409wL",
+        "pageId": "section-xISPl409wL",
+        "pageUri": "pages/section-xISPl409wL",
+        "title": "Biofirm"
+      },
+      {
+        "canvasId": "canvas-8gOc4nsu6A",
+        "canvasUri": "canvases/canvas-8gOc4nsu6A",
+        "pageId": "section-8gOc4nsu6A",
+        "pageUri": "pages/section-8gOc4nsu6A",
+        "title": "Resilience hubs"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1724163353.397,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "vegetarian-mark",
+    "isHidden": false,
+    "pageId": "section-_9VpkjaJUF",
+    "pageType": "canvas",
+    "pageUri": "pages/section-_9VpkjaJUF",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 84,
+    "subtitle": "What is Ecological thinking? ",
+    "title": "econet",
+    "updatedAt": 1728398432.82,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-_9VpkjaJUF",
+    "canvasUri": "canvases/canvas-_9VpkjaJUF",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-OqO27SxstF",
+        "canvasUri": "canvases/canvas-OqO27SxstF",
+        "pageId": "section-OqO27SxstF",
+        "pageUri": "pages/section-OqO27SxstF",
+        "title": "Econet action plan"
+      },
+      {
+        "canvasId": "canvas-5zT80eIZzY",
+        "canvasUri": "canvases/canvas-5zT80eIZzY",
+        "pageId": "section-5zT80eIZzY",
+        "pageUri": "pages/section-5zT80eIZzY",
+        "title": "Timberfish"
+      },
+      {
+        "canvasId": "canvas-xISPl409wL",
+        "canvasUri": "canvases/canvas-xISPl409wL",
+        "pageId": "section-xISPl409wL",
+        "pageUri": "pages/section-xISPl409wL",
+        "title": "Biofirm"
+      },
+      {
+        "canvasId": "canvas-8gOc4nsu6A",
+        "canvasUri": "canvases/canvas-8gOc4nsu6A",
+        "pageId": "section-8gOc4nsu6A",
+        "pageUri": "pages/section-8gOc4nsu6A",
+        "title": "Resilience hubs"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1724163353.397,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "vegetarian-mark",
+    "isHidden": false,
+    "pageId": "section-_9VpkjaJUF",
+    "pageType": "canvas",
+    "pageUri": "pages/section-_9VpkjaJUF",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 84,
+    "subtitle": "What is Ecological thinking? ",
+    "title": "econet",
+    "updatedAt": 1728398432.82,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

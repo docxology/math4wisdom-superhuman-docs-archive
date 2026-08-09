@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-Jr6QKvOq4x"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-Jr6QKvOq4x\",\"canvasId\":\"canvas-Jr6QKvOq4x\",\"title\":\"Inquire Within\",\"canvasUri\":\"canvases/canvas-Jr6QKvOq4x\",\"childPageOutlines\":[{\"pageId\":\"section-CYQzSpZEiP\",\"canvasId\":\"canvas-CYQzSpZEiP\",\"title\":\"Icosahedra Within\",\"canvasUri\":\"canvases/canvas-CYQzSpZEiP\",\"pageUri\":\"pages/section-CYQzSpZEiP\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-Jr6QKvOq4x\",\"parentPageUri\":\"pages/section-M2XPmWz2XL\",\"position\":127,\"icon\":\"internal\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1735217837.483,\"updatedAt\":1766949143.91,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

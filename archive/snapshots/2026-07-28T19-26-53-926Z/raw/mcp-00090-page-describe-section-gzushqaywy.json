@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-gZusHQAYwy"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-gZusHQAYwy\",\"canvasId\":\"canvas-gZusHQAYwy\",\"title\":\"Statistical and Neural Classifiers\",\"canvasUri\":\"canvases/canvas-gZusHQAYwy\",\"childPageOutlines\":[{\"pageId\":\"section-nqw-QtMg3f\",\"canvasId\":\"canvas-nqw-QtMg3f\",\"title\":\"Exploring 5-24-2024 Raudys\",\"canvasUri\":\"canvases/canvas-nqw-QtMg3f\",\"pageUri\":\"pages/section-nqw-QtMg3f\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-gZusHQAYwy\",\"parentPageUri\":\"pages/section-otrP5aA4ke\",\"position\":62,\"icon\":\"deviation\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1715785827.691,\"updatedAt\":1716573112.121,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

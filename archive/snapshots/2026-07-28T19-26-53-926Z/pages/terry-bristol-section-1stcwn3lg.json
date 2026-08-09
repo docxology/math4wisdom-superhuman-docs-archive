@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas--1STCWn3LG",
+      "commentThreads": [],
+      "content": "**Andrius and Terry** [https://www.flickr.com/photos/kirbyurner/53113901072/](https://www.flickr.com/photos/kirbyurner/53113901072/)\n\n**Philo of Engineering** [https://www.flickr.com/photos/kirbyurner/55163807154/](https://www.flickr.com/photos/kirbyurner/55163807154/)\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section--1STCWn3LG",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas--1STCWn3LG",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section--1STCWn3LG",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas--1STCWn3LG",
+    "canvasUri": "canvases/canvas--1STCWn3LG",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1774203048.603,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "engine",
+    "isHidden": false,
+    "pageId": "section--1STCWn3LG",
+    "pageType": "canvas",
+    "pageUri": "pages/section--1STCWn3LG",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 292,
+    "subtitle": "",
+    "title": "Terry Bristol",
+    "updatedAt": 1774966137.695,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas--1STCWn3LG",
+    "canvasUri": "canvases/canvas--1STCWn3LG",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1774203048.603,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "engine",
+    "isHidden": false,
+    "pageId": "section--1STCWn3LG",
+    "pageType": "canvas",
+    "pageUri": "pages/section--1STCWn3LG",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 292,
+    "subtitle": "",
+    "title": "Terry Bristol",
+    "updatedAt": 1774966137.695,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section--0DgGhLij5"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas--0DgGhLij5\",\"pageUri\":\"pages/section--0DgGhLij5\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas--0DgGhLij5/formulas/f-KNJ2Yoirqw\",\"name\":\"##_hidden_control_## 78\",\"canvasUri\":\"canvases/canvas--0DgGhLij5\",\"pageUri\":\"pages/section--0DgGhLij5\",\"value\":{\"type\":\"ref\",\"objectId\":\"grid-O8e6yxDvz5\",\"identifier\":\"i-vEA0aQ3zAr\",\"name\":\"1/8/2025\"},\"formula\":\"[1/8/2025]\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-9GD8lN9Ck7"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-9GD8lN9Ck7\",\"canvasId\":\"canvas-9GD8lN9Ck7\",\"title\":\"Struppi Pohl\",\"canvasUri\":\"canvases/canvas-9GD8lN9Ck7\",\"childPageOutlines\":[{\"pageId\":\"section-qid0QAq68t\",\"canvasId\":\"canvas-qid0QAq68t\",\"title\":\"Struppi Image Export\",\"canvasUri\":\"canvases/canvas-qid0QAq68t\",\"pageUri\":\"pages/section-qid0QAq68t\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-9GD8lN9Ck7\",\"parentPageUri\":\"pages/section-5Z43Od6Ku2\",\"position\":96,\"icon\":\"abacus\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1730222345.142,\"updatedAt\":1737857881.108,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-9TRHaEEPT0"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-9TRHaEEPT0\",\"canvasId\":\"canvas-9TRHaEEPT0\",\"title\":\"Knowledge Tools\",\"canvasUri\":\"canvases/canvas-9TRHaEEPT0\",\"childPageOutlines\":[{\"pageId\":\"section-oa2JSWQ4PS\",\"canvasId\":\"canvas-oa2JSWQ4PS\",\"title\":\"Coda\",\"canvasUri\":\"canvases/canvas-oa2JSWQ4PS\",\"pageUri\":\"pages/section-oa2JSWQ4PS\"},{\"pageId\":\"section-3UNvIIpGZJ\",\"canvasId\":\"canvas-3UNvIIpGZJ\",\"title\":\"Cursor\",\"canvasUri\":\"canvases/canvas-3UNvIIpGZJ\",\"pageUri\":\"pages/section-3UNvIIpGZJ\"},{\"pageId\":\"section-42cENJHR1m\",\"canvasId\":\"canvas-42cENJHR1m\",\"title\":\"Telegram\",\"canvasUri\":\"canvases/canvas-42cENJHR1m\",\"pageUri\":\"pages/section-42cENJHR1m\"},{\"pageId\":\"section-41bsF8KaMS\",\"canvasId\":\"canvas-41bsF8KaMS\",\"title\":\"Obsidian\",\"canvasUri\":\"canvases/canvas-41bsF8KaMS\",\"pageUri\":\"pages/section-41bsF8KaMS\"},{\"pageId\":\"section-8t3ORFjdUk\",\"canvasId\":\"canvas-8t3ORFjdUk\",\"title\":\"Python\",\"canvasUri\":\"canvases/canvas-8t3ORFjdUk\",\"pageUri\":\"pages/section-8t3ORFjdUk\"},{\"pageId\":\"section-h9J7Pj4JCn\",\"canvasId\":\"canvas-h9J7Pj4JCn\",\"title\":\"Scheduling / Time Management\",\"canvasUri\":\"canvases/canvas-h9J7Pj4JCn\",\"pageUri\":\"pages/section-h9J7Pj4JCn\"},{\"pageId\":\"section-vZB449pE5w\",\"canvasId\":\"canvas-vZB449pE5w\",\"title\":\"AI as a tool\",\"canvasUri\":\"canvases/canvas-vZB449pE5w\",\"pageUri\":\"pages/section-vZB449pE5w\"},{\"pageId\":\"section-ZU4QH7QuTB\",\"canvasId\":\"canvas-ZU4QH7QuTB\",\"title\":\"Timeline Generator\",\"canvasUri\":\"canvases/canvas-ZU4QH7QuTB\",\"pageUri\":\"pages/section-ZU4QH7QuTB\"},{\"pageId\":\"section-6VLuqR8kMm\",\"canvasId\":\"canvas-6VLuqR8kMm\",\"title\":\"Steganography\",\"canvasUri\":\"canvases/canvas-6VLuqR8kMm\",\"pageUri\":\"pages/section-6VLuqR8kMm\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-9TRHaEEPT0\",\"parentPageUri\":\"pages/section-S2dtbpHvLx\",\"position\":15,\"icon\":\"engine\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708283665.322,\"updatedAt\":1728304185.692,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1271333,\"name\":\"kirby urner\",\"email\":\"kirby.urner@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

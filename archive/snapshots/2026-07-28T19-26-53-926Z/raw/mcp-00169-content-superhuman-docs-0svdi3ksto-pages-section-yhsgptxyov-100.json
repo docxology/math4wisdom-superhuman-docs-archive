@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-yHsgptXYov"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-yHsgptXYov\",\"pageUri\":\"pages/section-yHsgptXYov\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-yHsgptXYov/formulas/f-ToRHAJUdUe\",\"name\":\"##_hidden_control_## 34\",\"canvasUri\":\"canvases/canvas-yHsgptXYov\",\"pageUri\":\"pages/section-yHsgptXYov\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"}],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-yHsgptXYov\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-3WHjwLC6el\",\"createdAt\":1721155611.908,\"reactions\":[],\"text\":\"Andrius Kulikauskas — I just confirmed this livestream with Toby in August. \\n\\nSo I will be excited between now and then, to more fully understand the Arxiv paper /_suptXYov and perhaps this is a great intersection with /_suli3zvK and /_su618O5l too. \",\"userId\":1119613},{\"authorEmail\":\"math4wisdom@gmail.com\",\"authorName\":\"Andrius Kulikauskas\",\"commentUri\":\"comments/i-wbjVSk3Yot\",\"createdAt\":1721159533.146,\"reactions\":[],\"text\":\"Daniel Ari Friedman  Great! I will spend some time with this. I will see if I can connect this with Wondrous Wisdom.  I look forward to talking with you about this.  I could perhaps watch the livestream and participate through the chat box if you do that.\",\"userId\":2953483}],\"pageUri\":\"pages/section-yHsgptXYov\",\"reference\":{\"type\":\"text\",\"text\":\"MathStream #011.1 ~ 8/12/2024 at 16 UTC \\nToby St Clere Smithe\\nStructured Active Inference\"},\"state\":\"Active\",\"threadUri\":\"threads/r-S6gPqSAfIy\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

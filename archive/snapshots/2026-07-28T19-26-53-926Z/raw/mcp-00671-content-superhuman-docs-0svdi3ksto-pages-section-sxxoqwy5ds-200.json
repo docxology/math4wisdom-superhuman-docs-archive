@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 200,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-SXXoQWY5DS"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-SXXoQWY5DS\",\"pageUri\":\"pages/section-SXXoQWY5DS\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-SXXoQWY5DS/formulas/f-uEClst8s8w\",\"name\":\"##_hidden_control_## 1\",\"canvasUri\":\"canvases/canvas-SXXoQWY5DS\",\"pageUri\":\"pages/section-SXXoQWY5DS\",\"value\":{\"Title\":\"Synergetics (Fuller)\",\"Summary\":{\"type\":\"slate\",\"root\":{\"children\":[{\"children\":[{\"text\":\"Empirical study of systems in transformation\"}],\"id\":\"cl-0\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0}]}},\"Body\":{\"type\":\"slate\",\"root\":{\"children\":[{\"children\":[{\"text\":\"Synergetics\",\"bold\":true},{\"text\":\" is the empirical study of systems in transformation, with an emphasis on whole system behaviors unpredicted by the behavior of any components in isolation. R. Buckminster Fuller (1895–1983) named and pioneered the field. His two-volume work \"},{\"text\":\"Synergetics: Explorations in the Geometry of Thinking\",\"italic\":true},{\"text\":\", in collaboration with E. J. Applewhite, distills a lifetime of research into book form.\"}],\"id\":\"cl-0\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0},{\"children\":[{\"text\":\"Since systems are identifiable at every scale, synergetics is necessarily interdisciplinary, embracing a broad range of scientific and philosophical topics, especially in the area of geometry, wherein the tetrahedron features as Fuller's model of the simplest system. \"}],\"id\":\"cl-1\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0},{\"children\":[{\"text\":\"Despite mainstream endorsements such as the prologue by Arthur Loeb, and positive dust cover blurbs by U Thant and Arthur C. Clarke, along with the posthumous naming of the carbon allotrope \\\"buckminsterfullerene\\\", synergetics remains an off-beat subject, ignored for decades by most traditional curricula and academic departments, a fact Fuller himself considered evidence of a dangerous level of overspecialization. \"}],\"id\":\"cl-2\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0},{\"children\":[{\"text\":\"His oeuvre inspired many developers to further pioneer offshoots from synergetics, especially geodesic dome and dwelling designs. Among Fuller's contemporaries were Joe Clinton (NASA), Don Richter (Temcor), Kenneth Snelson (tensegrity), J. Baldwin (New Alchemy Institute), and Medard Gabel (World Game). His chief assistants Amy Edmondson and Ed Popko have published primers that help popularize synergetics, Stafford Beer extended synergetics to applications in social dynamics, and J.F. Nystrom proposed a theory of computational cosmography. Research continues. \"}],\"id\":\"cl-3\",\"style\":\"Paragraph\",\"type\":\"Line\",\"alignment\":\"Left\",\"lineLevel\":0}]}},\"Url\":{\"type\":\"urlref\",\"url\":\"https://en.wikipedia.org/wiki/Synergetics_(Fuller)\",\"name\":\"\"},\"LastEdited\":{\"type\":\"dt\",\"input\":\"1/28/2024 4:13:21 PM\",\"epoch\":1706487201}},\"formula\":\"WikipediaArticle(\\\"https://en.wikipedia.org/wiki/Synergetics_(Fuller)\\\")\"},{\"formulaUri\":\"canvases/canvas-SXXoQWY5DS/formulas/f-zC32YgoVHb\",\"name\":\"##_hidden_control_## 84\",\"canvasUri\":\"canvases/canvas-SXXoQWY5DS\",\"pageUri\":\"pages/section-SXXoQWY5DS\",\"value\":{\"type\":\"ref\",\"objectId\":\"grid-ye3_3aTyhr\",\"identifier\":\"i-H4Fd05auaH\",\"name\":\"Foureyes\"},\"formula\":\"Foureyes\"}],\"controls\":[{\"controlUri\":\"controls/ctrl-yMd8f9z5V3\",\"name\":\"button 1\",\"canvasUri\":\"canvases/canvas-SXXoQWY5DS\",\"pageUri\":\"pages/section-SXXoQWY5DS\",\"value\":\"\",\"type\":\"button\"},{\"controlUri\":\"controls/ctrl-JOSxjSEDwR\",\"name\":\"button 4\",\"canvasUri\":\"canvases/canvas-SXXoQWY5DS\",\"pageUri\":\"pages/section-SXXoQWY5DS\",\"value\":\"\",\"type\":\"button\"}],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

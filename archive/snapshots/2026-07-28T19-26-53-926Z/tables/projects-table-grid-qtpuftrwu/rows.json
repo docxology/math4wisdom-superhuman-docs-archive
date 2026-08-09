@@ -1,0 +1,795 @@
+[
+  {
+    "rowId": "i-edhRG3DD6p",
+    "values": {
+      "c-0ZLAkkbs71": {
+        "value": {
+          "canvasUri": "canvases/grid-QtpUFTrwU-::i-edhRG3DD6p::c-0ZLAkkbs71",
+          "type": "canvas"
+        }
+      },
+      "c-Pjt0yOqzAG": {
+        "value": ""
+      },
+      "c-W450uMo77O": {
+        "value": ""
+      },
+      "c-iRTNNxepmX": {
+        "value": ""
+      },
+      "c-pImIXirO4_": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Code "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-d_pezbJk0K",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-84yGSt6qdu",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl--ykLmskTD8",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-s8g-gB04hY": {
+        "value": {
+          "objectId": "canvas-SXXoQWY5DS",
+          "refType": "canvas",
+          "type": "objref"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i--jmTBAplu4",
+    "values": {
+      "c-0ZLAkkbs71": {
+        "value": {
+          "canvasUri": "canvases/grid-QtpUFTrwU-::i--jmTBAplu4::c-0ZLAkkbs71",
+          "type": "canvas"
+        }
+      },
+      "c-Pjt0yOqzAG": {
+        "value": ""
+      },
+      "c-W450uMo77O": {
+        "value": ""
+      },
+      "c-iRTNNxepmX": {
+        "value": ""
+      },
+      "c-pImIXirO4_": {
+        "value": "Philosophy"
+      },
+      "c-s8g-gB04hY": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-_P7PD5_FpM",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-G5EWGLGI6n",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl-ZYXB7XVTWy",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-RP84rZCj57",
+    "values": {
+      "c-0ZLAkkbs71": {
+        "value": {
+          "canvasUri": "canvases/grid-QtpUFTrwU-::i-RP84rZCj57::c-0ZLAkkbs71",
+          "type": "canvas"
+        }
+      },
+      "c-Pjt0yOqzAG": {
+        "value": ""
+      },
+      "c-W450uMo77O": {
+        "value": ""
+      },
+      "c-iRTNNxepmX": {
+        "value": ""
+      },
+      "c-pImIXirO4_": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-sWqKSlv8fr",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-wQ4uMEu9L_",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-zzIetJ9nMB",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-s8g-gB04hY": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-_P7PD5_FpM",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-G5EWGLGI6n",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl-ZYXB7XVTWy",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-XydWiaCPdp",
+    "values": {
+      "c-0ZLAkkbs71": {
+        "value": {
+          "canvasUri": "canvases/grid-QtpUFTrwU-::i-XydWiaCPdp::c-0ZLAkkbs71",
+          "type": "canvas"
+        }
+      },
+      "c-Pjt0yOqzAG": {
+        "value": ""
+      },
+      "c-W450uMo77O": {
+        "value": ""
+      },
+      "c-iRTNNxepmX": {
+        "value": ""
+      },
+      "c-pImIXirO4_": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-DSBW0EoU-v",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "name": "Active InferAnts",
+                      "type": "urlref",
+                      "url": "https://github.com/activeinferenceinstitute/ActiveInferAnts"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-Ty0iloZFJs",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-s8g-gB04hY": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-_P7PD5_FpM",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-G5EWGLGI6n",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl-ZYXB7XVTWy",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-OuMaqRtGv5",
+    "values": {
+      "c-0ZLAkkbs71": {
+        "value": {
+          "canvasUri": "canvases/grid-QtpUFTrwU-::i-OuMaqRtGv5::c-0ZLAkkbs71",
+          "type": "canvas"
+        }
+      },
+      "c-Pjt0yOqzAG": {
+        "value": ""
+      },
+      "c-W450uMo77O": {
+        "value": ""
+      },
+      "c-iRTNNxepmX": {
+        "value": ""
+      },
+      "c-pImIXirO4_": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-hVWhBaehgq",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-U93Hli3zvK",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl-henwPYvehX",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-s8g-gB04hY": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-FZkBDcWFcy",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-9_lao0BIkP",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl-8EUfUhnb-y",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-5PhL5nLrX2",
+    "values": {
+      "c-0ZLAkkbs71": {
+        "value": {
+          "canvasUri": "canvases/grid-QtpUFTrwU-::i-5PhL5nLrX2::c-0ZLAkkbs71",
+          "type": "canvas"
+        }
+      },
+      "c-Pjt0yOqzAG": {
+        "value": ""
+      },
+      "c-W450uMo77O": {
+        "value": ""
+      },
+      "c-iRTNNxepmX": {
+        "value": ""
+      },
+      "c-pImIXirO4_": {
+        "value": ""
+      },
+      "c-s8g-gB04hY": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-hp_3ylvWeu",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-8I4S618O5l",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl-NfGbco_x1b",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-IeuGdWGRgL",
+    "values": {
+      "c-0ZLAkkbs71": {
+        "value": {
+          "canvasUri": "canvases/grid-QtpUFTrwU-::i-IeuGdWGRgL::c-0ZLAkkbs71",
+          "type": "canvas"
+        }
+      },
+      "c-Pjt0yOqzAG": {
+        "value": ""
+      },
+      "c-W450uMo77O": {
+        "value": ""
+      },
+      "c-iRTNNxepmX": {
+        "value": ""
+      },
+      "c-pImIXirO4_": {
+        "value": ""
+      },
+      "c-s8g-gB04hY": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-c_KNOihAZ2",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-LJftbZHKAF",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl-djYRw7VjSH",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-AKCIkfC9x4",
+    "values": {
+      "c-0ZLAkkbs71": {
+        "value": {
+          "canvasUri": "canvases/grid-QtpUFTrwU-::i-AKCIkfC9x4::c-0ZLAkkbs71",
+          "type": "canvas"
+        }
+      },
+      "c-Pjt0yOqzAG": {
+        "value": ""
+      },
+      "c-W450uMo77O": {
+        "value": ""
+      },
+      "c-iRTNNxepmX": {
+        "value": ""
+      },
+      "c-pImIXirO4_": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-F7BeuLLhfR",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-9TRHaEEPT0",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl-q_jZEKaTHo",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-s8g-gB04hY": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-Ruf2Wa-QnJ",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-S2dtbpHvLx",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl-djYRw7VjSH",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-hnPty2jfr-",
+    "values": {
+      "c-0ZLAkkbs71": {
+        "value": {
+          "canvasUri": "canvases/grid-QtpUFTrwU-::i-hnPty2jfr-::c-0ZLAkkbs71",
+          "type": "canvas"
+        }
+      },
+      "c-Pjt0yOqzAG": {
+        "value": ""
+      },
+      "c-W450uMo77O": {
+        "value": ""
+      },
+      "c-iRTNNxepmX": {
+        "value": "Media collaboration"
+      },
+      "c-pImIXirO4_": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Video Editing "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-R_cCAvZaG0",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-0w-9GCORpG",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl-ybCIhb-3f2",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-s8g-gB04hY": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-Ruf2Wa-QnJ",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-S2dtbpHvLx",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl-djYRw7VjSH",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-LZoP1vWnk7",
+    "values": {
+      "c-0ZLAkkbs71": {
+        "value": {
+          "canvasUri": "canvases/grid-QtpUFTrwU-::i-LZoP1vWnk7::c-0ZLAkkbs71",
+          "type": "canvas"
+        }
+      },
+      "c-Pjt0yOqzAG": {
+        "value": ""
+      },
+      "c-W450uMo77O": {
+        "value": ""
+      },
+      "c-iRTNNxepmX": {
+        "value": ""
+      },
+      "c-pImIXirO4_": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Connecting to "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "esv-KBFY69Op9r",
+                    "type": "InlineStructuredValue",
+                    "value": {
+                      "objectId": "canvas-8I4S618O5l",
+                      "refType": "canvas",
+                      "type": "objref"
+                    }
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "cl-D5BPW5nLU6",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-s8g-gB04hY": {
+        "value": {
+          "objectId": "canvas-SXXoQWY5DS",
+          "refType": "canvas",
+          "type": "objref"
+        }
+      }
+    }
+  }
+]

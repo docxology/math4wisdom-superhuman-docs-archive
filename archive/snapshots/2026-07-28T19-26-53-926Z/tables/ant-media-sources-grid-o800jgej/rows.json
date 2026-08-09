@@ -1,0 +1,1675 @@
+[
+  {
+    "rowId": "i-J8kAPqotEq",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "I don't have the book, so can't really draw claims -- can cite as example of a media used to explore the question though."
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Story",
+          "rowId": "i-zz7ye1BdNv",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "The Red Antway of the Navaho"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Leland C. Wyman"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Colony, Human",
+          "rowId": "i-RlAd7Co4eW",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "1965"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://www.amazon.com/Red-Antway-Navaho-Leland-Wyman/dp/B00BW3O3NO",
+          "type": "urlref",
+          "url": "https://www.amazon.com/Red-Antway-Navaho-Leland-Wyman/dp/B00BW3O3NO"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-Gj-Q5Z3JXA",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": ""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Paper",
+          "rowId": "i-gSz_jhLynk",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "A query regarding the possible hallucinogenic effects of Ant ingestion in South-Central California"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Blackburn T."
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Human",
+          "rowId": "i-e1PwY4l34y",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "1976"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://escholarship.org/uc/item/2gr06809",
+          "type": "urlref",
+          "url": "https://escholarship.org/uc/item/2gr06809"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-95Sd-f8g-A",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "Aunt Hilary, the colony, has a personality. "
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Book",
+          "rowId": "i-wDjFfxuuZr",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": {
+          "name": "5",
+          "rowId": "i-fpFlNv9Mzz",
+          "targetTableId": "grid--O800Jgej_-select-list-c-DRghTQTpVq",
+          "type": "ref"
+        }
+      },
+      "c-OWWXuoYa0A": {
+        "value": {
+          "name": "https://docs.google.com/spreadsheets/d/1-X_ft-emTY7MWhoqPT8w61FG%C3%B6del,%20Escher,%20Bach9TovXmecwaCFIwgjW0mU/edit#gid=0",
+          "type": "urlref",
+          "url": "https://docs.google.com/spreadsheets/d/1-X_ft-emTY7MWhoqPT8w61FG%C3%B6del,%20Escher,%20Bach9TovXmecwaCFIwgjW0mU/edit#gid=0"
+        }
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Douglas Hofstadter"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Colony, Human",
+          "rowId": "i-RlAd7Co4eW",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "1979"
+      },
+      "c-omAD6hoPCJ": {
+        "value": {
+          "name": "9",
+          "rowId": "i-EphzA4p4cn",
+          "targetTableId": "grid--O800Jgej_-select-list-c-omAD6hoPCJ",
+          "type": "ref"
+        }
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": {
+          "name": "1",
+          "rowId": "i-dcR1hFjdZf",
+          "targetTableId": "grid--O800Jgej_-select-list-c-s2XU6Fs8Xl",
+          "type": "ref"
+        }
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach",
+          "type": "urlref",
+          "url": "https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-NVm3JrvpDL",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "Only nestmates and humans make actions. But everyone is in a video game"
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Video Game",
+          "rowId": "i-QrsjFckq-q",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": {
+          "name": "0",
+          "rowId": "i-TDGWexfAbX",
+          "targetTableId": "grid--O800Jgej_-select-list-c-DRghTQTpVq",
+          "type": "ref"
+        }
+      },
+      "c-OWWXuoYa0A": {
+        "value": "SimAnt"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Maxis"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Colony, Human",
+          "rowId": "i-RlAd7Co4eW",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "1991"
+      },
+      "c-omAD6hoPCJ": {
+        "value": {
+          "name": "8",
+          "rowId": "i-eYh7M1czwW",
+          "targetTableId": "grid--O800Jgej_-select-list-c-omAD6hoPCJ",
+          "type": "ref"
+        }
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": {
+          "name": "7",
+          "rowId": "i-8fw14GmSdc",
+          "targetTableId": "grid--O800Jgej_-select-list-c-s2XU6Fs8Xl",
+          "type": "ref"
+        }
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://en.wikipedia.org/wiki/SimAnt",
+          "type": "urlref",
+          "url": "https://en.wikipedia.org/wiki/SimAnt"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-HUpgMwxWbt",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "\"Their whole existence is directed only to the nuptial dance and the fertilisation of the Queens. Their eyes are huge and keen. Their sexual organs, as the fatal day approaches, occupy almost the whole of their body. They are flying amorous projectiles, truly no more than the burning arrows of the winged and blindfold god of Love. And after their day of glory, they are unnecessary and unwanted.(p103)\""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Book",
+          "rowId": "i-wDjFfxuuZr",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Morpho Eugenia"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "A. S. Byatt"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate",
+          "rowId": "i-VXq2DmJdSG",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "1992"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://en.wikipedia.org/wiki/Morpho_Eugenia",
+          "type": "urlref",
+          "url": "https://en.wikipedia.org/wiki/Morpho_Eugenia"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-EcsQhkclET",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": ""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Paper",
+          "rowId": "i-gSz_jhLynk",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Ritual and therapeutic use of “hallucinogenic” harvester ants (Pogonomyrmex) in native south-central California."
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Groark KP."
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Human",
+          "rowId": "i-e1PwY4l34y",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "1996"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://researchers.mq.edu.au/en/publications/ritual-and-therapeutic-use-of-hallucinogenic-harvester-ants-pogon",
+          "type": "urlref",
+          "url": "https://researchers.mq.edu.au/en/publications/ritual-and-therapeutic-use-of-hallucinogenic-harvester-ants-pogon"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-HNTkiyOmgX",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": ""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Movie",
+          "rowId": "i-3gA8wFUhYF",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": {
+          "name": "0",
+          "rowId": "i-TDGWexfAbX",
+          "targetTableId": "grid--O800Jgej_-select-list-c-DRghTQTpVq",
+          "type": "ref"
+        }
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Antz"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Eric Darnell and Tim Johnson"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nesmate, Colony",
+          "rowId": "i-5DVzmsNmfR",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "1998"
+      },
+      "c-omAD6hoPCJ": {
+        "value": {
+          "name": "NA",
+          "rowId": "i-tqHMLjXPHk",
+          "targetTableId": "grid--O800Jgej_-select-list-c-omAD6hoPCJ",
+          "type": "ref"
+        }
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": {
+          "name": "7",
+          "rowId": "i-8fw14GmSdc",
+          "targetTableId": "grid--O800Jgej_-select-list-c-s2XU6Fs8Xl",
+          "type": "ref"
+        }
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://en.wikipedia.org/wiki/Antz",
+          "type": "urlref",
+          "url": "https://en.wikipedia.org/wiki/Antz"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-jpLZqDHJmT",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": ""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Movie",
+          "rowId": "i-3gA8wFUhYF",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": {
+          "name": "0",
+          "rowId": "i-TDGWexfAbX",
+          "targetTableId": "grid--O800Jgej_-select-list-c-DRghTQTpVq",
+          "type": "ref"
+        }
+      },
+      "c-OWWXuoYa0A": {
+        "value": "A Bug's Life"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Pixar Animation Studios"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nesmate, Colony",
+          "rowId": "i-5DVzmsNmfR",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "1998"
+      },
+      "c-omAD6hoPCJ": {
+        "value": {
+          "name": "NA",
+          "rowId": "i-tqHMLjXPHk",
+          "targetTableId": "grid--O800Jgej_-select-list-c-omAD6hoPCJ",
+          "type": "ref"
+        }
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": {
+          "name": "7",
+          "rowId": "i-8fw14GmSdc",
+          "targetTableId": "grid--O800Jgej_-select-list-c-s2XU6Fs8Xl",
+          "type": "ref"
+        }
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://en.wikipedia.org/wiki/A_Bug%27s_Life",
+          "type": "urlref",
+          "url": "https://en.wikipedia.org/wiki/A_Bug%27s_Life"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-pc7hI6U8in",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "\"What is it like to be an ant colony, well it’s not like anything to be an ant colony even if it’s like something to be an individual ant, so people think. Well, stop and think. A brain is composed of billions of neurons, each one of those is a lot stupider than an ant. They happen to be enclosed in a skull and they inter communications are rich but of the same sort that is possible between one ant and another. Now if we open up somebody’s head and we found inside, not neurons but millions of little ants, maybe we would say, oh gosh, maybe it’s not like anything to be this person. Well an ant colony can exhibit a lot of the same unified behaviour a lot of the same protracted projects common caused that an organism inside a skin can exhibit. Now if you think it’s pretty obvious that an ant colony is not something that is itself conscious so that you say, well this any colony is thinking about something, about the weather right now. If you’re quite sure that an ant colony isn’t conscious then you should be at least willing to entertain the hypothesis that a bird is just as unconscious as an ant colony is. Now I’m deliberately setting the bar high, forcing the burden of proof onto those who say, it’s just obvious that say other mammals at least are conscious the way we are.\""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Interview",
+          "rowId": "i-GaLpXCGz5L",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": "Similar to other Dennett posting"
+      },
+      "c-DRghTQTpVq": {
+        "value": {
+          "name": "0",
+          "rowId": "i-TDGWexfAbX",
+          "targetTableId": "grid--O800Jgej_-select-list-c-DRghTQTpVq",
+          "type": "ref"
+        }
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Thought and Experience: Consciousness Explained"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "K. Frankish & D. Dennett"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Colony",
+          "rowId": "i-tJw3cr0XJY",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2004"
+      },
+      "c-omAD6hoPCJ": {
+        "value": {
+          "name": "2",
+          "rowId": "i-CxjtsLH80C",
+          "targetTableId": "grid--O800Jgej_-select-list-c-omAD6hoPCJ",
+          "type": "ref"
+        }
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": {
+          "name": "1",
+          "rowId": "i-dcR1hFjdZf",
+          "targetTableId": "grid--O800Jgej_-select-list-c-s2XU6Fs8Xl",
+          "type": "ref"
+        }
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "http://media-podcast.open.ac.uk/feeds/aa308-thought-experience/transcript/aa308thought13.pdf",
+          "type": "urlref",
+          "url": "http://media-podcast.open.ac.uk/feeds/aa308-thought-experience/transcript/aa308thought13.pdf"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-OwS0FEWJdg",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "\"What is it like to be an ant colony? Nothing, I submit, and I think most would agree intuitively.\""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Blog",
+          "rowId": "i-Mr2Q81Q3xz",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": "Classic denialist Dennett."
+      },
+      "c-DRghTQTpVq": {
+        "value": {
+          "name": "0",
+          "rowId": "i-TDGWexfAbX",
+          "targetTableId": "grid--O800Jgej_-select-list-c-DRghTQTpVq",
+          "type": "ref"
+        }
+      },
+      "c-OWWXuoYa0A": {
+        "value": "2005 : WHAT DO YOU BELIEVE IS TRUE EVEN THOUGH YOU CANNOT PROVE IT?"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Daniel C. Dennett"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Colony",
+          "rowId": "i-VHS2IrBkkR",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2005"
+      },
+      "c-omAD6hoPCJ": {
+        "value": {
+          "name": "2",
+          "rowId": "i-CxjtsLH80C",
+          "targetTableId": "grid--O800Jgej_-select-list-c-omAD6hoPCJ",
+          "type": "ref"
+        }
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": {
+          "name": "1",
+          "rowId": "i-dcR1hFjdZf",
+          "targetTableId": "grid--O800Jgej_-select-list-c-s2XU6Fs8Xl",
+          "type": "ref"
+        }
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://www.edge.org/response-detail/11902",
+          "type": "urlref",
+          "url": "https://www.edge.org/response-detail/11902"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-KbyUI4sSXo",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "Is about Bees, still could be relevAnt though."
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Paper",
+          "rowId": "i-gSz_jhLynk",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Exploring the \"Mind of the Hive\": Embodied Cognition in Sylvia Plath's Bee Poems"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Jessica Lewis Luck"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Need to read it deeper",
+          "rowId": "i-q2d3KLPCgs",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2007"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://www.jstor.org/stable/20455330?seq=1#metadata_info_tab_contents",
+          "type": "urlref",
+          "url": "https://www.jstor.org/stable/20455330?seq=1#metadata_info_tab_contents"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-qT0q5749bi",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "Humans and Insects can make decisions. Colonies don't see to have any emergence or cognition."
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Movie",
+          "rowId": "i-3gA8wFUhYF",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": {
+          "name": "0",
+          "rowId": "i-TDGWexfAbX",
+          "targetTableId": "grid--O800Jgej_-select-list-c-DRghTQTpVq",
+          "type": "ref"
+        }
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Bee Movie"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "DreamWorks Animation"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Colony, Human",
+          "rowId": "i-RlAd7Co4eW",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2007"
+      },
+      "c-omAD6hoPCJ": {
+        "value": {
+          "name": "9",
+          "rowId": "i-EphzA4p4cn",
+          "targetTableId": "grid--O800Jgej_-select-list-c-omAD6hoPCJ",
+          "type": "ref"
+        }
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": {
+          "name": "9",
+          "rowId": "i-22NpeqvMrK",
+          "targetTableId": "grid--O800Jgej_-select-list-c-s2XU6Fs8Xl",
+          "type": "ref"
+        }
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://en.wikipedia.org/wiki/Bee_Movie",
+          "type": "urlref",
+          "url": "https://en.wikipedia.org/wiki/Bee_Movie"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-Vsb2ss7b_1",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "From the C. Parry 2012 citation -- \"Carol Hart’s A history of the novel in ants tells the life-story of a queen ant from egg, through colony-founding, to her death and the new colony of one of her daughters, and it does this via the conceit of chapters rendered as the different stages and genres of the novel form, beginning with ‘Picaresque Ant’, and ending with ‘Magical Realism Ant’. Although these are scientifically accurate ant lives they are anthropomorphised, and although members of the colony frequently deplore expressions of individual identity and inclinations some ants have names, personalities and private hopes. For example, in the Epistolary chapter the heroine, Thrip, exchanges letters with her mother Regina, asking for advice about bringing up baby. Regina, learning that Thrip has named her grub-babies, reprimands her daughter for harbouring “the disturbing notion that your larvae are individuals”(p43). Here the text replicates and reflects on the form and contextual aspects of the epistolary genre, and draws attention to its anthropomorphic act of ventriloquism over the text’s scientifically accurate rendering of ant biology, society and behaviour.\""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Book",
+          "rowId": "i-wDjFfxuuZr",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "A history of the novel in ants"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Carol Hart"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate",
+          "rowId": "i-VXq2DmJdSG",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2010"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://www.amazon.com/History-Novel-Ants-Carol-Hart/dp/0979520436/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=",
+          "type": "urlref",
+          "url": "https://www.amazon.com/History-Novel-Ants-Carol-Hart/dp/0979520436/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr="
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-SDDYtZb-MU",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "From the C. Parry 2012 citation -- \"There’s plainly a point being made about human expansion and behaviour, but it also suggests that ants, although not automatons, are genetically and instinctually obliged to follow this destructive course and that humans aren’t – we may have genetic limitations, but our genes allow us to make a choice. The failure of Supercolony allows a smaller, sustainable colony to flourish. This colony’s narrated as a superorganism, but the component parts of this entity are not mere mindless “specks”. A small number of ants are individualised by their activities – a more adventurous scout, a soldier who fires the first shot in a war, a worker who seems to be lazy by nature – so while these ants are limited to instinctual behaviour this doesn’t mean that every ant’s exactly the same. They have a small range of individual characteristics.\""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Book",
+          "rowId": "i-wDjFfxuuZr",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": {
+          "name": "3",
+          "rowId": "i-b7iInrMq5o",
+          "targetTableId": "grid--O800Jgej_-select-list-c-DRghTQTpVq",
+          "type": "ref"
+        }
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Anthill"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "EO Wilson "
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Colony, Human",
+          "rowId": "i-RlAd7Co4eW",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2010"
+      },
+      "c-omAD6hoPCJ": {
+        "value": {
+          "name": "8",
+          "rowId": "i-eYh7M1czwW",
+          "targetTableId": "grid--O800Jgej_-select-list-c-omAD6hoPCJ",
+          "type": "ref"
+        }
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": {
+          "name": "2",
+          "rowId": "i-agU1r1-mv6",
+          "targetTableId": "grid--O800Jgej_-select-list-c-s2XU6Fs8Xl",
+          "type": "ref"
+        }
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://www.wired.com/2010/04/e-o-wilsons-scientifiction-anthill/",
+          "type": "urlref",
+          "url": "https://www.wired.com/2010/04/e-o-wilsons-scientifiction-anthill/"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-XvUopP7yka",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "Not sure, cannot access. Thankfully Ms Sandra has read the book aloud: https://www.youtube.com/watch?v=1iP-sygQMwU"
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Children's Book",
+          "rowId": "i-yK5mYqizCR",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": "Chilren's book. It is hard work, busy times."
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "What's It Like To Be An Ant?"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Jinny Johnson"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate",
+          "rowId": "i-VXq2DmJdSG",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2011"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://www.amicuspublishing.us/books/amicus-illustrated/what%E2%80%99s-it-be/what%E2%80%99s-it-be-ant",
+          "type": "urlref",
+          "url": "https://www.amicuspublishing.us/books/amicus-illustrated/what%E2%80%99s-it-be/what%E2%80%99s-it-be-ant"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-vjBOETbbNE",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "\"Late Victorian psychologist and myrmecologist Auguste Forel describes snipping body parts off live ants in the course of experiments, but after having qualms about whether this is cruel decides that ants can suffer, although in a vastly lower degree to himself, and stops mutilating them.\"..........\" Johannes Nider was a fifteenth century Dominican friar who published Formicarius or Ant Hill in which he proposed ants as providing a model for an orderly, pious and Christian society – one of many utopian visions for which ants are the source data – and this is in the same book as a treatise on how to recognise witchcraft and punish witches. A more demonic but also more modern and humanist brand of ant metaphor is suggested by the first line of Baudelaire’s 1857 poem ‘Les Sept Vieillards’ (‘The Seven Old Men’), “Fourmillante cité, cité pleine de rêves”, which is followed by a frightening and uncanny encounter with a “sinister” replicating old man. Fourmillante is derived from fourmis, the French for ant, meaning ‘swarming’, but variously translated as “City swarming with people, how full you are of dreams!”,1 “Teeming city”,2 “Swarming city”,3 “Ant-seething city”,4 and “swarming anthill city”. \""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Paper ",
+          "rowId": "i-FcZvZp0IRX",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "“MEN ARE NOT ANTS”: CONSIDERING ANTHROPOMORPHIC ANTS AND PHYSICALIST ANTS IN RECENT FICTION"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Catherine Parry"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate",
+          "rowId": "i-VXq2DmJdSG",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2012"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://www.academia.edu/1802032/_MEN_ARE_NOT_ANTS_CONSIDERING_ANTHROPOMORPHIC_ANTS_AND_PHYSICALIST_ANTS_IN_RECENT_FICTION",
+          "type": "urlref",
+          "url": "https://www.academia.edu/1802032/_MEN_ARE_NOT_ANTS_CONSIDERING_ANTHROPOMORPHIC_ANTS_AND_PHYSICALIST_ANTS_IN_RECENT_FICTION"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-eYluQ60G6I",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "I don't have the book, so can't really draw claims -- can cite as example of a media used to explore the question though."
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Comic book",
+          "rowId": "i--Z8KsgeVuH",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "The Hive"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Charles Burns "
+      },
+      "c-cCFbjbzsAN": {
+        "value": ""
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2012"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://www.amazon.com/Hive-Pantheon-Graphic-Library/dp/0307907880",
+          "type": "urlref",
+          "url": "https://www.amazon.com/Hive-Pantheon-Graphic-Library/dp/0307907880"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-qTPukFS73L",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "I don't have the book, so can't really draw claims -- can cite as example of a media used to explore the question though."
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Comic book",
+          "rowId": "i--Z8KsgeVuH",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Ant Colony"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Michael DeForge"
+      },
+      "c-cCFbjbzsAN": {
+        "value": ""
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2014"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://www.amazon.com/Ant-Colony-Michael-DeForge/dp/177046137X",
+          "type": "urlref",
+          "url": "https://www.amazon.com/Ant-Colony-Michael-DeForge/dp/177046137X"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-X3A7GM-NdC",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "Nestmates can be controlled (hence 3) by Humans. Then colonies have no emergent properties, each ant is told exactly where to go."
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Movie",
+          "rowId": "i-3gA8wFUhYF",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": {
+          "name": "0",
+          "rowId": "i-TDGWexfAbX",
+          "targetTableId": "grid--O800Jgej_-select-list-c-DRghTQTpVq",
+          "type": "ref"
+        }
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Ant-Man"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Marvel Studios"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Colony, Human",
+          "rowId": "i-RlAd7Co4eW",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2015"
+      },
+      "c-omAD6hoPCJ": {
+        "value": {
+          "name": "10",
+          "rowId": "i-wI6iUXXJOj",
+          "targetTableId": "grid--O800Jgej_-select-list-c-omAD6hoPCJ",
+          "type": "ref"
+        }
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": {
+          "name": "3",
+          "rowId": "i-cmx9BFH4Wg",
+          "targetTableId": "grid--O800Jgej_-select-list-c-s2XU6Fs8Xl",
+          "type": "ref"
+        }
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://en.wikipedia.org/wiki/Ant-Man_(film)",
+          "type": "urlref",
+          "url": "https://en.wikipedia.org/wiki/Ant-Man_(film)"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-0j-FU9-RsM",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": ""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Paper ",
+          "rowId": "i-FcZvZp0IRX",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "System, Subsystem, Hive: Boundary Problems in Computational Theories of Consciousness"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Fekete et al"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Colony",
+          "rowId": "i-tJw3cr0XJY",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2016"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01041/full",
+          "type": "urlref",
+          "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01041/full"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-iotbRAGhLA",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "Olfaction is important for ants, they are having chemical experience."
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Blog ",
+          "rowId": "i-0wFpjv3l7-",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "What It’s Like to Be an Ant"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Gayil Nalls"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate",
+          "rowId": "i-VXq2DmJdSG",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2017"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://nautil.us/blog/what-its-like-to-be-an-ant",
+          "type": "urlref",
+          "url": "https://nautil.us/blog/what-its-like-to-be-an-ant"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-PezYSOncDH",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "\"Our biological understanding of ant hills cannot get off the ground without ascribing equal footing to ants and their colonies.\"..........“towards a ‘pataphysics of ant hills.”"
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Blog ",
+          "rowId": "i-0wFpjv3l7-",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": "Similar stance, if a bit more silly, than our Synthese paper."
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Philosophy Phriday: Towards a ‘Pataphysics of Anthills"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Benjamin Blanchard"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Colony",
+          "rowId": "i-tJw3cr0XJY",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2017"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://dailyant.com/2017/06/23/philosophy-phriday-towards-a-pataphysics-of-anthills/",
+          "type": "urlref",
+          "url": "https://dailyant.com/2017/06/23/philosophy-phriday-towards-a-pataphysics-of-anthills/"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-KxaoEZpWC1",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "\"unless the ant colony spends much of his time engaging with other ant colonies, I suspect the ant colony would not be selfaware\""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Interview",
+          "rowId": "i-GaLpXCGz5L",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": "But does he leave the door open for nestmate consciousness, because they interact with other similar agents?"
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Of woodlice and men: A Bayesian account of cognition, life and consciousness"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Friston, Fortier, Friedman"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Colony",
+          "rowId": "i-VHS2IrBkkR",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2018"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://www.aliusresearch.org/bulletin02-fristoninterview.html",
+          "type": "urlref",
+          "url": "https://www.aliusresearch.org/bulletin02-fristoninterview.html"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-gGEjbFUpFL",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "Political claim, not sure if directly relevant to awareness. More like \"You can't map humans to ants\" politically (but if you could, they would be communist) -- so not sure which 1-10 to rate each colum"
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Blog",
+          "rowId": "i-Mr2Q81Q3xz",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Ants are communist as hell"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Oscar Schwartz"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Human",
+          "rowId": "i-e1PwY4l34y",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2018"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://theoutline.com/post/5974/ants-helping-each-other-survive-and-thrive",
+          "type": "urlref",
+          "url": "https://theoutline.com/post/5974/ants-helping-each-other-survive-and-thrive"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-cm6LfrqOPY",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "\"It seems unlikely that we can ever truly understand what it is like to be another mammal–let alone an insect. However, virtual reality technologies are beginning to make it possible to build these thought experiments into actual experiences.\""
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Virtual Reality Game",
+          "rowId": "i-JJ79YjQ8Sh",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": "Visual awareness"
+      },
+      "c-DRghTQTpVq": {
+        "value": ""
+      },
+      "c-OWWXuoYa0A": {
+        "value": "What is it like to be an ant?"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "developedreality_xnn7xp"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate",
+          "rowId": "i-VXq2DmJdSG",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2019"
+      },
+      "c-omAD6hoPCJ": {
+        "value": ""
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": ""
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "http://www.developedreality.com/2019/03/09/gamefied-nature-documentary/",
+          "type": "urlref",
+          "url": "http://www.developedreality.com/2019/03/09/gamefied-nature-documentary/"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-OrO2W6qd8Q",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": {
+          "name": "image.png",
+          "rowId": "bl-n8-YKYHQJ5",
+          "targetTableId": "Global-Blobs",
+          "type": "ref"
+        }
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Image meme",
+          "rowId": "i-Z-1VV33r1Z",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": "Image at left, this is about how human psychological types interact with Ants. Wasn't sure how to give single number rating, since there are multiple perspectives in the meme."
+      },
+      "c-DRghTQTpVq": {
+        "value": {
+          "name": "0",
+          "rowId": "i-TDGWexfAbX",
+          "targetTableId": "grid--O800Jgej_-select-list-c-DRghTQTpVq",
+          "type": "ref"
+        }
+      },
+      "c-OWWXuoYa0A": {
+        "value": "[ Meme ] Enneagram Types and ants 🐜 at home 🏠"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Unknown"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Human",
+          "rowId": "i-kQt1Io_XMW",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "2020"
+      },
+      "c-omAD6hoPCJ": {
+        "value": {
+          "name": "8",
+          "rowId": "i-eYh7M1czwW",
+          "targetTableId": "grid--O800Jgej_-select-list-c-omAD6hoPCJ",
+          "type": "ref"
+        }
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": {
+          "name": "3",
+          "rowId": "i-cmx9BFH4Wg",
+          "targetTableId": "grid--O800Jgej_-select-list-c-s2XU6Fs8Xl",
+          "type": "ref"
+        }
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://www.reddit.com/r/Enneagram/comments/gst03p/meme_enneagram_types_and_ants_at_home/",
+          "type": "urlref",
+          "url": "https://www.reddit.com/r/Enneagram/comments/gst03p/meme_enneagram_types_and_ants_at_home/"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-G1w324zNj8",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": "Nestmates & People can have wisdom -- colony is not directly mentioned"
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Story",
+          "rowId": "i-zz7ye1BdNv",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": {
+          "root": {
+            "children": [
+              {
+                "alignment": "Left",
+                "children": [
+                  {
+                    "text": "Other Talmudic ants: "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "color": "Blue",
+                    "id": "esv-CspKu4uvw3",
+                    "type": "InlineStructuredValue",
+                    "underline": true,
+                    "value": {
+                      "name": "https://www.jewishencyclopedia.com/articles/1570-ant-in-jewish-literature-the",
+                      "type": "urlref",
+                      "url": "https://www.jewishencyclopedia.com/articles/1570-ant-in-jewish-literature-the"
+                    }
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "cl-meaSgwGf4J",
+                "lineLevel": 0,
+                "style": "Paragraph",
+                "type": "Line"
+              }
+            ]
+          },
+          "type": "slate"
+        }
+      },
+      "c-DRghTQTpVq": {
+        "value": {
+          "name": "NA",
+          "rowId": "i-zdjBqOdZoo",
+          "targetTableId": "grid--O800Jgej_-select-list-c-DRghTQTpVq",
+          "type": "ref"
+        }
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Valley of the ants"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Solomon"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate, Colony, Human",
+          "rowId": "i-RlAd7Co4eW",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "Ancient"
+      },
+      "c-omAD6hoPCJ": {
+        "value": {
+          "name": "10",
+          "rowId": "i-wI6iUXXJOj",
+          "targetTableId": "grid--O800Jgej_-select-list-c-omAD6hoPCJ",
+          "type": "ref"
+        }
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": {
+          "name": "10",
+          "rowId": "i-yyfaZxJkbM",
+          "targetTableId": "grid--O800Jgej_-select-list-c-s2XU6Fs8Xl",
+          "type": "ref"
+        }
+      },
+      "c-w1Ngwfs_WA": {
+        "value": {
+          "name": "https://en.wikipedia.org/wiki/Valley_of_the_ants",
+          "type": "urlref",
+          "url": "https://en.wikipedia.org/wiki/Valley_of_the_ants"
+        }
+      }
+    }
+  },
+  {
+    "rowId": "i-Z40xk947F3",
+    "values": {
+      "c-5a4l6PFCjZ": {
+        "value": {
+          "name": "image.png",
+          "rowId": "bl-kWpo7O6iGH",
+          "targetTableId": "Global-Blobs",
+          "type": "ref"
+        }
+      },
+      "c-5hxrpO1Q78": {
+        "value": {
+          "name": "Comic",
+          "rowId": "i-DWgvZaGzJG",
+          "targetTableId": "grid--O800Jgej_-select-list-c-5hxrpO1Q78",
+          "type": "ref"
+        }
+      },
+      "c-6PcEbahZaq": {
+        "value": ""
+      },
+      "c-DRghTQTpVq": {
+        "value": {
+          "name": "0",
+          "rowId": "i-TDGWexfAbX",
+          "targetTableId": "grid--O800Jgej_-select-list-c-DRghTQTpVq",
+          "type": "ref"
+        }
+      },
+      "c-OWWXuoYa0A": {
+        "value": "Farside Comic"
+      },
+      "c-XG2rDpBg5V": {
+        "value": "Gary Larson"
+      },
+      "c-cCFbjbzsAN": {
+        "value": {
+          "name": "Nestmate",
+          "rowId": "i-VXq2DmJdSG",
+          "targetTableId": "grid--O800Jgej_-select-list-c-cCFbjbzsAN",
+          "type": "ref"
+        }
+      },
+      "c-kzoMXLsOCJ": {
+        "value": "Not known"
+      },
+      "c-omAD6hoPCJ": {
+        "value": {
+          "name": "NA",
+          "rowId": "i-tqHMLjXPHk",
+          "targetTableId": "grid--O800Jgej_-select-list-c-omAD6hoPCJ",
+          "type": "ref"
+        }
+      },
+      "c-s2XU6Fs8Xl": {
+        "value": {
+          "name": "7",
+          "rowId": "i-8fw14GmSdc",
+          "targetTableId": "grid--O800Jgej_-select-list-c-s2XU6Fs8Xl",
+          "type": "ref"
+        }
+      },
+      "c-w1Ngwfs_WA": {
+        "value": "n/a"
+      }
+    }
+  }
+]

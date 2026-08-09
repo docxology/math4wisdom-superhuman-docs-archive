@@ -1,0 +1,118 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-oLtE2_Sy3a",
+      "commentThreads": [],
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_su9rdBm7](https://coda.io/d/_d0SvdI3KSto/_su9rdBm7) \n\n  \n[https://www.math4wisdom.com/wiki/KnowledgeEngineering/Welcome](https://www.math4wisdom.com/wiki/KnowledgeEngineering/Welcome)\n\n——\n\n---\n\nI have set up a Knowledge Engineering subwiki here:  \n[https://www.math4wisdom.com/wiki/KnowledgeEngineering/Welcome](https://www.math4wisdom.com/wiki/KnowledgeEngineering/Welcome)\n\nThis is a good place for you to practice and set up as you think best.  At the rest of the wiki you can make changes using your best judgement and basically we will learn to collaborate, which I am looking forward to.\n\nWe can see the pages you are changing at the \"Recently changed pages\" on the main sidebar.\n\n[https://www.math4wisdom.com/wiki/KnowledgeEngineering/Welcome](https://www.math4wisdom.com/wiki/KnowledgeEngineering/Welcome)\n\n\n\nAlso see: \n\n[http://www.ms.lt/](http://www.ms.lt/)",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-oLtE2_Sy3a",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-oLtE2_Sy3a",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-oLtE2_Sy3a",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-oLtE2_Sy3a",
+    "canvasUri": "canvases/canvas-oLtE2_Sy3a",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-PcDq9rdBm7",
+        "canvasUri": "canvases/canvas-PcDq9rdBm7",
+        "pageId": "section-PcDq9rdBm7",
+        "pageUri": "pages/section-PcDq9rdBm7",
+        "title": "Math4Wisdom Embed Wiki"
+      },
+      {
+        "canvasId": "canvas-gfxneY_bZp",
+        "canvasUri": "canvases/canvas-gfxneY_bZp",
+        "pageId": "section-gfxneY_bZp",
+        "pageUri": "pages/section-gfxneY_bZp",
+        "title": "Vocabulary"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708215657.425,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "wikimapia",
+    "isHidden": false,
+    "pageId": "section-oLtE2_Sy3a",
+    "pageType": "canvas",
+    "pageUri": "pages/section-oLtE2_Sy3a",
+    "parentPageUri": "pages/section-QrBkgFmpP_",
+    "position": 9,
+    "subtitle": "",
+    "title": "Wiki",
+    "updatedAt": 1709136000.918,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-oLtE2_Sy3a",
+    "canvasUri": "canvases/canvas-oLtE2_Sy3a",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-PcDq9rdBm7",
+        "canvasUri": "canvases/canvas-PcDq9rdBm7",
+        "pageId": "section-PcDq9rdBm7",
+        "pageUri": "pages/section-PcDq9rdBm7",
+        "title": "Math4Wisdom Embed Wiki"
+      },
+      {
+        "canvasId": "canvas-gfxneY_bZp",
+        "canvasUri": "canvases/canvas-gfxneY_bZp",
+        "pageId": "section-gfxneY_bZp",
+        "pageUri": "pages/section-gfxneY_bZp",
+        "title": "Vocabulary"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708215657.425,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "wikimapia",
+    "isHidden": false,
+    "pageId": "section-oLtE2_Sy3a",
+    "pageType": "canvas",
+    "pageUri": "pages/section-oLtE2_Sy3a",
+    "parentPageUri": "pages/section-QrBkgFmpP_",
+    "position": 9,
+    "subtitle": "",
+    "title": "Wiki",
+    "updatedAt": 1709136000.918,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

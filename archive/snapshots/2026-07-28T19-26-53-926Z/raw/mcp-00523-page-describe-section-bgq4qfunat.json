@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-bGQ4QfuNAT"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-bGQ4QfuNAT\",\"canvasId\":\"canvas-bGQ4QfuNAT\",\"title\":\"Wax or the Discovery of Television Among the Bees\",\"canvasUri\":\"canvases/canvas-bGQ4QfuNAT\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-bGQ4QfuNAT\",\"parentPageUri\":\"pages/section-Cs9A2w6nPA\",\"position\":297,\"icon\":\"bee\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1776953295.472,\"updatedAt\":1777239605.191,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

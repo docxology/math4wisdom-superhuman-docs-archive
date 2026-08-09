@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-A2FsRfidAo"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-A2FsRfidAo\",\"canvasId\":\"canvas-A2FsRfidAo\",\"title\":\"USA OS\",\"canvasUri\":\"canvases/canvas-A2FsRfidAo\",\"childPageOutlines\":[{\"pageId\":\"section-P3tMS5s9Cx\",\"canvasId\":\"canvas-P3tMS5s9Cx\",\"title\":\"USA 250\",\"canvasUri\":\"canvases/canvas-P3tMS5s9Cx\",\"pageUri\":\"pages/section-P3tMS5s9Cx\"},{\"pageId\":\"section-_oHk1_lyry\",\"canvasId\":\"canvas-_oHk1_lyry\",\"title\":\"The Next 250\",\"canvasUri\":\"canvases/canvas-_oHk1_lyry\",\"pageUri\":\"pages/section-_oHk1_lyry\"},{\"pageId\":\"section-uVUXG8aRQP\",\"canvasId\":\"canvas-uVUXG8aRQP\",\"title\":\"Rising Sun\",\"canvasUri\":\"canvases/canvas-uVUXG8aRQP\",\"pageUri\":\"pages/section-uVUXG8aRQP\"},{\"pageId\":\"section-4HmS73elq5\",\"canvasId\":\"canvas-4HmS73elq5\",\"title\":\"US Bees\",\"canvasUri\":\"canvases/canvas-4HmS73elq5\",\"pageUri\":\"pages/section-4HmS73elq5\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-A2FsRfidAo\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":90,\"icon\":\"android-os\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1727276516.085,\"updatedAt\":1751990146.393,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

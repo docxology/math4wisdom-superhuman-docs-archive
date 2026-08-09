@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-sUhqM-62GQ"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-sUhqM-62GQ\",\"canvasId\":\"canvas-sUhqM-62GQ\",\"title\":\"Ruscadia\",\"canvasUri\":\"canvases/canvas-sUhqM-62GQ\",\"childPageOutlines\":[{\"pageId\":\"section-JrHNzCgavH\",\"canvasId\":\"canvas-JrHNzCgavH\",\"title\":\"Bering Straight\",\"canvasUri\":\"canvases/canvas-JrHNzCgavH\",\"pageUri\":\"pages/section-JrHNzCgavH\"},{\"pageId\":\"section-G8DZnrwoF1\",\"canvasId\":\"canvas-G8DZnrwoF1\",\"title\":\".pyc file\",\"canvasUri\":\"canvases/canvas-G8DZnrwoF1\",\"pageUri\":\"pages/section-G8DZnrwoF1\"},{\"pageId\":\"section-22Z8uDQpe9\",\"canvasId\":\"canvas-22Z8uDQpe9\",\"title\":\"Peace Blanket\",\"canvasUri\":\"canvases/canvas-22Z8uDQpe9\",\"pageUri\":\"pages/section-22Z8uDQpe9\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-sUhqM-62GQ\",\"parentPageUri\":\"pages/section-qR8t6voMRD\",\"position\":184,\"icon\":\"treehouse\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1748372996.298,\"updatedAt\":1748545108.817,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

@@ -1,0 +1,116 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-ZU4QH7QuTB",
+      "commentThreads": [],
+      "content": "[https://coda.io/d/_d0SvdI3KSto/_surEV_mo](https://coda.io/d/_d0SvdI3KSto/_surEV_mo): [https://github.com/docxology/timeline_generator](https://github.com/docxology/timeline_generator)  \n[https://coda.io/d/_d0SvdI3KSto/_suRqsJU7](https://coda.io/d/_d0SvdI3KSto/_suRqsJU7): <formula id=\"f-H3Z2p9VDgr\">3/3/2026</formula>  \nVideo walkthrough: [https://www.youtube.com/watch?v=I7IrYbVmZqI](https://www.youtube.com/watch?v=I7IrYbVmZqI)\n\n---\n\n<columns>\n\n\n\n\n\n\n|||\n\n\n\n\n</columns>",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-ZU4QH7QuTB",
+          "formula": "[3/3/2026]",
+          "formulaUri": "canvases/canvas-ZU4QH7QuTB/formulas/f-H3Z2p9VDgr",
+          "name": "##_hidden_control_## 174",
+          "pageUri": "pages/section-ZU4QH7QuTB",
+          "value": {
+            "identifier": "i-c4Y3hduGST",
+            "name": "3/3/2026",
+            "objectId": "grid-O8e6yxDvz5",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-ZU4QH7QuTB",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-ZU4QH7QuTB",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-ZU4QH7QuTB",
+          "formula": "[3/3/2026]",
+          "formulaUri": "canvases/canvas-ZU4QH7QuTB/formulas/f-H3Z2p9VDgr",
+          "name": "##_hidden_control_## 174",
+          "pageUri": "pages/section-ZU4QH7QuTB",
+          "value": {
+            "identifier": "i-c4Y3hduGST",
+            "name": "3/3/2026",
+            "objectId": "grid-O8e6yxDvz5",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-ZU4QH7QuTB",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-ZU4QH7QuTB",
+    "canvasUri": "canvases/canvas-ZU4QH7QuTB",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1772579580.04,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "timeline-slider",
+    "isHidden": false,
+    "pageId": "section-ZU4QH7QuTB",
+    "pageType": "canvas",
+    "pageUri": "pages/section-ZU4QH7QuTB",
+    "parentPageUri": "pages/section-9TRHaEEPT0",
+    "position": 287,
+    "subtitle": "",
+    "title": "Timeline Generator",
+    "updatedAt": 1772582114.322,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-ZU4QH7QuTB",
+    "canvasUri": "canvases/canvas-ZU4QH7QuTB",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1772579580.04,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "timeline-slider",
+    "isHidden": false,
+    "pageId": "section-ZU4QH7QuTB",
+    "pageType": "canvas",
+    "pageUri": "pages/section-ZU4QH7QuTB",
+    "parentPageUri": "pages/section-9TRHaEEPT0",
+    "position": 287,
+    "subtitle": "",
+    "title": "Timeline Generator",
+    "updatedAt": 1772582114.322,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

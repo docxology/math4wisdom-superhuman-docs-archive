@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-CJeFTEdstt"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-CJeFTEdstt\",\"pageUri\":\"pages/section-CJeFTEdstt\",\"content\":\"[https://docs.google.com/presentation/d/15O_ghjlwuXfY44Pjjhha-DSJQuvpO5bYEzNkrNbdY8Q/edit#slide=id.p](https://docs.google.com/presentation/d/15O_ghjlwuXfY44Pjjhha-DSJQuvpO5bYEzNkrNbdY8Q/edit#slide=id.p)\\n\\nSlides gSlides\\n\\n \\n\\n\\n\\nOODA Loop:\\n\\nhttps://youtu.be/pYleeDb-B5E\\n\\nCognitive Frameworks from General Systems Theory @ [Synergetics on the Web](https://grunch.net/synergetics):\\n\\n\\n\\n\\n\\n\\n\\nLinks: [ [1](https://grunch.net/synergetics/gst1.html) ] [ [2](https://grunch.net/synergetics/gst2.html) ] [ [3](https://grunch.net/synergetics/gst3.html) ]\\n\\n\\n\\n\\n\\nHere is part of [AK’s answer](https://www.freelists.org/post/math4wisdom/Data-flow-for-building-tables-of-conceptual-frameworks,5) re KU’s question:  \\n  \\n“Is Wondrous Wisdom (WW) a Cognitive Framework (CF)?”\\n\\nAK:\\n\\nWhat, would I say, is Wondrous Wisdom?  It is my own private language, which for me is a language of wisdom, intended as a language of absolute truth.  I am organizing Math 4 Wisdom with the hope that this private language could evolve into a shared language for an investigatory community of absolute truth.  In that sense, Math 4 Wisdom is a language club for learning this language.\\n\\nBy language, here I do not mean a natural language. Wondrous Wisdom is not a language of words. It is a language of human experience, its perspectives, attitudes, stances, modes, concerns, all of which can be found in infants, in the deaf, none of which is fundamentally verbal.  So for learning and practicing Wondrous Wisdom, it is important to learn to stop thinking in terms of words.  We all have practice thinking without words in activities such as music, chess, sports, math, gardening, driving, cooking, painting, interacting emotionally, listening to our moods, people watching.  When we appreciate this, then we can realize that even when we speak, our attention may be focused not on our stream of words but on our stream of underlying concepts, and especially, the relationships between these concepts, and how they express our perspectives, attitudes, stances, modes, concerns, limitations, strategies, tactics, pragmatics, intents, actions, and especially, our choices, even our editorial decisions  The underlying stream often may have little to do with the particular words used to convey them.  Wondrous Wisdom is an alternative language that attempts to directly describe our internal life without recourse to words. \\n\\nWords having nothing to do with absolute truth.  Words are conveniences, so convenient that they can be very misleading, as if they were what actually mattered.  Words are the plastic wrap, the packaging in the supermarket in the jungle of life.  Words are like money, the unit of currency which itself has no intrinsic value.  Words have nothing to say but whatever we give them to say.\\n\\n[ KU:  these debates continue elsewhere such as in [the listserv archive](https://www.freelists.org/archive/math4wisdom/) and in [my philosophy blog](https://coffeeshopsnet.blogspot.com/2024/04/from-codacombs.html)]\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[{\"controlUri\":\"controls/ctrl-FU_KnLD2J8\",\"name\":\"button 2\",\"canvasUri\":\"canvases/canvas-CJeFTEdstt\",\"pageUri\":\"pages/section-CJeFTEdstt\",\"value\":\"\",\"type\":\"button\"}],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

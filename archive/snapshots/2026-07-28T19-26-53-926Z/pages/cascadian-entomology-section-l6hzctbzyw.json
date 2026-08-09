@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-L6HzctBzyW",
+      "commentThreads": [],
+      "content": "<columns>\n[https://coda.io/d/_d0SvdI3KSto/_suZ04FNc](https://coda.io/d/_d0SvdI3KSto/_suZ04FNc) \n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-L6HzctBzyW",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-L6HzctBzyW",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-L6HzctBzyW",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-L6HzctBzyW",
+    "canvasUri": "canvases/canvas-L6HzctBzyW",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1749579908.115,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "butterfly",
+    "isHidden": false,
+    "pageId": "section-L6HzctBzyW",
+    "pageType": "canvas",
+    "pageUri": "pages/section-L6HzctBzyW",
+    "parentPageUri": "pages/section-qR8t6voMRD",
+    "position": 204,
+    "subtitle": "",
+    "title": "Cascadian Entomology",
+    "updatedAt": 1750170356.961,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-L6HzctBzyW",
+    "canvasUri": "canvases/canvas-L6HzctBzyW",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1749579908.115,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "butterfly",
+    "isHidden": false,
+    "pageId": "section-L6HzctBzyW",
+    "pageType": "canvas",
+    "pageUri": "pages/section-L6HzctBzyW",
+    "parentPageUri": "pages/section-qR8t6voMRD",
+    "position": 204,
+    "subtitle": "",
+    "title": "Cascadian Entomology",
+    "updatedAt": 1750170356.961,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-9TRHaEEPT0",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-9TRHaEEPT0",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-zIAw35Dbo7",
+              "createdAt": 1713380428.654,
+              "reactions": [],
+              "text": "Develop this into table/categories of types of /_subpHvLx ",
+              "userId": 1119613
+            },
+            {
+              "authorEmail": "kirby.urner@gmail.com",
+              "authorName": "kirby urner",
+              "commentUri": "comments/i-X2Xqjshsrf",
+              "createdAt": 1713577125.505,
+              "reactions": [],
+              "text": "Scheduling / Time Management",
+              "userId": 1271333
+            },
+            {
+              "authorEmail": "kirby.urner@gmail.com",
+              "authorName": "kirby urner",
+              "commentUri": "comments/i--J3yhR6SjS",
+              "createdAt": 1713579665.648,
+              "reactions": [],
+              "text": "Where to put AI and what scope? Several tools already in use.",
+              "userId": 1271333
+            },
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-STSmHdL9Rd",
+              "createdAt": 1762290178.952,
+              "reactions": [],
+              "text": "Added \n/_suPj4JCn \n/_su49pE5w ",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-9TRHaEEPT0",
+          "reference": {
+            "text": "Drawing\nVideo and Podcast Making: see Audio-Visual\n  (listed at math4wisdom wiki)\n \n \nAnimation and Ray Tracing:   ,",
+            "type": "text"
+          },
+          "state": "Resolved",
+          "threadUri": "threads/r-efBnt9zi1I"
+        }
+      ],
+      "content": "For knowledge engineering, I think it is meaningful to have:\n\n- a database of ways of figuring things out (can be [https://coda.io/d/_d0SvdI3KSto/_suTEdstt](https://coda.io/d/_d0SvdI3KSto/_suTEdstt), cognitive models, epistemic portraits, etc). \n\n- a collection of systematizations for all manner of disciplines and personalities (*can be* *[https://coda.io/d/_d0SvdI3KSto/_sujqBh-1](https://coda.io/d/_d0SvdI3KSto/_sujqBh-1)* *and beyond*). \n\nI am curious to know how useful or meaningful or helpful this is.  \n\nIf it is fruitful, then we can work together to improve these sketches so that we are happy with them.  In doing so, we have a basis for appreciating the reality of basic structures - the twosome (relating the conscious and the unconscious), the threesome (the learning cycle), the foursome (levels of knowledge: whether, what, how, why) as well as more sophisticated structures of the form 4+4 and 4+6.  \n\nThis makes Wondrous Wisdom socially real.\n\nDrawing\n\nVideo and Podcast Making: see Audio-Visual\n\n[Diagramming](http://dia-installer.de) (listed at math4wisdom wiki)\n\n[Python](https://python.org)\n\n[JupyterLab](https://jupyter.org)\n\nAnimation and Ray Tracing:  [Blender](https://www.blender.org), [POV-Ray](https://povray.org)\n\n\n\n\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-9TRHaEEPT0",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-9TRHaEEPT0",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-9TRHaEEPT0",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-zIAw35Dbo7",
+              "createdAt": 1713380428.654,
+              "reactions": [],
+              "text": "Develop this into table/categories of types of /_subpHvLx ",
+              "userId": 1119613
+            },
+            {
+              "authorEmail": "kirby.urner@gmail.com",
+              "authorName": "kirby urner",
+              "commentUri": "comments/i-X2Xqjshsrf",
+              "createdAt": 1713577125.505,
+              "reactions": [],
+              "text": "Scheduling / Time Management",
+              "userId": 1271333
+            },
+            {
+              "authorEmail": "kirby.urner@gmail.com",
+              "authorName": "kirby urner",
+              "commentUri": "comments/i--J3yhR6SjS",
+              "createdAt": 1713579665.648,
+              "reactions": [],
+              "text": "Where to put AI and what scope? Several tools already in use.",
+              "userId": 1271333
+            },
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-STSmHdL9Rd",
+              "createdAt": 1762290178.952,
+              "reactions": [],
+              "text": "Added \n/_suPj4JCn \n/_su49pE5w ",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-9TRHaEEPT0",
+          "reference": {
+            "text": "Drawing\nVideo and Podcast Making: see Audio-Visual\n  (listed at math4wisdom wiki)\n \n \nAnimation and Ray Tracing:   ,",
+            "type": "text"
+          },
+          "state": "Resolved",
+          "threadUri": "threads/r-efBnt9zi1I"
+        }
+      ],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-9TRHaEEPT0",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-9TRHaEEPT0",
+    "canvasUri": "canvases/canvas-9TRHaEEPT0",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-oa2JSWQ4PS",
+        "canvasUri": "canvases/canvas-oa2JSWQ4PS",
+        "pageId": "section-oa2JSWQ4PS",
+        "pageUri": "pages/section-oa2JSWQ4PS",
+        "title": "Coda"
+      },
+      {
+        "canvasId": "canvas-3UNvIIpGZJ",
+        "canvasUri": "canvases/canvas-3UNvIIpGZJ",
+        "pageId": "section-3UNvIIpGZJ",
+        "pageUri": "pages/section-3UNvIIpGZJ",
+        "title": "Cursor"
+      },
+      {
+        "canvasId": "canvas-42cENJHR1m",
+        "canvasUri": "canvases/canvas-42cENJHR1m",
+        "pageId": "section-42cENJHR1m",
+        "pageUri": "pages/section-42cENJHR1m",
+        "title": "Telegram"
+      },
+      {
+        "canvasId": "canvas-41bsF8KaMS",
+        "canvasUri": "canvases/canvas-41bsF8KaMS",
+        "pageId": "section-41bsF8KaMS",
+        "pageUri": "pages/section-41bsF8KaMS",
+        "title": "Obsidian"
+      },
+      {
+        "canvasId": "canvas-8t3ORFjdUk",
+        "canvasUri": "canvases/canvas-8t3ORFjdUk",
+        "pageId": "section-8t3ORFjdUk",
+        "pageUri": "pages/section-8t3ORFjdUk",
+        "title": "Python"
+      },
+      {
+        "canvasId": "canvas-h9J7Pj4JCn",
+        "canvasUri": "canvases/canvas-h9J7Pj4JCn",
+        "pageId": "section-h9J7Pj4JCn",
+        "pageUri": "pages/section-h9J7Pj4JCn",
+        "title": "Scheduling / Time Management"
+      },
+      {
+        "canvasId": "canvas-vZB449pE5w",
+        "canvasUri": "canvases/canvas-vZB449pE5w",
+        "pageId": "section-vZB449pE5w",
+        "pageUri": "pages/section-vZB449pE5w",
+        "title": "AI as a tool"
+      },
+      {
+        "canvasId": "canvas-ZU4QH7QuTB",
+        "canvasUri": "canvases/canvas-ZU4QH7QuTB",
+        "pageId": "section-ZU4QH7QuTB",
+        "pageUri": "pages/section-ZU4QH7QuTB",
+        "title": "Timeline Generator"
+      },
+      {
+        "canvasId": "canvas-6VLuqR8kMm",
+        "canvasUri": "canvases/canvas-6VLuqR8kMm",
+        "pageId": "section-6VLuqR8kMm",
+        "pageUri": "pages/section-6VLuqR8kMm",
+        "title": "Steganography"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708283665.322,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "engine",
+    "isHidden": false,
+    "pageId": "section-9TRHaEEPT0",
+    "pageType": "canvas",
+    "pageUri": "pages/section-9TRHaEEPT0",
+    "parentPageUri": "pages/section-S2dtbpHvLx",
+    "position": 15,
+    "subtitle": "",
+    "title": "Knowledge Tools",
+    "updatedAt": 1728304185.692,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-9TRHaEEPT0",
+    "canvasUri": "canvases/canvas-9TRHaEEPT0",
+    "childPageOutlines": [
+      {
+        "canvasId": "canvas-oa2JSWQ4PS",
+        "canvasUri": "canvases/canvas-oa2JSWQ4PS",
+        "pageId": "section-oa2JSWQ4PS",
+        "pageUri": "pages/section-oa2JSWQ4PS",
+        "title": "Coda"
+      },
+      {
+        "canvasId": "canvas-3UNvIIpGZJ",
+        "canvasUri": "canvases/canvas-3UNvIIpGZJ",
+        "pageId": "section-3UNvIIpGZJ",
+        "pageUri": "pages/section-3UNvIIpGZJ",
+        "title": "Cursor"
+      },
+      {
+        "canvasId": "canvas-42cENJHR1m",
+        "canvasUri": "canvases/canvas-42cENJHR1m",
+        "pageId": "section-42cENJHR1m",
+        "pageUri": "pages/section-42cENJHR1m",
+        "title": "Telegram"
+      },
+      {
+        "canvasId": "canvas-41bsF8KaMS",
+        "canvasUri": "canvases/canvas-41bsF8KaMS",
+        "pageId": "section-41bsF8KaMS",
+        "pageUri": "pages/section-41bsF8KaMS",
+        "title": "Obsidian"
+      },
+      {
+        "canvasId": "canvas-8t3ORFjdUk",
+        "canvasUri": "canvases/canvas-8t3ORFjdUk",
+        "pageId": "section-8t3ORFjdUk",
+        "pageUri": "pages/section-8t3ORFjdUk",
+        "title": "Python"
+      },
+      {
+        "canvasId": "canvas-h9J7Pj4JCn",
+        "canvasUri": "canvases/canvas-h9J7Pj4JCn",
+        "pageId": "section-h9J7Pj4JCn",
+        "pageUri": "pages/section-h9J7Pj4JCn",
+        "title": "Scheduling / Time Management"
+      },
+      {
+        "canvasId": "canvas-vZB449pE5w",
+        "canvasUri": "canvases/canvas-vZB449pE5w",
+        "pageId": "section-vZB449pE5w",
+        "pageUri": "pages/section-vZB449pE5w",
+        "title": "AI as a tool"
+      },
+      {
+        "canvasId": "canvas-ZU4QH7QuTB",
+        "canvasUri": "canvases/canvas-ZU4QH7QuTB",
+        "pageId": "section-ZU4QH7QuTB",
+        "pageUri": "pages/section-ZU4QH7QuTB",
+        "title": "Timeline Generator"
+      },
+      {
+        "canvasId": "canvas-6VLuqR8kMm",
+        "canvasUri": "canvases/canvas-6VLuqR8kMm",
+        "pageId": "section-6VLuqR8kMm",
+        "pageUri": "pages/section-6VLuqR8kMm",
+        "title": "Steganography"
+      }
+    ],
+    "coverPhoto": null,
+    "createdAt": 1708283665.322,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "engine",
+    "isHidden": false,
+    "pageId": "section-9TRHaEEPT0",
+    "pageType": "canvas",
+    "pageUri": "pages/section-9TRHaEEPT0",
+    "parentPageUri": "pages/section-S2dtbpHvLx",
+    "position": 15,
+    "subtitle": "",
+    "title": "Knowledge Tools",
+    "updatedAt": 1728304185.692,
+    "updatedBy": {
+      "email": "kirby.urner@gmail.com",
+      "name": "kirby urner",
+      "userId": 1271333
+    }
+  }
+}

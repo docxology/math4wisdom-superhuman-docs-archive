@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-qid0QAq68t",
+      "commentThreads": [],
+      "content": "<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-qid0QAq68t",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-qid0QAq68t",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-qid0QAq68t",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-qid0QAq68t",
+    "canvasUri": "canvases/canvas-qid0QAq68t",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1730228155.02,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "database-export",
+    "isHidden": false,
+    "pageId": "section-qid0QAq68t",
+    "pageType": "canvas",
+    "pageUri": "pages/section-qid0QAq68t",
+    "parentPageUri": "pages/section-9GD8lN9Ck7",
+    "position": 100,
+    "subtitle": "",
+    "title": "Struppi Image Export",
+    "updatedAt": 1730228788.919,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-qid0QAq68t",
+    "canvasUri": "canvases/canvas-qid0QAq68t",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1730228155.02,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "database-export",
+    "isHidden": false,
+    "pageId": "section-qid0QAq68t",
+    "pageType": "canvas",
+    "pageUri": "pages/section-qid0QAq68t",
+    "parentPageUri": "pages/section-9GD8lN9Ck7",
+    "position": 100,
+    "subtitle": "",
+    "title": "Struppi Image Export",
+    "updatedAt": 1730228788.919,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

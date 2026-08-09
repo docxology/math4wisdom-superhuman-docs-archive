@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-pCXltoQOMk"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-pCXltoQOMk\",\"pageUri\":\"pages/section-pCXltoQOMk\",\"content\":\"\\n\\n<columns>\\n\\n\\n\\n\\n\\n\\n[https://coda.io/d/_d0SvdI3KSto/_sukEMePc](https://coda.io/d/_d0SvdI3KSto/_sukEMePc)\\n\\n|||\\n\\n[https://coda.io/d/_d0SvdI3KSto/_sukEMePc](https://coda.io/d/_d0SvdI3KSto/_sukEMePc)\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\nPure [https://coda.io/d/_d0SvdI3KSto/_suo0BIkP](https://coda.io/d/_d0SvdI3KSto/_suo0BIkP) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

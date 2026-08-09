@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-erfTCsR2G3"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-erfTCsR2G3\",\"pageUri\":\"pages/section-erfTCsR2G3\",\"content\":\"<columns>\\n[https://coda.io/d/_d0SvdI3KSto/_suUypYyH](https://coda.io/d/_d0SvdI3KSto/_suUypYyH) \\n\\n[https://coda.io/d/_d0SvdI3KSto/_suXtZKEK](https://coda.io/d/_d0SvdI3KSto/_suXtZKEK) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\nGrapes of [https://coda.io/d/_d0SvdI3KSto/_su-YQoTU](https://coda.io/d/_d0SvdI3KSto/_su-YQoTU) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n[https://coda.io/d/_d0SvdI3KSto/_sue_CQH-](https://coda.io/d/_d0SvdI3KSto/_sue_CQH-) / [https://coda.io/d/_d0SvdI3KSto/_suIDMiaB](https://coda.io/d/_d0SvdI3KSto/_suIDMiaB) \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

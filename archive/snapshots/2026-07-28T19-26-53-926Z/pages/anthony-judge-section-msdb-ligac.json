@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-MSdB-liGAC",
+      "commentThreads": [],
+      "content": "[https://www.laetusinpraesens.org/](https://www.laetusinpraesens.org/)\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-MSdB-liGAC",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-MSdB-liGAC",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-MSdB-liGAC",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-MSdB-liGAC",
+    "canvasUri": "canvases/canvas-MSdB-liGAC",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1744208506.172,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "court-judge",
+    "isHidden": false,
+    "pageId": "section-MSdB-liGAC",
+    "pageType": "canvas",
+    "pageUri": "pages/section-MSdB-liGAC",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 175,
+    "subtitle": "",
+    "title": "Anthony Judge",
+    "updatedAt": 1744208522.69,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-MSdB-liGAC",
+    "canvasUri": "canvases/canvas-MSdB-liGAC",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1744208506.172,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "court-judge",
+    "isHidden": false,
+    "pageId": "section-MSdB-liGAC",
+    "pageType": "canvas",
+    "pageUri": "pages/section-MSdB-liGAC",
+    "parentPageUri": "pages/section-5Z43Od6Ku2",
+    "position": 175,
+    "subtitle": "",
+    "title": "Anthony Judge",
+    "updatedAt": 1744208522.69,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

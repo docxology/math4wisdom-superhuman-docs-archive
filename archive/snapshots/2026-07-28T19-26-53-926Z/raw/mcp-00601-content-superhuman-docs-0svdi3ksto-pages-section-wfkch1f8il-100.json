@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-wfKcH1F8iL"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-wfKcH1F8iL\",\"pageUri\":\"pages/section-wfKcH1F8iL\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-wfKcH1F8iL/formulas/f-wZue7fUOuE\",\"name\":\"##_hidden_control_## 86\",\"canvasUri\":\"canvases/canvas-wfKcH1F8iL\",\"pageUri\":\"pages/section-wfKcH1F8iL\",\"value\":{\"type\":\"ref\",\"objectId\":\"grid-ye3_3aTyhr\",\"identifier\":\"i-H4Fd05auaH\",\"name\":\"Foureyes\"},\"formula\":\"Foureyes\"}],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-wfKcH1F8iL\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-gw4ggmI91b\",\"createdAt\":1738609088.63,\"reactions\":[],\"text\":\"FYI Andrius Kulikauskas I have added questions here and also to the table in /_sujjvM3E . to discuss tomorrow!\",\"userId\":1119613},{\"authorEmail\":\"math4wisdom@gmail.com\",\"authorName\":\"Andrius Kulikauskas\",\"commentUri\":\"comments/i-AZm6ktQ63u\",\"createdAt\":1738610876.57,\"reactions\":[],\"text\":\"Thank you, Daniel!  Your questions and notes are helpful. I look forward to talking with you!\",\"userId\":2953483}],\"pageUri\":\"pages/section-wfKcH1F8iL\",\"reference\":{\"type\":\"text\",\"text\":\"?\"},\"state\":\"Active\",\"threadUri\":\"threads/r-sv3uJrswR3\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

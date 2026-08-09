@@ -1,0 +1,196 @@
+{
+  "descriptor": {
+    "canvasUri": "canvases/canvas-p-8HV-LOe1",
+    "columns": [
+      {
+        "columnId": "c-FON6kSNmzf",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Hypothesis Category"
+      },
+      {
+        "columnId": "c-aYByxfVxT6",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Experiment Design"
+      },
+      {
+        "columnId": "c-_gs3OmAooH",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Unique Predictions"
+      },
+      {
+        "columnId": "c-qSuiLZRNAl",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Competing Accounts"
+      },
+      {
+        "columnId": "c-vI_HHxdUb6",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Key Metrics"
+      }
+    ],
+    "name": "Copy 2 of Testable Hypotheses for ECONET-ACTION",
+    "pageUri": "pages/section-OJTyxu39sp",
+    "rowCount": 5,
+    "tableUri": "tables/grid-CdcnU1tctK",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-p-8HV-LOe1",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [
+          "c-FON6kSNmzf",
+          "c-aYByxfVxT6",
+          "c-_gs3OmAooH",
+          "c-qSuiLZRNAl",
+          "c-vI_HHxdUb6"
+        ],
+        "name": "Default",
+        "orderedColumnIds": [],
+        "pageUri": "pages/section-OJTyxu39sp",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-OJTyxu39sp/tables/grid-CdcnU1tctK",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-OJTyxu39sp/tables/grid-CdcnU1tctK/views/default"
+      }
+    ]
+  },
+  "schema": {
+    "canvasUri": "canvases/canvas-p-8HV-LOe1",
+    "columns": [
+      {
+        "columnId": "c-FON6kSNmzf",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Hypothesis Category"
+      },
+      {
+        "columnId": "c-aYByxfVxT6",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Experiment Design"
+      },
+      {
+        "columnId": "c-_gs3OmAooH",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Unique Predictions"
+      },
+      {
+        "columnId": "c-qSuiLZRNAl",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Competing Accounts"
+      },
+      {
+        "columnId": "c-vI_HHxdUb6",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Key Metrics"
+      }
+    ],
+    "name": "Copy 2 of Testable Hypotheses for ECONET-ACTION",
+    "pageUri": "pages/section-OJTyxu39sp",
+    "rowCount": 5,
+    "tableUri": "tables/grid-CdcnU1tctK",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-p-8HV-LOe1",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [
+          "c-FON6kSNmzf",
+          "c-aYByxfVxT6",
+          "c-_gs3OmAooH",
+          "c-qSuiLZRNAl",
+          "c-vI_HHxdUb6"
+        ],
+        "name": "Default",
+        "orderedColumnIds": [],
+        "pageUri": "pages/section-OJTyxu39sp",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-OJTyxu39sp/tables/grid-CdcnU1tctK",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-OJTyxu39sp/tables/grid-CdcnU1tctK/views/default"
+      }
+    ]
+  },
+  "sourcePages": [
+    "section-OJTyxu39sp"
+  ],
+  "uri": "superhuman://docs/0SvdI3KSto/tables/grid-CdcnU1tctK"
+}

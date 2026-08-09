@@ -1,0 +1,574 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-sEoh_FCkiT",
+      "commentThreads": [],
+      "content": "\n\n\n\nUse [https://coda.io/d/_d0SvdI3KSto/_sugYI5Ax](https://coda.io/d/_d0SvdI3KSto/_sugYI5Ax) to ask for improvements on [https://coda.io/d/_d0SvdI3KSto/_suWmM2DK](https://coda.io/d/_d0SvdI3KSto/_suWmM2DK) or anything else. \n\nWe can do things like improve the For: and From: columns, so people have have filtered views of messages just from/to them. \n\n<columns>\n\n\nMessages table\n\n\n\n|||\n\nView of Messages table\n</columns>\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "canvasUri": "canvases/canvas-sEoh_FCkiT",
+          "controlUri": "controls/ctrl-WkywI3nX4Q",
+          "name": "button 3",
+          "pageUri": "pages/section-sEoh_FCkiT",
+          "type": "button",
+          "value": ""
+        }
+      ],
+      "formulas": [],
+      "pageUri": "pages/section-sEoh_FCkiT",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-sEoh_FCkiT",
+          "columns": [
+            {
+              "columnId": "c-lah4DWRcgv",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Short memo"
+            },
+            {
+              "columnId": "c-JJB31c6afj",
+              "description": null,
+              "error": null,
+              "format": {
+                "format": "DEFAULT",
+                "type": "dp"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Date"
+            },
+            {
+              "columnId": "c-mEoOyfTdag",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-qwTZUA8IkS",
+              "description": null,
+              "error": null,
+              "format": {
+                "multiple": true,
+                "selectOptions": [
+                  "Request",
+                  "Email draft"
+                ],
+                "type": "sl"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Message tags"
+            },
+            {
+              "columnId": "c-6IEUbOFfMR",
+              "description": null,
+              "error": null,
+              "format": {
+                "displayType": "Check",
+                "type": "check"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Request complete?"
+            },
+            {
+              "columnId": "c-SbMepMyZ_0",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "From"
+            }
+          ],
+          "name": "Messages table",
+          "pageUri": "pages/section-sEoh_FCkiT",
+          "rowCount": 10,
+          "tableUri": "tables/grid-t31WvC1S1m",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-sEoh_FCkiT",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-6IEUbOFfMR"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-lah4DWRcgv",
+                "c-JJB31c6afj",
+                "c-mEoOyfTdag",
+                "c-qwTZUA8IkS",
+                "c-SbMepMyZ_0"
+              ],
+              "pageUri": "pages/section-sEoh_FCkiT",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-sEoh_FCkiT/tables/grid-t31WvC1S1m",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-sEoh_FCkiT/tables/grid-t31WvC1S1m/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-sEoh_FCkiT",
+          "columns": [
+            {
+              "columnId": "c-lah4DWRcgv",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Short memo"
+            },
+            {
+              "columnId": "c-JJB31c6afj",
+              "description": null,
+              "error": null,
+              "format": {
+                "format": "DEFAULT",
+                "type": "dp"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Date"
+            },
+            {
+              "columnId": "c-mEoOyfTdag",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-qwTZUA8IkS",
+              "description": null,
+              "error": null,
+              "format": {
+                "multiple": true,
+                "selectOptions": [
+                  "Request",
+                  "Email draft"
+                ],
+                "type": "sl"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Message tags"
+            },
+            {
+              "columnId": "c-6IEUbOFfMR",
+              "description": null,
+              "error": null,
+              "format": {
+                "displayType": "Check",
+                "type": "check"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Request complete?"
+            },
+            {
+              "columnId": "c-SbMepMyZ_0",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "From"
+            }
+          ],
+          "name": "View of Messages table",
+          "pageUri": "pages/section-sEoh_FCkiT",
+          "rowCount": 10,
+          "sourceTableUri": "tables/grid-t31WvC1S1m",
+          "tableUri": "pages/section-sEoh_FCkiT/tables/table-eA0A0cSIdo",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-sEoh_FCkiT",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-6IEUbOFfMR"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-lah4DWRcgv",
+                "c-JJB31c6afj",
+                "c-mEoOyfTdag",
+                "c-qwTZUA8IkS",
+                "c-SbMepMyZ_0"
+              ],
+              "pageUri": "pages/section-sEoh_FCkiT",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-sEoh_FCkiT/tables/table-eA0A0cSIdo",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-sEoh_FCkiT/tables/table-eA0A0cSIdo/views/default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "canvasUri": "canvases/canvas-sEoh_FCkiT",
+      "commentThreads": [],
+      "content": "",
+      "controls": [
+        {
+          "canvasUri": "canvases/canvas-sEoh_FCkiT",
+          "controlUri": "controls/ctrl-WkywI3nX4Q",
+          "name": "button 3",
+          "pageUri": "pages/section-sEoh_FCkiT",
+          "type": "button",
+          "value": ""
+        }
+      ],
+      "formulas": [],
+      "pageUri": "pages/section-sEoh_FCkiT",
+      "tables": [
+        {
+          "canvasUri": "canvases/canvas-sEoh_FCkiT",
+          "columns": [
+            {
+              "columnId": "c-lah4DWRcgv",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Short memo"
+            },
+            {
+              "columnId": "c-JJB31c6afj",
+              "description": null,
+              "error": null,
+              "format": {
+                "format": "DEFAULT",
+                "type": "dp"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Date"
+            },
+            {
+              "columnId": "c-mEoOyfTdag",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-qwTZUA8IkS",
+              "description": null,
+              "error": null,
+              "format": {
+                "multiple": true,
+                "selectOptions": [
+                  "Request",
+                  "Email draft"
+                ],
+                "type": "sl"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Message tags"
+            },
+            {
+              "columnId": "c-6IEUbOFfMR",
+              "description": null,
+              "error": null,
+              "format": {
+                "displayType": "Check",
+                "type": "check"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Request complete?"
+            },
+            {
+              "columnId": "c-SbMepMyZ_0",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "From"
+            }
+          ],
+          "name": "Messages table",
+          "pageUri": "pages/section-sEoh_FCkiT",
+          "rowCount": 10,
+          "tableUri": "tables/grid-t31WvC1S1m",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-sEoh_FCkiT",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-6IEUbOFfMR"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-lah4DWRcgv",
+                "c-JJB31c6afj",
+                "c-mEoOyfTdag",
+                "c-qwTZUA8IkS",
+                "c-SbMepMyZ_0"
+              ],
+              "pageUri": "pages/section-sEoh_FCkiT",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-sEoh_FCkiT/tables/grid-t31WvC1S1m",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-sEoh_FCkiT/tables/grid-t31WvC1S1m/views/default"
+            }
+          ]
+        },
+        {
+          "canvasUri": "canvases/canvas-sEoh_FCkiT",
+          "columns": [
+            {
+              "columnId": "c-lah4DWRcgv",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": true,
+              "isWritable": true,
+              "name": "Short memo"
+            },
+            {
+              "columnId": "c-JJB31c6afj",
+              "description": null,
+              "error": null,
+              "format": {
+                "format": "DEFAULT",
+                "type": "dp"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Date"
+            },
+            {
+              "columnId": "c-mEoOyfTdag",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "canvas"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Notes"
+            },
+            {
+              "columnId": "c-qwTZUA8IkS",
+              "description": null,
+              "error": null,
+              "format": {
+                "multiple": true,
+                "selectOptions": [
+                  "Request",
+                  "Email draft"
+                ],
+                "type": "sl"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Message tags"
+            },
+            {
+              "columnId": "c-6IEUbOFfMR",
+              "description": null,
+              "error": null,
+              "format": {
+                "displayType": "Check",
+                "type": "check"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "Request complete?"
+            },
+            {
+              "columnId": "c-SbMepMyZ_0",
+              "description": null,
+              "error": null,
+              "format": {
+                "type": "none"
+              },
+              "formula": null,
+              "isDisplayColumn": false,
+              "isWritable": true,
+              "name": "From"
+            }
+          ],
+          "name": "View of Messages table",
+          "pageUri": "pages/section-sEoh_FCkiT",
+          "rowCount": 10,
+          "sourceTableUri": "tables/grid-t31WvC1S1m",
+          "tableUri": "pages/section-sEoh_FCkiT/tables/table-eA0A0cSIdo",
+          "views": [
+            {
+              "canvasUri": "canvases/canvas-sEoh_FCkiT",
+              "conditionalFormats": [],
+              "filterFormula": null,
+              "groups": {
+                "left": [],
+                "top": []
+              },
+              "hiddenColumnIds": [
+                "c-6IEUbOFfMR"
+              ],
+              "name": "Default",
+              "orderedColumnIds": [
+                "c-lah4DWRcgv",
+                "c-JJB31c6afj",
+                "c-mEoOyfTdag",
+                "c-qwTZUA8IkS",
+                "c-SbMepMyZ_0"
+              ],
+              "pageUri": "pages/section-sEoh_FCkiT",
+              "personalFilterColumns": [],
+              "sorts": [],
+              "tableUri": "pages/section-sEoh_FCkiT/tables/table-eA0A0cSIdo",
+              "viewLayout": "default grid",
+              "viewUri": "pages/section-sEoh_FCkiT/tables/table-eA0A0cSIdo/views/default"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-sEoh_FCkiT",
+    "canvasUri": "canvases/canvas-sEoh_FCkiT",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1713562310.902,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "new-message",
+    "isHidden": false,
+    "pageId": "section-sEoh_FCkiT",
+    "pageType": "canvas",
+    "pageUri": "pages/section-sEoh_FCkiT",
+    "parentPageUri": "pages/section-OBbGWmM2DK",
+    "position": 59,
+    "subtitle": "",
+    "title": "Experimental Messages Interface",
+    "updatedAt": 1748268032.444,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-sEoh_FCkiT",
+    "canvasUri": "canvases/canvas-sEoh_FCkiT",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1713562310.902,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "new-message",
+    "isHidden": false,
+    "pageId": "section-sEoh_FCkiT",
+    "pageType": "canvas",
+    "pageUri": "pages/section-sEoh_FCkiT",
+    "parentPageUri": "pages/section-OBbGWmM2DK",
+    "position": 59,
+    "subtitle": "",
+    "title": "Experimental Messages Interface",
+    "updatedAt": 1748268032.444,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

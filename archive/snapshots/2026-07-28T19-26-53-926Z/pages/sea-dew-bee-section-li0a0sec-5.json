@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-li0A0seC_5",
+      "commentThreads": [],
+      "content": "<columns>\n\n\n\n\n|||\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_suM-62GQ](https://coda.io/d/_d0SvdI3KSto/_suM-62GQ) \n\n\n\n\n\n\n\n\n\n\n</columns>",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-li0A0seC_5",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-li0A0seC_5",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-li0A0seC_5",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-li0A0seC_5",
+    "canvasUri": "canvases/canvas-li0A0seC_5",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1783101069.408,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "bee",
+    "isHidden": false,
+    "pageId": "section-li0A0seC_5",
+    "pageType": "canvas",
+    "pageUri": "pages/section-li0A0seC_5",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 304,
+    "subtitle": "",
+    "title": "Sea. Dew. Bee.",
+    "updatedAt": 1783435998.446,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-li0A0seC_5",
+    "canvasUri": "canvases/canvas-li0A0seC_5",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1783101069.408,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "bee",
+    "isHidden": false,
+    "pageId": "section-li0A0seC_5",
+    "pageType": "canvas",
+    "pageUri": "pages/section-li0A0seC_5",
+    "parentPageUri": "pages/section-M2XPmWz2XL",
+    "position": 304,
+    "subtitle": "",
+    "title": "Sea. Dew. Bee.",
+    "updatedAt": 1783435998.446,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

@@ -13,6 +13,7 @@
     "discover": "npm run build && node dist/src/cli.js discover",
     "dry-run": "npm run build && node dist/src/cli.js dry-run",
     "archive": "npm run build && node dist/src/cli.js archive",
+    "archive:rendered-images": "npm run build && node dist/src/rendered-images.js",
     "validate": "npm run build && node dist/src/cli.js validate"
   },
   "dependencies": {

@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-U93Hli3zvK"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-U93Hli3zvK\",\"canvasId\":\"canvas-U93Hli3zvK\",\"title\":\"Category Theory\",\"canvasUri\":\"canvases/canvas-U93Hli3zvK\",\"childPageOutlines\":[{\"pageId\":\"section-LIHHMFjDsx\",\"canvasId\":\"canvas-LIHHMFjDsx\",\"title\":\"ACT2Infer 2024\",\"canvasUri\":\"canvases/canvas-LIHHMFjDsx\",\"pageUri\":\"pages/section-LIHHMFjDsx\"},{\"pageId\":\"section-CK9rzOvYRR\",\"canvasId\":\"canvas-CK9rzOvYRR\",\"title\":\"Cultagory Theory\",\"canvasUri\":\"canvases/canvas-CK9rzOvYRR\",\"pageUri\":\"pages/section-CK9rzOvYRR\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-U93Hli3zvK\",\"parentPageUri\":\"pages/section-uRh_-YQoTU\",\"position\":47,\"icon\":\"category\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1713364363.321,\"updatedAt\":1763157822.074,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

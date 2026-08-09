@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-VVxywlf3Jt"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-VVxywlf3Jt\",\"canvasId\":\"canvas-VVxywlf3Jt\",\"title\":\"Communications\",\"canvasUri\":\"canvases/canvas-VVxywlf3Jt\",\"childPageOutlines\":[{\"pageId\":\"section-R-ws44bth2\",\"canvasId\":\"canvas-R-ws44bth2\",\"title\":\"Email writing\",\"canvasUri\":\"canvases/canvas-R-ws44bth2\",\"pageUri\":\"pages/section-R-ws44bth2\"},{\"pageId\":\"section-OBbGWmM2DK\",\"canvasId\":\"canvas-OBbGWmM2DK\",\"title\":\"Messages\",\"canvasUri\":\"canvases/canvas-OBbGWmM2DK\",\"pageUri\":\"pages/section-OBbGWmM2DK\"},{\"pageId\":\"section-TYjwgYI5Ax\",\"canvasId\":\"canvas-TYjwgYI5Ax\",\"title\":\"Requests\",\"canvasUri\":\"canvases/canvas-TYjwgYI5Ax\",\"pageUri\":\"pages/section-TYjwgYI5Ax\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-VVxywlf3Jt\",\"parentPageUri\":\"pages/section-OJTyxu39sp\",\"position\":2,\"icon\":\"adn\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1708215418.841,\"updatedAt\":1748267957.622,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

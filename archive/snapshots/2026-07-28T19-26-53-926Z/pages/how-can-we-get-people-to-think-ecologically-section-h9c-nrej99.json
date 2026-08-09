@@ -1,0 +1,154 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-h9c-nrEj99",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-h9c-nrEj99",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-688YraRFDQ",
+              "createdAt": 1717512149.19,
+              "reactions": [],
+              "text": "For adding some People, Resources, Questions, Ideas, ~",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-h9c-nrEj99",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-7NMhIgcXio"
+        }
+      ],
+      "content": "<formula id=\"f-PEuH4lXFG5\">Daniel Ari Friedman</formula> \n\n",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-h9c-nrEj99",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-h9c-nrEj99/formulas/f-PEuH4lXFG5",
+          "name": "##_hidden_control_## 17",
+          "pageUri": "pages/section-h9c-nrEj99",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-h9c-nrEj99",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-h9c-nrEj99",
+      "commentThreads": [
+        {
+          "canvasUri": "canvases/canvas-h9c-nrEj99",
+          "comments": [
+            {
+              "authorEmail": "danielarifriedman@gmail.com",
+              "authorName": "Daniel Ari Friedman",
+              "commentUri": "comments/i-688YraRFDQ",
+              "createdAt": 1717512149.19,
+              "reactions": [],
+              "text": "For adding some People, Resources, Questions, Ideas, ~",
+              "userId": 1119613
+            }
+          ],
+          "pageUri": "pages/section-h9c-nrEj99",
+          "reference": null,
+          "state": "Active",
+          "threadUri": "threads/r-7NMhIgcXio"
+        }
+      ],
+      "content": "",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-h9c-nrEj99",
+          "formula": "[Daniel Ari Friedman]",
+          "formulaUri": "canvases/canvas-h9c-nrEj99/formulas/f-PEuH4lXFG5",
+          "name": "##_hidden_control_## 17",
+          "pageUri": "pages/section-h9c-nrEj99",
+          "value": {
+            "identifier": "i-1119613",
+            "name": "Daniel Ari Friedman",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-h9c-nrEj99",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-h9c-nrEj99",
+    "canvasUri": "canvases/canvas-h9c-nrEj99",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1717512114.396,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "watering-can",
+    "isHidden": false,
+    "pageId": "section-h9c-nrEj99",
+    "pageType": "canvas",
+    "pageUri": "pages/section-h9c-nrEj99",
+    "parentPageUri": "pages/section-uSo6iw4kE2",
+    "position": 69,
+    "subtitle": "",
+    "title": "How can we get people to think Ecologically?",
+    "updatedAt": 1717512136.149,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-h9c-nrEj99",
+    "canvasUri": "canvases/canvas-h9c-nrEj99",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1717512114.396,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "watering-can",
+    "isHidden": false,
+    "pageId": "section-h9c-nrEj99",
+    "pageType": "canvas",
+    "pageUri": "pages/section-h9c-nrEj99",
+    "parentPageUri": "pages/section-uSo6iw4kE2",
+    "position": 69,
+    "subtitle": "",
+    "title": "How can we get people to think Ecologically?",
+    "updatedAt": 1717512136.149,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

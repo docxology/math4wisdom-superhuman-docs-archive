@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-Ld917eYUSQ"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-Ld917eYUSQ\",\"canvasId\":\"canvas-Ld917eYUSQ\",\"title\":\"Draft 8-6-2024 ~ Templeton\",\"canvasUri\":\"canvases/canvas-Ld917eYUSQ\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-Ld917eYUSQ\",\"parentPageUri\":\"pages/section-IY29lOwv--\",\"position\":82,\"icon\":\"back-to-draft\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":true,\"createdAt\":1722953530.874,\"updatedAt\":1722953542.625,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

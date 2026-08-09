@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-_3-J7NHO3P"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-_3-J7NHO3P\",\"canvasId\":\"canvas-_3-J7NHO3P\",\"title\":\"Museum Theory\",\"canvasUri\":\"canvases/canvas-_3-J7NHO3P\",\"childPageOutlines\":[],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-_3-J7NHO3P\",\"parentPageUri\":\"pages/section-EUd_fZveSi\",\"position\":241,\"icon\":\"museum\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1761839942.526,\"updatedAt\":1764463657.142,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":2527083,\"name\":\"Ryan Buchanan\",\"email\":\"rjbuchanan2000@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

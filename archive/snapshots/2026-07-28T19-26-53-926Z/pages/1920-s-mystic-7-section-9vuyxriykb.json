@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-9vUyXriYKB",
+      "commentThreads": [],
+      "content": "<columns>\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n[https://coda.io/d/_d0SvdI3KSto/_suWv4ae9](https://coda.io/d/_d0SvdI3KSto/_suWv4ae9) \n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-9vUyXriYKB",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-9vUyXriYKB",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-9vUyXriYKB",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-9vUyXriYKB",
+    "canvasUri": "canvases/canvas-9vUyXriYKB",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1748728686.021,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "treasure-chest",
+    "isHidden": false,
+    "pageId": "section-9vUyXriYKB",
+    "pageType": "canvas",
+    "pageUri": "pages/section-9vUyXriYKB",
+    "parentPageUri": "pages/section-LMsXkEMePc",
+    "position": 193,
+    "subtitle": "",
+    "title": "1920's Mystic 7",
+    "updatedAt": 1748729478.978,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-9vUyXriYKB",
+    "canvasUri": "canvases/canvas-9vUyXriYKB",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1748728686.021,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "treasure-chest",
+    "isHidden": false,
+    "pageId": "section-9vUyXriYKB",
+    "pageType": "canvas",
+    "pageUri": "pages/section-9vUyXriYKB",
+    "parentPageUri": "pages/section-LMsXkEMePc",
+    "position": 193,
+    "subtitle": "",
+    "title": "1920's Mystic 7",
+    "updatedAt": 1748729478.978,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

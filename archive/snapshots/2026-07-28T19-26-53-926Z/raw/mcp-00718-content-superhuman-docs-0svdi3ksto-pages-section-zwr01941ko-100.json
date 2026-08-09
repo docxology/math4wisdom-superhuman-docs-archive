@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-zWR01941KO"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-zWR01941KO\",\"pageUri\":\"pages/section-zWR01941KO\",\"content\":\"\",\"tables\":[],\"formulas\":[{\"formulaUri\":\"canvases/canvas-zWR01941KO/formulas/f-Uyv_7pJSTB\",\"name\":\"##_hidden_control_## 97\",\"canvasUri\":\"canvases/canvas-zWR01941KO\",\"pageUri\":\"pages/section-zWR01941KO\",\"value\":{\"FullName\":\"docxology/QuadCraft\",\"Name\":\"QuadCraft\",\"IsPrivate\":false,\"Owner\":{\"type\":\"obj\",\"value\":{\"Login\":\"docxology\",\"Avatar\":{\"type\":\"imageurlref\",\"url\":\"https://avatars.githubusercontent.com/u/6911384?v=4\",\"outline\":true},\"Url\":{\"type\":\"urlref\",\"url\":\"https://github.com/docxology\",\"name\":\"\"}}},\"Url\":{\"type\":\"urlref\",\"url\":\"https://github.com/docxology/QuadCraft\",\"name\":\"\"},\"Description\":\"MineCraft with Tetrahedra (Quadray coordinates)\",\"IsFork\":false,\"Created\":{\"type\":\"dt\",\"input\":\"3/19/2025 8:05:45 AM\",\"epoch\":1742396745},\"Modified\":{\"type\":\"dt\",\"input\":\"3/19/2025 2:51:39 PM\",\"epoch\":1742421099},\"LastPushed\":{\"type\":\"dt\",\"input\":\"3/19/2025 10:17:31 AM\",\"epoch\":1742404651},\"StarCount\":0,\"WatcherCount\":0,\"Language\":\"Makefile\",\"ForkCount\":0,\"OpenIssueCount\":0,\"SubscriberCount\":1},\"formula\":\"GitHubRepo(\\\"https://github.com/docxology/QuadCraft\\\", [])\"},{\"formulaUri\":\"canvases/canvas-zWR01941KO/formulas/f-jU5kuOAzEn\",\"name\":\"##_hidden_control_## 98\",\"canvasUri\":\"canvases/canvas-zWR01941KO\",\"pageUri\":\"pages/section-zWR01941KO\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1271333\",\"name\":\"kirby urner\"},\"formula\":\"[kirby urner]\"},{\"formulaUri\":\"canvases/canvas-zWR01941KO/formulas/f-kZGqS3mZhy\",\"name\":\"##_hidden_control_## 99\",\"canvasUri\":\"canvases/canvas-zWR01941KO\",\"pageUri\":\"pages/section-zWR01941KO\",\"value\":{\"type\":\"ref\",\"objectId\":\"Global-Document-People\",\"identifier\":\"i-1119613\",\"name\":\"Daniel Ari Friedman\"},\"formula\":\"[Daniel Ari Friedman]\"}],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

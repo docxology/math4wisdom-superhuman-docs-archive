@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-cGpHyv3r_A"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-cGpHyv3r_A\",\"canvasId\":\"canvas-cGpHyv3r_A\",\"title\":\"Dairy Intelligence\",\"canvasUri\":\"canvases/canvas-cGpHyv3r_A\",\"childPageOutlines\":[{\"pageId\":\"section--HOk4SCTvL\",\"canvasId\":\"canvas--HOk4SCTvL\",\"title\":\"Alexandre Dairy\",\"canvasUri\":\"canvases/canvas--HOk4SCTvL\",\"pageUri\":\"pages/section--HOk4SCTvL\"},{\"pageId\":\"section-Abje4PqpoQ\",\"canvasId\":\"canvas-Abje4PqpoQ\",\"title\":\"Rumiano Cheese\",\"canvasUri\":\"canvases/canvas-Abje4PqpoQ\",\"pageUri\":\"pages/section-Abje4PqpoQ\"},{\"pageId\":\"section-NgJZolEqCB\",\"canvasId\":\"canvas-NgJZolEqCB\",\"title\":\"The Milk Must Flow\",\"canvasUri\":\"canvases/canvas-NgJZolEqCB\",\"pageUri\":\"pages/section-NgJZolEqCB\"},{\"pageId\":\"section-xa-6EYfoRD\",\"canvasId\":\"canvas-xa-6EYfoRD\",\"title\":\"M(IL)K ULTRA\",\"canvasUri\":\"canvases/canvas-xa-6EYfoRD\",\"pageUri\":\"pages/section-xa-6EYfoRD\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-cGpHyv3r_A\",\"parentPageUri\":\"pages/section-qR8t6voMRD\",\"position\":222,\"icon\":\"artificial-intelligence\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1752101103.524,\"updatedAt\":1769383044.501,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

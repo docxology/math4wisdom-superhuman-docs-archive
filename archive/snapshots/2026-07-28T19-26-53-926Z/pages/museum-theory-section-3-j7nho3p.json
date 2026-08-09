@@ -1,0 +1,116 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-_3-J7NHO3P",
+      "commentThreads": [],
+      "content": "<formula id=\"f-QyVS2sIG59\">Ryan Buchanan</formula> if you would like to add information/links to [https://coda.io/d/_d0SvdI3KSto/_su7NHO3P](https://coda.io/d/_d0SvdI3KSto/_su7NHO3P) \n\n---\n\nBlog post:\n\n[https://polydactica.neocities.org/posts/2025-02-07-Towards-a-Theory-of-Organic-Museums.html](https://polydactica.neocities.org/posts/2025-02-07-Towards-a-Theory-of-Organic-Museums.html)\n\nPapers:\n\n[https://www.authorea.com/doi/full/10.22541/au.176168560.09832954](https://www.authorea.com/doi/full/10.22541/au.176168560.09832954)\n\n[https://philpapers.org/rec/BUCMTI](https://philpapers.org/rec/BUCMTI)\n\n[https://www.academia.edu/download/124729930/Multimodality.pdf](https://www.academia.edu/download/124729930/Multimodality.pdf)\n\n\n\n[under construction]",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-_3-J7NHO3P",
+          "formula": "[Ryan Buchanan]",
+          "formulaUri": "canvases/canvas-_3-J7NHO3P/formulas/f-QyVS2sIG59",
+          "name": "##_hidden_control_## 158",
+          "pageUri": "pages/section-_3-J7NHO3P",
+          "value": {
+            "identifier": "i-2527083",
+            "name": "Ryan Buchanan",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-_3-J7NHO3P",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-_3-J7NHO3P",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [
+        {
+          "canvasUri": "canvases/canvas-_3-J7NHO3P",
+          "formula": "[Ryan Buchanan]",
+          "formulaUri": "canvases/canvas-_3-J7NHO3P/formulas/f-QyVS2sIG59",
+          "name": "##_hidden_control_## 158",
+          "pageUri": "pages/section-_3-J7NHO3P",
+          "value": {
+            "identifier": "i-2527083",
+            "name": "Ryan Buchanan",
+            "objectId": "Global-Document-People",
+            "type": "ref"
+          }
+        }
+      ],
+      "pageUri": "pages/section-_3-J7NHO3P",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-_3-J7NHO3P",
+    "canvasUri": "canvases/canvas-_3-J7NHO3P",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1761839942.526,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "museum",
+    "isHidden": false,
+    "pageId": "section-_3-J7NHO3P",
+    "pageType": "canvas",
+    "pageUri": "pages/section-_3-J7NHO3P",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 241,
+    "subtitle": "",
+    "title": "Museum Theory",
+    "updatedAt": 1764463657.142,
+    "updatedBy": {
+      "email": "rjbuchanan2000@gmail.com",
+      "name": "Ryan Buchanan",
+      "userId": 2527083
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-_3-J7NHO3P",
+    "canvasUri": "canvases/canvas-_3-J7NHO3P",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1761839942.526,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "museum",
+    "isHidden": false,
+    "pageId": "section-_3-J7NHO3P",
+    "pageType": "canvas",
+    "pageUri": "pages/section-_3-J7NHO3P",
+    "parentPageUri": "pages/section-EUd_fZveSi",
+    "position": 241,
+    "subtitle": "",
+    "title": "Museum Theory",
+    "updatedAt": 1764463657.142,
+    "updatedBy": {
+      "email": "rjbuchanan2000@gmail.com",
+      "name": "Ryan Buchanan",
+      "userId": 2527083
+    }
+  }
+}

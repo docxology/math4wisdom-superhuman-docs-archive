@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 100,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-demPGpz_4O"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-demPGpz_4O\",\"pageUri\":\"pages/section-demPGpz_4O\",\"content\":\"\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[{\"canvasUri\":\"canvases/canvas-demPGpz_4O\",\"comments\":[],\"pageUri\":\"pages/section-demPGpz_4O\",\"reference\":null,\"state\":\"Resolved\",\"threadUri\":\"threads/r-gpqqXonOg2\"},{\"canvasUri\":\"canvases/canvas-demPGpz_4O\",\"comments\":[],\"pageUri\":\"pages/section-demPGpz_4O\",\"reference\":null,\"state\":\"Resolved\",\"threadUri\":\"threads/r-gmz9I6utEl\"},{\"canvasUri\":\"canvases/canvas-demPGpz_4O\",\"comments\":[{\"authorEmail\":\"danielarifriedman@gmail.com\",\"authorName\":\"Daniel Ari Friedman\",\"commentUri\":\"comments/i-Z58VTlwwuT\",\"createdAt\":1733263948.085,\"reactions\":[],\"text\":\"kirby urner , new /_suITdICd today haha. \",\"userId\":1119613}],\"pageUri\":\"pages/section-demPGpz_4O\",\"reference\":null,\"state\":\"Resolved\",\"threadUri\":\"threads/r-vv-NldkJar\"}]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-CUgBqxvphm",
+      "commentThreads": [],
+      "content": "<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>\n\n",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-CUgBqxvphm",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-CUgBqxvphm",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-CUgBqxvphm",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-CUgBqxvphm",
+    "canvasUri": "canvases/canvas-CUgBqxvphm",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1756171918.574,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "arryn-house",
+    "isHidden": false,
+    "pageId": "section-CUgBqxvphm",
+    "pageType": "canvas",
+    "pageUri": "pages/section-CUgBqxvphm",
+    "parentPageUri": "pages/section-uUbHYih-tF",
+    "position": 232,
+    "subtitle": "",
+    "title": "Crescent City Citizen's Better Blueberry Bureau (C3B3)",
+    "updatedAt": 1756218816.096,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-CUgBqxvphm",
+    "canvasUri": "canvases/canvas-CUgBqxvphm",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1756171918.574,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "arryn-house",
+    "isHidden": false,
+    "pageId": "section-CUgBqxvphm",
+    "pageType": "canvas",
+    "pageUri": "pages/section-CUgBqxvphm",
+    "parentPageUri": "pages/section-uUbHYih-tF",
+    "position": 232,
+    "subtitle": "",
+    "title": "Crescent City Citizen's Better Blueberry Bureau (C3B3)",
+    "updatedAt": 1756218816.096,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

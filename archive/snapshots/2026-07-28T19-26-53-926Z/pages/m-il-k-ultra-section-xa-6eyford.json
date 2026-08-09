@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-xa-6EYfoRD",
+      "commentThreads": [],
+      "content": "\n\n<columns>\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n[https://coda.io/d/_d0SvdI3KSto/_suyv3r_A](https://coda.io/d/_d0SvdI3KSto/_suyv3r_A) \n\n\n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n[https://coda.io/d/_d0SvdI3KSto/_sukEMePc](https://coda.io/d/_d0SvdI3KSto/_sukEMePc) \n\n\n\n\n\n\n\n\n\n\n\n|||\n\n\n\n\n\n\n\n\n\n\n\n\n</columns>",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-xa-6EYfoRD",
+      "tables": []
+    },
+    {
+      "canvasUri": "canvases/canvas-xa-6EYfoRD",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-xa-6EYfoRD",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-xa-6EYfoRD",
+    "canvasUri": "canvases/canvas-xa-6EYfoRD",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1766787940.33,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "milk-bottle",
+    "isHidden": false,
+    "pageId": "section-xa-6EYfoRD",
+    "pageType": "canvas",
+    "pageUri": "pages/section-xa-6EYfoRD",
+    "parentPageUri": "pages/section-cGpHyv3r_A",
+    "position": 265,
+    "subtitle": "",
+    "title": "M(IL)K ULTRA",
+    "updatedAt": 1777387330.845,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-xa-6EYfoRD",
+    "canvasUri": "canvases/canvas-xa-6EYfoRD",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1766787940.33,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "milk-bottle",
+    "isHidden": false,
+    "pageId": "section-xa-6EYfoRD",
+    "pageType": "canvas",
+    "pageUri": "pages/section-xa-6EYfoRD",
+    "parentPageUri": "pages/section-cGpHyv3r_A",
+    "position": 265,
+    "subtitle": "",
+    "title": "M(IL)K ULTRA",
+    "updatedAt": 1777387330.845,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

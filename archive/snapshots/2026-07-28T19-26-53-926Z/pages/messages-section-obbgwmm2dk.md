@@ -1,0 +1,58 @@
+# Messages
+
+Andrius: Please <formula id="f-6nFhKZgqOW">Daniel Ari Friedman</formula> could you create two pages:
+
+- Andrius First Mind Bike Trip [https://coda.io/d/_d0SvdI3KSto/_suNhhADW](https://coda.io/d/_d0SvdI3KSto/_suNhhADW) 
+
+- Andrius Applied Active Inference 2024 [https://coda.io/d/_d0SvdI3KSto/_suPtUBEr](https://coda.io/d/_d0SvdI3KSto/_suPtUBEr) 
+
+I want to work on my abstract at the latter page.  Thank you!  
+<formula id="f-9JTCEpMGVW">Andrius Kulikauskas</formula> I made these above, we can move them as needed ~ 
+
+
+
+
+
+
+
+
+
+**Earlier message**
+
+---
+
+---
+
+<formula id="f-oGVNu8H9Fz">Daniel Ari Friedman</formula> Andrius (July 8): I look forward to talking with you tomorrow. I am interested to talk about [my letter](https://www.freelists.org/post/math4wisdom/Reflecting-on-Math-4-Wisdom-and-Taking-a-Stand) and a vision you may have about knowledge engineering and knowledge math regarding Math 4 Wisdom, perhaps working together with Islam Hakim. I am also interested in how Wondrous Wisdom could be meaningful in bridging Active Inference with all manner of thinkers. I need to learn more about Active Inference myself.
+
+- Thank you <formula id="f-YQNcSDGCKY">Andrius Kulikauskas</formula>, added some comments for tomorrow [https://coda.io/d/_d0SvdI3KSto/_su0opxmi](https://coda.io/d/_d0SvdI3KSto/_su0opxmi). 
+
+<formula id="f-BoKqqW6Oop">Daniel Ari Friedman</formula> Andrius (June 12): I hope your travels are going well.  I am learning profound ideas from the lectures by Chris Fields on Physics as Information Processing.  In Lecture 1, at around [43:26](https://www.youtube.com/live/RpOrRw4EhTo?si=RtJO9K-bvv3zFyXk&t=2606), he talks about time, relative to an observer, as the number of bits across a boundary.  That reminded me of the foraging ants you and your advisor studied, how they tracked the number of interactions per time with other ants.  So I wanted to tell you that.
+
+Hello <formula id="f-Je0t82C4M4">Andrius Kulikauskas</formula>, thank you for the message. This is awesome to hear — totally agreed about the “*inferring time through counting discrete interactions*” concept of Chris Fields. The could-be forager in the nest lobby, is counting the (rate of) interactions with incoming foragers. Given my memory/history of interactions, it “*time to forage*”? That has been modeled in terms of a leaky integrator / excitable system. Lots of cool ways to go there, for example possible to include some of these quantum clock & emergent space-time geometries, into the [Active InferAnts](https://github.com/ActiveInferenceInstitute/ActiveInferAnts) package. 
+
+Other than this, I am having a great time in Washington DC at the [ISSS conference](https://www.isss.org/home/) and seeing other sights. When I get the pictures off my camera, I will share some here. 
+
+Looking forward to returning home & next interactions/works.
+
+Talk to you later,
+
+Daniel (June 12, 2024). 
+
+<formula id="f-Vztnw3Rf4-">Daniel Ari Friedman</formula> I look forward to talking with you tomorrow. I am curious what you would like to talk about.
+
+I have made great progress connecting Bott periodicity with the divisions of everything, perspectives, shifts in perspective, the three minds and so on.  I am wondering how to prepare an abstract about that so I look to your thoughts, in general, how I could connect to the academic community.
+
+I think it would be meaningful for me to learn active inference and translate Wondrous Wisdom into that language.  I appreciate your help with that.
+
+I linked to the ISSS conference from our news bar at [http://www.math](http://www.math)[4wisdom.com](4wisdom.com)  Good to see you heard and appreciated!
+
+A few days ago I noticed for the first time that my mysterious mound did indeed have tiny ants coming out of some its holes.
+
+https://www.math4wisdom.com/files/KupstoSkruzdes.jpg
+
+https://www.math4wisdom.com/files/KupstoSkruzdes.mp4
+
+https://www.math4wisdom.com/files/AndriusAntColony.jpg
+
+My forest ants are also doing well. Their nest is growing.  Andrius (June 17)

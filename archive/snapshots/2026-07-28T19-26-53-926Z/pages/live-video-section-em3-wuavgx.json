@@ -1,0 +1,79 @@
+{
+  "content": [
+    {
+      "canvasUri": "canvases/canvas-Em3-wuAVGx",
+      "commentThreads": [],
+      "content": "",
+      "controls": [],
+      "formulas": [],
+      "pageUri": "pages/section-Em3-wuAVGx",
+      "tables": []
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-Em3-wuAVGx",
+    "canvasUri": "canvases/canvas-Em3-wuAVGx",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1709134656.598,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "live-photos",
+    "isHidden": false,
+    "pageId": "section-Em3-wuAVGx",
+    "pageType": "canvas",
+    "pageUri": "pages/section-Em3-wuAVGx",
+    "parentPageUri": "pages/section-0w-9GCORpG",
+    "position": 31,
+    "subtitle": "",
+    "title": "Live Video",
+    "updatedAt": 1709134668.543,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  },
+  "outline": {
+    "authors": [
+      {
+        "name": "Daniel Ari Friedman"
+      }
+    ],
+    "canvasId": "canvas-Em3-wuAVGx",
+    "canvasUri": "canvases/canvas-Em3-wuAVGx",
+    "childPageOutlines": [],
+    "coverPhoto": null,
+    "createdAt": 1709134656.598,
+    "createdBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    },
+    "docUri": "superhuman://docs/0SvdI3KSto",
+    "icon": "live-photos",
+    "isHidden": false,
+    "pageId": "section-Em3-wuAVGx",
+    "pageType": "canvas",
+    "pageUri": "pages/section-Em3-wuAVGx",
+    "parentPageUri": "pages/section-0w-9GCORpG",
+    "position": 31,
+    "subtitle": "",
+    "title": "Live Video",
+    "updatedAt": 1709134668.543,
+    "updatedBy": {
+      "email": "danielarifriedman@gmail.com",
+      "name": "Daniel Ari Friedman",
+      "userId": 1119613
+    }
+  }
+}

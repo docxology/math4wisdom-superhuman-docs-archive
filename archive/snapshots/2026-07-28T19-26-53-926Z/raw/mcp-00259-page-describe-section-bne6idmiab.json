@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-bNe6IDMiaB"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-bNe6IDMiaB\",\"canvasId\":\"canvas-bNe6IDMiaB\",\"title\":\"Jefferson\",\"canvasUri\":\"canvases/canvas-bNe6IDMiaB\",\"childPageOutlines\":[{\"pageId\":\"section-BFi98I3yiH\",\"canvasId\":\"canvas-BFi98I3yiH\",\"title\":\"XX\",\"canvasUri\":\"canvases/canvas-BFi98I3yiH\",\"pageUri\":\"pages/section-BFi98I3yiH\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-bNe6IDMiaB\",\"parentPageUri\":\"pages/section-qR8t6voMRD\",\"position\":229,\"icon\":\"xbox-x\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1755121717.986,\"updatedAt\":1755280659.842,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

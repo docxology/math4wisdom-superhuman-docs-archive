@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-w4EQmNcV1g"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-w4EQmNcV1g\",\"canvasId\":\"canvas-w4EQmNcV1g\",\"title\":\"Oregon\",\"canvasUri\":\"canvases/canvas-w4EQmNcV1g\",\"childPageOutlines\":[{\"pageId\":\"section-d64JZEDBZG\",\"canvasId\":\"canvas-d64JZEDBZG\",\"title\":\"Oregon Fever\",\"canvasUri\":\"canvases/canvas-d64JZEDBZG\",\"pageUri\":\"pages/section-d64JZEDBZG\"},{\"pageId\":\"section-Lgm5FRcHo1\",\"canvasId\":\"canvas-Lgm5FRcHo1\",\"title\":\"Portland\",\"canvasUri\":\"canvases/canvas-Lgm5FRcHo1\",\"pageUri\":\"pages/section-Lgm5FRcHo1\"},{\"pageId\":\"section-583gQCOF6V\",\"canvasId\":\"canvas-583gQCOF6V\",\"title\":\"Gold Beach\",\"canvasUri\":\"canvases/canvas-583gQCOF6V\",\"pageUri\":\"pages/section-583gQCOF6V\"},{\"pageId\":\"section-Q9xVeyEylo\",\"canvasId\":\"canvas-Q9xVeyEylo\",\"title\":\"Port-Land\",\"canvasUri\":\"canvases/canvas-Q9xVeyEylo\",\"pageUri\":\"pages/section-Q9xVeyEylo\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-w4EQmNcV1g\",\"parentPageUri\":\"pages/section-qR8t6voMRD\",\"position\":236,\"icon\":\"oregon\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1760622810.322,\"updatedAt\":1761061272.796,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

@@ -1,0 +1,170 @@
+{
+  "descriptor": {
+    "canvasUri": "canvases/canvas-S2dtbpHvLx",
+    "columns": [
+      {
+        "columnId": "c-6ayaGrKZ98",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Name"
+      },
+      {
+        "columnId": "c-2881GQzL0r",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Column 2"
+      },
+      {
+        "columnId": "c-AvtC3iBoug",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Column 3"
+      },
+      {
+        "columnId": "c-VQsum-6fzi",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "canvas"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      }
+    ],
+    "name": "Chemistry. Ways of figuring things out.",
+    "pageUri": "pages/section-S2dtbpHvLx",
+    "rowCount": 3,
+    "tableUri": "tables/grid-fEceEiVhBF",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-S2dtbpHvLx",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-6ayaGrKZ98",
+          "c-2881GQzL0r",
+          "c-AvtC3iBoug",
+          "c-VQsum-6fzi"
+        ],
+        "pageUri": "pages/section-S2dtbpHvLx",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-S2dtbpHvLx/tables/grid-fEceEiVhBF",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-S2dtbpHvLx/tables/grid-fEceEiVhBF/views/default"
+      }
+    ]
+  },
+  "schema": {
+    "canvasUri": "canvases/canvas-S2dtbpHvLx",
+    "columns": [
+      {
+        "columnId": "c-6ayaGrKZ98",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": true,
+        "isWritable": true,
+        "name": "Name"
+      },
+      {
+        "columnId": "c-2881GQzL0r",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Column 2"
+      },
+      {
+        "columnId": "c-AvtC3iBoug",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "none"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Column 3"
+      },
+      {
+        "columnId": "c-VQsum-6fzi",
+        "description": null,
+        "error": null,
+        "format": {
+          "type": "canvas"
+        },
+        "formula": null,
+        "isDisplayColumn": false,
+        "isWritable": true,
+        "name": "Notes"
+      }
+    ],
+    "name": "Chemistry. Ways of figuring things out.",
+    "pageUri": "pages/section-S2dtbpHvLx",
+    "rowCount": 3,
+    "tableUri": "tables/grid-fEceEiVhBF",
+    "views": [
+      {
+        "canvasUri": "canvases/canvas-S2dtbpHvLx",
+        "conditionalFormats": [],
+        "filterFormula": null,
+        "groups": {
+          "left": [],
+          "top": []
+        },
+        "hiddenColumnIds": [],
+        "name": "Default",
+        "orderedColumnIds": [
+          "c-6ayaGrKZ98",
+          "c-2881GQzL0r",
+          "c-AvtC3iBoug",
+          "c-VQsum-6fzi"
+        ],
+        "pageUri": "pages/section-S2dtbpHvLx",
+        "personalFilterColumns": [],
+        "sorts": [],
+        "tableUri": "pages/section-S2dtbpHvLx/tables/grid-fEceEiVhBF",
+        "viewLayout": "default grid",
+        "viewUri": "pages/section-S2dtbpHvLx/tables/grid-fEceEiVhBF/views/default"
+      }
+    ]
+  },
+  "sourcePages": [
+    "section-S2dtbpHvLx"
+  ],
+  "uri": "superhuman://docs/0SvdI3KSto/tables/grid-fEceEiVhBF"
+}

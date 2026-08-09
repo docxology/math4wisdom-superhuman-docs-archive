@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section--FEr7Iyov4"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas--FEr7Iyov4\",\"pageUri\":\"pages/section--FEr7Iyov4\",\"content\":\"[https://coda.io/d/_d0SvdI3KSto/_suhVOaG1](https://coda.io/d/_d0SvdI3KSto/_suhVOaG1) & [https://coda.io/d/_d0SvdI3KSto/_sutA0e57](https://coda.io/d/_d0SvdI3KSto/_sutA0e57) \\n\\n<columns>\\n DIP HIM IN THE WATER\\n\\n\\n\\n\\n\\nROUZE UP O YOUNG MEN\\n\\n\\n\\n\\n\\n\\n\\nIn seed time, learn. \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\\"Exuberance is Beauty.\\\"\\n\\n\\n\\n\\n\\nIF THE FOOL WOULD PERSIST...\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\nI WILL NOT CEASE FROM MENTAL FIGHT.....\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\nThe Busy Bee has no time for Sorrow\\n\\n\\n\\n\\n\\nPrepare, prepare the iron helm of war\\n\\n\\n\\nThe road of excess leads to the palace of wisdom.\\n\\n\\n\\n\\n\\n\\n\\n\\\"Wisdom is sold in the desolate market where none come to buy.\\\"\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n\\n\\n\\n\\n---\\n\\n<columns>\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n</columns>\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

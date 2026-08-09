@@ -1,0 +1,23 @@
+{
+  "arguments": {
+    "contentTypesToInclude": [
+      "markdown",
+      "tables",
+      "formulas",
+      "controls",
+      "comments"
+    ],
+    "markdownBlockLimit": 100,
+    "markdownBlockOffset": 0,
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-A2FsRfidAo"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"content_read\",\"result\":{\"canvasUri\":\"canvases/canvas-A2FsRfidAo\",\"pageUri\":\"pages/section-A2FsRfidAo\",\"content\":\"<columns>\\n[DAF website page for USA OS](https://coda.io/d/DAF-Website_dt-6TzyMOs_/USA-OS_sul1V8uV)\\n\\nFor more [https://coda.io/d/_d0SvdI3KSto/_sumWz2XL](https://coda.io/d/_d0SvdI3KSto/_sumWz2XL) , see [https://coda.io/d/_d0SvdI3KSto/_suh7bzFa](https://coda.io/d/_d0SvdI3KSto/_suh7bzFa), [https://coda.io/d/_d0SvdI3KSto/_su6voMRD](https://coda.io/d/_d0SvdI3KSto/_su6voMRD)  etc... \\n\\n\\n\\n|||\\n\\nThe original [https://coda.io/d/_d0SvdI3KSto/_suRfidAo](https://coda.io/d/_d0SvdI3KSto/_suRfidAo) : [https://grunch.net/synergetics/usaos.html](https://grunch.net/synergetics/usaos.html) → \\n\\n — The original flag.gif →\\n\\n\\n\\n|||\\n\\n\\n\\n\\n</columns>\\n\\n---\\n\\n---\\n\\n---\\n\\n<columns>\\n## Undead Uncle Sam (Grateful Dead + Math)\\n\\n\\n\\n   \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n## More abstraction\\n\\n     \\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n## Symbolic with Hat\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n   \\n\\n\\n\\n|||\\n\\n## More symbolic\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\\n\\n---\\n\\n<columns>\\n\\n\\n|||\\n\\n\\n\\n|||\\n\\n\\n\\n|||\\n\\n\\n</columns>\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n---\\n\\n<columns>\\n[https://coda.io/d/_d0SvdI3KSto/_suWv4ae9](https://coda.io/d/_d0SvdI3KSto/_suWv4ae9) \\n\\n\\n\\n\\n\\n[https://coda.io/d/_d0SvdI3KSto/_sue_CQH-](https://coda.io/d/_d0SvdI3KSto/_sue_CQH-) \\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n|||\\n\\n\\n\\n\\n\\n\\n\\n\\n</columns>\",\"tables\":[],\"formulas\":[],\"controls\":[],\"commentThreads\":[]}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "content_read"
+}

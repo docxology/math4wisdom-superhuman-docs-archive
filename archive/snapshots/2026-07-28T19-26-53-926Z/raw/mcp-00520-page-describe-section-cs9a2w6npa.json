@@ -1,0 +1,14 @@
+{
+  "arguments": {
+    "uri": "superhuman://docs/0SvdI3KSto/pages/section-Cs9A2w6nPA"
+  },
+  "result": {
+    "content": [
+      {
+        "text": "{\"toolName\":\"page_describe\",\"result\":{\"pageId\":\"section-Cs9A2w6nPA\",\"canvasId\":\"canvas-Cs9A2w6nPA\",\"title\":\"Entomology\",\"canvasUri\":\"canvases/canvas-Cs9A2w6nPA\",\"childPageOutlines\":[{\"pageId\":\"section-bGQ4QfuNAT\",\"canvasId\":\"canvas-bGQ4QfuNAT\",\"title\":\"Wax or the Discovery of Television Among the Bees\",\"canvasUri\":\"canvases/canvas-bGQ4QfuNAT\",\"pageUri\":\"pages/section-bGQ4QfuNAT\"}],\"docUri\":\"superhuman://docs/0SvdI3KSto\",\"pageUri\":\"pages/section-Cs9A2w6nPA\",\"parentPageUri\":\"pages/section-zBChxYHdB8\",\"position\":52,\"icon\":\"bug\",\"subtitle\":\"\",\"authors\":[{\"name\":\"Daniel Ari Friedman\"}],\"coverPhoto\":null,\"pageType\":\"canvas\",\"isHidden\":false,\"createdAt\":1713372275.351,\"updatedAt\":1776953289.007,\"createdBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"},\"updatedBy\":{\"userId\":1119613,\"name\":\"Daniel Ari Friedman\",\"email\":\"danielarifriedman@gmail.com\"}}}",
+        "type": "text"
+      }
+    ]
+  },
+  "tool": "page_describe"
+}

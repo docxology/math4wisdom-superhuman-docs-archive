@@ -1,0 +1,53 @@
+[
+  {
+    "rowId": "i-Ax5kHr65PG",
+    "values": {
+      "c-SDzCRMgL5k": {
+        "value": "Neural firing patterns"
+      },
+      "c-TJzoh9nTZO": {
+        "value": "Interfacing directly with external material world (dirt, building, outside). "
+      },
+      "c-utzaZW8ES0": {
+        "value": "Flow/Interaction rate of nestmates"
+      },
+      "c-yGEjTzBX1x": {
+        "value": "Unconscious"
+      }
+    }
+  },
+  {
+    "rowId": "i-_fr58gXaw7",
+    "values": {
+      "c-SDzCRMgL5k": {
+        "value": "Neuro-Symbolic representation, Language game"
+      },
+      "c-TJzoh9nTZO": {
+        "value": "Semiotic extraction"
+      },
+      "c-utzaZW8ES0": {
+        "value": "(Queen & Retinue) Internal Pheromone distribution"
+      },
+      "c-yGEjTzBX1x": {
+        "value": "Conscious"
+      }
+    }
+  },
+  {
+    "rowId": "i-fkNLkT3shR",
+    "values": {
+      "c-SDzCRMgL5k": {
+        "value": "Basal ganglia? (Not that location is the key aspect). Map of the mind, Global workspace and the ways it can be broken up. Consciousness (and all 3 really) could operate on this map."
+      },
+      "c-TJzoh9nTZO": {
+        "value": "Balance M1 and M2"
+      },
+      "c-utzaZW8ES0": {
+        "value": "Nest maintainers, Tunnel building, they are externalizing the “map” (which becomes the Territory). "
+      },
+      "c-yGEjTzBX1x": {
+        "value": "Consciousness"
+      }
+    }
+  }
+]
