@@ -4,6 +4,5 @@ dist/
 .env.*
 !.env.example
 archive/.staging/
-archive/snapshots/*/.incomplete
 *.log
 .DS_Store

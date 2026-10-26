@@ -15,7 +15,7 @@ git status --short --branch
 git diff --check
 npm test
 npm run validate
-git add README.md IMAGE_COVERAGE.md docs archive scripts package.json
+git add -A
 git diff --cached --check
 git commit -m "Describe the archive maintenance change"
 git push origin HEAD:main

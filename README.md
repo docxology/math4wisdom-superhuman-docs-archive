@@ -45,7 +45,8 @@ The archive boundary is the document, its embedded tables/media, and images visi
 | `npm run dry-run` | Verify the MCP catalog can be mapped safely; writes no snapshot. |
 | `npm run archive` | Capture a new validated snapshot. |
 | `npm run validate [-- path]` | Verify the latest (or named) snapshot's structure and checksums. |
-| `npm run consolidate:images` | Prune UI/tiny image observations and deduplicate the rendered-image inventory. |
+| `npm run consolidate:images [-- capture.json output.json]` | Prune UI/tiny image observations and deduplicate a capture (or the published inventory) in place. |
+| `npm run archive:rendered-images -- capture.json` | Materialize the full PNG projection from a browser capture; needs a larger-volume workspace and refuses partial output. |
 | `npm test` | Run deterministic unit tests without a network or token. |
 
 ## Security and scope

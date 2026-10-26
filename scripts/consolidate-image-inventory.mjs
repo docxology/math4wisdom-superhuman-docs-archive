@@ -1,15 +1,11 @@
 #!/usr/bin/env node
 
-import { access, readFile, writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 
 const output = process.argv[3] ?? "archive/rendered-images/consolidated-inventory.json";
-const rawInput = process.argv[2] ?? "archive/rendered-images/2026-08-09-content-inventory/inventory.json";
-let input = rawInput;
-try {
-  await access(input);
-} catch {
-  input = output;
-}
+// Consolidate the named browser capture, or re-consolidate the published
+// inventory in place when no capture argument is given.
+const input = process.argv[2] ?? output;
 
 const inventory = JSON.parse(await readFile(input, "utf8"));
 if (!Array.isArray(inventory.instances)) {
