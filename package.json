@@ -18,7 +18,7 @@
     "validate": "npm run build && node dist/src/cli.js validate"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.30.0"
+    "@modelcontextprotocol/sdk": "1.32.0"
   },
   "devDependencies": {
     "@types/node": "26.1.2",
