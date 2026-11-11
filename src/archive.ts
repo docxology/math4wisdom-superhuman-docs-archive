@@ -81,7 +81,7 @@ class Transcript {
 }
 
 function createdAt(now: Date): string {
-  return now.toISOString().replace(/[:.]/g, "-").replace(/Z$/, "Z");
+  return now.toISOString().replace(/[:.]/g, "-");
 }
 
 async function writeJson(path: string, value: unknown): Promise<void> {

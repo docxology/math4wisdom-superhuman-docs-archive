@@ -38,7 +38,7 @@ type OutputAsset = {
 };
 
 function captureName(now = new Date()): string {
-  return now.toISOString().replace(/[:.]/g, "-").replace(/Z$/, "Z");
+  return now.toISOString().replace(/[:.]/g, "-");
 }
 
 function extension(asset: CapturedImage): string {
