@@ -31,4 +31,4 @@ snapshot/
 
 Media file names are SHA-256 hashes. Multiple document references to identical bytes use one file and retain their source URLs in the raw MCP transcript. Image magic bytes are checked when the content type makes a conflicting claim.
 
-`npm run validate` verifies paths, IDs, parent references, media digests, and all manifest file digests. It intentionally treats an incomplete or malformed snapshot as invalid rather than repairing it.
+`npm run validate` checks the required page and table files, unique page and table IDs, page parents, media digests, and each listed file digest. The current validator does not separately compare recorded byte counts or enumerate extra unlisted files. It reports failed checks without repairing the snapshot.

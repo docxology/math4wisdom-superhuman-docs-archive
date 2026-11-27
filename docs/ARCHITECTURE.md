@@ -17,7 +17,7 @@ archive/
 │   ├── pages/                    # one JSON result and one Markdown view per page
 │   ├── tables/                   # schema, rows.json, and lossless rows.csv
 │   ├── raw/                      # original successful MCP responses
-│   └── media/                    # MCP-emitted media, content addressed by SHA-256
+│   └── assets/                    # MCP-emitted media, content addressed by SHA-256
 └── rendered-images/
     └── consolidated-inventory.json
 ```

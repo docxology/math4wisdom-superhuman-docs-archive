@@ -15,7 +15,7 @@ Node 22 or newer. TypeScript, ESM.
 ## Commands
 
 ```bash
-npm install
+npm ci
 npm run build     # tsc --project tsconfig.json
 npm test          # build, then node --test dist/test/*.test.js
 npm run validate  # verify an archive against its own format
@@ -25,20 +25,20 @@ npm run discover  # enumerate what the endpoint offers
 ```
 
 `npm run archive:rendered-images` and `npm run consolidate:images` handle the image side of
-the corpus; `IMAGE_COVERAGE.md` records how images are accounted for.
+the corpus; `docs/IMAGE_COVERAGE.md` records how images are accounted for.
 
 ## Layout
 
 | Path | Role |
 |---|---|
-| `src/` | TypeScript sources, including `cli.js` behind every `npm run` entry |
+| `src/` | TypeScript sources, including the main `cli.ts` and the rendered-image entry point |
 | `scripts/` | Standalone Node scripts not built by `tsc` |
 | `archive/` | Written snapshots |
 | `test/` | `node --test` suites |
 | `docs/` | Documentation |
-| `ARCHIVE_FORMAT.md` | **The specification for a snapshot.** Read it before changing anything that writes |
-| `BROWSER_AGENT_HANDOFF.md` | Notes for the browser-assisted path through documents the MCP endpoint cannot reach |
-| `IMAGE_COVERAGE.md` | How images are discovered, filtered and counted |
+| `docs/ARCHIVE_FORMAT.md` | **The specification for a snapshot.** Read it before changing anything that writes |
+| `docs/BROWSER_AGENT_HANDOFF.md` | Notes for the browser-assisted path through documents the MCP endpoint cannot reach |
+| `docs/IMAGE_COVERAGE.md` | How images are discovered, filtered and counted |
 
 ## Working here
 
@@ -48,7 +48,7 @@ the corpus; `IMAGE_COVERAGE.md` records how images are accounted for.
   as absent. Do not add a silent skip to make a run finish.
 - There is no CI workflow. `npm test` is the only gate, and it runs against `dist/`, so a change
   that does not build is not tested.
-- Read `ARCHIVE_FORMAT.md` before touching the writer, the manifest shape or the inventory, and
+- Read `docs/ARCHIVE_FORMAT.md` before touching the writer, the manifest shape or the inventory, and
   keep the document in step with the code.
 - Browser-driven retrieval is a fallback with its own handoff notes; keep it separate from the
   MCP path rather than merging the two.
