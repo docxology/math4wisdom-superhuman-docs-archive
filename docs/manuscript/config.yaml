@@ -1,0 +1,16 @@
+paper:
+  title: "Archiving and Verifying the Math4Wisdom Document"
+  subtitle: "Structured capture, checksum verification, and rendered-image inventory"
+  version: "0.1.0"
+
+metadata:
+  language: en
+  documentclass: article
+
+render:
+  formats:
+    pdf: true
+    html: true
+    slides: false
+    docx: false
+    epub: false

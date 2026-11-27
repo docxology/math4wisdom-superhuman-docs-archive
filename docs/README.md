@@ -4,11 +4,16 @@ This directory documents the public, read-only Math4Wisdom archive and the workf
 
 ## Start here
 
+- [Archive format](ARCHIVE_FORMAT.md) — file layout and per-snapshot manifest.
 - [Architecture](ARCHITECTURE.md) — canonical snapshot, rendered-image inventory, and ownership of each artifact.
 - [Reproducing the archive](REPRODUCING.md) — safe MCP setup and a complete extraction run.
 - [Image inventory](IMAGE_INVENTORY.md) — rendering coverage, pruning rules, deduplication, and binary-image limitations.
 - [Validation](VALIDATION.md) — authoritative checks and what each check proves.
 - [Security and privacy](SECURITY.md) — token handling, read-only scope, and prohibited access.
+- [Rendered coverage receipt](IMAGE_COVERAGE.md) — retained page/occurrence counts.
+- [Connection handoff](BROWSER_AGENT_HANDOFF.md) — provisioning the official read-only MCP connection.
+- [Technical manuscript](manuscript/README.md) — capture method, verification evidence, and offline reader build.
+- [Review backlog](TODO.md) — recorded review scope.
 - [Maintenance](MAINTENANCE.md) — idempotent refreshes, review criteria, and publication procedure.
 
 ## Current published state

@@ -8,10 +8,16 @@ Run these from the repository root:
 git diff --check
 npm test
 npm run validate
-npm run consolidate:images
 ```
 
-`npm test` builds TypeScript and runs deterministic tests for snapshot creation, read-only tool selection, and checksum tamper detection. `npm run validate` verifies the canonical snapshot structure and every listed file digest. `npm run consolidate:images` verifies that the image inventory generator can be rerun deterministically.
+`npm test` builds TypeScript and runs deterministic tests for snapshot creation, read-only tool selection, and checksum tamper detection. `npm run validate` verifies the canonical snapshot structure and every listed file digest. For a candidate image-capture JSON, consolidate a local copy to a temporary destination and compare the outputs. The default consolidation command writes the tracked inventory path.
+
+The synthetic suite supplies a fake MCP client and deterministic PNG bytes.
+It exercises the same local writer and verifier used for full snapshots and
+checks refusal after modifying a captured file. With a sparse checkout, use
+the [manuscript receipt check](manuscript/README.md) to validate the retained
+manifest and image inventory aggregates. Full file-by-file verification
+requires the complete snapshot tree.
 
 ## Review checks
 
